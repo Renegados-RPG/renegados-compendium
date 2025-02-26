@@ -2,7 +2,8 @@
   "name": "renegados-compendium",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
   },
   "type": "module",
   "keywords": [],
@@ -11,5 +12,13 @@
   "description": "",
   "dependencies": {
     "@foundryvtt/foundryvtt-cli": "^1.0.4"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.4.3",
+    "prettier": "3.5.2"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
   }
 }

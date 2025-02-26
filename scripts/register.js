@@ -109,7 +109,7 @@ function fixExhaustion() {
     CONFIG.DND5E.conditionTypes.exhaustion.reduction =
       foundry.utils.mergeObject(
         CONFIG.DND5E.conditionTypes.exhaustion.reduction,
-        { speed: 1.5 }
+        { speed: 1.5 },
       );
   }
 }
@@ -315,7 +315,7 @@ export class Converters {
           unlinkedSpells: data.system.unlinkedSpells
             ? Converters.unlinkedSpells(
                 data.system.unlinkedSpells,
-                translation.unlinkedSpells
+                translation.unlinkedSpells,
               )
             : data.system.unlinkedSpells,
           description: {

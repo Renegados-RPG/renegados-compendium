@@ -116,10 +116,7 @@
       "system": "dnd5e"
     }
   ],
-  "esmodules": [
-    "scripts/register.js",
-    "scripts/xp-renegados.js"
-  ],
+  "esmodules": ["scripts/register.js", "scripts/xp-renegados.js"],
   "languages": [
     {
       "lang": "pt-BR",
