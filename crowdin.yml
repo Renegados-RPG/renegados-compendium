@@ -1,5 +1,5 @@
 files:
   - source: /lang/en/compendium/*.json
-    translation: /lang/%locale%/%original_file_name%
+    translation: /lang/%locale%/compendium/%original_file_name%
   - source: /lang/en/en.json
     translation: /lang/%locale%/%locale%.json
