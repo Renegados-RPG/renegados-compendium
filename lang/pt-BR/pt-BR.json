@@ -297,80 +297,80 @@
       }
     },
     "Action": {
-      "Create": "Create Advancement",
-      "Delete": "Delete Advancement",
-      "Duplicate": "Duplicate Advancement",
-      "Edit": "Edit Advancement",
-      "View": "View Advancement"
+      "Create": "Criar Avanço",
+      "Delete": "Excluir Avanço",
+      "Duplicate": "Duplicar Avanço",
+      "Edit": "Editar Avanço",
+      "View": "Ver Avanço"
     },
     "Config": {
-      "AnyLevel": "Any",
-      "Details": "Advancement Details"
+      "AnyLevel": "Qualquer",
+      "Details": "Detalhes do Avanço"
     },
     "HitPoints": {
       "Action": {
-        "Roll": "Roll {die}"
+        "Roll": "Rolar {die}"
       },
-      "Average": "Average",
-      "Hint": "Track the player's hit points for each level in the class.",
-      "MaxAtFirstLevel": "Max at 1st Level: <strong>{max}</strong>",
-      "Roll": "Roll {class} Hit Points",
-      "Starting": "Hit Points at 1st Level",
-      "TakeAverage": "Take Average",
-      "Title": "Hit Points",
+      "Average": "Média",
+      "Hint": "Acompanha os pontos de vida do jogador para cada nível na classe.",
+      "MaxAtFirstLevel": "Máximo no 1º nível: <strong>{max}</strong>",
+      "Roll": "Rolar Pontos de Vida de {class}",
+      "Starting": "Pontos de Vida no 1º Nível",
+      "TakeAverage": "Usar a Média",
+      "Title": "Pontos de Vida",
       "Warning": {
-        "Empty": "Hit points must be rolled or the average value must be taken.",
-        "Invalid": "Hit points must be a valid whole number."
+        "Empty": "Pontos de vida devem ser rolados ou o valor médio deve ser usado.",
+        "Invalid": "Os pontos de vida devem ser um número inteiro válido."
       }
     },
     "ItemChoice": {
-      "Choose": "choose {count}",
-      "Chosen": "Chosen: {current} of {max}",
-      "Details": "Choice Details",
-      "DropHint": "Drop Items here to add them to the list that can be chosen with this advancement.",
+      "Choose": "escolha {count}",
+      "Chosen": "Escolhido: {current} de {max}",
+      "Details": "Detalhes da Escolha",
+      "DropHint": "Arraste aqui os itens para adicioná-los à lista que possa ser escolhida com este avanço.",
       "FIELDS": {
         "allowDrops": {
-          "hint": "Allow players to be able to drop their own choices into this advancement.",
-          "label": "Allow Drops"
+          "hint": "Permitir que jogadores possam arrastar e soltar suas próprias escolhas nessa evolução.",
+          "label": "Permitir Arrastar e Soltar"
         },
         "choices": {
-          "hint": "Specify how many choices are allowed at each level.",
-          "label": "Choices",
+          "hint": "Defina quantas opções são permitidas em cada nível.",
+          "label": "Opções",
           "FIELDS": {
             "count": {
-              "label": "Count"
+              "label": "Quantidade"
             },
             "replacement": {
-              "label": "Allow Replacement"
+              "label": "Permitir Substituição"
             }
           }
         },
         "pool": {
-          "label": "Item Options"
+          "label": "Opções do Item"
         },
         "restriction": {
           "level": {
-            "Available": "Any Available Level",
-            "hint": "Only allow choices from spells of this level.",
-            "label": "Spell Level"
+            "Available": "Qualquer nível disponível",
+            "hint": "Permitir escolhas somente em feitiços deste nível.",
+            "label": "Nível de Magia"
           },
           "subtype": {
-            "label": "Subtype"
+            "label": "Subtipo"
           },
           "type": {
-            "label": "Type"
+            "label": "Tipo"
           }
         },
         "type": {
-          "Any": "Anything",
-          "hint": "Restrict what Item types can be chosen.",
-          "label": "Item Type"
+          "Any": "Qualquer",
+          "hint": "Restringir quais tipos de itens podem ser escolhidos.",
+          "label": "Tipo de Item"
         }
       },
-      "Hint": "Present the player with a choice of items (such as equipment, features, or spells) that they can choose for their character at one or more levels.",
+      "Hint": "Apresente ao jogador uma escolha de itens (como equipamentos, características ou magias) que eles podem escolher para seu personagem em um ou mais níveis.",
       "Replacement": {
-        "None": "No Replacement",
-        "Title": "replace"
+        "None": "Sem Substituição",
+        "Title": "substituir"
       },
       "Title": "Choose Items",
       "Warning": {
