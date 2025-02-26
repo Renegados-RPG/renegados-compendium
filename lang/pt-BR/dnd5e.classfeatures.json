@@ -1,46 +1,46 @@
 {
-  "label": "Class & Subclass Features (SRD)",
+  "label": "Classes e Características das Subclasses (SRD)",
   "folders": {
-    "Barbarian": "Barbarian",
-    "Barbarian Features": "Barbarian Features",
-    "Bard": "Bard",
-    "Bard Features": "Bard Features",
-    "Champion Features": "Champion Features",
-    "Circle of the Land Features": "Circle of the Land Features",
-    "Cleric": "Cleric",
-    "Cleric Features": "Cleric Features",
-    "College of Lore Features": "College of Lore Features",
-    "Draconic Bloodline Features": "Draconic Bloodline Features",
-    "Druid": "Druid",
-    "Druid Features": "Druid Features",
-    "Eldritch Invocations": "Eldritch Invocations",
-    "Fighter": "Fighter",
-    "Fighter Features": "Fighter Features",
-    "Fighting Styles": "Fighting Styles",
-    "Hunter Features": "Hunter Features",
-    "Life Domain Features": "Life Domain Features",
-    "Metamagic": "Metamagic",
-    "Monk": "Monk",
-    "Monk Features": "Monk Features",
-    "Oath of Devotion Features": "Oath of Devotion Features",
-    "Paladin": "Paladin",
-    "Paladin Features": "Paladin Features",
-    "Path of the Berserker Features": "Path of the Berserker Features",
-    "Ranger": "Ranger",
-    "Ranger Features": "Ranger Features",
-    "Rogue": "Rogue",
-    "Rogue Features": "Rogue Features",
-    "School of Evocation Features": "School of Evocation Features",
-    "Shared Features": "Shared Features",
-    "Sorcerer": "Sorcerer",
-    "Sorcerer Features": "Sorcerer Features",
-    "The Fiend Features": "The Fiend Features",
-    "Thief Features": "Thief Features",
-    "Warlock": "Warlock",
-    "Warlock Features": "Warlock Features",
-    "Way of the Open Hand Features": "Way of the Open Hand Features",
-    "Wizard": "Wizard",
-    "Wizard Features": "Wizard Features"
+    "Barbarian": "Bárbaro",
+    "Barbarian Features": "Características do Bárbaro",
+    "Bard": "Bardo",
+    "Bard Features": "Características do Bárbaro",
+    "Champion Features": "Características do Campeão",
+    "Circle of the Land Features": "Características do Círculo da Lua",
+    "Cleric": "Clérigo",
+    "Cleric Features": "Características do Clérigo",
+    "College of Lore Features": "Características do Colégio do Conhecimento",
+    "Draconic Bloodline Features": "Características da Origem Dracônica",
+    "Druid": "Druida",
+    "Druid Features": "Características do Druida",
+    "Eldritch Invocations": "Invocações Místicas",
+    "Fighter": "Guerreiro",
+    "Fighter Features": "Características do Guerreiro",
+    "Fighting Styles": "Estilos de Luta",
+    "Hunter Features": "Características do Caçador",
+    "Life Domain Features": "Características do Domínio da Vida",
+    "Metamagic": "Metamágica",
+    "Monk": "Monge",
+    "Monk Features": "Características do Monge",
+    "Oath of Devotion Features": "Características do Juramento da Devoção",
+    "Paladin": "Paladino",
+    "Paladin Features": "Características do Paladino",
+    "Path of the Berserker Features": "Características do Caminho do Furioso",
+    "Ranger": "Patrulheiro",
+    "Ranger Features": "Características do Patrulheiro",
+    "Rogue": "Ladino",
+    "Rogue Features": "Características do Ladino",
+    "School of Evocation Features": "Características da Escolad e Evocação",
+    "Shared Features": "Características Compartilhadas",
+    "Sorcerer": "Feiticeiro",
+    "Sorcerer Features": "Características do Feiticeiro",
+    "The Fiend Features": "Características do Corruptor",
+    "Thief Features": "Características do Ladrão",
+    "Warlock": "Bruxo",
+    "Warlock Features": "Características do Bruxo",
+    "Way of the Open Hand Features": "Características do Caminho da Mão Aberta",
+    "Wizard": "Mago",
+    "Wizard Features": "Características do Mago"
   },
   "entries": {
     "s0Cc2zcX0JzIgam5": {
@@ -68,8 +68,8 @@
       "description": "<p>At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.</p>"
     },
     "2fyuw7MiCnocDeAU": {
-      "name": "Agonizing Blast",
-      "description": "<p>When you cast @UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Eldritch Blast}, add your Charisma modifier to the damage it deals on a hit.</p>"
+      "name": "Explosão Agonizante",
+      "description": "<p>Quando você conjura @UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Rajada Mística}, adicione seu modificador de Carisma ao dano causado quando atingir.</p>"
     },
     "e0uTcFPpgxjIyUW9": {
       "name": "Arcane Recovery",
@@ -89,11 +89,11 @@
       "description": "<p>At 20th level, you can use your @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Wild Shape} an unlimited number of times.</p><p>Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell.</p><p>You gain this benefit in both your normal shape and your beast shape from Wild Shape.</p>"
     },
     "8YwPFv3UAPjWVDNf": {
-      "name": "Archery",
-      "description": "<p>You gain a +2 bonus to attack rolls you make with ranged weapons</p>",
+      "name": "Arquearia",
+      "description": "<p>Você ganha um bônus de +2 nas jogadas de ataque feitas com armas de combate à distância.</p>",
       "effects": {
         "Fighting Style: Archery": {
-          "name": "Fighting Style: Archery"
+          "name": "Estilo de Luta: Arquearia"
         }
       }
     },
@@ -126,8 +126,8 @@
       "description": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once).</p><p>You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p><section class=\"secret\" id=\"secret-eL25CzgN1MY7TpsR\"><p><strong>Foundry Note</strong></p><p>Recovery is set to long rest (for levels before @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Font of Inspiration} is gained). Please manually adjust as required.</p></section>"
     },
     "61kXR1sniXHjvN17": {
-      "name": "Beast Speech",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.aL1F8fvYLtNzUbKu]{Speak with Animals} at will, without expending a spell slot.</p>"
+      "name": "Idioma Bestial",
+      "description": "<p>Você pode conjurar @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{Speak with Animals}, à vontade, sem precisar gastar um espaço de magia.</p>"
     },
     "xvgPu1O57DgXCM86": {
       "name": "Beast Spells",
@@ -158,8 +158,8 @@
       "description": "<p>When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.</p>"
     },
     "68bYIOvx6rIqnlOW": {
-      "name": "Bonus Proficiency",
-      "description": "<p>When you choose this domain at 1st level, you gain proficiency with heavy armor.</p>"
+      "name": "Proficiência Adicional",
+      "description": "<p>Quando você escolhe este domínio no 1º nível, você ganha proficiência com armaduras pesadas.</p>"
     },
     "CFIYXDmbmSP8BXjN": {
       "name": "Book of Ancient Secrets",
@@ -178,8 +178,8 @@
       "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.l9Ju5KE7bbn3WpTm]{Hold Monster} at will - targeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p>"
     },
     "8M7uOPhbTxoxxJSo": {
-      "name": "Channel Divinity",
-      "description": "<p>Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.</p><p>When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.</p><section class=\"secret foundry-note\" id=\"secret-zMJG0jvMiZEEkLfI\"><p><strong>Foundry Note</strong></p><p>Use this to track all the various uses of Channel Divinity for the paladin.</p></section>"
+      "name": "Canalizar Divindade",
+      "description": "<p>Seu juramento permite que você canalize energia divina como fonte de efeitos mágicos. Cada opção do Canalizar Divindade fornecida pelo seu juramento explica como usá-la.</p><p>Quando você usa Canalizar Divindade, você escolhe qual opção usar. Você deve então terminar um descanso curto ou longo para usar o Canalizar Divindade novamente.</p><p>Alguns efeitos do Canalizar Divindade requerem testes de resistência. Quando você usa tal efeito desta classe, a CD é igual a sua salvaguarda de feitiço de paladino.</p><section class=\"secret foundry-note\" id=\"secret-zMJG0jvMiZEEkLfI\"><p><strong>Nota do Foundry</strong></p><p>Use isso para acompanhar todos os usos do Canalizar Divindade de paladino.</p></section>"
     },
     "YpiLQEKGalROn7iJ": {
       "name": "Channel Divinity",
@@ -225,8 +225,8 @@
       }
     },
     "5gx1O0sxK08awEO9": {
-      "name": "Colossus Slayer",
-      "description": "<p>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p>"
+      "name": "Assassino de Colossos",
+      "description": "<p>Sua tenacidade pode derrubar os mais poderosos oponentes. Quando você atinge uma criatura com um ataque com arma, a criatura sofre 1d8 de dano extra, se ela estiver abaixo do máximo de pontos de vida dela. Você só pode causar esse dano extra uma vez por turno.</p>"
     },
     "SEJmsjkEhdAZ90ki": {
       "name": "Countercharm",
@@ -238,15 +238,15 @@
       }
     },
     "01pcLg6PRu5zGrsb": {
-      "name": "Cunning Action",
-      "description": "<p>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.</p>"
+      "name": "Ação Ardilosa",
+      "description": "<p>A partir do 2º nível, seu pensamento rápido e agilidade faz você se mover e agir rapidamente. Você pode usar uma ação bônus durante cada um de seus turnos em combate. Esta ação pode ser usada somente para Disparada, Desengajar ou Esconder.</p>"
     },
     "5zPmHPQUne7RDfaU": {
-      "name": "Cutting Words",
-      "description": "<p>Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others.</p><p>When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Bardic Inspiraton}, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll.</p><p>You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.</p>",
+      "name": "Palavras de Interrupção",
+      "description": "<p>Também no 3° nível, você aprende como usar sua perspicácia para distrair, confundir e, de outras formas, atrapalhar a confiança e competência de outros. </p><p>Quando uma criatura que você pode ver a até 18 metros de você realizar uma jogada de ataque, um teste de habilidade ou uma jogada de dano, você pode usar sua reação para gastar um uso de @Compendium[dnd5e.classfeatures.EeGafsa17CapsH2j]{Bardic Inspiraton}, rolando o dado de Inspiração de Bardo e subtraindo o número rolado da rolagem da criatura. </p><p>Você escolhe usar essa característica depois da criatura fazer a rolagem, mas antes do Mestre determinar se a jogada de ataque ou teste de habilidade foi bem ou mal sucedido, ou antes da criatura causar dano. A criatura será imune se não puder ouvir ou se não puder ser enfeitiçada.</p>",
       "activities": {
         "utility": {
-          "condition": "Target must be able to hear you and not be immune to being Charmed."
+          "condition": "O alvo deve ser capaz de ouvir você e não ser imune a ser Encantado."
         }
       }
     },
@@ -284,25 +284,25 @@
       "description": "<p>Starting at 5th level, when an undead fails its saving throw against your @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Turn Undead} feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the table below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Cleric Level</strong></td>\n<td><strong>Destroys Undead of CR...</strong></td>\n</tr>\n<tr>\n<td>5th</td>\n<td>1/2 or lower</td>\n</tr>\n<tr>\n<td>8th</td>\n<td>1 or lower</td>\n</tr>\n<tr>\n<td>11th</td>\n<td>2 or lower</td>\n</tr>\n<tr>\n<td>14th</td>\n<td>3 or lower</td>\n</tr>\n<tr>\n<td>17th</td>\n<td>4 or lower</td>\n</tr>\n</tbody>\n</table>"
     },
     "3sN91lT1R3oxcDKd": {
-      "name": "Devil's Sight",
-      "description": "<p>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>",
+      "name": "Visão Diabólica",
+      "description": "<p>Você pode ver normalmente na escuridão, tanto mágica quanto normal, com um alcance de 36 metros.</p>",
       "effects": {
         "Devil's Sight": {
-          "name": "Devil's Sight"
+          "name": "Visão Diabólica"
         }
       }
     },
     "7D2EkLdISwShEDlN": {
-      "name": "Diamond Soul",
-      "description": "<p>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws. Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.</p>",
+      "name": "Alma de Diamante",
+      "description": "<p>A partir do 14° nível, sua maestria do chi concede a você proficiência em todos os testes de resistência. Além disso, toda vez que você realizar um teste de resistência e falha, você pode gastar 1 ponto de chi para jogar novamente e ficar com o segundo resultado.</p>",
       "activities": {
         "utility": {
-          "condition": "Whenever you make a saving throw and fail"
+          "condition": "Sempre que você faz um teste de resistência e falha"
         }
       },
       "effects": {
         "Diamond Soul": {
-          "name": "Diamond Soul"
+          "name": "Alma de Diamante"
         }
       }
     },
@@ -366,8 +366,8 @@
       "description": "<p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><table><thead><tr><td><strong>Dragon</strong></td><td><strong>Damage Type</strong></td></tr></thead><tbody><tr><td>Black</td><td>Acid</td></tr><tr><td>Blue</td><td>Lightning</td></tr><tr><td>Brass</td><td>Fire</td></tr><tr><td>Bronze</td><td>Lightning</td></tr><tr><td>Copper</td><td>Acid</td></tr><tr><td>Gold</td><td>Fire</td></tr><tr><td>Green</td><td>Poison</td></tr><tr><td>Red</td><td>Fire</td></tr><tr><td>Silver</td><td>Cold</td></tr><tr><td>White</td><td>Cold</td></tr></tbody></table><p>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p>"
     },
     "3647zjKSE9zFwOXc": {
-      "name": "Dragon Wings",
-      "description": "<p>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.</p><p>You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</p>"
+      "name": "Asas de Dragão",
+      "description": "<p>No 14° nível, você adquire a habilidade de brotar um par de asas de dragão das suas costas, ganhando deslocamento de voo igual ao seu deslocamento atual. Você pode criar essas asas com uma ação bônus, no seu turno. Elas duram até que você as dissipe, com uma ação bônus no seu turno.</p><p>Você não pode manifestar suas asas quando estiver vestindo uma armadura, a não ser que a armadura seja feita para acomodá- las, e roupas que não forem feitas para se acomodar às suas asas devem ser destruídas quando você manifestá-las.</p>"
     },
     "QBk1RsuTIEF4GEBC": {
       "name": "Dreadful Word",
@@ -391,12 +391,12 @@
       }
     },
     "8MlxM2nEfE3Q0EVk": {
-      "name": "Eldritch Invocations",
-      "description": "<p>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.</p>\n<p>At 2nd level, you gain two eldritch invocations of your choice. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column in the class table.</p>\n<p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.</p>\n<h5>Eldritch Invocations</h5>\n<p>If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.</p>\n<table><caption>Eldritch Invocations</caption>\n<thead>\n<tr>\n<td colspan=\"2\">Prerequisites</td>\n<td rowspan=\"2\">Invocation</td>\n</tr>\n<tr>\n<td>Class Level</td>\n<td>Other</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td rowspan=\"16\">2nd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Eldritch Blast}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.2fyuw7MiCnocDeAU]{Agonizing Blast}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.alUqO6c6OEKFQJdb]{Armor of Shadows}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.61kXR1sniXHjvN17]{Beast Speech}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.eNvpIaSnJUdF8fHl]{Beguiling Influence}</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.MYM908WLZ1lVvA1u]{Pact of the Tome}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.CFIYXDmbmSP8BXjN]{Book of Ancient Secrets}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.3sN91lT1R3oxcDKd]{Devil's Sight}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.bbUEsCPTLzbbwK6o]{Eldritch Sight}</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Eldritch Blast}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.r01WtcxTg4yTHm9m]{Eldritch Spear}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.lEZKbWaVrSljRa9n]{Eyes of the Rune Keeper}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.id0gmGvzNZBEdzbx]{Fiendish Vigor}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.65ReXU4ZWqcSs3Cm]{Gaze of Two Minds}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.MhJfdBl1B7PdU4oZ]{Mask of Many Faces}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.k5DU0mMuYVHejiqz]{Misty Visions}</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Eldritch Blast}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.rdBPd6CwqXT64iJM]{Repelling Blast}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.rhbwDZ9XNTmdkX2u]{Thief of Five Fates}</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.Ic1CSjvbWKudVUv9]{Pact of the Chain}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.k5M8gsl7MMcdjOjs]{Voice of the Chain Master}</td>\n</tr>\n<tr>\n<td rowspan=\"4\">5th</td>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.DjXi0IkCTbJx1gsp]{Mire the Mind}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.KfnUyjUWAk0bAAus]{One With Shadows}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.dTSV0xZMpY5CxkRk]{Sign of Ill Omen}</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.9dSSa68mIPoX2ezA]{Pact of the Blade}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.pJADgAxxefgcATWr]{Thirsting Blade}</td>\n</tr>\n<tr>\n<td rowspan=\"3\">7th</td>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.KygHql3cTj4IRrvZ]{Bewitching Whispers}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.QBk1RsuTIEF4GEBC]{Dreadful Word}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.Xa2MLUJGCReJ28B7]{Sculptor of Flesh}</td>\n</tr>\n<tr>\n<td rowspan=\"4\">9th</td>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.QEuH5TeBN4PPYT2g]{Ascendant Step}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.QnRKYXb2bXpnNd2k]{Minions of Chaos}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.8zciiglzEOZo7DDN]{Otherwordly Leap}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.gFjxo01hAN4c9hDG]{Whispers of the Grave}</td>\n</tr>\n<tr>\n<td>12th</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.9dSSa68mIPoX2ezA]{Pact of the Blade}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.zUIAzBnyt0NDvVXb]{Life Drinker}</td>\n</tr>\n<tr>\n<td rowspan=\"4\">15th</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.Ic1CSjvbWKudVUv9]{Pact of the Chain}</td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.Phy02H5x0TKHd7T3]{Chains of Carceri}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.lxfdjLer3uKjyZqU]{Master of Myriad Forms}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.zYIdNAjqRyhS6qWs]{Visions of Distant Realms}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@UUID[Compendium.dnd5e.classfeatures.Item.snsjxGfmzWfZR5Nh]{Witch Sight}</td>\n</tr>\n</tbody>\n</table>\n<section class=\"secret foundry-note\">\n<p><strong>Foundry Note</strong></p>\n<p>You can drag your choices onto your character sheet and it will automatically update.</p>\n</section>"
+      "name": "Invocações Místicas",
+      "description": "<p>No seu estudo do conhecimento oculto, você descobriu invocações místicas, fragmentos de conhecimento proibido que imbuem seu corpo com uma capacidade mágica permanente.</p>\n<p>No 2° nível você ganha duas invocações místicas à sua escolha. Ao alcançar determinados níveis de bruxo, você recebe invocações adicionais à sua escolha, conforme mostrado na coluna Invocações na tabela da classe.</p>\n<p>Além disso, ao avançar um nível nesta classe, você pode trocar uma das invocações que conhece por outra invocação que possa aprender nesse nível.</p>\n<h5>Invocações Místicas</h5>\n<p>Se uma invocação mística possui pré-requisitos, você precisa cumpri-los antes de aprendê-la. Você pode aprender uma invocação mística ao mesmo tempo em que adquire os pré-requisitos necessários para tanto. Um pré-requisito de nível se refere ao seu nível nesta classe.</p>\n<table><caption>Invocações Místicas</caption>\n<thead>\n<tr>\n<td colspan=\"2\">Pré-requisitos</td>\n<td rowspan=\"2\">Invocações</td>\n</tr>\n<tr>\n<td>Nível de Classe</td>\n<td>Outros</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td rowspan=\"16\">2°</td>\n<td>@Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Raio Místico}</td>\n<td>@Compendium[dnd5e.classfeatures.2fyuw7MiCnocDeAU]{Explosão Agonizante}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.alUqO6c6OEKFQJdb]{Armadura de Sombras}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.61kXR1sniXHjvN17]{Idioma Bestial}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.eNvpIaSnJUdF8fHl]{Influência Enganadora}</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.classfeatures.MYM908WLZ1lVvA1u]{Pacto do Tomo}</td>\n<td>@Compendium[dnd5e.classfeatures.CFIYXDmbmSP8BXjN]{Livro dos Segredos Antigos}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.3sN91lT1R3oxcDKd]{Visão Diabólica}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.bbUEsCPTLzbbwK6o]{Visão Mistica}</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Raio Místico}</td>\n<td>@Compendium[dnd5e.classfeatures.r01WtcxTg4yTHm9m]{Lança Mística}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.lEZKbWaVrSljRa9n]{Olhos do Protetor das Runas}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.id0gmGvzNZBEdzbx]{Vigor Ínfero}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.65ReXU4ZWqcSs3Cm]{Olhar de Duas Mentes}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.MhJfdBl1B7PdU4oZ]{Máscara das Muitas Faces}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.k5DU0mMuYVHejiqz]{Visões Nebulosas}</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.Z9p1vezIn95jw1Yw]{Raio Místico}</td>\n<td>@Compendium[dnd5e.classfeatures.rdBPd6CwqXT64iJM]{Explosão Repulsiva}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.rhbwDZ9XNTmdkX2u]{Ladrão dos Cinco Destinos}</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.classfeatures.Ic1CSjvbWKudVUv9]{Pacto da Corrente}</td>\n<td>@Compendium[dnd5e.classfeatures.k5M8gsl7MMcdjOjs]{Voz do Mestre das Correntes}</td>\n</tr>\n<tr>\n<td rowspan=\"4\">5°</td>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.DjXi0IkCTbJx1gsp]{Encharcar a Mente}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.KfnUyjUWAk0bAAus]{Uno com as Sombras}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.dTSV0xZMpY5CxkRk]{Sinal de Mau Agouro}</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.classfeatures.9dSSa68mIPoX2ezA]{Pacto da Lâmina}</td>\n<td>@Compendium[dnd5e.classfeatures.pJADgAxxefgcATWr]{Lâmina Sedenta}</td>\n</tr>\n<tr>\n<td rowspan=\"3\">7°</td>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.KygHql3cTj4IRrvZ]{Sussurros Sedutores}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.QBk1RsuTIEF4GEBC]{Vozes Pertubadoras}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.Xa2MLUJGCReJ28B7]{Escultor de Carne}</td>\n</tr>\n<tr>\n<td rowspan=\"4\">9°</td>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.QEuH5TeBN4PPYT2g]{Passo Ascendente}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.QnRKYXb2bXpnNd2k]{Lacaios do Caos}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.8zciiglzEOZo7DDN]{Salto Sobrenatural}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.gFjxo01hAN4c9hDG]{Lamento das Sepulturas}</td>\n</tr>\n<tr>\n<td>12°</td>\n<td>@Compendium[dnd5e.classfeatures.9dSSa68mIPoX2ezA]{Pacto da Lâmina}</td>\n<td>@Compendium[dnd5e.classfeatures.zUIAzBnyt0NDvVXb]{Sorvedouro de Vida}</td>\n</tr>\n<tr>\n<td rowspan=\"4\">15°</td>\n<td>@Compendium[dnd5e.classfeatures.Ic1CSjvbWKudVUv9]{Pacto da Corrente}</td>\n<td>@Compendium[dnd5e.classfeatures.Phy02H5x0TKHd7T3]{Correntes de Cárceri}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.lxfdjLer3uKjyZqU]{Mestre das Infindáveis Formas}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.zYIdNAjqRyhS6qWs]{Visões dos Reinos Distantes}</td>\n</tr>\n<tr>\n<td> </td>\n<td>@Compendium[dnd5e.classfeatures.snsjxGfmzWfZR5Nh]{Visão da Bruxa}</td>\n</tr>\n</tbody>\n</table>\n<section class=\"secret foundry-note\">\n<p><strong>Nota da Foundry</strong></p>\n<p>Você pode arrastar suas escolhas para sua ficha de personagem e ela será atualizada automaticamente.</p>\n</section>"
     },
     "0C04rwyvoknvFYiy": {
-      "name": "Eldritch Master",
-      "description": "<p>At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again.</p>"
+      "name": "Mestre Místico",
+      "description": "<p>No 20° nível, você pode recarregar sua reserva interior de poder místico quando suplicar ao seu patrono para recuperar espaços de magia gastos. Você pode gastar 1 minuto suplicando pela ajuda do seu patrono para recuperar todos os espaços de magia gastos da sua característica Magia de Pacto. Uma vez que você recuperou espaços de magia com essa característica, você deve terminar um descanso longo antes de fazê-lo novamente.</p>"
     },
     "bbUEsCPTLzbbwK6o": {
       "name": "Eldritch Sight",
@@ -420,11 +420,11 @@
       "description": "<p>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.</p>"
     },
     "7O85kj6uDEG5NzUE": {
-      "name": "Empowered Evocation",
-      "description": "<p>Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.</p><blockquote></blockquote>",
+      "name": "Evocação Potencializada",
+      "description": "<p>A partir do 10º nível, você pode adicionar seu modificador de Inteligência no resultado das jogadas de dano de qualquer magia de evocação de mago que você conjurar.</p><blockquote></blockquote>",
       "activities": {
         "damage": {
-          "chatFlavor": "The bonus to one damage roll:"
+          "chatFlavor": "O bônus para uma jogada de dano:"
         }
       }
     },
@@ -433,16 +433,16 @@
       "description": "<p>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p><p>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.</p>"
     },
     "3jwFt3hSqDswBlOH": {
-      "name": "Empty Body",
-      "description": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p>\n<p>Additionally, you can spend 8 ki points to cast the @UUID[Compendium.dnd5e.spells.Item.TIoadMIsUKD4edXi]{Astral Projection} spell, without needing material components. When you do so, you can't take any other creatures with you.</p>",
+      "name": "Corpo Vazio",
+      "description": "<p>A partir do 18° nível, você pode usar sua ação para gastar 4 pontos de ki e ficar invisível por 1 minuto. Durante esse tempo, você também adquire resistência a todos os danos, exceto dano de força.</p>\n<p>Além disso, você pode gastar 8 pontos de ki para conjurar a magia @UUID[Compendium.dnd5e.spells.Item.TIoadMIsUKD4edXi]{Projeção Astral}, sem precisar de componentes materiais. Quando o fizer, você não pode levar qualquer outra criatura com você.</p>",
       "activities": {
         "utility": {
-          "condition": "Also requires 4 ki points (or 8 for Astral Projection)."
+          "condition": "Também requer 4 pontos de ki (ou 8 para Projeção Astral)."
         }
       },
       "effects": {
         "Ki: Empty Body": {
-          "name": "Ki: Empty Body"
+          "name": "Ki: Corpo Vazio"
         }
       }
     },
@@ -459,16 +459,16 @@
       "description": "<p>When you are subjected to an effect, such as a red dragon's fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>"
     },
     "7uzJ2JkmsdRGLra3": {
-      "name": "Evocation Savant",
-      "description": "<p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.</p>"
+      "name": "Evocação Instruída",
+      "description": "<p>Quando você escolhe essa escola no 2º nível, o ouro e o tempo que você precisa gastar para copiar uma magia da escola de evocação em seu grimório é reduzido à metade.</p>"
     },
     "4IHsIcBhAVDt8QjY": {
-      "name": "Expanded Spell List",
-      "description": "<p>The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table><caption>Fiend Expanded Spells</caption><thead><tr><td><strong>Spell Level</strong></td><td><strong>Spells</strong></td></tr></thead><tbody><tr><td>1st</td><td>@UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Burning Hands}, @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Command}</td></tr><tr><td>2nd</td><td>@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{Blindness/Deafness}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Scorching Ray}</td></tr><tr><td>3rd</td><td>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Fireball}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Stinking Cloud}</td></tr><tr><td>4th</td><td>@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{Fire Shield}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Wall of Fire}</td></tr><tr><td>5th</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Flame Strike}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Hallow}</td></tr></tbody></table>"
+      "name": "Lista de Magia Expandida",
+      "description": "<p>O Corruptor permite que você escolha magias de uma lista expandida quando você for aprender magias de bruxo. As seguintes magias são adicionadas a sua lista de magias de bruxo.</p>\n<table border=\"1\"><caption>Magias Expandidas do Corruptor</caption>\n<thead>\n<tr>\n<td><strong>Nível de Magia</strong></td>\n<td><strong>Magias</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1º</td>\n<td>@Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{Burning Hands}, @Compendium[dnd5e.spells.arzCrMRgcNiQuh43]{Command}</td>\n</tr>\n<tr>\n<td>2º</td>\n<td>@Compendium[dnd5e.spells.zwGsAv6kmwzYGhh3]{Blindness/Deafness}, @Compendium[dnd5e.spells.7u2obDvuvtZBkTfq]{Scorching Ray}</td>\n</tr>\n<tr>\n<td>3º</td>\n<td>@Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Fireball}, @Compendium[dnd5e.spells.TwlD4PLcltv7Xh7j]{Stinking Cloud}</td>\n</tr>\n<tr>\n<td>4º</td>\n<td>@Compendium[dnd5e.spells.avD5XUtkBPQQR97c]{Fire Shield}, @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Wall of Fire}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@Compendium[dnd5e.spells.5e1xTohkzqFqbYH4]{Flame Strike}, @Compendium[dnd5e.spells.SLxA9QhrggTz0taU]{Hallow}</td>\n</tr>\n</tbody>\n</table>"
     },
     "3sYPftQKnbbVnHrh": {
-      "name": "Expertise",
-      "description": "<p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p><p>At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.</p>"
+      "name": "Especialização",
+      "description": "No 1º nível, você escolhe duas de suas perícias que seja proficiente, ou uma perícia que seja proficiente e ferramentas de ladrão. Seu bônus de proficiência é dobrado em qualquer teste de habilidade que fizer com elas.</p><p>No 6º nível, você pode escolher outras duas de suas proficiências (em perícias ou ferramentas de ladrão) para ganhar esse benefício.</p>"
     },
     "aQLg7BWdRnm4Hr9S": {
       "name": "Expertise",
@@ -479,8 +479,8 @@
       "description": "<p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.</p>"
     },
     "XogoBnFWmCAHXppo": {
-      "name": "Extra Attack",
-      "description": "<p>You can attack twice, instead of once, whenever you take the Attack action on your turn.</p>"
+      "name": "Ataque Extra",
+      "description": "<p>Você pode atacar duas vezes, em vez de uma, sempre que realizar a ação Atacar no seu turno.</p>"
     },
     "q9g1MLXuLZyxjQMg": {
       "name": "Extra Attack",
@@ -504,8 +504,8 @@
       }
     },
     "4Vpj9vCOB37GtXk6": {
-      "name": "Favored Enemy",
-      "description": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p><p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.</p><p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p><section class=\"secret foundry-note\" id=\"secret-2vKbF8oen9AQiV1L\"><p><strong>Foundry Note</strong></p><p>If you wish, manually edit this entry and make a note of your choices here:</p><ul><li><em>1st level</em></li><li><em>6th level</em></li><li><em>14th level</em></li></ul></section>"
+      "name": "Inimigo Favorito",
+      "description": "<p>A partir do 1° nível, você tem experiência significativa estudando, rastreando, caçando e, até mesmo, falando com certos tipos de inimigos.</p><p>Escolha um tipo de inimigo favorito: aberrações, bestas, celestiais, constructos, corruptores, dragões, elementais, fadas, gigantes, limos, monstruosidades, mortos-vivos ou plantas. Alternativamente, você pode escolher duas raças de humanoides (como gnolls e orcs) para seus inimigos favoritos.</p><p>Você tem vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus inimigos favoritos, assim como em testes de Inteligência para lembrar informações sobre eles.</p><p>Quando você adquire essa característica, você também aprende um idioma, à sua escolha, que seja falado pelos seus inimigos favoritos, se eles falarem algum.</p><p>Você escolhe um inimigo favorito adicional, assim como um idioma associado, no 6° e 14° nível. A medida que você ganha níveis, suas escolhas deverão refletir os tipos de monstros que você encontrou nas suas aventuras.</p><section class=\"secret foundry-note\" id=\"secret-2vKbF8oen9AQiV1L\"><p><strong>Nota do Foundry</strong></p><p>Se desejar, edite manualmente e anote suas escolhas aqui:</p><ul><li><em>1º nível</em></li><li><em>6º nível</em></li><li><em>14º nível</em></li></ul></section>"
     },
     "NlXslw4yAqmKZWtN": {
       "name": "Feral Instinct",
@@ -546,21 +546,21 @@
       "description": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options from the appropriate class list. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Archery}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defense}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Dueling}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p>"
     },
     "5MwNlVZK7m6VolOH": {
-      "name": "Flurry of Blows",
-      "description": "<p>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.</p>",
+      "name": "Rajada de Golpes",
+      "description": "<p>Imediatamente após você realizar a ação de Ataque no seu turno, você pode gastar 1 ponto de chi para realizar dois golpes desarmados com uma ação bônus.</p>",
       "activities": {
         "utility": {
-          "condition": "Comes immediately after taking the Attack action."
+          "condition": "Ocorre imediatamente após realizar a ação de Ataque."
         }
       }
     },
     "3CaP1vFHVR8LgHjx": {
-      "name": "Foe Slayer",
-      "description": "<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>"
+      "name": "Matador de Inimigos",
+      "description": "<p>No 20° nível, você se torna um caçador incomparável de inimigos. Uma vez em cada um dos seus turnos, você pode adicionar seu modificador de Sabedoria na jogada de ataque ou jogada de dano de um ataque que você faça contra um dos seus adversários favoritos. Você pode escolher usar essa característica antes ou depois da rolagem, mas antes de qualquer efeito da jogada ser aplicado.</p>"
     },
     "3VDZGs5Ug3hIE322": {
-      "name": "Font of Inspiration",
-      "description": "<p>Beginning when you reach 5th level, you regain all of your expended uses of @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Bardic Inspiraton} when you finish a short or long rest.</p><section class=\"secret foundry-note\" id=\"secret-2Ixwv0urEA2kot3D\"><p><strong>Foundry Note</strong></p><p>Bardic Inspiration is set to long rest recovery by default. Please edit to short rest upon reaching this level.</p></section>"
+      "name": "Fonte de Inspiração",
+      "description": "<p>Começando no momento em que você atinge o 5° nível, você recupera todos as utilizações gastas da sua @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiração Bárdica} quando você termina um descanso curto ou longo.</p><section class=\"secret foundry-note\" id=\"secret-2Ixwv0urEA2kot3D\"><p><strong>Nota do Foundry</strong></p><p>Por padrão, a Inspiração Bárdica é recuperada apenas após um descanso longo. Edite para descanso curto ao alcançar esse nível.</p></section>"
     },
     "LBKChJY5n02Afhnq": {
       "name": "Font of Magic",
@@ -579,11 +579,11 @@
       "description": "<p>Starting when you choose this path at 3rd level, you can go into a frenzy when you @UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{Rage}. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).</p>"
     },
     "65ReXU4ZWqcSs3Cm": {
-      "name": "Gaze of Two Minds",
-      "description": "<p>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</p>",
+      "name": "Olhar de Duas Mentes",
+      "description": "<p>Você pode usar sua ação para tocar um humanoide voluntário e perceber através do seus sentidos até o final do seu próximo turno. Conquanto que a criatura esteja no mesmo plano de existência que você, você pode usar sua ação nas rodadas subsequentes para manter a conexão, estendendo a duração até o início do seu próximo turno. Enquanto estiver percebendo através dos sentidos de outra criatura, você aproveita os benefícios de todos os sentidos especiais possuídos pela criatura e você fica cego e surdo ao que está a sua volta.</p>",
       "activities": {
         "utility": {
-          "condition": "Target must be a willing humanoid."
+          "condition": "O alvo deve ser um humanoide disposto."
         }
       }
     },
@@ -601,8 +601,8 @@
       "description": "<p><em>Prerequisite: Strength 13 or higher </em></p><p>You've developed the skills necessary to hold your own in close-quarters grappling.</p><p>You gain the following benefits:</p>\n<ul>\n<li>You have advantage on attack rolls against a creature you are grappling.</li>\n<li>You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.</li>\n</ul>"
     },
     "3Nc6u9pyStByuJsm": {
-      "name": "Great Weapon Fighting",
-      "description": "<p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>"
+      "name": "Combate com Armas Grandes",
+      "description": "<p>Quando você rolar um 1 ou um 2 num dado de dano de um ataque com arma corpo-a-corpo que você esteja empunhando com duas mãos, você pode rolar o dado novamente e usar a nova rolagem, mesmo que resulte em 1 ou 2. A arma deve ter a propriedade duas mãos ou versátil para ganhar esse benefício.</p>"
     },
     "tNG2qi9zhmXEkecA": {
       "name": "Heightened Spell",
@@ -647,8 +647,8 @@
       }
     },
     "653ZHbNcmm7ZGXbw": {
-      "name": "Indomitable",
-      "description": "<p>You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.</p><p>You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>"
+      "name": "Indomável",
+      "description": "<p>A partir do 9º nível, você pode jogar de novo um teste de resistência que falhou. Se o fizer, você deve usar o novo valor e não pode usar essa característica de novo antes de terminar um descanso longo.</p><p>Você pode usar esta característica duas vezes entre descansos longos quando chegar no 13º nível e três vezes entre descansos longos quando chegar no 17º nível.</p><p><em>**Foundry note: Observe que o limite padrão de usos definido é 1 por descanso longo. Ajuste manualmente caso for necessário.</em></p>"
     },
     "Q1exex5ALteprrPo": {
       "name": "Indomitable Might",
@@ -669,15 +669,15 @@
     },
     "10b6z2W1txNkrGP7": {
       "name": "Ki",
-      "description": "<p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level equals the number of ki points you have, so a 2nd level monk has 2 ki points, a 16th level monk has 16.</p><p>You can spend these points to fuel various ki features. You start knowing three such features: @UUID[Compendium.dnd5e.classfeatures.Item.5MwNlVZK7m6VolOH]{Flurry of Blows}, @UUID[Compendium.dnd5e.classfeatures.Item.TDglPcxIVEzvVSgK]{Patient Defense}, and @UUID[Compendium.dnd5e.classfeatures.Item.yrSFIGTaQOH2PFRI]{Step of the Wind}. You learn more ki features as you gain levels in this class.</p><p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.</p><p>Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:</p><p><em><strong>Ki save DC</strong> = 8 + your proficiency bonus + your Wisdom modifier</em></p><section class=\"secret foundry-note\" id=\"secret-gGH32momMmy9KjV3\"><p><strong>Foundry Note</strong></p><p>Use this to track all the various uses of ki for the monk.</p></section>"
+      "description": "<p>A partir do 2° nível, seu treinamento permitiu que você controlasse a energia mística do ki. Seu acesso a essa energia é representado por um número de pontos de ki. Seu nível de monge determina o número de pontos que você tem, como mostrado na coluna Pontos de Ki da tabela O Monge.</p><p>Você pode gastar esses pontos para abastecer várias características de Ki. Você começa conhecendo três dessas características: @UUID[Compendium.dnd5e.classfeatures.Item.5MwNlVZK7m6VolOH]{Rajada de Golpes}, @UUID[Compendium.dnd5e.classfeatures.Item.TDglPcxIVEzvVSgK]{Defesa Paciente} e @UUID[Compendium.dnd5e.classfeatures.Item.yrSFIGTaQOH2PFRI]{Passo do Vento}. Você aprende mais características de Ki à medida que adquire níveis nessa classe.You can spend these points to fuel various ki features.</p><p>Quando você gasta um ponto de Ki, ele se torna indisponível até você terminar um descanso curto ou longo, no fim deste, todos os pontos de Ki gastos volta para você. Você deve gastar, pelo menos, 30 minutos do descanso meditando para recuperar seus pontos de Ki.</p><p>Algumas das características de Ki requerem que seu alvo realize um teste de resistência para resistir ao efeito da característica. A CD do teste de resistência é calculada a seguir: </p><p><em><strong>CD de resistência de ki</strong> = 8 + bônus de proficiência + seu modificador de Sabedoria</em></p><section class=\"secret foundry-note\" id=\"secret-gGH32momMmy9KjV3\"><p><strong>Nota do Foundry</strong></p><p>Use isso para rastrear todos os vários usos do ki para o monge.</p></section>"
     },
     "7flZKruSSu6dHg6D": {
-      "name": "Ki-Empowered Strikes",
-      "description": "<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>"
+      "name": "Golpes De Ki",
+      "description": "<p>A partir do 6° nível, seus golpes desarmados contam como armas mágicas com o propósito de ultrapassar a resistência ou imunidade a ataque e danos não-mágicos.</p>"
     },
     "3FB25qKxmkmxcxuC": {
-      "name": "Land's Stride",
-      "description": "<p>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the @UUID[Compendium.dnd5e.spells.Item.gMrWeG8fMDPRFiVe]{Entangle} spell.</p>"
+      "name": "Passo da Terra",
+      "description": "<p>Começando no 8° nível, se mover através de terreno difícil não-mágico não lhe custa deslocamento adicional. Você também pode passar através de plantas não-mágicas sem ter seu deslocamento reduzido por elas e sem sofrer dano delas caso apresentem espinhos, acúleos ou perigo similar.</p><p>Além disso, você tem vantagem em testes de resistência contra plantas criadas ou manipuladas magicamente para impedir movimento, como as criadas pela magia @UUID[Compendium.dnd5e.spells.Item.gMrWeG8fMDPRFiVe]{Constrição}.</p>"
     },
     "C5fzaOBc6HxyOWRn": {
       "name": "Land's Stride",
@@ -725,8 +725,8 @@
       "description": "<p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zElYrOcCFFMhB6Xl]{Careful Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.DZpAa3LzMNBexbmX]{Distant Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.IWpe0Y9uAStHGiH1]{Empowered Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.tQxlKyAx9sgPrbgj]{Extended Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.tNG2qi9zhmXEkecA]{Heightened Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.nViGf6bZ6DQAJhkw]{Quickened Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.fXa0DMhoVLtbBu9l]{Subtle Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.Qb391hakCfmH4w8p]{Twinned Spell}</p>"
     },
     "0Jgf8fYY2ExwgQpN": {
-      "name": "Mindless Rage",
-      "description": "<p>Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your @UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{Rage}, the effect is suspended for the duration of the rage.</p>"
+      "name": "Fúria Inconsciente",
+      "description": "<p>A partir do 6° nível, você não pode ser enfeitiçado ou amedrontado enquanto estiver em fúria. Se você estava enfeitiçado ou amedrontado quando entrou em @UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{fúria}, o efeito é suspenso pela duração da fúria.</p>"
     },
     "QnRKYXb2bXpnNd2k": {
       "name": "Minions of Chaos",
@@ -745,8 +745,8 @@
       "description": "<p>When you reach 3rd level, you commit yourself to a monastic tradition, such as the Way of the Open Hand. Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>"
     },
     "7zlTRRXT1vWSBGjX": {
-      "name": "Multiattack",
-      "description": "<p>At 11th level, you gain one of the following features of your choice.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.l7W6JB9yWLLLtQKP]{Volley}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.1DY8w3CXeD7PHDXF]{Whirlwind Attack}</p>"
+      "name": "Ataque Múltiplo",
+      "description": "<p>No 11 ° nível, você ganha uma das características a seguir, à sua escolha.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.l7W6JB9yWLLLtQKP]{Saraivada}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.1DY8w3CXeD7PHDXF]{Ataque Giratório}</p>\n<p>Você pode arrastar sua escolha acima para sua ficha de personagem e ela será atualizada automaticamente.</p>"
     },
     "slelvrm83v9UAKZU": {
       "name": "Multiattack Defense",
@@ -757,8 +757,8 @@
       "description": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p>"
     },
     "8fbZt2Qh7ZttwIan": {
-      "name": "Natural Explorer",
-      "description": "<p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</p><p>While traveling for an hour or more in your favored terrain, you gain the following benefits:</p><ul><li>Difficult terrain doesn't slow your group's travel.</li><li>Your group can't become lost except by magical means.</li><li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li><li>If you are traveling alone, you can move stealthily at a normal pace.</li><li>When you forage, you find twice as much food as you normally would.</li><li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li></ul><p>You choose additional favored terrain types at 6th and 10th level.</p><section class=\"secret\" id=\"secret-xtmITx8xwrAenwFl\"><p><strong>Foundry Note</strong></p><p>If it would be helpful, manually edit this entry and make a note of your choices here:</p><ul><li><em>1st level</em></li><li><em>6th level</em></li><li><em>10th level</em></li></ul></section>"
+      "name": "Explorador Natural",
+      "description": "<p>Você está particularmente familiarizado com um tipo de terreno natural, sendo capaz de viajar e sobreviver quando se encontrar nele. Escolha um tipo de terreno favorito: ártico, campo, litoral, deserto, floresta, montanha, pântano ou a Umbreterna. Ao realizar um teste de Inteligência ou Sabedoria relacionado ao seu terreno favorito, e estiver usando uma perícia na qual você é proficiente, seu bônus de proficiência é dobrado.</p><p>Ao viajar por uma hora ou mais no seu terreno favorito, você ganha os benefícios a seguir:</p><ul><li>Terreno difícil não atrasa a viagem do seu grupo.</li><li>Seu grupo não se perde, exceto por meios mágicos.</li><li>Mesmo quando estiver engajado em outra atividade enquanto viaja (forrageando, guiando ou rastreando), você se mantém alerta ao perigo.</li><li>Se estiver viajando sozinho, você pode mover-se furtivamente em ritmo normal.</li><li>Ao forragear, você encontra duas vezes mais comida do que normalmente encontraria.</li><li>Ao rastrear outras criaturas, você também descobre seus tamanhos, há quanto tempo passaram pela área, e seu número exato.</li></ul><p>Você escolhe terrenos favoritos adicionais no 6° e 10° níveis.</p><section class=\"secret\" id=\"secret-xtmITx8xwrAenwFl\"><p><strong>Nota do Foundry</strong></p><p>Se for útil, edite manualmente esta entrada e anote suas escolhas aqui:</p><ul><li><em>1º nível</em></li><li><em>6º nível</em></li><li><em>10º nível</em></li></ul></section>"
     },
     "wKdRtFsvGfMKQHLY": {
       "name": "Natural Recovery",
@@ -860,11 +860,11 @@
       }
     },
     "06NVMYf58Z76O85O": {
-      "name": "Protection",
-      "description": "<p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>",
+      "name": "Proteção",
+      "description": "<p>Quando uma criatura que você possa ver atacar um alvo que esteja a até 1,5 metros de você, você pode usar sua reação para impor desvantagem nas jogadas de ataque da criatura.</p>",
       "activities": {
         "utility": {
-          "condition": "Must be wearing a shield."
+          "condition": "Você deve estar empunhando um escudo."
         }
       }
     },
@@ -899,8 +899,8 @@
       }
     },
     "1dJHU48yNqn3lcfx": {
-      "name": "Ranger Archetype",
-      "description": "<p>At 3rd level, you choose an archetype that you strive to emulate, such as the Hunter. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>"
+      "name": "Arquétipo do Patrulheiro",
+      "description": "<p>No 3° nível, você escolhe um dos arquétipos detalhados no final da descrição da classe. Sua escolha lhe concede características no 3° nível e novamente no 7°, 11° e 15° nível.</p>"
     },
     "SCVjqRdlZ9cvHVSR": {
       "name": "Reckless Attack",
@@ -932,16 +932,16 @@
       "description": "<p>Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.</p>"
     },
     "80USV8ZFPIahpLd0": {
-      "name": "Roguish Archetype",
-      "description": "<p>At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities, such as Thief. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>"
+      "name": "Arquétipo de Ladino",
+      "description": "<p>No 3º nível, você escolhe um arquétipo, o qual seguirá no exercício das suas habilidades de ladino, como o Ladrão. Seu arquétipo lhe garante características no 3º nível, e novamente no 9º, 13º e 17º níveis.</p>"
     },
     "olAqNsUTIef9x8xC": {
       "name": "Sacred Oath",
       "description": "<p>When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose an oath, such as the Oath of Devotion.</p>\n<p>Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.</p>\n<h5>Oath Spells</h5>\n<p>Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.</p>\n<p>If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.</p>\n<h5>Channel Divinity</h5>\n<p>See @UUID[Compendium.dnd5e.classfeatures.Item.8M7uOPhbTxoxxJSo]{Channel Divinity}.</p>"
     },
     "6VBXkjjBgjSpNElh": {
-      "name": "Sculpt Spells",
-      "description": "<p>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.</p>"
+      "name": "Esculpir Magias",
+      "description": "<p>A partir do 2º nível, você pode criar bolsões de segurança relativa contra os efeitos de suas magias de evocação. Quando você conjurar uma magia de evocação que afeta outras criaturas que você possa ver, você pode escolher um número delas igual a 1 + o nível da magia. As criaturas escolhidas passam automaticamente em seus testes de resistência contra a magia conjurada e elas não sofrem dano se normalmente sofreriam metade em um sucesso no teste de resistência.</p>"
     },
     "Xa2MLUJGCReJ28B7": {
       "name": "Sculptor of Flesh",
@@ -1070,8 +1070,8 @@
       }
     },
     "4UOgxzr83vFuUash": {
-      "name": "Supreme Healing",
-      "description": "<p>Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.</p>"
+      "name": "Cura Suprema",
+      "description": "<p>A partir do 17º nível, quando normalmente você jogaria um ou mais dados para recuperar pontos de vida com uma magia, você usa o maior resultado possível nos dados. Por exemplo, ao invés de recuperar 2d6 pontos de vida, você recupera 12.</p>"
     },
     "Ei1Oh4UAA2E30jcD": {
       "name": "Supreme Sneak",
@@ -1153,11 +1153,11 @@
       }
     },
     "7pyZjz5vlUWV01qQ": {
-      "name": "Uncanny Dodge",
-      "description": "<p>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>",
+      "name": "Esquiva Sobrenatural",
+      "description": "<p>A partir do 5° nível, você pode usar sua reação para reduzir o dano sofrido pela metade quando for atingido por um atacante que você possa enxergar.</p>",
       "activities": {
         "utility": {
-          "condition": "Attacker must be visible."
+          "condition": "O atacante deve estar visível."
         }
       }
     },
@@ -1186,8 +1186,8 @@
       "description": "<p>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</p>"
     },
     "1DY8w3CXeD7PHDXF": {
-      "name": "Whirlwind Attack",
-      "description": "<p>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</p>"
+      "name": "Ataque Giratório",
+      "description": "<p>Você pode usar sua ação para realizar um ataque corpo-a-corpo contra qualquer número de criaturas a até 1,5 metro de você, realizando uma jogada de ataque separada para cada alvo.</p>"
     },
     "gFjxo01hAN4c9hDG": {
       "name": "Whispers of the Grave",
