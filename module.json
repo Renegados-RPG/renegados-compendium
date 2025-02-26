@@ -2,7 +2,7 @@
   "id": "renegados-compendium",
   "title": "Renegados Compendium",
   "description": "Compendium for the Renegados system",
-  "version": "0.0.1",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
