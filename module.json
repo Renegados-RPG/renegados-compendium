@@ -140,5 +140,8 @@
         "DRS 5.1": "SOURCE.BOOK.SRD"
       }
     }
-  }
+  },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
 }
