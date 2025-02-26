@@ -1,0 +1,111 @@
+{
+  "name": "Radiant Soul",
+  "type": "feat",
+  "_id": "cJz1Xw9aGuZg5QC3",
+  "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "description": {
+      "value": "<ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Radiant Soul\">Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.</p></li></ul>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": 3,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Radiant Soul",
+      "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+      "origin": "Item.DCGJrXCltJd0wuNY",
+      "_id": "YPq24N1dlhPwiEyH",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!cJz1Xw9aGuZg5QC3.YPq24N1dlhPwiEyH"
+    }
+  ],
+  "folder": "6cGnIJefPGxwyCsi",
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.DCGJrXCltJd0wuNY",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740253820695,
+    "modifiedTime": 1740446289586,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!cJz1Xw9aGuZg5QC3"
+}

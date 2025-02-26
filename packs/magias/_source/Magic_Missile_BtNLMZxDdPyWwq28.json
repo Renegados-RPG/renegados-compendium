@@ -1,0 +1,153 @@
+{
+  "_id": "BtNLMZxDdPyWwq28",
+  "name": "Magic Missile",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "257",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals [[/damage 1d4 + 1 type=force]] damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.</p></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"At Higher Levels\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">At Higher Levels.</span></span> When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.</p></div></div>",
+      "chat": ""
+    },
+    "level": 1,
+    "school": "evo",
+    "properties": [
+      "vocal",
+      "somatic"
+    ],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "contiguous": false,
+        "units": "",
+        "type": ""
+      },
+      "affects": {
+        "count": "1",
+        "type": "creature",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "120",
+      "units": "ft",
+      "special": ""
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "0",
+      "units": "inst"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "damage",
+        "damage": {
+          "parts": [
+            {
+              "custom": {
+                "enabled": true,
+                "formula": "(1d4 + 1) * (2 + @item.level)"
+              },
+              "types": [
+                "force"
+              ],
+              "number": null,
+              "denomination": null,
+              "scaling": {
+                "number": 1
+              }
+            }
+          ],
+          "critical": {
+            "allow": false
+          }
+        },
+        "_id": "dnd5eactivity000",
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        }
+      }
+    },
+    "identifier": "magic-missile"
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/light/projectile-stars-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "6qW4WCvzuEE43ypr",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058081657,
+    "modifiedTime": 1740077606915,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!BtNLMZxDdPyWwq28"
+}

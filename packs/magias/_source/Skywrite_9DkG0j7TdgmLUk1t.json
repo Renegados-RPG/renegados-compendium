@@ -1,0 +1,142 @@
+{
+  "_id": "9DkG0j7TdgmLUk1t",
+  "name": "Skywrite",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "165",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.</p></div>",
+      "chat": ""
+    },
+    "level": 2,
+    "school": "trs",
+    "properties": [
+      "vocal",
+      "somatic",
+      "ritual",
+      "concentration"
+    ],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": ""
+      },
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "0",
+      "units": "spec"
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "xfZdy6BbP0xNB6d4": {
+        "_id": "xfZdy6BbP0xNB6d4",
+        "type": "utility",
+        "name": "Cast",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "skywrite"
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/light/projectile-flare-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "JJ8h8rIVo1yidwnn",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058082953,
+    "modifiedTime": 1740058082953,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!9DkG0j7TdgmLUk1t"
+}

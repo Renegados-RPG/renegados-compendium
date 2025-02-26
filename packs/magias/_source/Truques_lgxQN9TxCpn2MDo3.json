@@ -1,0 +1,22 @@
+{
+  "name": "Truques",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "lgxQN9TxCpn2MDo3",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058093836,
+    "modifiedTime": 1740058094334,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_key": "!folders!lgxQN9TxCpn2MDo3"
+}

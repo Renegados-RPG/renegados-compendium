@@ -1,5 +1,3 @@
-2025/02/26-11:37:28.403 bae4 Recovering log #55
-2025/02/26-11:37:28.403 bae4 Level-0 table #57: started
-2025/02/26-11:37:28.409 bae4 Level-0 table #57: 8251 bytes OK
-2025/02/26-11:37:28.424 bae4 Delete type=0 #55
-2025/02/26-11:37:28.425 bae4 Delete type=3 #54
+2025/02/26-13:50:06.960 c180 Recovering log #66
+2025/02/26-13:50:06.972 c180 Delete type=0 #66
+2025/02/26-13:50:06.973 c180 Delete type=3 #65

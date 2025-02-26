@@ -1,0 +1,137 @@
+{
+  "_id": "SedBvK6gQfV4UivA",
+  "name": "Guards and Wards",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "248",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You create a ward that protects up to 2,500 square feet of floor space (an area 50 feet square, or one hundred 5-foot squares or twenty-five 10-foot squares). The warded area can be up to 20 feet tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.</p><p>When you cast this spell, you can specify individuals that are unaffected by any or all of the effects that you choose. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.</p><p>Guards and wards creates the following effects within the warded area.</p><div data-roll-name-ancestor=\"Corridors\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Corridors.</span></span> Fog fills all the warded corridors, making them &amp;Reference[rule=heavilyobscured]{heavily obscured}. In addition, at each intersection or branching passage offering a choice of direction, there is a [[/r 1d100]]{50 percent} chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.</p></div><div data-roll-name-ancestor=\"Doors\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Doors.</span></span> All doors in the warded area are magically locked, as if sealed by an @spell[arcane lock] spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the @spell[minor illusion] spell) to make them appear as plain sections of wall.</p></div><div data-roll-name-ancestor=\"Stairs\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Stairs.</span></span> Webs fill all stairs in the warded area from top to bottom, as the @spell[web] spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wards lasts.</p></div><div data-roll-name-ancestor=\"Other Spell Effect\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Other Spell Effect.</span></span> You can place your choice of one of the following magical effects within the warded area of the stronghold.</p><ul class=\"rd__list\"><li class=\"rd__li \">Place @spell[dancing lights] in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.</li><li class=\"rd__li \">Place @spell[magic mouth] in two locations.</li><li class=\"rd__li \">Place @spell[stinking cloud] in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.</li><li class=\"rd__li \">Place a constant @spell[gust of wind] in one corridor or room.</li><li class=\"rd__li \">Place a @spell[suggestion] in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.</li></ul></div><p>The whole warded area radiates magic. A @spell[dispel magic] cast on a specific effect, if successful, removes only that effect.</p><p>You can create a permanently guarded and warded structure by casting this spell there every day for one year.</p></div>",
+      "chat": ""
+    },
+    "level": 6,
+    "school": "abj",
+    "properties": [
+      "vocal",
+      "somatic",
+      "material"
+    ],
+    "materials": {
+      "value": "burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp",
+      "consumed": false,
+      "cost": 10,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "contiguous": false,
+        "units": ""
+      },
+      "affects": {
+        "choice": false
+      }
+    },
+    "range": {
+      "value": "0",
+      "units": "touch"
+    },
+    "activation": {
+      "type": "minute",
+      "value": 10,
+      "condition": ""
+    },
+    "duration": {
+      "value": "24",
+      "units": "hour"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "guards-and-wards"
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/commodities/metal/clasp-steel-braid-glowing.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "i8yBZgq40rADXUZZ",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058088516,
+    "modifiedTime": 1740058088516,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!SedBvK6gQfV4UivA"
+}

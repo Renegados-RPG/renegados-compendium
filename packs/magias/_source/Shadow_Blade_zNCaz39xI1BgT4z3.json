@@ -1,0 +1,159 @@
+{
+  "_id": "zNCaz39xI1BgT4z3",
+  "name": "Shadow Blade",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "164",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals [[/damage 2d8 type=psychic]] damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.</p><p>If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.</p></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"At Higher Levels\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">At Higher Levels.</span></span> When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to [[/damage 3d8]]. When you cast it using a 5th- or 6th-level spell slot, the damage increases to [[/damage 4d8]]. When you cast it using a spell slot of 7th level or higher, the damage increases to [[/damage 5d8]].</p></div></div>",
+      "chat": ""
+    },
+    "level": 2,
+    "school": "ill",
+    "properties": [
+      "vocal",
+      "somatic",
+      "concentration"
+    ],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "self",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": ""
+      },
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "0",
+      "units": "self"
+    },
+    "activation": {
+      "type": "bonus",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "minute"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "P6YyKGKacdvGMpk5": {
+        "_id": "P6YyKGKacdvGMpk5",
+        "type": "damage",
+        "name": "",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": true
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": [
+                "psychic"
+              ],
+              "number": 2,
+              "denomination": 8,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "shadow-blade"
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/skills/melee/sword-stuck-glowing-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "JJ8h8rIVo1yidwnn",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058082953,
+    "modifiedTime": 1740058082953,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!zNCaz39xI1BgT4z3"
+}

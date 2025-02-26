@@ -1,0 +1,370 @@
+{
+  "_id": "dvpxUWKaQ9vyFeqA",
+  "name": "Magic Weapon",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "257",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.</p></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"At Higher Levels\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">At Higher Levels.</span></span> When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.</p></div></div>",
+      "chat": ""
+    },
+    "level": 2,
+    "school": "trs",
+    "properties": [
+      "vocal",
+      "somatic",
+      "concentration"
+    ],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "contiguous": false,
+        "units": ""
+      },
+      "affects": {
+        "choice": false
+      }
+    },
+    "range": {
+      "value": "0",
+      "units": "touch"
+    },
+    "activation": {
+      "type": "bonus",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "enchant",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "SLSudYaACjmmmZsU",
+            "level": {
+              "min": null,
+              "max": 3
+            },
+            "riders": []
+          },
+          {
+            "_id": "8OhsRxK3dF1JeQXO",
+            "level": {
+              "min": 4,
+              "max": 5
+            },
+            "riders": []
+          },
+          {
+            "_id": "7L1wKfaEdN85IA0Z",
+            "level": {
+              "min": 6,
+              "max": null
+            },
+            "riders": []
+          }
+        ],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "enchant": {
+          "identifier": ""
+        },
+        "restrictions": {
+          "allowMagical": false,
+          "type": "weapon",
+          "categories": [],
+          "properties": []
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "magic-weapon"
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/weapons/clubs/club-spiked-glowing.webp",
+  "flags": {},
+  "effects": [
+    {
+      "name": "Magic Weapon, +1",
+      "flags": {
+        "dnd5e": {
+          "enchantment": {
+            "level": {
+              "min": null,
+              "max": 3
+            },
+            "riders": []
+          }
+        },
+        "plutonium": {
+          "dedupeId": "magic-weapon-1"
+        }
+      },
+      "_id": "SLSudYaACjmmmZsU",
+      "changes": [
+        {
+          "key": "name",
+          "mode": 5,
+          "value": "{}, +1",
+          "priority": null
+        },
+        {
+          "key": "system.properties",
+          "mode": 2,
+          "value": "mgc",
+          "priority": null
+        },
+        {
+          "key": "system.magicalBonus",
+          "mode": 5,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "<p>This weapon becomes a magic weapon with a +1 bonus to Attack rolls and Damage Rolls.</p>",
+      "origin": null,
+      "transfer": false,
+      "statuses": [],
+      "tint": "#ffffff",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/weapons/clubs/club-spiked-glowing.webp",
+      "type": "enchantment",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!dvpxUWKaQ9vyFeqA.SLSudYaACjmmmZsU"
+    },
+    {
+      "name": "Magic Weapon, +2",
+      "flags": {
+        "dnd5e": {
+          "enchantment": {
+            "level": {
+              "min": 4,
+              "max": 5
+            },
+            "riders": []
+          }
+        },
+        "plutonium": {
+          "dedupeId": "magic-weapon-2"
+        }
+      },
+      "changes": [
+        {
+          "key": "name",
+          "mode": 5,
+          "value": "{}, +2",
+          "priority": null
+        },
+        {
+          "key": "system.properties",
+          "mode": 2,
+          "value": "mgc",
+          "priority": null
+        },
+        {
+          "key": "system.magicalBonus",
+          "mode": 5,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "<p>This weapon becomes a magic weapon with a +2 bonus to Attack rolls and Damage Rolls.</p>",
+      "origin": null,
+      "transfer": false,
+      "statuses": [],
+      "tint": "#ffffff",
+      "_id": "8OhsRxK3dF1JeQXO",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/weapons/clubs/club-spiked-glowing.webp",
+      "type": "enchantment",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!dvpxUWKaQ9vyFeqA.8OhsRxK3dF1JeQXO"
+    },
+    {
+      "name": "Magic Weapon, +3",
+      "flags": {
+        "dnd5e": {
+          "enchantment": {
+            "level": {
+              "min": 6,
+              "max": null
+            },
+            "riders": []
+          }
+        },
+        "plutonium": {
+          "dedupeId": "magic-weapon-3"
+        }
+      },
+      "changes": [
+        {
+          "key": "name",
+          "mode": 5,
+          "value": "{}, +3",
+          "priority": null
+        },
+        {
+          "key": "system.properties",
+          "mode": 2,
+          "value": "mgc",
+          "priority": null
+        },
+        {
+          "key": "system.magicalBonus",
+          "mode": 5,
+          "value": "3",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "<p>This weapon becomes a magic weapon with a +3 bonus to Attack rolls and Damage Rolls.</p>",
+      "origin": null,
+      "transfer": false,
+      "statuses": [],
+      "tint": "#ffffff",
+      "_id": "7L1wKfaEdN85IA0Z",
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/weapons/clubs/club-spiked-glowing.webp",
+      "type": "enchantment",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!dvpxUWKaQ9vyFeqA.7L1wKfaEdN85IA0Z"
+    }
+  ],
+  "folder": "JJ8h8rIVo1yidwnn",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058082953,
+    "modifiedTime": 1740058082953,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!dvpxUWKaQ9vyFeqA"
+}

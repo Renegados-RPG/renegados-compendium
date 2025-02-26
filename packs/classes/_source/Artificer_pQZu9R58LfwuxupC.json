@@ -1,0 +1,528 @@
+{
+  "name": "Artificer",
+  "type": "class",
+  "_id": "pQZu9R58LfwuxupC",
+  "img": "icons/magic/symbols/cog-orange-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>As a artificer, you gain the following class features.</p><h3>Hit Points</h3><p><strong>Hit Dice:</strong> 1d8 per artificer level<br /><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier<br /><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per artificer level after 1st</p><h3>Proficiencies</h3><p><strong>Armor:</strong> Light armor, shields<br /><strong>Weapons:</strong> Simple weapons, firearms<br /><strong>Tools:</strong> <span><a href=\"https://2014.5e.tools/items.html#thieves'%20tools_phb\" data-vet-page=\"items.html\" data-vet-source=\"PHB\" data-vet-hash=\"thieves'%20tools_phb\">thieves' tools</a>, <a href=\"https://2014.5e.tools/items.html#tinker's%20tools_phb\" data-vet-page=\"items.html\" data-vet-source=\"PHB\" data-vet-hash=\"tinker's%20tools_phb\">tinker's tools</a>, one type of <a href=\"https://2014.5e.tools/items.html#artisan's%20tools_phb\" data-vet-page=\"items.html\" data-vet-source=\"PHB\" data-vet-hash=\"artisan's%20tools_phb\">artisan's tools</a> of your choice</span><br /><strong>Saving Throws:</strong> <span>Constitution, Intelligence</span><br /><strong>Skills:</strong> <span>Choose 2 from </span><span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"arcana_phb\" data-vet-is-faux-page=\"true\">Arcana</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"history_phb\" data-vet-is-faux-page=\"true\">History</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"investigation_phb\" data-vet-is-faux-page=\"true\">Investigation</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"medicine_phb\" data-vet-is-faux-page=\"true\">Medicine</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"nature_phb\" data-vet-is-faux-page=\"true\">Nature</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"perception_phb\" data-vet-is-faux-page=\"true\">Perception</span>, and <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"sleight%20of%20hand_phb\" data-vet-is-faux-page=\"true\">Sleight of Hand</span>.</p><h1>Artificer Advancement</h1><p></p><table><thead><tr><td>Level</td><td><span style=\"font-family:Arial, sans-serif\"><strong>Proficiency Bonus</strong></span></td><td>Infusions Known</td><td>Infused Items</td><td>Features</td></tr></thead><tbody><tr><td>1st</td><td>+2</td><td>-</td><td>—</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.1AYXxqnUjUF21d4A]{Firearm Proficiency}, @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.LIs40RaWLZ69DEq7]{Magical Tinkering}, @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.yz5c3zPzbd0Hm5AS]{Spellcasting}</td></tr><tr><td>2nd</td><td>+2</td><td>4</td><td>2</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.VTE4lSBJtzwTaD79]{Infuse Item}</td></tr><tr><td>3rd</td><td>+2</td><td>4</td><td>2</td><td>Artificer Specialist, @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.wsw54bfwplUuTMBW]{The Right Tool for the Job}</td></tr><tr><td>4th</td><td>+2</td><td>4</td><td>2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>5th</td><td>+3</td><td>4</td><td>2</td><td>Artificer Specialist Feature</td></tr><tr><td>6th</td><td>+3</td><td>6</td><td>3</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.54dPxTxYuPzhDTjR]{Tool Expertise}</td></tr><tr><td>7th</td><td>+3</td><td>6</td><td>3</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.pdjkfkXJzbZuzMYb]{Flash of Genius}</td></tr><tr><td>8th</td><td>+3</td><td>6</td><td>3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>9th</td><td>+4</td><td>6</td><td>3</td><td>Artificer Specialist Feature</td></tr><tr><td>10th</td><td>+4</td><td>8</td><td>4</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.c9gTZCy8shxNqV5h]{Magic Item Adept}</td></tr><tr><td>11th</td><td>+4</td><td>8</td><td>4</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.KbgNryO9SgnA84Ot]{Spell-Storing Item}</td></tr><tr><td>12th</td><td>+4</td><td>8</td><td>4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>13th</td><td>+5</td><td>8</td><td>4</td><td>-</td></tr><tr><td>14th</td><td>+5</td><td>10</td><td>5</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.3loqt6P1BBzFx4gu]{Magic Item Savant}</td></tr><tr><td>15th</td><td>+5</td><td>10</td><td>5</td><td>Artificer Specialist Feature</td></tr><tr><td>16th</td><td>+5</td><td>10</td><td>5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>17th</td><td>+6</td><td>10</td><td>5</td><td>-</td></tr><tr><td>18th</td><td>+6</td><td>12</td><td>6</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.ce6bKCxhnxDDA5Hp]{Magic Item Master}</td></tr><tr><td>19th</td><td>+6</td><td>12</td><td>6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>20th</td><td>+6</td><td>12</td><td>6</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.4L2Oo6e7CFJgwagF]{Soul of Artifice}</td></tr></tbody></table>",
+      "chat": ""
+    },
+    "identifier": "artificer",
+    "source": {
+      "revision": 1,
+      "rules": "2014",
+      "book": "TCoE",
+      "page": "p9",
+      "custom": "",
+      "license": ""
+    },
+    "startingEquipment": [],
+    "levels": 1,
+    "primaryAbility": {
+      "value": [],
+      "all": true
+    },
+    "hd": {
+      "additional": "",
+      "denomination": "d8",
+      "spent": 0
+    },
+    "advancement": [
+      {
+        "_id": "3dXsOBz8zdKDFrbo",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1AYXxqnUjUF21d4A"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.yz5c3zPzbd0Hm5AS"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.LIs40RaWLZ69DEq7"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "KxZojsBNJWS88KKK",
+        "type": "Subclass",
+        "configuration": {},
+        "value": {
+          "document": null,
+          "uuid": null
+        },
+        "level": 3,
+        "title": "Artificer Specialist",
+        "hint": ""
+      },
+      {
+        "_id": "wqQZ0pJo79ORNqj4",
+        "type": "HitPoints",
+        "configuration": {},
+        "value": {}
+      },
+      {
+        "_id": "HYf8kTSizaI86zif",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": [
+            "saves:con",
+            "saves:int"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "Saving Throws",
+        "hint": "",
+        "classRestriction": "primary"
+      },
+      {
+        "_id": "UR1Ldajk1K5GyABg",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": [
+                "skills:arc",
+                "skills:his",
+                "skills:inv",
+                "skills:med",
+                "skills:nat",
+                "skills:prc",
+                "skills:slt"
+              ]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "Skills",
+        "hint": "",
+        "classRestriction": "primary"
+      },
+      {
+        "_id": "FuDSIKfz4Rjl06w2",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": [
+            "armor:lgt",
+            "armor:med",
+            "armor:shl",
+            "armor:shl:shield"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "QtBoXUXlDngU2oBz",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": [
+            "weapon:sim"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "",
+        "hint": "",
+        "classRestriction": "primary"
+      },
+      {
+        "_id": "xTCwo5skTZIxSeBj",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 2
+            },
+            "10": {
+              "value": 3
+            },
+            "14": {
+              "value": 4
+            }
+          }
+        },
+        "value": {},
+        "title": "Cantrips Known",
+        "hint": ""
+      },
+      {
+        "_id": "Vsn2A3VVuswpidtj",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VTE4lSBJtzwTaD79",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "r6ylSmwWISbf4YSg",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 4
+            },
+            "6": {
+              "value": 6
+            },
+            "10": {
+              "value": 8
+            },
+            "14": {
+              "value": 10
+            },
+            "18": {
+              "value": 12
+            }
+          }
+        },
+        "value": {},
+        "title": "Infusions Known",
+        "hint": ""
+      },
+      {
+        "_id": "400kNodZLk6wW1Qm",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.wsw54bfwplUuTMBW"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "1SWrJdM6nb0tTXSo",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [],
+          "points": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 4,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "4sduGKVLHXTu1mQu",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.54dPxTxYuPzhDTjR",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "lY48tiJsUSeHgxLC",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pdjkfkXJzbZuzMYb"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "Ttbc6BFQZGxAynIG",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [],
+          "points": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 8,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "xS2LJofNezdxEeNH",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.c9gTZCy8shxNqV5h"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "zmpI2sjAbOufkEi8",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.KbgNryO9SgnA84Ot"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "aqYEuLnACFLX5lOz",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [],
+          "points": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 12,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "ZP80ZVqjii1rfHUk",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3loqt6P1BBzFx4gu"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "bkFgSDdTPToTfcIe",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [],
+          "points": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 16,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "W2GMooYo2ZTAo6pn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ce6bKCxhnxDDA5Hp"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "cjI6PC6fjgPH5plU",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "locked": [],
+          "points": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 19,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "nq6SGj6YWlWT02HB",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.4L2Oo6e7CFJgwagF"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 20,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "spellcasting": {
+      "progression": "artificer",
+      "preparation": {
+        "formula": "@abilities.int.mod + floor(@classes.artificer.levels / 2)"
+      },
+      "ability": "int"
+    },
+    "wealth": "5d4 * 10"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1739904706716,
+    "modifiedTime": 1740514732696,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_key": "!items!pQZu9R58LfwuxupC"
+}

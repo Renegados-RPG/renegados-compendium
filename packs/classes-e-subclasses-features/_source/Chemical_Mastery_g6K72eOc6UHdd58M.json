@@ -1,0 +1,122 @@
+{
+  "_id": "g6K72eOc6UHdd58M",
+  "name": "Chemical Mastery",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "14",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain resistance to acid damage and poison damage, and you are immune to the &amp;Reference[condition=poisoned] condition.</li><li class=\"rd__li \">You can cast @spell[greater restoration] and @spell[heal] without expending a spell slot, without preparing the spell, and without material components, provided you use @item[alchemist's supplies|PHB] as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 15 (Alchemist)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "chemical-mastery",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-acid.webp",
+  "flags": {},
+  "effects": [
+    {
+      "name": "Chemical Mastery",
+      "img": "icons/magic/defensive/shield-barrier-flaming-diamond-acid.webp",
+      "origin": "Item.pUwiOuOBOEcKcSH3",
+      "_id": "Rx9CCJ1hyAJcXT6X",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "acid",
+          "priority": null
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "poison",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!g6K72eOc6UHdd58M.Rx9CCJ1hyAJcXT6X"
+    }
+  ],
+  "folder": "fvd61lcTGoQfsXhn",
+  "_stats": {
+    "compendiumSource": "Item.pUwiOuOBOEcKcSH3",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1739921598185,
+    "modifiedTime": 1739921598234,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "_key": "!items!g6K72eOc6UHdd58M"
+}

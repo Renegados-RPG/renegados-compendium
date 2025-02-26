@@ -1,0 +1,217 @@
+{
+  "_id": "2uKOg4Uk2WJRNKh4",
+  "name": "Conjure Animals",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "225",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:</p><ul class=\"rd__list\"><li class=\"rd__li \">One <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;2,flsttype:beast=1,flstmiscellaneous:swarm=2\">beast of challenge rating 2 or lower</a></li><li class=\"rd__li \">Two <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1,flsttype:beast=1,flstmiscellaneous:swarm=2\">beasts of challenge rating 1 or lower</a></li><li class=\"rd__li \">Four <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1/2,flsttype:beast=1,flstmiscellaneous:swarm=2\">beasts of challenge rating 1/2 or lower</a></li><li class=\"rd__li \">Eight <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1/4,flsttype:beast=1,flstmiscellaneous:swarm=2\">beasts of challenge rating 1/4 or lower</a></li></ul><p>Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.</p><p>The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.</p><p>The DM has the creatures' statistics.</p></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"At Higher Levels\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">At Higher Levels.</span></span> When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.</p></div></div>",
+      "chat": ""
+    },
+    "level": 3,
+    "school": "con",
+    "properties": [
+      "vocal",
+      "somatic",
+      "concentration"
+    ],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "contiguous": false,
+        "type": "",
+        "units": "any"
+      },
+      "affects": {
+        "count": "",
+        "type": "space",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "60",
+      "units": "ft"
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "summon",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "bonuses": {
+          "ac": "",
+          "hd": "",
+          "hp": "",
+          "attackDamage": "",
+          "saveDamage": "",
+          "healing": ""
+        },
+        "creatureSizes": [],
+        "creatureTypes": [
+          "fey"
+        ],
+        "match": {
+          "attacks": false,
+          "proficiency": false,
+          "saves": false
+        },
+        "profiles": [
+          {
+            "count": "1 * floor((@item.level - 1) / 2)",
+            "cr": "2",
+            "name": "",
+            "_id": "L0UhkCz2NI01zinq",
+            "uuid": "",
+            "types": [
+              "beast"
+            ],
+            "level": {
+              "min": null,
+              "max": null
+            }
+          },
+          {
+            "count": "2 * floor((@item.level - 1) / 2)",
+            "cr": "1",
+            "name": "",
+            "_id": "CFJttKXu4rVgI4hX",
+            "uuid": "",
+            "types": [
+              "beast"
+            ],
+            "level": {
+              "min": null,
+              "max": null
+            }
+          },
+          {
+            "count": "4 * floor((@item.level - 1) / 2)",
+            "cr": "0.5",
+            "name": "",
+            "_id": "D5jhKf0u1tiEPE88",
+            "uuid": "",
+            "types": [
+              "beast"
+            ],
+            "level": {
+              "min": null,
+              "max": null
+            }
+          },
+          {
+            "count": "8 * floor((@item.level - 1) / 2)",
+            "cr": "0.25",
+            "name": "",
+            "_id": "04lzPfFqexz2myIV",
+            "uuid": "",
+            "types": [
+              "beast"
+            ],
+            "level": {
+              "min": null,
+              "max": null
+            }
+          }
+        ],
+        "summon": {
+          "identifier": "",
+          "mode": "cr",
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "name": "",
+        "effects": []
+      }
+    },
+    "identifier": "conjure-animals"
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/creatures/abilities/cougar-pounce-stalk-black.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "dCAuMclIJP6vJ4a4",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740058084175,
+    "modifiedTime": 1740058084175,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!2uKOg4Uk2WJRNKh4"
+}

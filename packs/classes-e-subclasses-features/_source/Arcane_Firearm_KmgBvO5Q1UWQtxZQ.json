@@ -1,0 +1,65 @@
+{
+  "_id": "KmgBvO5Q1UWQtxZQ",
+  "name": "Arcane Firearm",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "17",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use @item[woodcarver's tools|PHB] to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.</p><p>You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a [[/damage d8]], and you gain a bonus to one of the spell's damage rolls equal to the number rolled.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 5 (Artillerist)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "arcane-firearm",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/weapons/guns/gun-blunderbuss-gold.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "KxNbzVORpdclVHRX",
+  "_stats": {
+    "compendiumSource": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qgynhNb3aPPz05Fc",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740057663596,
+    "modifiedTime": 1740057663596,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 100000,
+  "_key": "!items!KmgBvO5Q1UWQtxZQ"
+}

@@ -1,0 +1,166 @@
+{
+  "_id": "dWvEQARkWRDSTnDF",
+  "name": "Battle Smith",
+  "type": "subclass",
+  "system": {
+    "identifier": "battle-smith",
+    "classIdentifier": "artificer",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Battle Smith\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p18\">Battle Smith</span></h2><p>Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.</p><p>Battle Smiths played a key role in House Cannith's work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.</p><div data-roll-name-ancestor=\"Level 3: Tool Proficiency\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p18\">Tool Proficiency</span></h3><p>When you adopt this specialization at 3rd level, you gain proficiency with @item[smith's tools|PHB]. If you already have this proficiency, you gain proficiency with one other type of @item[artisan's tools|PHB] of your choice.</p></div><div data-roll-name-ancestor=\"Level 3: Battle Smith Spells\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p18\">Battle Smith Spells</span></h3><p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Battle Smith Spells\"><caption>Battle Smith Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Artificer Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.gYUMD3YY97ifBEOX], @UUID[Compendium.renegados-compendium.magias.Item.SYUhdYjmgImDHrAO]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.lxAuoa14wYWbP1om], @UUID[Compendium.renegados-compendium.magias.Item.T8GaXvNXQOng3aj7]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.OmC4rTbzZRYxXEc2], @UUID[Compendium.renegados-compendium.magias.Item.nlC0kD0PDyN35RHd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.gLw8o96Bqb2gwwAZ], @UUID[Compendium.renegados-compendium.magias.Item.c5Afnx3BwhfYGuZd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.4cal34mipV8k7cxq], @UUID[Compendium.renegados-compendium.magias.Item.poueiP67a2DCy3dP]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Battle Ready\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"></h3><p></p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 5: Extra Attack\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"></h3></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "18",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "zDVC4sJRjqmtfTK5",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": true,
+          "choices": [],
+          "grants": [
+            "tool:art:smith"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "Tool Proficiency",
+        "hint": ""
+      },
+      {
+        "_id": "DGuQYabm6xzr64ux",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.cZPGiKjtcBt1KK2e",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FE6EOGVBTVeTAwqH",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.IOr4ePGPwzLpFbLe",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.clwLFb3ujGpyWrMp"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Features",
+        "hint": "",
+        "_id": "SOhttEq9XeBkYIyW"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.mjxL5UnfClZDSvnE"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "Features",
+        "hint": "",
+        "_id": "4EcFb0ZCWElftY9T"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.yXxMgGlVYEugwTW6",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features",
+        "hint": "",
+        "_id": "E5SzeiXqXvzMucfH"
+      },
+      {
+        "_id": "Sho6YQZZ5Bv7UjwF",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": [
+            "weapon:mar"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "Battle Ready",
+        "hint": ""
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/commodities/metal/clasp-steel-braid-glowing.webp",
+  "folder": "k1MJJ1qOfeKsQpwn",
+  "_stats": {
+    "compendiumSource": "Item.RIUUgqWjaDImAnwS",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740074336466,
+    "modifiedTime": 1740076210561,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 125000,
+  "_key": "!items!dWvEQARkWRDSTnDF"
+}

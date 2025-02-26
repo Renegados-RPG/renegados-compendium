@@ -1,0 +1,174 @@
+{
+  "_id": "Jk6Nqh1OknNZRXH2",
+  "name": "Bugbear",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>30 ft.</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Creature Type.</strong></span> You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Fey Ancestry.</strong></span> You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] condition on yourself.</p></div><div data-roll-name-ancestor=\"Long-Limbed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Long-Limbed.</strong></span> When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.</p></div><div data-roll-name-ancestor=\"Powerful Build\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Powerful Build.</strong></span> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p></div><div data-roll-name-ancestor=\"Sneaky\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Sneaky.</strong></span> You are proficient in the &amp;Reference[skill=Stealth] skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.</p></div><div data-roll-name-ancestor=\"Surprise Attack\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Surprise Attack.</strong></span> If you hit a creature with an attack roll, the creature takes an extra [[/damage 2d6]] damage if it hasn't taken a turn yet in the current combat.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Neither bugs nor bears, bugbears are the hulking cousins of goblins and hobgoblins. With roots in the Feywild, early bugbears resided in hidden places, in hard-to-reach and shadowed spaces. Long ago and from out of the corner of your eye, they came to the Material Plane, urged to spread throughout the multiverse by the conquering god Maglubiyet. Centuries later, they still bear a fey gift for lurking just out of sight, and many of them have sneaked away from that god's influence.</p><p>They are long of limb and covered in coarse hair, with wedge-shaped ears and pointed teeth. Despite their formidable build, bugbears are quiet skulkers, thanks to a fey magic that allows them to hide in spaces seemingly too small for them.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "8",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "goblinoid",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 60,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "aNtJlEaHfsW91if0",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "LzuRKjhge1JCyU5H",
+        "type": "Size",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "IoVtsQI0ZBN1F46c",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.AvNMpPoZ9iIxJyTV",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.6dPtoFyAb3oGXqzq",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.ZBOeoqsJpaKGQbSu",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.PLNXZsS8nQlaDWH3",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "kUX0R3tZfKUtqz8d",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": [
+            "skills:ste"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Sneaky",
+        "hint": ""
+      },
+      {
+        "_id": "aPSZfcjMFmG6DrZK",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": [
+                "languages:standard:*",
+                "languages:exotic:*"
+              ]
+            }
+          ],
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Languages",
+        "hint": ""
+      }
+    ],
+    "identifier": "bugbear"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Bugbear.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "1sUFNRDuwciWl5Vq",
+  "_stats": {
+    "compendiumSource": "Item.yq3u97sPM7fNDafU",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740457629104,
+    "modifiedTime": 1740457632106,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!Jk6Nqh1OknNZRXH2"
+}

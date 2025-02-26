@@ -1,0 +1,110 @@
+{
+  "_id": "ce6bKCxhnxDDA5Hp",
+  "name": "Magic Item Master",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "9",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>18th-level artificer feature</i></p><p>You can now attune to up to six magic items at once.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 18",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "magic-item-master",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/commodities/tech/glass-electrode.webp",
+  "flags": {},
+  "effects": [
+    {
+      "name": "Magic Item Master",
+      "img": "icons/commodities/tech/glass-electrode.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ce6bKCxhnxDDA5Hp",
+      "_id": "rlYII2TFhbGUidIM",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.attunement.max",
+          "mode": 5,
+          "value": "6",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": 1740022127713,
+        "modifiedTime": 1740022138342,
+        "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+      },
+      "_key": "!items.effects!ce6bKCxhnxDDA5Hp.rlYII2TFhbGUidIM"
+    }
+  ],
+  "folder": "v7nqSImzmxROa4U8",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1739906514263,
+    "modifiedTime": 1740021446392,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 1900000,
+  "_key": "!items!ce6bKCxhnxDDA5Hp"
+}

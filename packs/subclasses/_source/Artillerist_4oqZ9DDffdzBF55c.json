@@ -1,0 +1,140 @@
+{
+  "_id": "4oqZ9DDffdzBF55c",
+  "name": "Artillerist",
+  "type": "subclass",
+  "system": {
+    "identifier": "artillerist-specialist",
+    "classIdentifier": "artificer",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Artillerist\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p17\">Artillerist</span></h2><p>An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power was valued by all the armies of the Last War. Now that the war is over, some members of this specialization have sought to build a more peaceful world by using their powers to fight the resurgence of strife in Khorvaire.</p><p>The gnome artificer Vi, an unlikely yet key member of House Cannith's warforged project, has been especially vocal about making things right: \"It's about time we fixed things instead of blowing them all to hell.\"</p><div data-roll-name-ancestor=\"Level 3: Tool Proficiency\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p17\">Tool Proficiency</span></h3><p>When you adopt this specialization at 3rd level, you gain proficiency with @item[woodcarver's tools|PHB]. If you already have this proficiency, you gain proficiency with one other type of @item[artisan's tools|PHB] of your choice.</p></div><div data-roll-name-ancestor=\"Level 3: Artillerist Spells\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p17\">Artillerist Spells</span></h3><p>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Artillerist Spells\"><caption>Artillerist Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Artificer Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.SYUhdYjmgImDHrAO], @UUID[Compendium.renegados-compendium.magias.Item.Ar77Fmb4yu8uYEGT]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.p2aqz6e4gPCzqgte], @UUID[Compendium.renegados-compendium.magias.Item.wrzxEO94hJKKVYhr]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.VixIEs7XDJLnORaf], @UUID[Compendium.renegados-compendium.magias.Item.EAwnBW5g1gmrXZ5w]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.9zykuoXOSzaqY9OQ], @UUID[Compendium.renegados-compendium.magias.Item.9LFFW6z9XL2AMzhK]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.KboMabuXthfwnRSf], @UUID[Compendium.renegados-compendium.magias.Item.Pf7I7tmX3hqjNCPn]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Eldritch Cannon\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p17\">Level 3: Eldritch Cannon</span></h3><p>At 3rd level, you learn how to create a magical cannon. Using @item[woodcarver's tools|PHB] or @item[smith's tools|PHB], you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</p><p>Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.</p><p>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the @spell[mending] spell is cast on it, it regains [[/r 2d6]] hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</p><p>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Eldritch Cannons\"><caption>Eldritch Cannons</caption><thead><tr><th class=\"rd__th ve-col-2 \" data-rd-isroller=\"false\">Cannon</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Activation</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 \">@object[Eldritch Cannon, Flamethrower|TCE|Flamethrower]</td><td class=\"rd__th ve-col-10 \">The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking [[/damage 2d8 type=fire]] damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.</td></tr><tr><td class=\"rd__th ve-col-2 \">@object[Eldritch Cannon, Force Ballista|TCE|Force Ballista]</td><td class=\"rd__th ve-col-10 \">Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes [[/damage 2d8 type=force]] damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</td></tr><tr><td class=\"rd__th ve-col-2 \">@object[Eldritch Cannon, Protector|TCE|Protector]</td><td class=\"rd__th ve-col-10 \">The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to [[/damage 1d8]] + your Intelligence modifier (minimum of +1).</td></tr></tbody></table></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 5: Arcane Firearm\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"></h3></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "17",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "zxvTnXtr8BMrUtHX",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.vxq3xGISdnGvmoRi",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "PfjBwbrSPXQFs1p8",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": true,
+          "choices": [],
+          "grants": [
+            "tool:art:woodcarver"
+          ],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "01GIghcJnURqUukS",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.KmgBvO5Q1UWQtxZQ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.96sCvBXprGGsyQUn",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Features",
+        "hint": "",
+        "_id": "tRM5LvK1XPwjImaI"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pxMl0KWiAHlBXacw",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features",
+        "hint": "",
+        "_id": "Zciug2VcsK4TfHdT"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/weapons/artillery/cannon-engraved-gold.webp",
+  "folder": "k1MJJ1qOfeKsQpwn",
+  "_stats": {
+    "compendiumSource": "Item.wP2MgHUGgYG3iR2B",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740059676591,
+    "modifiedTime": 1740076238741,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 200000,
+  "_key": "!items!4oqZ9DDffdzBF55c"
+}

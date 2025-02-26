@@ -1,0 +1,60 @@
+{
+  "_id": "idJ0pvoPc6rfG6AY",
+  "name": "Armor Modifications",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "15",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>9th-level Armorer feature</i></p><p>You learn how to use your artificer infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 9 (Armorer)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "armor-modifications",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/equipment/chest/collar-steel.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "c7IyoBFTghlPnQej",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740073662767,
+    "modifiedTime": 1740080088027,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!idJ0pvoPc6rfG6AY"
+}

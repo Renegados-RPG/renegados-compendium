@@ -1,0 +1,56 @@
+{
+  "name": "Powerful Build",
+  "type": "feat",
+  "_id": "ZBOeoqsJpaKGQbSu",
+  "img": "icons/containers/bags/coinpouch-leather-orange.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Powerful Build\" class=\"rd__b  rd__b--3\"><p>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "4NSmXuDQMjfrhI9W",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.ii12YDvo8kdtj2bO",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740457421584,
+    "modifiedTime": 1740457421626,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!ZBOeoqsJpaKGQbSu"
+}
