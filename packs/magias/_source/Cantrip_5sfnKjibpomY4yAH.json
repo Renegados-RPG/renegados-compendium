@@ -1,0 +1,22 @@
+{
+  "name": "Cantrip",
+  "color": "#b18dcd",
+  "description": "",
+  "flags": {},
+  "sort": 100000,
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.4",
+    "createdTime": 1740591310574,
+    "modifiedTime": 1740591310574,
+    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+  },
+  "_id": "5sfnKjibpomY4yAH",
+  "_key": "!folders!5sfnKjibpomY4yAH"
+}

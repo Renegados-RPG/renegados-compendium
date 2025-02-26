@@ -20,6 +20,7 @@ const clearFlags = (filePath) => {
   const data = JSON.parse(readFileSync(filePath, "utf8"));
 
   if (data.flags.plutonium) {
+    console.log("Flag plutonium found in", filePath);
     delete data.flags.plutonium;
   }
 
@@ -35,6 +36,7 @@ const clearFlagsInFolder = (folderPath) => {
 
 const execute = async () => {
   for (const pack of packs) {
+    console.log("Clearing flags in", pack);
     const packPath = join(__dirname, "packs", pack);
     const destPath = join(__dirname, "packs", pack, "_source");
     await extractPack(packPath, destPath);

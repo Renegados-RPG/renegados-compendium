@@ -1,0 +1,22 @@
+{
+  "name": "7th level",
+  "color": "#4a2960",
+  "description": "",
+  "flags": {},
+  "sort": 800000,
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.4",
+    "createdTime": 1740591310574,
+    "modifiedTime": 1740591310574,
+    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+  },
+  "_id": "jlzt5grwuPkCnFGY",
+  "_key": "!folders!jlzt5grwuPkCnFGY"
+}
