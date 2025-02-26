@@ -117,8 +117,8 @@
     }
   ],
   "esmodules": [
-    "register.js",
-    "xp-renegados.js"
+    "scripts/register.js",
+    "scripts/xp-renegados.js"
   ],
   "languages": [
     {

@@ -1,4 +1,4 @@
-import { Converters as babeleConverters } from "../babele/script/converters.js";
+import { Converters as babeleConverters } from "../../babele/script/converters.js";
 
 const MODULE_ID = "renegados-compendium";
 
