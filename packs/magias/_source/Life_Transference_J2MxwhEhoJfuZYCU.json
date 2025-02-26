@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "zHr099lsT2S35xuT": {
-        "_id": "zHr099lsT2S35xuT",
+      "ghbu7AQxq2Re0tOs": {
+        "_id": "ghbu7AQxq2Re0tOs",
         "type": "heal",
         "name": "",
         "activation": {
@@ -125,8 +125,8 @@
         },
         "sort": 0
       },
-      "nIp2J8EXzptu0DyR": {
-        "_id": "nIp2J8EXzptu0DyR",
+      "EC5wMas2LVS5IGPs": {
+        "_id": "EC5wMas2LVS5IGPs",
         "type": "damage",
         "activation": {
           "type": "",
@@ -177,7 +177,14 @@
     "identifier": "life-transference"
   },
   "img": "icons/magic/control/energy-stream-link-blue.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "24V5k0HRYWvOmD2f",
   "_stats": {
@@ -185,10 +192,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

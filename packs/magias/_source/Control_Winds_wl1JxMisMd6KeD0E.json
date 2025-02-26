@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "o9BMdabBefk11NQV": {
-        "_id": "o9BMdabBefk11NQV",
+      "5xrsXCDgWcSXnkDv": {
+        "_id": "5xrsXCDgWcSXnkDv",
         "type": "save",
         "activation": {
           "type": "action",
@@ -126,7 +126,14 @@
     "identifier": "control-winds"
   },
   "img": "icons/magic/air/wind-weather-sailing-ship.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -134,10 +141,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

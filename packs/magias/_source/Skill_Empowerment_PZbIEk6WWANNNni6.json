@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "OkP0y0V5gB5sIOSF": {
-        "_id": "OkP0y0V5gB5sIOSF",
+      "Sv55EwxxGqH2injR": {
+        "_id": "Sv55EwxxGqH2injR",
         "type": "utility",
         "name": "Cast",
         "activation": {
@@ -119,7 +119,14 @@
     "identifier": "skill-empowerment"
   },
   "img": "icons/magic/control/buff-luck-fortune-green-gold.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -127,10 +134,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

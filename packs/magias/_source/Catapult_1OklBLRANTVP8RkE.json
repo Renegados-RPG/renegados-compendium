@@ -66,8 +66,8 @@
       "prepared": false
     },
     "activities": {
-      "fLRP3MbWIyxazIAE": {
-        "_id": "fLRP3MbWIyxazIAE",
+      "PaESwFi1uj4tVNQD": {
+        "_id": "PaESwFi1uj4tVNQD",
         "type": "save",
         "name": "",
         "activation": {
@@ -141,7 +141,14 @@
     "identifier": "catapult"
   },
   "img": "icons/magic/water/projectile-ice-chunk.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "mSGFQXISs99L3ldf",
   "_stats": {
@@ -149,10 +156,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

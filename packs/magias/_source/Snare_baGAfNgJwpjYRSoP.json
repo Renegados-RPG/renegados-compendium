@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "bQl1RpSE4BZkOVY5": {
-        "_id": "bQl1RpSE4BZkOVY5",
+      "UtU1GpR32s1U9oKj": {
+        "_id": "UtU1GpR32s1U9oKj",
         "type": "save",
         "activation": {
           "type": "action",
@@ -125,7 +125,14 @@
     "identifier": "snare"
   },
   "img": "icons/skills/targeting/crosshair-mark-rough-pink.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "mSGFQXISs99L3ldf",
   "_stats": {
@@ -133,10 +140,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

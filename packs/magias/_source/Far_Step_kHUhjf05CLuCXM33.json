@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "SN38FoX1DtsYi0fG": {
-        "_id": "SN38FoX1DtsYi0fG",
+      "nBgDQQ7MG2bXiINi": {
+        "_id": "nBgDQQ7MG2bXiINi",
         "type": "utility",
         "name": "Cast",
         "activation": {
@@ -118,7 +118,14 @@
     "identifier": "far-step"
   },
   "img": "icons/skills/movement/feet-spurred-boots-brown.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -126,10 +133,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

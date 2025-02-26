@@ -67,8 +67,8 @@
       "prepared": true
     },
     "activities": {
-      "bg4zbnFGCQbo1Sgh": {
-        "_id": "bg4zbnFGCQbo1Sgh",
+      "qd2Jp9AMb6Sm4IE4": {
+        "_id": "qd2Jp9AMb6Sm4IE4",
         "type": "save",
         "name": "",
         "activation": {
@@ -142,7 +142,14 @@
     "identifier": "frostbite"
   },
   "img": "icons/magic/water/snowflake-ice-blue-white.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "5sfnKjibpomY4yAH",
   "_stats": {
@@ -150,10 +157,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

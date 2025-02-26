@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "FjdRCyRD9tDY0oFj": {
-        "_id": "FjdRCyRD9tDY0oFj",
+      "aWiUy36YeXYD5Z02": {
+        "_id": "aWiUy36YeXYD5Z02",
         "type": "save",
         "name": "",
         "activation": {
@@ -147,7 +147,14 @@
     "identifier": "elemental-bane"
   },
   "img": "icons/magic/death/skull-fire-white-yellow.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "LSOixp64odLrO3HH",
   "_stats": {
@@ -155,10 +162,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

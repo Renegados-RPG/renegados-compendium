@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "zR6NYSCp0d6Fc0MY": {
-        "_id": "zR6NYSCp0d6Fc0MY",
+      "0A2l0OEpltrsXJVN": {
+        "_id": "0A2l0OEpltrsXJVN",
         "type": "save",
         "activation": {
           "type": "action",
@@ -126,7 +126,14 @@
     "identifier": "investiture-of-stone"
   },
   "img": "icons/magic/earth/construct-stone-long-arms.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "qNZdjFuhwLB2pFDx",
   "_stats": {
@@ -134,10 +141,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

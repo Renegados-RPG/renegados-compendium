@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "6RsGl9MNDdbche2U": {
-        "_id": "6RsGl9MNDdbche2U",
+      "F2BrFsHI3R7py3zC": {
+        "_id": "F2BrFsHI3R7py3zC",
         "type": "summon",
         "activation": {
           "type": "action",
@@ -127,7 +127,14 @@
     "identifier": "summon-lesser-demons"
   },
   "img": "icons/creatures/unholy/demon-fire-imp.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "24V5k0HRYWvOmD2f",
   "_stats": {
@@ -135,10 +142,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

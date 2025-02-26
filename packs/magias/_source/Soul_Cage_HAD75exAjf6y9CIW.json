@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "TLjZD6DnaohvknRB": {
-        "_id": "TLjZD6DnaohvknRB",
+      "lplJxc7npJSuTda0": {
+        "_id": "lplJxc7npJSuTda0",
         "type": "heal",
         "name": "",
         "activation": {
@@ -130,7 +130,14 @@
     "identifier": "soul-cage"
   },
   "img": "icons/magic/death/skull-flames-white-blue.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "qNZdjFuhwLB2pFDx",
   "_stats": {
@@ -138,10 +145,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

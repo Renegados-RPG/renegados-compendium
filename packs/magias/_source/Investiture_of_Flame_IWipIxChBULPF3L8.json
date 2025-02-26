@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "lXn5mABBv4CY3qIG": {
-        "_id": "lXn5mABBv4CY3qIG",
+      "Jr9Im6BzRpD9civC": {
+        "_id": "Jr9Im6BzRpD9civC",
         "type": "save",
         "name": "Save: 4d8 Fire Damage",
         "activation": {
@@ -139,8 +139,8 @@
         },
         "sort": 0
       },
-      "CesJHdFC3ZjTpJPj": {
-        "_id": "CesJHdFC3ZjTpJPj",
+      "DizbLgdG9VfUvuaJ": {
+        "_id": "DizbLgdG9VfUvuaJ",
         "type": "save",
         "name": "Save: 1d10 Fire Damage",
         "activation": {
@@ -214,7 +214,14 @@
     "identifier": "investiture-of-flame"
   },
   "img": "icons/magic/fire/elemental-fire-humanoid.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "qNZdjFuhwLB2pFDx",
   "_stats": {
@@ -222,10 +229,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

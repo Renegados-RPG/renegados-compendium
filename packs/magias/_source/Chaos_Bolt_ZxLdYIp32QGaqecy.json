@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "KENZJ3xGutM5OgaS": {
-        "_id": "KENZJ3xGutM5OgaS",
+      "cU7HVCRDaFbekg3W": {
+        "_id": "cU7HVCRDaFbekg3W",
         "type": "attack",
         "name": "",
         "activation": {
@@ -173,7 +173,14 @@
     "identifier": "chaos-bolt"
   },
   "img": "icons/magic/unholy/projectile-smoke-trail-pink.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "mSGFQXISs99L3ldf",
   "_stats": {
@@ -181,10 +188,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

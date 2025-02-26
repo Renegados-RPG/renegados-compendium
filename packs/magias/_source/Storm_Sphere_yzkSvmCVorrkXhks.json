@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "B7XnU6iUWeWJ0xpo": {
-        "_id": "B7XnU6iUWeWJ0xpo",
+      "F5QT8xsWWCYi7FlO": {
+        "_id": "F5QT8xsWWCYi7FlO",
         "type": "attack",
         "name": "Attack: 4d6 Lightning Damage",
         "activation": {
@@ -141,8 +141,8 @@
         },
         "sort": 0
       },
-      "JXphf6I6QtoZW9bF": {
-        "_id": "JXphf6I6QtoZW9bF",
+      "Ba2ONan2Ci6E87Sq": {
+        "_id": "Ba2ONan2Ci6E87Sq",
         "type": "save",
         "name": "Save: 2d6 Bludgeoning Damage",
         "activation": {
@@ -216,7 +216,14 @@
     "identifier": "storm-sphere"
   },
   "img": "icons/commodities/gems/pearl-water.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "LSOixp64odLrO3HH",
   "_stats": {
@@ -224,10 +231,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

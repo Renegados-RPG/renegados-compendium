@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "23DdYYps4Mec7QHD": {
-        "_id": "23DdYYps4Mec7QHD",
+      "mlaNFO7ysb5tAn90": {
+        "_id": "mlaNFO7ysb5tAn90",
         "type": "save",
         "name": "",
         "activation": {
@@ -139,8 +139,8 @@
         },
         "sort": 0
       },
-      "FOdu8NW5t8eHQCKk": {
-        "_id": "FOdu8NW5t8eHQCKk",
+      "zGDnaobqiKm26Y3I": {
+        "_id": "zGDnaobqiKm26Y3I",
         "type": "summon",
         "activation": {
           "type": "action",
@@ -197,7 +197,14 @@
     "identifier": "summon-greater-demon"
   },
   "img": "icons/creatures/unholy/demon-horned-winged-laughing.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "LSOixp64odLrO3HH",
   "_stats": {
@@ -205,10 +212,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

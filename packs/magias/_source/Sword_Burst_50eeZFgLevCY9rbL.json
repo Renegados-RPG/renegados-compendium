@@ -66,8 +66,8 @@
       "prepared": true
     },
     "activities": {
-      "MjP4LfOM9qeOXP3G": {
-        "_id": "MjP4LfOM9qeOXP3G",
+      "XprZLNzLItnF6EZu": {
+        "_id": "XprZLNzLItnF6EZu",
         "type": "save",
         "name": "",
         "activation": {
@@ -141,7 +141,14 @@
     "identifier": "sword-burst"
   },
   "img": "icons/skills/ranged/daggers-thrown-salvo-teal.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "5sfnKjibpomY4yAH",
   "_stats": {
@@ -149,10 +156,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

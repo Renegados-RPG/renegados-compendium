@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "9i575507b8uDqhLJ": {
-        "_id": "9i575507b8uDqhLJ",
+      "KCc7lLOaqSwqXeIG": {
+        "_id": "KCc7lLOaqSwqXeIG",
         "type": "utility",
         "name": "Cast",
         "activation": {
@@ -120,7 +120,14 @@
     "identifier": "ceremony"
   },
   "img": "icons/skills/trades/academics-study-reading-book.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "mSGFQXISs99L3ldf",
   "_stats": {
@@ -128,10 +135,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

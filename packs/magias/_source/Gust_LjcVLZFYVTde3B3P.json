@@ -67,8 +67,8 @@
       "prepared": true
     },
     "activities": {
-      "0sUjDF4279GGbHgk": {
-        "_id": "0sUjDF4279GGbHgk",
+      "StkSOXJ85vWm0wUR": {
+        "_id": "StkSOXJ85vWm0wUR",
         "type": "save",
         "activation": {
           "type": "action",
@@ -125,7 +125,14 @@
     "identifier": "gust"
   },
   "img": "icons/magic/air/wind-stream-blue-gray.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "5sfnKjibpomY4yAH",
   "_stats": {
@@ -133,10 +140,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

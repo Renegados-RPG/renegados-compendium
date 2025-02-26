@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "fkLljuWnYm5ZHtiN": {
-        "_id": "fkLljuWnYm5ZHtiN",
+      "9cZgmCRfph4kzf15": {
+        "_id": "9cZgmCRfph4kzf15",
         "type": "utility",
         "name": "Cast",
         "activation": {
@@ -120,7 +120,14 @@
     "identifier": "wall-of-water"
   },
   "img": "icons/creatures/fish/fish-shark-swimming.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "24V5k0HRYWvOmD2f",
   "_stats": {
@@ -128,10 +135,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

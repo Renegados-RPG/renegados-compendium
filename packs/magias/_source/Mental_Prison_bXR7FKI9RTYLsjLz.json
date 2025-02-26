@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "mLGQDAo2S8CYH6Gt": {
-        "_id": "mLGQDAo2S8CYH6Gt",
+      "XoAH43vketj9hicU": {
+        "_id": "XoAH43vketj9hicU",
         "type": "save",
         "name": "Save: 5d10 Psychic Damage",
         "activation": {
@@ -138,8 +138,8 @@
         },
         "sort": 0
       },
-      "orSH3yDoV4nvOJfu": {
-        "_id": "orSH3yDoV4nvOJfu",
+      "0ztxzWUNoKWIwAUC": {
+        "_id": "0ztxzWUNoKWIwAUC",
         "type": "save",
         "name": "Save: 5d10 Psychic Damage",
         "activation": {
@@ -209,8 +209,8 @@
         },
         "sort": 0
       },
-      "0Wj5U60f0kJfrs5M": {
-        "_id": "0Wj5U60f0kJfrs5M",
+      "LV6iOu0siNklKdAs": {
+        "_id": "LV6iOu0siNklKdAs",
         "type": "save",
         "name": "Save: 10d10 Psychic Damage",
         "activation": {
@@ -284,7 +284,14 @@
     "identifier": "mental-prison"
   },
   "img": "icons/magic/perception/eye-ringed-green.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "qNZdjFuhwLB2pFDx",
   "_stats": {
@@ -292,10 +299,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

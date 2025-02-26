@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "7UooO6DlYNpJrSLU": {
-        "_id": "7UooO6DlYNpJrSLU",
+      "nzIhd0Iwdaivb7IM": {
+        "_id": "nzIhd0Iwdaivb7IM",
         "type": "save",
         "name": "",
         "activation": {
@@ -147,7 +147,14 @@
     "identifier": "illusory-dragon"
   },
   "img": "icons/creatures/eyes/humanoid-single-purple-blue.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "sBryFp6VQJONUeHA",
   "_stats": {
@@ -155,10 +162,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

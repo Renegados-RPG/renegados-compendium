@@ -50,13 +50,7 @@
       "name": "Renegados",
       "sorting": "m",
       "color": "#2b7fee",
-      "packs": [
-        "classes",
-        "subclasses",
-        "classes-e-subclasses-features",
-        "racas",
-        "magias"
-      ]
+      "packs": ["classes", "subclasses", "classes-e-subclasses-features", "racas", "magias"]
     }
   ],
   "packs": [

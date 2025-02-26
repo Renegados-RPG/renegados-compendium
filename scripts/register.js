@@ -106,11 +106,10 @@ function setEncumbranceData() {
 function fixExhaustion() {
   // Fix system bug (2024 rules)
   if (convertEnabled()) {
-    CONFIG.DND5E.conditionTypes.exhaustion.reduction =
-      foundry.utils.mergeObject(
-        CONFIG.DND5E.conditionTypes.exhaustion.reduction,
-        { speed: 1.5 },
-      );
+    CONFIG.DND5E.conditionTypes.exhaustion.reduction = foundry.utils.mergeObject(
+      CONFIG.DND5E.conditionTypes.exhaustion.reduction,
+      { speed: 1.5 },
+    );
   }
 }
 
@@ -227,8 +226,7 @@ export class Converters {
     Object.keys(activities).forEach((key) => {
       Converters.range(activities[key].range);
 
-      const conversion =
-        Converters.conversionInfo[activities[key].target?.template?.units];
+      const conversion = Converters.conversionInfo[activities[key].target?.template?.units];
       if (conversion) {
         foundry.utils.mergeObject(activities[key].target.template, {
           size: conversion.converter(activities[key].target.template.size),
@@ -243,8 +241,7 @@ export class Converters {
   static distanceAdvancement(advancements) {
     advancements.forEach((adv) => {
       if (adv.type === "ScaleValue" && adv.configuration.type === "distance") {
-        const conversion =
-          Converters.conversionInfo[adv.configuration.distance.units];
+        const conversion = Converters.conversionInfo[adv.configuration.distance.units];
         if (conversion) {
           foundry.utils.mergeObject(adv.configuration.distance, {
             units: conversion.units,
@@ -310,25 +307,15 @@ export class Converters {
         },
         system: {
           tooltip: translation.tooltip ?? data.system.tooltip,
-          subclassHeader:
-            translation.subclassHeader ?? data.system.subclassHeader,
+          subclassHeader: translation.subclassHeader ?? data.system.subclassHeader,
           unlinkedSpells: data.system.unlinkedSpells
-            ? Converters.unlinkedSpells(
-                data.system.unlinkedSpells,
-                translation.unlinkedSpells,
-              )
+            ? Converters.unlinkedSpells(data.system.unlinkedSpells, translation.unlinkedSpells)
             : data.system.unlinkedSpells,
           description: {
             value: translation.description ?? data.system.description?.value,
-            additionalEquipment:
-              translation.additionalEquipment ??
-              data.system.description?.additionalEquipment,
-            additionalHitPoints:
-              translation.additionalHitPoints ??
-              data.system.description?.additionalHitPoints,
-            additionalTraits:
-              translation.additionalTraits ??
-              data.system.description?.additionalTraits,
+            additionalEquipment: translation.additionalEquipment ?? data.system.description?.additionalEquipment,
+            additionalHitPoints: translation.additionalHitPoints ?? data.system.description?.additionalHitPoints,
+            additionalTraits: translation.additionalTraits ?? data.system.description?.additionalTraits,
             subclass: translation.subclass ?? data.system.description?.subclass,
           },
         },
@@ -383,15 +370,12 @@ export class Converters {
 
     if (Array.isArray(data)) {
       return data.map((effect) => {
-        const translation =
-          translations[effect._id] || translations[effect.name];
+        const translation = translations[effect._id] || translations[effect.name];
         if (translation) {
           return foundry.utils.mergeObject(effect, {
             name: translation.name ?? effect.name,
             description: translation.description ?? effect.description,
-            changes: effect.changes
-              ? Converters.effectsChanges(effect.changes, translation.changes)
-              : effect.changes,
+            changes: effect.changes ? Converters.effectsChanges(effect.changes, translation.changes) : effect.changes,
           });
         }
         return effect;
@@ -439,8 +423,7 @@ export class Converters {
   }
 
   static activities() {
-    return (activities, translations) =>
-      Converters._activities(activities, translations);
+    return (activities, translations) => Converters._activities(activities, translations);
   }
 
   static _activities(activities, translations) {
@@ -448,11 +431,8 @@ export class Converters {
 
     Object.keys(activities).forEach((key) => {
       const activity = activities[key];
-      const translationKey = activity.name?.length
-        ? activity.name
-        : activity.type;
-      const translation =
-        translations[activity._id] || translations[translationKey];
+      const translationKey = activity.name?.length ? activity.name : activity.type;
+      const translation = translations[activity._id] || translations[translationKey];
       if (translation) {
         foundry.utils.mergeObject(activity, {
           name: translation.name ?? activity.name,
@@ -460,8 +440,7 @@ export class Converters {
             condition: translation.condition ?? activity.activation?.condition,
           },
           description: {
-            chatFlavor:
-              translation.chatFlavor ?? activity.description?.chatFlavor,
+            chatFlavor: translation.chatFlavor ?? activity.description?.chatFlavor,
           },
           profiles: activity.profiles
             ? Converters.summonProfiles(activity.profiles, translation.profiles)
@@ -492,8 +471,7 @@ export class Converters {
   }
 
   static advancement() {
-    return (advancements, translations) =>
-      Converters._advancement(advancements, translations);
+    return (advancements, translations) => Converters._advancement(advancements, translations);
   }
 
   static _advancement(advancements, translations) {

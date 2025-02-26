@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "KwLwGGh4H7gb2QU2": {
-        "_id": "KwLwGGh4H7gb2QU2",
+      "1XRckfV7eZuvzYFC": {
+        "_id": "1XRckfV7eZuvzYFC",
         "type": "attack",
         "activation": {
           "type": "action",
@@ -125,8 +125,8 @@
         },
         "sort": 0
       },
-      "Jy6NQJtdfrvZ8ssX": {
-        "_id": "Jy6NQJtdfrvZ8ssX",
+      "4GxSuJuAC0IaBaVp": {
+        "_id": "4GxSuJuAC0IaBaVp",
         "type": "save",
         "activation": {
           "type": "action",
@@ -179,8 +179,8 @@
         },
         "sort": 0
       },
-      "e9scQfamBqpaGWic": {
-        "_id": "e9scQfamBqpaGWic",
+      "G31FoC6uPFxTeiYX": {
+        "_id": "G31FoC6uPFxTeiYX",
         "type": "damage",
         "name": "Damage: 4d8 Radiant Damage",
         "activation": {
@@ -244,8 +244,8 @@
         },
         "sort": 0
       },
-      "YtspqeTIvVoWUVDT": {
-        "_id": "YtspqeTIvVoWUVDT",
+      "I0Y7cHwjJX5CAa7I": {
+        "_id": "I0Y7cHwjJX5CAa7I",
         "type": "damage",
         "name": "Damage: 4d8 Radiant Damage",
         "activation": {
@@ -313,7 +313,14 @@
     "identifier": "wall-of-light"
   },
   "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -321,10 +328,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "Q7Wsc0l8UVxIStSE": {
-        "_id": "Q7Wsc0l8UVxIStSE",
+      "2pkqQws9SY6PMA4S": {
+        "_id": "2pkqQws9SY6PMA4S",
         "type": "save",
         "name": "",
         "activation": {
@@ -143,7 +143,14 @@
     "identifier": "maddening-darkness"
   },
   "img": "icons/magic/unholy/silhouette-robe-evil-glow.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "sBryFp6VQJONUeHA",
   "_stats": {
@@ -151,10 +158,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

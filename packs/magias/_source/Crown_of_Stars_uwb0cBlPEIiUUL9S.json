@@ -67,8 +67,8 @@
       "prepared": false
     },
     "activities": {
-      "qlOaYQB2exRIT7mX": {
-        "_id": "qlOaYQB2exRIT7mX",
+      "mI6C7ML10bIVTYHo": {
+        "_id": "mI6C7ML10bIVTYHo",
         "type": "attack",
         "name": "",
         "activation": {
@@ -144,7 +144,14 @@
     "identifier": "crown-of-stars"
   },
   "img": "icons/magic/control/control-influence-crown-yellow.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "jlzt5grwuPkCnFGY",
   "_stats": {
@@ -152,10 +159,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

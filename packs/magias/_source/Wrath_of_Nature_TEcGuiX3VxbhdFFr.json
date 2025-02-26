@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "mjIJkeYhTNxffurX": {
-        "_id": "mjIJkeYhTNxffurX",
+      "tkB9BHTxD9RD8nb2": {
+        "_id": "tkB9BHTxD9RD8nb2",
         "type": "attack",
         "activation": {
           "type": "action",
@@ -124,8 +124,8 @@
         },
         "sort": 0
       },
-      "tuCOQbu7lAdk4qYl": {
-        "_id": "tuCOQbu7lAdk4qYl",
+      "nOh6D8Na4zWyB7jH": {
+        "_id": "nOh6D8Na4zWyB7jH",
         "type": "save",
         "name": "",
         "activation": {
@@ -199,7 +199,14 @@
     "identifier": "wrath-of-nature"
   },
   "img": "icons/magic/fire/flame-burning-tree-face.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -207,10 +214,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

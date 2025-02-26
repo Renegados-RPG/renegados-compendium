@@ -8,13 +8,7 @@ const __dirname = dirname(__filename);
 
 console.log(__dirname, __filename);
 
-const packs = [
-  "classes",
-  "classes-e-subclasses-features",
-  "magias",
-  "racas",
-  "subclasses",
-];
+const packs = ["classes", "classes-e-subclasses-features", "magias", "racas", "subclasses"];
 
 const clearFlags = (filePath) => {
   const data = JSON.parse(readFileSync(filePath, "utf8"));

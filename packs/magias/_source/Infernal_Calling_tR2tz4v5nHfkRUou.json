@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "HmTZzsc87h3o4hQX": {
-        "_id": "HmTZzsc87h3o4hQX",
+      "PZHhOmHMitdeDeW2": {
+        "_id": "PZHhOmHMitdeDeW2",
         "type": "summon",
         "activation": {
           "type": "action",
@@ -123,8 +123,8 @@
           "prompt": true
         }
       },
-      "DG9CIYwbWQ52zEOe": {
-        "_id": "DG9CIYwbWQ52zEOe",
+      "kn92gNq9ZAEVBIql": {
+        "_id": "kn92gNq9ZAEVBIql",
         "type": "damage",
         "name": "",
         "activation": {
@@ -191,7 +191,14 @@
     "identifier": "infernal-calling"
   },
   "img": "icons/creatures/unholy/demon-fire-horned-winged-roar.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -199,10 +206,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

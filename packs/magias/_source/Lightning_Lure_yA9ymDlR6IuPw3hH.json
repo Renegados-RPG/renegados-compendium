@@ -66,8 +66,8 @@
       "prepared": true
     },
     "activities": {
-      "sAFYOk3Jubq4ZrBA": {
-        "_id": "sAFYOk3Jubq4ZrBA",
+      "ceMJCAOsx5WnRzbM": {
+        "_id": "ceMJCAOsx5WnRzbM",
         "type": "save",
         "name": "",
         "activation": {
@@ -141,7 +141,14 @@
     "identifier": "lightning-lure"
   },
   "img": "icons/magic/lightning/bolt-strike-sparks-teal.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "5sfnKjibpomY4yAH",
   "_stats": {
@@ -149,10 +156,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

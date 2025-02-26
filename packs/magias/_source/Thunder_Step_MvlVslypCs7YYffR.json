@@ -66,8 +66,8 @@
       "prepared": false
     },
     "activities": {
-      "0kiqbVhxBSaf4rwg": {
-        "_id": "0kiqbVhxBSaf4rwg",
+      "hflqBMjwqwMQXRFj": {
+        "_id": "hflqBMjwqwMQXRFj",
         "type": "save",
         "name": "",
         "activation": {
@@ -141,7 +141,14 @@
     "identifier": "thunder-step"
   },
   "img": "icons/magic/lightning/bolt-strike-cloud-gray.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "24V5k0HRYWvOmD2f",
   "_stats": {
@@ -149,10 +156,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

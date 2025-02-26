@@ -2,12 +2,10 @@
   "actor": {},
   "item": {
     "0": {
-      "key": "descricao",
-      "value": "system.description.value"
-    },
-    "1": {
       "key": "materials",
       "value": "system.materials.value"
     }
-  }
+  },
+  "scene": {},
+  "journalEntry": {}
 }

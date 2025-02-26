@@ -66,8 +66,8 @@
       "prepared": true
     },
     "activities": {
-      "hgvM6n9bTHPFV4YG": {
-        "_id": "hgvM6n9bTHPFV4YG",
+      "sA8xEioYj0WOAbLe": {
+        "_id": "sA8xEioYj0WOAbLe",
         "type": "attack",
         "name": "",
         "activation": {
@@ -143,7 +143,14 @@
     "identifier": "primal-savagery"
   },
   "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "5sfnKjibpomY4yAH",
   "_stats": {
@@ -151,10 +158,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

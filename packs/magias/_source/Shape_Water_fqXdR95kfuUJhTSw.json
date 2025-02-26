@@ -66,8 +66,8 @@
       "prepared": true
     },
     "activities": {
-      "lwZBsKUPB77WoDP4": {
-        "_id": "lwZBsKUPB77WoDP4",
+      "61B5kx75uRFJhT53": {
+        "_id": "61B5kx75uRFJhT53",
         "type": "utility",
         "name": "Cast",
         "activation": {
@@ -117,7 +117,14 @@
     "identifier": "shape-water"
   },
   "img": "icons/creatures/fish/fish-marlin-swordfight-blue.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "5sfnKjibpomY4yAH",
   "_stats": {
@@ -125,10 +132,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

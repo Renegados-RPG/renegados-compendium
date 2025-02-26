@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "qYpnR2ovFoAoU38L": {
-        "_id": "qYpnR2ovFoAoU38L",
+      "qZQriZC7lzBtQ4Cl": {
+        "_id": "qZQriZC7lzBtQ4Cl",
         "type": "save",
         "name": "Save: 4d8 Radiant Damage",
         "activation": {
@@ -139,8 +139,8 @@
         },
         "sort": 0
       },
-      "hea0qst1phrDFIRx": {
-        "_id": "hea0qst1phrDFIRx",
+      "GZqSIh9JhihHMVSj": {
+        "_id": "GZqSIh9JhihHMVSj",
         "type": "damage",
         "name": "Damage: 2d8 Radiant Damage",
         "activation": {
@@ -208,7 +208,14 @@
     "identifier": "holy-weapon"
   },
   "img": "icons/weapons/swords/sword-gold-holy.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -216,10 +223,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

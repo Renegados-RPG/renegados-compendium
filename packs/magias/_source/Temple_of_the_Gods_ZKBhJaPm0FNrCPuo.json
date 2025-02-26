@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "1h7MDjM4oUOL5Mtz": {
-        "_id": "1h7MDjM4oUOL5Mtz",
+      "W6MPEy1JqS52aVSt": {
+        "_id": "W6MPEy1JqS52aVSt",
         "type": "save",
         "activation": {
           "type": "action",
@@ -122,8 +122,8 @@
         },
         "sort": 0
       },
-      "N2EaKigftjeqcsLg": {
-        "_id": "N2EaKigftjeqcsLg",
+      "HFjWdq4O61z7Tzmd": {
+        "_id": "HFjWdq4O61z7Tzmd",
         "type": "heal",
         "activation": {
           "type": "action",
@@ -179,7 +179,14 @@
     "identifier": "temple-of-the-gods"
   },
   "img": "icons/environment/settlement/columned-forum.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "jlzt5grwuPkCnFGY",
   "_stats": {
@@ -187,10 +194,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

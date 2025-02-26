@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "yihqnMwOsK6875UE": {
-        "_id": "yihqnMwOsK6875UE",
+      "bpBA5mMb42YTO6Uk": {
+        "_id": "bpBA5mMb42YTO6Uk",
         "type": "save",
         "name": "Save: 2d6 Bludgeoning Damage",
         "activation": {
@@ -140,8 +140,8 @@
         },
         "sort": 0
       },
-      "94xNozN9ZmiLY1Mt": {
-        "_id": "94xNozN9ZmiLY1Mt",
+      "n58gjfoz8PrJNTUu": {
+        "_id": "n58gjfoz8PrJNTUu",
         "type": "save",
         "name": "Save: 2d6 Bludgeoning Damage",
         "activation": {
@@ -215,7 +215,14 @@
     "identifier": "maximilians-earthen-grasp"
   },
   "img": "icons/magic/earth/strike-fist-stone-light.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "Bytl0oo4sfAlEA9D",
   "_stats": {
@@ -223,10 +230,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

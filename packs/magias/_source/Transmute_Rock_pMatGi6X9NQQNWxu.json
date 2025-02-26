@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "3ZYoTwZTA5O2AXbY": {
-        "_id": "3ZYoTwZTA5O2AXbY",
+      "gtyZQTB8tHCqR4Iw": {
+        "_id": "gtyZQTB8tHCqR4Iw",
         "type": "save",
         "name": "",
         "activation": {
@@ -139,8 +139,8 @@
         },
         "sort": 0
       },
-      "xvMJnfRdCEnGGznp": {
-        "_id": "xvMJnfRdCEnGGznp",
+      "aHyys3AZ1XaE89e4": {
+        "_id": "aHyys3AZ1XaE89e4",
         "type": "check",
         "activation": {
           "type": "action",
@@ -193,7 +193,14 @@
     "identifier": "transmute-rock"
   },
   "img": "icons/magic/symbols/runes-carved-stone-red.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -201,10 +208,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

@@ -69,8 +69,8 @@
       "prepared": false
     },
     "activities": {
-      "8ZBT8SyxQnMv63jh": {
-        "_id": "8ZBT8SyxQnMv63jh",
+      "GuWuZRMfyBIY8VWT": {
+        "_id": "GuWuZRMfyBIY8VWT",
         "type": "damage",
         "name": "",
         "activation": {
@@ -138,7 +138,14 @@
     "identifier": "shadow-of-moil"
   },
   "img": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "LSOixp64odLrO3HH",
   "_stats": {
@@ -146,10 +153,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

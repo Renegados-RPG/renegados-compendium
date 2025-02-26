@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "HZPTqsxbRpMGN1MK": {
-        "_id": "HZPTqsxbRpMGN1MK",
+      "DT9ppRZg8x5QahEl": {
+        "_id": "DT9ppRZg8x5QahEl",
         "type": "damage",
         "name": "",
         "activation": {
@@ -137,7 +137,14 @@
     "identifier": "shadow-blade"
   },
   "img": "icons/skills/melee/sword-stuck-glowing-pink.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "Bytl0oo4sfAlEA9D",
   "_stats": {
@@ -145,10 +152,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

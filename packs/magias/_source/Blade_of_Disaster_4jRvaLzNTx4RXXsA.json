@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "6d5g9jvQhJwlLuGB": {
-        "_id": "6d5g9jvQhJwlLuGB",
+      "4HMUYCHqYiwaWoDT": {
+        "_id": "4HMUYCHqYiwaWoDT",
         "type": "attack",
         "name": "Attack: 4d12 Force Damage",
         "activation": {
@@ -141,8 +141,8 @@
         },
         "sort": 0
       },
-      "HK19iYzmNcp2mFQZ": {
-        "_id": "HK19iYzmNcp2mFQZ",
+      "ii3QnN98rw0Sr1AR": {
+        "_id": "ii3QnN98rw0Sr1AR",
         "type": "attack",
         "name": "Attack: 8d12 Force Damage",
         "activation": {
@@ -214,8 +214,8 @@
         },
         "sort": 0
       },
-      "ptzohB7A19E0QYR2": {
-        "_id": "ptzohB7A19E0QYR2",
+      "97kUCvgWLzIYlOGu": {
+        "_id": "97kUCvgWLzIYlOGu",
         "type": "attack",
         "name": "Attack: 12d12 Force Damage",
         "activation": {
@@ -291,7 +291,14 @@
     "identifier": "blade-of-disaster"
   },
   "img": "icons/weapons/swords/sword-broad-serrated-blue.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "tNXIaknMpXtShkeZ",
   "_stats": {
@@ -299,10 +306,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {

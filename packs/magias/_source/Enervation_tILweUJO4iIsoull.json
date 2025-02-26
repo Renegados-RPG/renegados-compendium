@@ -68,8 +68,8 @@
       "prepared": false
     },
     "activities": {
-      "o9x87I5WtWznJQXc": {
-        "_id": "o9x87I5WtWznJQXc",
+      "ohaHCmGbtZdZzgWU": {
+        "_id": "ohaHCmGbtZdZzgWU",
         "type": "save",
         "name": "Save: 2d8 Necrotic Damage",
         "activation": {
@@ -139,8 +139,8 @@
         },
         "sort": 0
       },
-      "NCLKMxeIo3SrsuHr": {
-        "_id": "NCLKMxeIo3SrsuHr",
+      "AiSG14c9jfbv4sdW": {
+        "_id": "AiSG14c9jfbv4sdW",
         "type": "save",
         "name": "Save: 4d8 Necrotic Damage",
         "activation": {
@@ -210,8 +210,8 @@
         },
         "sort": 0
       },
-      "RkmX7a9Wu0xbq594": {
-        "_id": "RkmX7a9Wu0xbq594",
+      "opZijHFGWIqIIuBH": {
+        "_id": "opZijHFGWIqIIuBH",
         "type": "save",
         "name": "Save: 4d8 Necrotic Damage",
         "activation": {
@@ -281,8 +281,8 @@
         },
         "sort": 0
       },
-      "18vqcX7il8VYKO3A": {
-        "_id": "18vqcX7il8VYKO3A",
+      "EelQly4nDrwgLTjx": {
+        "_id": "EelQly4nDrwgLTjx",
         "type": "heal",
         "activation": {
           "type": "action",
@@ -338,7 +338,14 @@
     "identifier": "enervation"
   },
   "img": "icons/magic/unholy/strike-body-life-soul-green.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "V2CwJ7gSVGJDUE1H",
   "_stats": {
@@ -346,10 +353,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.4",
+    "systemVersion": "4.3.3",
     "createdTime": 1740591310753,
-    "modifiedTime": 1740591310753,
-    "lastModifiedBy": "bzRFRwzAgwZeJ3Yf"
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,
   "ownership": {
