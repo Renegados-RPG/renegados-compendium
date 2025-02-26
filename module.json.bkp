@@ -1,5 +1,5 @@
 {
-  "id": "renegados-compendium",
+  "id": "renegados-compendium-asd",
   "title": "Renegados Compendium",
   "description": "Compendium for the Renegados system",
   "version": "0.0.1",
@@ -43,20 +43,6 @@
       "name": "Chronus",
       "discord": "chronuszin",
       "flags": {}
-    }
-  ],
-  "packFolders": [
-    {
-      "name": "Renegados",
-      "sorting": "m",
-      "color": "#2b7fee",
-      "packs": [
-        "classes",
-        "subclasses",
-        "classes-e-subclasses-features",
-        "racas",
-        "magias"
-      ]
     }
   ],
   "packs": [
@@ -124,13 +110,13 @@
     {
       "lang": "pt-BR",
       "name": "Português Brasileiro",
-      "path": "lang/pt-BR/pt-BR.json",
+      "path": "languages/pt-BR/pt-BR.json",
       "flags": {}
     },
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en/en.json",
+      "path": "languages/en/en.json",
       "flags": {}
     }
   ],
@@ -140,5 +126,8 @@
         "DRS 5.1": "SOURCE.BOOK.SRD"
       }
     }
-  }
+  },
+  "manifest": "https://gitlab.com/lucasts/renegados/-/raw/main/module.json",
+  "download": "https://gitlab.com/lucasts/renegados/-/archive/main/renegados-main.zip",
+  "url": "https://gitlab.com/lucasts/renegados"
 }
