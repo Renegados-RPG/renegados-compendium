@@ -479,8 +479,8 @@
       "description": "<p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.</p>"
     },
     "XogoBnFWmCAHXppo": {
-      "name": "Ataque Extra",
-      "description": "<p>Você pode atacar duas vezes, em vez de uma, sempre que realizar a ação Atacar no seu turno.</p>"
+      "name": "Extra Attack",
+      "description": "<p>You can attack twice, instead of once, whenever you take the Attack action on your turn.</p>"
     },
     "q9g1MLXuLZyxjQMg": {
       "name": "Extra Attack",
