@@ -29,7 +29,7 @@
       "description": "<p>Com uma ação, você pode derramar o conteúdo deste frasco sobre uma criatura que esteja a até 1,5 metro de distância, ou arremessar o frasco a até 6 metros, quebrando-o com o impacto. Em ambos os casos, faça um ataque à distância contra uma criatura ou objeto, tratando o ácido como uma arma improvisada. Com um acerto, o alvo sofre 2d6 pontos de dano ácido.</p>",
       "activities": {
         "attack": {
-          "chatFlavor": "improvised weapon"
+          "chatFlavor": "arma improvisada"
         }
       }
     },
@@ -70,10 +70,10 @@
       "description": "<p>Este fluido pegajoso e adesivo inflama em contato com o ar. Com uma ação, você pode arremessar este frasco a até 6 metros de distância, quebrando-o com o impacto. Faça um ataque à distância contra uma criatura ou objeto, tratando o fogo alquímico como uma arma improvi­sada. Com um acerto, o alvo sofre 1d4 pontos de dano ígneo no início de cada um dos seus turnos, até encerrar o processo usando sua ação para realizar um teste de Destreza com CD 10 e, com um sucesso, extinguir as chamas.</p>",
       "activities": {
         "attack": {
-          "chatFlavor": "improvised weapon"
+          "chatFlavor": "arma improvisada"
         },
         "save": {
-          "chatFlavor": "improvised weapon"
+          "chatFlavor": "arma improvisada"
         }
       }
     },
@@ -106,10 +106,10 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando este amuleto, com uma ação você pode escolher um local com o qual esteja familiarizado em outro plano de existência. Faça, então, um teste de Inteligência CD 15. Em caso de sucesso, você conjura a magia <em>@Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Transição Planar}</em>. Se falhar, você e cada criatura ou objeto a até 4,5 metros de você viajam para uma localidade aleatória. Jogue 1d100. De 1-60, você viaja para uma localidade aleatória dentro do plano que você escolheu. De 61-100, você viaja para um plano de existência aleatório.</p>",
       "activities": {
         "38pYKge1C3c2wPLF": {
-          "condition": "After a successful Intelligence check"
+          "condition": "Após um teste bem-sucedido de Inteligência"
         },
         "Name Location": {
-          "name": "Name Location"
+          "name": "Nomear uma Localização"
         }
       }
     },
@@ -118,7 +118,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Enquanto estiver empunhando este escudo, você pode proferir uma palavra de comando com uma ação bônus para torná-lo animado. O escudo salta no ar e flutua no mesmo espaço que você ocupa para protegê-lo como se você o estivesse empunhando, mas deixando suas mãos livres. O escudo permanece animado por 1 minuto, até que você use uma ação bônus para finalizar este efeito, ou até que você fique incapacitado ou morra. Se isso acontecer, o escudo cai no chão ou volta para uma das suas mãos, caso alguma esteja livre.</p>",
       "activities": {
         "utility": {
-          "condition": "Command Word"
+          "condition": "Palavra de comando"
         }
       }
     },
@@ -163,7 +163,7 @@
       "description": "<p>Você ganha +2 de bônus na CA contra ataques à distância enquanto empunhar este escudo. Esse bônus se soma ao bônus normal do escudo para a CA. Além disso, você pode usar sua reação para se tornar o alvo de um ataque sempre que um atacante faz um ataque à distância contra um alvo a até 1,5 metro de você.</p>",
       "activities": {
         "utility": {
-          "condition": "A ranged attack within 5 ft."
+          "condition": "Um ataque a distância dentro de 1,5 metros"
         }
       }
     },
@@ -216,7 +216,7 @@
       "description": "<p>Você pode usar o veneno deste frasco para revestir uma arma cortante ou perfurante ou até três peças de munição. Aplicar o veneno demora uma ação. Uma criatura atingida por uma arma ou munição envenenada deve ser bem-sucedida em uma salvaguarda de Constituição com CD 10 ou sofrerá 1d4 pontos de dano venenoso. Uma vez aplicado, o veneno mantém seu efeito durante 1 minuto antes de secar.</p>",
       "activities": {
         "save": {
-          "condition": "one slashing or piercing weapon, or up to three pieces of ammunition"
+          "condition": "uma arma cortante ou perfurante, ou até três peças de munição"
         }
       }
     },
@@ -257,7 +257,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 27. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Cloud Giant Strength": {
-          "name": "Belt of Cloud Giant Strength"
+          "name": "Cinturão da Força de Gigante das Nuvens"
         }
       }
     },
@@ -270,7 +270,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 25. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Fire Giant Strength": {
-          "name": "Belt of Fire Giant Strength"
+          "name": "Cinturão da Força de Gigante do Fogo"
         }
       }
     },
@@ -279,7 +279,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 23. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>\n<p>O cinturão de força de gigante da pedra e o cinturão de força de gigante do gelo diferem em aparência, mas têm o mesmo efeito.</p>",
       "effects": {
         "Belt of Frost Giant Strength": {
-          "name": "Belt of Frost Giant Strength"
+          "name": "Cinturão da Força de Gigante do Gelo"
         }
       }
     },
@@ -288,7 +288,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 21. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Hill Giant Strength": {
-          "name": "Belt of Hill Giant Strength"
+          "name": "Cinturão da Força de Gigante da Colina"
         }
       }
     },
@@ -301,7 +301,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 29. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Storm Giant Strength": {
-          "name": "Belt of Storm Giant Strength"
+          "name": "Cinturão da Força de Gigante da Tempestade"
         }
       }
     },
@@ -382,7 +382,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando estas botas, você pode bater os calcanhares com uma ação bônus. Ao fazer isso, as botas dobram o seu deslocamento de caminhada, e qualquer criatura que fizer um ataque de oportunidade contra você tem desvantagem na jogada de ataque. Ao bater os calcanhares novamente, você encerra o efeito.</p>\n<p>Quando a propriedade das botas fore usada por um total de 10 minutos, a magia deixa de funcionar até que você termine um descanso longo.</p>",
       "activities": {
         "utility": {
-          "condition": "Click the heels together."
+          "condition": "Bata os calcanhares."
         }
       }
     },
@@ -391,7 +391,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando estas botas, seu deslocamento de caminhada passa a ser 9 metros, a menos que o valor de seu deslocamento de caminhada seja maior. Seu deslocamento não é reduzido se você estiver sobrecarregado ou usando armadura pesada. Além disso, você pode saltar três vezes a distância normal, embora não possa fazê-lo além do que o seu movimento restante permitiria.</p>",
       "effects": {
         "Boots of Striding and Springing": {
-          "name": "Boots of Striding and Springing"
+          "name": "Botas de Caminhar e Saltar"
         }
       }
     },
@@ -400,7 +400,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Estas botas de pele são confortáveis e transmitem uma sensação de calor. Enquanto as estiver usando, você ganha os seguintes benefícios:</p>\n<ul>\n<li>Você tem resistência a dano gélido.</li>\n<li>Você ignora terreno difícil criado por gelo ou neve. Você pode tolerar temperaturas tão baixas quanto -46ºC sem qualquer proteção adicional. Se estiver usando roupas pesadas, você pode tolerar temperaturas tão baixas quanto -73ºC.</li>\n</ul>",
       "effects": {
         "Boots of the Winterlands": {
-          "name": "Boots of the Winterlands"
+          "name": "Botas das Terras Glaciais"
         }
       }
     },
@@ -409,7 +409,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Enquanto esta tigela estiver cheia de água, com uma ação você pode pronunciar a palavra de comando da tigela e invocar um <em>@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{elemental da água}</em>, como se tivesse conjurado a magia <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{invocar elemental}</em>. A tigela não pode ser usada com este propósito novamente até o próximo amanhecer.</p>\n<p>A tigela tem cerca de 30 centímetros de diâmetro e a metade disso de profundidade. Ela pesa 1,5 quilo e pode conter cerca de 12 litros.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -418,7 +418,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando estes braceletes, você tem proficiência com o arco longo e com o arco curto, e ganha um bônus de + 2 nas jogadas de dano nos ataques à distância feitos com tais armas.</p>",
       "effects": {
         "Bracers of Archery": {
-          "name": "Bracers of Archery"
+          "name": "Braceletes de Arquearia"
         }
       }
     },
@@ -427,7 +427,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando estes braceletes, você ganha um bônus de +2 para sua CA, caso não esteja usando armadura ou escudo.</p>",
       "effects": {
         "+2 to AC": {
-          "name": "+2 to AC"
+          "name": "+2 para CA"
         }
       }
     },
@@ -440,7 +440,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Enquanto o fogo arder neste braseiro de bronze, com uma ação você pode dizer a palavra de comando e invocar um @Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{elemental do fogo}, como se tivesse conjurado a magia <em>@Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{invocar elemental}</em>. O braseiro não pode ser usado desta maneira novamente até o próximo amanhecer.</p>\n<p>O braseiro pesa 2,5 quilos.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -481,7 +481,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Esta vassoura de madeira, que pesa 1,5 quilo, funciona como uma vassoura comum até você montar nela e dizer a palavra de comando. Ela então levita abaixo de você e pode ser montada em pleno ar. Ela tem um deslocamento de voo de 15 metros. Ela pode carregar até 200 quilos, mas seu deslocamento de voo cai para 9 metros quando estiver carregando acima de 100 quilos. A vassoura para de levitar quando você pousa.</p>\n<p>Você pode enviar a vassoura para viajar sozinha a um destino a até 1,5 quilômetro de você ao dizer a palavra de comando e escolher um local, com o qual você seja familiar. A vassoura retorna quando você disser outra palavra de comando, desde que ela ainda esteja a até 1,5 quilômetro de você.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -494,8 +494,8 @@
       "description": "<p>Uma lanterna focada, que projeta um facho de luz plena em um cone de 18 metros e meia-luz por mais 18 metros. Uma vez acesa, ela queima por 6 horas, consumindo um frasco (500 mililitros) de óleo.</p>"
     },
     "Burglar's Pack": {
-      "name": "Burglar's Pack",
-      "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+      "name": "Pacote do Ladrão",
+      "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Calligrapher's Supplies": {
       "name": "Suprimentos de Calígrafo",
@@ -526,7 +526,7 @@
       "description": "<p><em>Item Maravilhoso</em></p><p>Você pode dizer a palavra de comando do tapete com uma ação para fazê-lo flutuar e voar. Ele se move de acordo com as direções determinadas por você, desde que você esteja a até 9 metros dele.</p><p>Este tapete tem 1 m x 1,5 m e tem deslocamento de 24 metros carregando até 100 kg, ou metade desse deslocamento carregando até 200 kg.</p>\n<p>Existem quatro tamanhos de tapete voador. O DM escolhe o tamanho de um determinado tapete ou o determina aleatoriamente usando a tabela @Compendium[dnd5e.tables.Z2OG7jt9R8zofxnJ]{Tapete Voador}.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -535,7 +535,7 @@
       "description": "<p><em>Item Maravilhoso</em></p><p>Você pode dizer a palavra de comando do tapete com uma ação para fazê-lo flutuar e voar. Ele se move de acordo com as direções determinadas por você, desde que você esteja a até 9 metros dele.</p><p>Este tapete tem 1,2 m x 1,8 m e tem deslocamento de 18 metros carregando até 200 kg, ou metade desse deslocamento carregando até 400 kg.</p>\n<p>Existem quatro tamanhos de tapete voador. O DM escolhe o tamanho de um determinado tapete ou o determina aleatoriamente usando a tabela @Compendium[dnd5e.tables.Z2OG7jt9R8zofxnJ]{Tapete Voador}.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -544,7 +544,7 @@
       "description": "<p><em>Item Maravilhoso</em></p><p>Você pode dizer a palavra de comando do tapete com uma ação para fazê-lo flutuar e voar. Ele se move de acordo com as direções determinadas por você, desde que você esteja a até 9 metros dele.</p><p>Este tapete tem 1,5 m x 2,1 m e tem deslocamento de 12 metros carregando até 300 kg, ou metade desse deslocamento carregando até 600 kg.</p>\n<p>Existem quatro tamanhos de tapete voador. O DM escolhe o tamanho de um determinado tapete ou o determina aleatoriamente usando a tabela @Compendium[dnd5e.tables.Z2OG7jt9R8zofxnJ]{Tapete Voador}.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -553,7 +553,7 @@
       "description": "<p><em>Item Maravilhoso</em></p><p>Você pode dizer a palavra de comando do tapete com uma ação para fazê-lo flutuar e voar. Ele se move de acordo com as direções determinadas por você, desde que você esteja a até 9 metros dele.</p><p>Este tapete tem 1,8 m x 2,7 m e tem deslocamento de 9 metros carregando até 400 kg, ou metade desse deslocamento carregando até 800 kg.</p>\n<p>Existem quatro tamanhos de tapete voador. O DM escolhe o tamanho de um determinado tapete ou o determina aleatoriamente usando a tabela @Compendium[dnd5e.tables.Z2OG7jt9R8zofxnJ]{Tapete Voador}.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -570,7 +570,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Enquanto incenso estiver queimando neste incensário, com uma ação você pode dizer a palavra de comando do incensário e invocar um @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{elemental do ar}, como se você tivesse conjurado a magia @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{invocar elemental}. O incensário não pode ser usado desta maneira novamente até o próximo amanhecer.</p>\n<p>Este recipiente de 15 centímetros de largura por 30 de altura assemelha-se a um cálice com uma tampa decorada. Ele pesa 0,5 quilo.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -635,7 +635,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este tubo de metal oco mede cerca de 30 centímetros de comprimento e pesa 0,5 quilo., Você pode tocá-lo com uma ação, apontando-o na direção de um objeto a até 36 metros de você que possa ser aberto, como uma porta, tampa ou fechadura. O carrilhão emite um som límpido, e uma fechadura ou tranca no objeto se abre, a menos que o som não possa alcançar o objeto. Se não existirem fechaduras ou \ntrancas, o próprio objeto se abre.</p>\n<p>O carrilhão pode ser usado dez vezes. Após a décima vez, ele racha e se torna inútil.</p>",
       "activities": {
         "utility": {
-          "condition": "The sound must reach the target."
+          "condition": "O som deve alcançar o alvo."
         }
       }
     },
@@ -660,7 +660,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto você estiver usando este manto com o capuz sobre a cabeça, testes de Sabedoria (Percepção) feitos para notá-lo têm desvantagem, e você tem vantagem em testes de Destreza (Furtividade) feitos para se esconder, já que as cores do manto se alteram, conferindo-lhe camuflagem. Colocar ou retirar o capuz requer uma ação.</p>",
       "activities": {
         "utility": {
-          "condition": "Hood must be up."
+          "condition": "O capuz deve estar levantado."
         }
       }
     },
@@ -669,7 +669,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 na CA e em salvaguardas enquanto estiver usando este manto.</p>",
       "effects": {
         "+1 to AC & Saves": {
-          "name": "+1 to AC & Saves"
+          "name": "+1 para CA & Salvaguardas"
         }
       }
     },
@@ -682,7 +682,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Enquanto estiver usando este manto com o capuz sobre a cabeça, você pode respirar debaixo d'água e tem um deslocamento de natação de 18 metros.</p>\n<p>Colocar ou retirar o capuz requer uma ação.</p>",
       "activities": {
         "utility": {
-          "condition": "Hood must be up."
+          "condition": "O capuz deve estar levantado."
         }
       }
     },
@@ -759,7 +759,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>A bola de cristal tem cerca de 15 centímetros de diâmetro. Enquanto a estiver tocando, você pode conjurar a magia @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{vidência} (CD 17 para evitar) com ela.</p>\n<p>Com uma ação você pode conjurar a magia @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{detectar pensamentos} (CD 17 para evitar magia) enquanto estiver observando com a bola de cristal, podendo determinar como alvo qualquer criatura à sua vista e a até 9 metros do sensor mágico. Você não precisa se concentrar na magia detectar pensamentos para mantê-la por sua duração, mas ela se encerra quando a magia vidência termina.</p>",
       "activities": {
         "fRkGCqgiCHP528xk": {
-          "condition": "While you are Scrying with the Crystal Ball"
+          "condition": "Enquanto você estiver espionando com a Bola de Cristal"
         }
       }
     },
@@ -768,7 +768,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>A bola de cristal tem cerca de 15 centímetros de diâmetro. Enquanto a estiver tocando, você pode conjurar a magia @Compendium[dnd5e.spells.fVbCxFRaORalHB20]{vidência} (CD 17 para evitar) com ela.</p>\n<p>Enquanto estiver usando a bola de cristal, você pode se comunicar telepaticamente com criaturas à sua vista e a até 9 metros do sensor mágico. Você também pode usar uma ação para conjurar a magia @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{sugestão} (CD 17 para evitar magia) através do sensor em uma dessas criaturas. Você não precisa se concentrar na magia sugestão para mantê-la por sua duração, mas ela se encerra quando a magia vidência termina.</p>\n<p>Uma vez usado, o poder de sugestão da bola de cristal não pode ser utilizado novamente até o próximo amanhecer.</p>",
       "activities": {
         "5OrwGscvIsTh4piO": {
-          "condition": "While you are Scrying with the Crystal Ball"
+          "condition": "Enquanto você estiver espionando com a Bola de Cristal"
         }
       }
     },
@@ -781,7 +781,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Este cubo tem cerca de 2,5 centímetros de lado. Cada face dele possui uma marca distinta que pode ser pressionada. O cubo começa com 36 cargas. Diariamente ao amanhecer ele recupera 1d20 cargas gastas.</p>\n<p>Com uma ação você pode pressionar uma das faces do cubo, gastando uma quantidade de cargas com base na face escolhida, como mostra a tabela Faces do Cubo Energético. Cada face tem um efeito diferente. Se o cubo não possuir cargas restantes suficientes, nada acontece. Do contrário, uma barreira de força invisível surge, formando um cubo de 4,5 metros de lado. A barreira é centrada em você, move-se com você e dura por 1 minuto, até que você use uma ação para pressionar a sexta face do cubo, ou este fique sem cargas. Você pode alterar o efeito da barreira pressionando uma face diferente do cubo e gastando o número necessário de cargas, reiniciando a duração.</p>\n<p>Caso seu movimento cause o contato entre a barreira e um objeto sólido que não possa atravessar o cubo, você não pode aproximar-se mais desse objeto enquanto a barreira existir.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Face</strong></td>\n<td><strong>Cargas</strong></td>\n<td><strong>Efeito</strong></td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>Gases, vento e nevoeiro não podem passar através da barreira.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>2</td>\n<td>Matéria não viva não pode passar através da barreira. Paredes, pisos e tetos podem passar através da barreira, a seu critério.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3</td>\n<td>Matéria liiva não pode passar através da barreira.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>4</td>\n<td>Efeitos mágicos não podem passar através da barreira.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>5</td>\n<td>Nada pode passar através da barreira. Paredes, pisos e tetos podem passar através da barreira, a seu critério.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>0</td>\n<td>A barreira é desativada.</td>\n</tr>\n</tbody>\n</table>\n<p>O cubo perde cargas quando a barreira for alvo de determinadas magias ou entrar em contato com determinados efeitos mágicos ou itens mágicos, como mostrado na tabela a seguir.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Magia ou Item</strong></td>\n<td><strong>Cargas usadas</strong></td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.HBHbOGKNVVprSlwn]{Desintegrar}</td>\n<td>1d12</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.items.t7GfyRp3dB3lqS9i]{Trombeta da explosão}</td>\n<td>1d10</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.d9MwcXi7Il3HROXd]{Criar passagem}</td>\n<td>1d6</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{Rajada prismática}</td>\n<td>1d20</td>\n</tr>\n<tr>\n<td>@Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Muralha de fogo}</td>\n<td>1d4</td>\n</tr>\n</tbody>\n</table>",
       "activities": {
         "utility": {
-          "condition": "Must have enough charges for the face pressed otherwise the Action is lost."
+          "condition": "Deve haver cargas o suficiente para a face pressionada, caso contrário a Ação será perdida."
         }
       }
     },
@@ -810,7 +810,7 @@
       "description": "<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica.</p>\n<p>Com uma ação você pode fazer com que um veneno espesso e negro cubra a lâmina. O veneno permanece por 1 minuto, ou até que um ataque com esta arma atinja uma criatura. A criatura deve ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou sofre 2d10 pontos de dano venenoso e fica envenenada por 1 minuto. A adaga não pode ser usada desta maneira novamente até o próximo amanhecer.</p>",
       "activities": {
         "Poison Blade": {
-          "name": "Poison Blade"
+          "name": "Lamina Envenenada"
         }
       }
     },
@@ -855,7 +855,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este frasco com rolha faz um som quando chacoalhado, como se contivesse água. A garrafa pesa 1 quilo.</p>\n<p>Com uma ação você pode remover a rolha e dizer uma de três palavras de comando, momento em que uma quantidade de água doce ou salgada (à sua escolha) derrama-se do frasco. O fluxo de água é interrompido no início do seu próximo turno. Escolha entre as opções a seguir:</p>\n<p>• \"Riacho\" produz 4 litros de água.</p>\n<p>• \"Fonte\" produz 20 litros de água.</p>\n<p>• \"Gêiser\" produz 120 litros de água que jorra como um gêiser de 9 metros de comprimento e 30 centímetros de largura. Com uma ação bônus enquanto estiver segurando a garrafa, você pode apontar o gêiser na direção de uma criatura à sua vista e a até 9 metros de você. O alvo deve ser bem-sucedido em uma salvaguarda de Força CD 13 ou sofre 1d4 pontos de dano contundente e fica caído. Em vez de uma criatura, você pode alvejar um objeto que não esteja sendo usado ou carregado e que não pese mais de 100 quilos. O objeto é derrubado ou empurrado até 4,5 metros para longe de você.</p>",
       "activities": {
         "save": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -900,13 +900,13 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Com uma ação você pode colocar estas algemas em uma criatura incapacitada. As algemas se ajustam para caber em uma criatura de tamanho Pequeno a Grande. Além de servir como algemas comuns, os grilhões impedem que a criatura presa por eles use qualquer método de movimento extradimensional, incluindo teleporte ou viagem para um plano de existência diferente. Eles não evitam que a criatura passe através de portais interdimensionais.</p>\n<p>Você e qualquer criatura que você indique quando usa os grilhões podem usar uma ação para removê-los. Uma vez a cada 30 dias, a criatura algemada pode fazer um teste de Força CD 30 (Atletismo). Em caso se sucesso, ela se liberta e destrói os grilhões.</p>",
       "activities": {
         "save": {
-          "condition": "Creature of Small to Large and must be incapacitated."
+          "condition": "Criatura de Pequena a Grande e tem de estar incapacitada."
         }
       }
     },
     "Diplomat's Pack": {
-      "name": "Diplomat's Pack",
-      "description": "<p>A chest holds 12 cubic feet or 300 pounds of gear.</p>"
+      "name": "Pacote do Diplomata",
+      "description": "<p>Um baú pode conter 340 litros ou 136 quilos de equipamento.</p>"
     },
     "Disguise Kit": {
       "name": "Kit de Disfarce",
@@ -921,7 +921,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica.</p>\n<p>Quando você acerta um dragão com esta arma, ele sofre 3d6 pontos de dano adicionais do mesmo tipo causado pela arma. Para o propósito desta arma, \"dragão\" se refere a toda criatura deste tipo ou que tenha esta propriedade, incluindo dragões tartaruga e serpes.</p>",
       "activities": {
         "Damage vs Dragon": {
-          "name": "Damage vs Dragon"
+          "name": "Dano contra Dragões"
         }
       }
     },
@@ -930,7 +930,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica.</p>\n<p>Quando você acerta um dragão com esta arma, ele sofre 3d6 pontos de dano adicionais do mesmo tipo causado pela arma. Para o propósito desta arma, \"dragão\" se refere a toda criatura deste tipo ou que tenha esta propriedade, incluindo dragões tartaruga e serpes.</p>",
       "activities": {
         "Damage vs Dragon": {
-          "name": "Damage vs Dragon"
+          "name": "Dano contra Dragões"
         }
       }
     },
@@ -939,7 +939,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica.</p>\n<p>Quando você acerta um dragão com esta arma, ele sofre 3d6 pontos de dano adicionais do mesmo tipo causado pela arma. Para o propósito desta arma, \"dragão\" se refere a toda criatura deste tipo ou que tenha esta propriedade, incluindo dragões tartaruga e serpes.</p>",
       "activities": {
         "Damage vs Dragon": {
-          "name": "Damage vs Dragon"
+          "name": "Dano contra Dragões"
         }
       }
     },
@@ -948,7 +948,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica.</p>\n<p>Quando você acerta um dragão com esta arma, ele sofre 3d6 pontos de dano adicionais do mesmo tipo causado pela arma. Para o propósito desta arma, \"dragão\" se refere a toda criatura deste tipo ou que tenha esta propriedade, incluindo dragões tartaruga e serpes.</p>",
       "activities": {
         "Damage vs Dragon": {
-          "name": "Damage vs Dragon"
+          "name": "Dano contra Dragões"
         }
       }
     },
@@ -957,7 +957,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica.</p>\n<p>Quando você acerta um dragão com esta arma, ele sofre 3d6 pontos de dano adicionais do mesmo tipo causado pela arma. Para o propósito desta arma, \"dragão\" se refere a toda criatura deste tipo ou que tenha esta propriedade, incluindo dragões tartaruga e serpes.</p>",
       "activities": {
         "Damage vs Dragon": {
-          "name": "Damage vs Dragon"
+          "name": "Dano contra Dragões"
         }
       }
     },
@@ -970,8 +970,8 @@
       "description": "<p>Um xilofone para evocar respeito, admiração ou medo na sua audiência.</p>\n<p>Se você tiver proficiência com determinado instrumento musical, pode adicionar seu bônus de proficiência a qualquer teste de atributo usado para tocar música com o instrumento. Um bardo pode usar um instrumento musical como foco de conjuração. Cada tipo de instrumento musical requer uma proficiência própria.</p>"
     },
     "Dungeoneer's Pack": {
-      "name": "Dungeoneer's Pack",
-      "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+      "name": "Pacote do Explorador",
+      "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Dust of Disappearance": {
       "name": "Pó de Desaparecimento",
@@ -994,10 +994,10 @@
       "description": "<p><em>(Requer sintonização por anões)</em></p><p>Você ganha um bônus de +3 nas jogadas de ataque e dano feitas com esta arma mágica. Ela tem a propriedade arremesso, com um alcance normal de 6 metros e um alcance longo de 18 metros. Quando você acerta um ataque à distância usando esta arma, ela causa 1d8 pontos de dano adicionais ou, se o alvo for um gigante, 2d8 pontos de dano. Imediatamente depois do ataque, a arma voa de volta para a sua mão.</p><section class=\"secret foundry-note\" id=\"secret-DdEcPocHwtm5CFcf\"><p><strong>Nota do Foundry</strong></p><p>Para aplicar os pontos de dado adicionais a um gigante, por favor use o botão de outra formula mais uma vez.</p></section>",
       "activities": {
         "Throw": {
-          "name": "Throw"
+          "name": "Arremesso"
         },
         "Throw vs Giant": {
-          "name": "Throw vs Giant"
+          "name": "Arremesso contra Gigantes"
         }
       }
     },
@@ -1034,7 +1034,7 @@
       "description": "<p>Um símbolo cuidadosamente gravado ou entalhado como um emblema em um escudo ou algum outro item representando uma divindade através da qual um verdadeiro crente pode invocar seu poder e fazer isso espalhar a fé.</p>\n<p><strong>Foco de Conjuração</strong>. Um clérigo ou paladino pode usar um símbolo sagrado como foco de conjuração. Para usar o símbolo dessa forma, o conjurador deve portá-lo de forma visível ou preso em um escudo.</p>"
     },
     "Entertainer's Pack": {
-      "name": "Entertainer's Pack",
+      "name": "Pacote do Artista",
       "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
     },
     "Eversmoking Bottle": {
@@ -1865,10 +1865,10 @@
       "description": "<p>Esta azagaia é uma arma mágica. Quando você a arremessa e diz a palavra de comando, ela se transforma em um raio, formando uma linha de 1,5 metro de largura, que se estende de você até um alvo a até 36 metros. Cada criatura na linha, excluindo você e o alvo, devem fazer uma salvaguarda de Destreza CD 13, sofrendo 4d6 pontos de dano elétrico em caso de falha, ou metade do dano em caso de sucesso. O raio volta à forma de azagaia quando atinge o alvo. Faça um ataque armado à distância contra o alvo. Em caso de acerto, o alvo sofre o dano da azagaia mais 4d6 pontos de dano elétrico.</p>\n<p>Esta propriedade da azagaia não pode ser usada novamente até o próximo amanhecer. Enquanto isso, a azagaia ainda pode ser usada como uma arma mágica.</p>",
       "activities": {
         "attack": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         },
         "save": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -2005,11 +2005,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Se atacar uma criatura com esta arma mágica e tirar 20 na jogada de ataque, o alvo sofre 3d6 pontos de dano necrótico adicionais, caso não seja um constructo ou um morto-vivo. Você também ganha pontos de vida temporários equivalentes ao dano adicional.</p>",
       "activities": {
         "attack": {
-          "condition": "Must roll a 20 and the target cannot be undead."
+          "condition": "Deve rolar um 20 e o alvo não pode ser morto-vivo."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -2018,11 +2018,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Quando você ataca um objeto com esta espada mágica e o acerta, maximize os dados de dano de sua arma contra o alvo.</p>\n<p>Quando você ataca uma criatura com esta arma e rola 20 na jogada de ataque, o alvo sofre 14 pontos de dano cortante adicional. Em seguida, role outro d20. Caso o resultado seja 20, você decepa um dos membros do alvo, com o efeito dessa perda sendo determinado pelo DM. Caso a criatura não possua membros a serem decepados, você lhe arranca um pedaço do corpo no lugar.</p>\n<p>Além disso, você pode pronunciar a palavra de comando da espada e fazer com que a lâmina lance luz plena por 3 metros e meia-luz por mais 3 metros. Pronunciar a palavra de comando novamente ou embainhar a espada apaga a luz.</p>",
       "activities": {
         "attack": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature with this weapon and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura com essa arma e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -2031,11 +2031,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Pontos de vida perdidos devido ao dano desta arma podem ser recuperados apenas por meio de um descanso curto ou longo, em vez de regeneração, magia ou qualquer outro meio.</p>\n<p>Uma vez por turno, ao acertar uma criatura com um ataque usando esta arma mágica, você pode lacerar o alvo. No início de cada um dos turnos da criatura lacerada, ela sofre 1d4 pontos de dano necrótico para cada vez que você a lacerou, e pode então fazer uma salvaguarda de Constituição CD 15, encerrando o efeito de tais lacerações sobre ela em caso de sucesso. Como alternativa, a criatura lacerada, ou uma criatura a até 1,5 metro dela, pode usar uma ação para fazer um teste de Sabedoria CD 15 (Medicina), encerrando o efeito de tais lacerações em caso sucesso.</p>",
       "activities": {
         "Wound Damage": {
-          "name": "Wound Damage",
-          "condition": "Start of a wounded creature's turn"
+          "name": "Dano do Ferimento",
+          "condition": "Início do turno de uma criatura ferida"
         },
         "Close Wound": {
-          "name": "Close Wound"
+          "name": "Fechar Ferimento"
         }
       }
     },
@@ -2088,10 +2088,10 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Quando você acerta um ínfero ou um morto-vivo com esta arma mágica, a criatura sofre 2d6 pontos de dano radiante adicionais. Se ela ficar com 25 pontos de vida ou menos após sofrer este dano, deve ser bem-sucedida em uma salvaguarda de Sabedoria CD 15, ou é destruída. Em caso de sucesso, a criatura fica amedrontada por você até o final do seu próximo turno.</p>\n<p>Enquanto você empunhar esta arma, ela emite luz plena em um raio de 6 metros e meia-luz por mais 6 metros.</p>",
       "activities": {
         "Save vs Destruction": {
-          "name": "Save vs Destruction"
+          "name": "Salvaguardar contra Destruição"
         },
         "Construct Damage": {
-          "name": "Construct Damage"
+          "name": "Dano Constructo"
         }
       }
     },
@@ -2100,11 +2100,11 @@
       "description": "<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica. O bônus aumenta para +3 quando você usa a maça para atacar um constructo.</p><p>Quando você tira um 20 em uma jogada de ataque feita com esta arma, o alvo sofre 7 pontos de dano contundente adicionais, ou 14 pontos de dano contundente se ele for um constructo. Se um constructo tiver 25 pontos de vida ou menos após sofrer este dano, ele é destruído.</p><section class=\"secret foundry-note\" id=\"secret-AY4O41uMKnbhqve5\"><p><strong>Nota do Foundry</strong></p><p>O bônus nas jogadas de ataque e dano foi configurado em +1. Quando for o caso de atingir um constructo, por favor, lembre-se de somar +2 a ambos os resultados. Além disso, quando tirar 20 contra um conscructo, por favor utilize o botão de Outra Fórmula uma vez mais.</p></section>",
       "activities": {
         "Attack vs Construct": {
-          "name": "Attack vs Construct"
+          "name": "Ataque contra Constructos"
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you roll a 20 on an attack roll made with this weapon"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você rola um 20 na rolagem de ataque feito com essa arma"
         }
       }
     },
@@ -2121,10 +2121,10 @@
       "description": "<p>Estas contenções de metal podem prender uma criatura Pequena ou Média. Escapar de grilhões requer um teste bem-sucedido de Destreza com CD 20. Quebrá-los requer um teste bem-sucedido de Força com CD 20. Cada conjunto de grilhões vem com uma chave. Sem ela, uma criatura proficiente com ferramentas de ladrão pode destravar os grilhões sendo bem-sucedida em um teste de Destreza com CD 15. Os grilhões têm 15 pontos de vida.</p>",
       "activities": {
         "check": {
-          "condition": "Creature must be Small or Medium."
+          "condition": "A criatura deve ser Pequena ou Média."
         },
         "save": {
-          "condition": "Creature must be Small or Medium."
+          "condition": "A criatura deve ser Pequena ou Média."
         }
       }
     },
@@ -2137,7 +2137,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este livro contém dicas de dieta e de boa saúde, e as suas palavras estão carregadas com magia. Se você passar 48 horas distribuídas em um período de 6 dias ou menos estudando e praticando o conteúdo deste livro, seu valor de Constituição aumenta em 2, assim como seu valor máximo para este atributo. O manual então perde a magia que possui, recuperando-a em um século.</p>",
       "activities": {
         "utility": {
-          "condition": "The book must be completed in 6 days or less."
+          "condition": "O livro deve ser concluído em 6 dias ou menos."
         }
       }
     },
@@ -2146,7 +2146,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este livro descreve exercícios de ginástica, e as suas palavras estão carregadas com magia. Se você passar 48 horas distribuídas em um período de 6 dias ou menos estudando e praticando o conteúdo deste livro, seu valor de Força aumenta em 2, assim como seu valor máximo para este atributo. O manual então perde a magia que possui, recuperando-a em um século.</p>",
       "activities": {
         "utility": {
-          "condition": "The book must be completed in 6 days or less."
+          "condition": "O livro deve ser concluído em 6 dias ou menos."
         }
       }
     },
@@ -2159,13 +2159,13 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este livro contém exercícios de coordenação e equilíbrio, e as suas palavras estão carregadas com magia. Se você passar 48 horas distribuídas em um período de 6 dias ou menos estudando e praticando o conteúdo deste livro, seu valor de Destreza aumenta em 2, assim como seu valor máximo para este atributo. O manual então perde a magia que possui, recuperando-a em um século.</p>",
       "activities": {
         "utility": {
-          "condition": "The book must be completed in 6 days or less."
+          "condition": "O livro deve ser concluído em 6 dias ou menos."
         }
       }
     },
     "Map Case": {
-      "name": "Map Case",
-      "description": "<p>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</p>"
+      "name": "Estojo de Mapa",
+      "description": "<p>Este estojo cilíndrico de couro pode conter até dez folhas de papel enroladas ou cinco folhas de pergaminho enroladas.</p>"
     },
     "Map or Scroll Case": {
       "name": "Estojo de Mapa ou Pergaminho",
@@ -2220,7 +2220,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Quando este espelho de 1,2 metro de altura é encarado diretamente, a superfície dele mostra imagens desbotadas de criaturas. O espelho pesa 25 Kg e tem CA 11, 10 pontos de vida e vulnerabilidade a dano contundente. Ele se despedaça e é destruído ao ser reduzido a 0 pontos de vida.</p>\n<p>Se o espelho estiver pendurado em uma superfície vertical e você estiver a até 1,5 metro dele, com uma ação você pode dizer a palavra de comando e ativá-lo. Ele permanece ativado até você usar uma ação para dizer a palavra de comando novamente.</p>\n<p>Qualquer criatura além de você que veja o próprio reflexo no espelho ativado e esteja a até 9 metros dele deve ser bem-sucedida em uma salvaguarda de Carisma CD 15 ou fica presa, junto com tudo que estiver usando ou vestindo, em uma das doze celas extradimensionais do espelho. A salvaguarda é feita com vantagem se a criatura conhecer a natureza do espelho, e constructos são automaticamente bem-sucedidos na salvaguarda.</p>\n<p>Uma cela extradimensional é uma vastidão infinita cheia de névoa espessa que reduz a visibilidade para 3 metros. Criaturas aprisionadas nas celas do espelho não envelhecem, e não precisam comer, beber ou dormir. Uma criatura presa dentro de uma cela pode escapar usando magia que permita viagem planar. Caso contrário, a criatura fica confinada na cela até ser libertada.</p>\n<p>Se o espelho prender uma criatura, mas já tiver os doze espaços extradimensionais ocupados, ele liberta uma criatura presa aleatoriamente para acomodar o novo prisioneiro. Uma criatura libertada aparece em um espaço desocupado à vista do espelho, mas de costas para ele. Se o espelho for quebrado, todas as criaturas que ele contém são libertadas e aparecem em espaços desocupados perto dele.</p>\n<p>Enquanto estiver a até 1,5 metro do espelho, com uma ação você pode dizer o nome de uma criatura presa nele ou chamar uma cela em particular pelo número. A criatura nomeada ou contida na cela indicada aparece como uma imagem na superfície do espelho. Você e a criatura podem então se comunicar normalmente.</p>\n<p>De forma similar, com uma ação você pode dizer uma segunda palavra de comando e libertar uma criatura presa no espelho. A criatura presa aparece, junto com todas as posses dela, no espaço desocupado mais próximo do espelho, de costas para ele.</p>",
       "activities": {
         "save": {
-          "condition": "Command word. Target must be able to see its reflection."
+          "condition": "Palavra de comando. O alvo deve ser capaz de ver seu reflexo."
         }
       }
     },
@@ -2289,22 +2289,22 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização por um cérigo, druida ou paladino)</em></p><p>Este colar tem ld4 + 2 contas mágicas feitas de água marinha, pérola negra ou topázio. Ela também tem muitas contas não mágicas feitas de pedras, como âmbar, jaspe vermelho, citrino, coral, jade, pérola ou quartzo. Se uma conta mágica for removida do colar, ela perde a magia.</p><p>Existem seis tipos de contas mágicas. O DM decide a qual tipo cada conta pertence ou determina aleatoriamente. Um colar não pode ter mais de uma conta do mesmo tipo. Para usar uma conta, você deve estar vestindo o colar. Cada conta contém uma magia que você pode conjurar a partir dela com uma ação bônus (usando a CD para evitar sua magia, caso seja necessário). Uma vez que a magia de uma conta mágica seja conjurada, aquela conta não pode ser usada novamente até o próximo amanhecer.</p><p>Use a tabela @Compendium[dnd5e.tables.XHTUTUXdyzcPbodw]{Colar de Contas de Oração} table e consulte a tabela abaixo para obter descrições detalhadas de cada conta</p><table><thead><tr><th><strong>d20</strong></th><th><strong>Conta de…</strong></th><th><strong>Magia</strong></th><th><strong>Preço sugerido por Conta (PO)</strong></th></tr></thead><tbody><tr><td>1-6</td><td>Abençoar</td><td>@Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{Benção}</td><td>2.000</td></tr><tr><td>7-12</td><td>Curar</td><td>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Curar Ferimentos} (2º Círculo) ou @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Restauração Menor}</td><td>4.000</td></tr><tr><td>13-16</td><td>Favorecer</td><td>@Compendium[dnd5e.spells.WzvJ7G3cqvIubsLk]{Restauração Maior}</td><td>32.000</td></tr><tr><td>17-18</td><td>Destruir</td><td>@Compendium[dnd5e.spells.7UwUjJ6owIQkEPrs]{Marca da Punição}</td><td>1.500</td></tr><tr><td>19</td><td>Invocar</td><td>@Compendium[dnd5e.spells.fkREcytuZ8sngWtC]{Aliado Extraplanar}</td><td>128.000</td></tr><tr><td>20</td><td>Caminhar no Vento</td><td>@Compendium[dnd5e.spells.8PJAsHmbu6UgDHC0]{Caminhar no Vento}</td><td>96.000</td></tr></tbody></table><section class=\"secret foundry-note\" id=\"secret-7DOXr3q6fDOOCepZ\"><p><strong>Nota do Foundry</strong></p><p>As 6 cargas refletem o número máximo de contas que podem ser encontradas, por favor, ajuste conforme necessário.</p><p>Além disso, o preço sugerido é apenas um guia e deve ser ajustado para se adequar ao mundo do DM.</p></section>",
       "activities": {
         "Bead of Blessing (bless)": {
-          "name": "Bead of Blessing (bless)"
+          "name": "Pérola de Bênção (bênção)"
         },
         "Bead of Curing (cure wounds)": {
-          "name": "Bead of Curing (cure wounds)"
+          "name": "Pérola de Cura (curar ferimentos)"
         },
         "Bead of Curing (lesser restoration)": {
-          "name": "Bead of Curing (lesser restoration)"
+          "name": "Pérola de Cura (restauração menor)"
         },
         "Bead of Favor (greater restoration)": {
-          "name": "Bead of Favor (greater restoration)"
+          "name": "Pérola do Favor (restauração maior)"
         },
         "Bead of Smiting (branding smite)": {
-          "name": "Bead of Smiting (branding smite)"
+          "name": "Pérola do Golpeamento (marca da punição)"
         },
         "Bead of Summons (planar ally)": {
-          "name": "Bead of Summons (planar ally)"
+          "name": "Pérola da Convocação (aliado planar)"
         },
         "Bead of Wind Walking (wind walk)": {
           "name": "Bead of Wind Walking (wind walk)"
