@@ -13,26 +13,26 @@
   "folders": {},
   "entries": {
     "Artificer": {
-      "name": "Artificer",
+      "name": "Artífice",
       "description": "<p>As a artificer, you gain the following class features.</p><h3>Hit Points</h3><p><strong>Hit Dice:</strong> 1d8 per artificer level<br /><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier<br /><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per artificer level after 1st</p><h3>Proficiencies</h3><p><strong>Armor:</strong> Light armor, shields<br /><strong>Weapons:</strong> Simple weapons, firearms<br /><strong>Tools:</strong> <span><a href=\"https://2014.5e.tools/items.html#thieves'%20tools_phb\" data-vet-page=\"items.html\" data-vet-source=\"PHB\" data-vet-hash=\"thieves'%20tools_phb\">thieves' tools</a>, <a href=\"https://2014.5e.tools/items.html#tinker's%20tools_phb\" data-vet-page=\"items.html\" data-vet-source=\"PHB\" data-vet-hash=\"tinker's%20tools_phb\">tinker's tools</a>, one type of <a href=\"https://2014.5e.tools/items.html#artisan's%20tools_phb\" data-vet-page=\"items.html\" data-vet-source=\"PHB\" data-vet-hash=\"artisan's%20tools_phb\">artisan's tools</a> of your choice</span><br /><strong>Saving Throws:</strong> <span>Constitution, Intelligence</span><br /><strong>Skills:</strong> <span>Choose 2 from </span><span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"arcana_phb\" data-vet-is-faux-page=\"true\">Arcana</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"history_phb\" data-vet-is-faux-page=\"true\">History</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"investigation_phb\" data-vet-is-faux-page=\"true\">Investigation</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"medicine_phb\" data-vet-is-faux-page=\"true\">Medicine</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"nature_phb\" data-vet-is-faux-page=\"true\">Nature</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"perception_phb\" data-vet-is-faux-page=\"true\">Perception</span>, and <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"sleight%20of%20hand_phb\" data-vet-is-faux-page=\"true\">Sleight of Hand</span>.</p><h1>Artificer Advancement</h1><p></p><table><thead><tr><td>Level</td><td><span style=\"font-family:Arial, sans-serif\"><strong>Proficiency Bonus</strong></span></td><td>Infusions Known</td><td>Infused Items</td><td>Features</td></tr></thead><tbody><tr><td>1st</td><td>+2</td><td>-</td><td>—</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.1AYXxqnUjUF21d4A]{Firearm Proficiency}, @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.LIs40RaWLZ69DEq7]{Magical Tinkering}, @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.yz5c3zPzbd0Hm5AS]{Spellcasting}</td></tr><tr><td>2nd</td><td>+2</td><td>4</td><td>2</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.VTE4lSBJtzwTaD79]{Infuse Item}</td></tr><tr><td>3rd</td><td>+2</td><td>4</td><td>2</td><td>Artificer Specialist, @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.wsw54bfwplUuTMBW]{The Right Tool for the Job}</td></tr><tr><td>4th</td><td>+2</td><td>4</td><td>2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>5th</td><td>+3</td><td>4</td><td>2</td><td>Artificer Specialist Feature</td></tr><tr><td>6th</td><td>+3</td><td>6</td><td>3</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.54dPxTxYuPzhDTjR]{Tool Expertise}</td></tr><tr><td>7th</td><td>+3</td><td>6</td><td>3</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.pdjkfkXJzbZuzMYb]{Flash of Genius}</td></tr><tr><td>8th</td><td>+3</td><td>6</td><td>3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>9th</td><td>+4</td><td>6</td><td>3</td><td>Artificer Specialist Feature</td></tr><tr><td>10th</td><td>+4</td><td>8</td><td>4</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.c9gTZCy8shxNqV5h]{Magic Item Adept}</td></tr><tr><td>11th</td><td>+4</td><td>8</td><td>4</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.KbgNryO9SgnA84Ot]{Spell-Storing Item}</td></tr><tr><td>12th</td><td>+4</td><td>8</td><td>4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>13th</td><td>+5</td><td>8</td><td>4</td><td>-</td></tr><tr><td>14th</td><td>+5</td><td>10</td><td>5</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.3loqt6P1BBzFx4gu]{Magic Item Savant}</td></tr><tr><td>15th</td><td>+5</td><td>10</td><td>5</td><td>Artificer Specialist Feature</td></tr><tr><td>16th</td><td>+5</td><td>10</td><td>5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>17th</td><td>+6</td><td>10</td><td>5</td><td>-</td></tr><tr><td>18th</td><td>+6</td><td>12</td><td>6</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.ce6bKCxhnxDDA5Hp]{Magic Item Master}</td></tr><tr><td>19th</td><td>+6</td><td>12</td><td>6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td></tr><tr><td>20th</td><td>+6</td><td>12</td><td>6</td><td>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.4L2Oo6e7CFJgwagF]{Soul of Artifice}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Funcionalidades"
         },
         "Artificer Specialist": {
-          "title": "Artificer Specialist"
+          "title": "Especialista em artilheiros"
         },
         "Saving Throws": {
-          "title": "Saving Throws"
+          "title": "Salvando lançamentos."
         },
         "Skills": {
-          "title": "Skills"
+          "title": "Habilidades"
         },
         "Cantrips Known": {
-          "title": "Cantrips Known"
+          "title": "Candidaturas conhecidas"
         },
         "Infusions Known": {
-          "title": "Infusions Known"
+          "title": "Infusões conhecidas"
         }
       }
     }
