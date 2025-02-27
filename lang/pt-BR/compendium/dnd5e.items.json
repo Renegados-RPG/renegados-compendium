@@ -970,7 +970,7 @@
       "description": "<p>Um xilofone para evocar respeito, admiração ou medo na sua audiência.</p>\n<p>Se você tiver proficiência com determinado instrumento musical, pode adicionar seu bônus de proficiência a qualquer teste de atributo usado para tocar música com o instrumento. Um bardo pode usar um instrumento musical como foco de conjuração. Cada tipo de instrumento musical requer uma proficiência própria.</p>"
     },
     "Dungeoneer's Pack": {
-      "name": "Pacote do Explorador",
+      "name": "Pacote do Aventureiro",
       "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Dust of Disappearance": {
@@ -1035,7 +1035,7 @@
     },
     "Entertainer's Pack": {
       "name": "Pacote do Artista",
-      "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+      "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Eversmoking Bottle": {
       "name": "Garrafa do Fumacê Eterno",
@@ -1046,8 +1046,8 @@
       "description": "<p>Um tipo de assento que é fixado nas costas de uma montaria, concebido para apoiar o cavaleiro e afixar parte do material de montaria, como estribos.<br /><br />Uma sela exótica é necessária para cavalgar qualquer montaria aquática ou voadora.</p>"
     },
     "Explorer's Pack": {
-      "name": "Explorer's Pack",
-      "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+      "name": "Pacote do Explorador",
+      "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Eyes of Charming": {
       "name": "Olhos de Enfeitiçar",
@@ -1086,7 +1086,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este minúsculo objeto se parece com uma pena. Existem diferentes tipos de insígnias da pena, cada um com um tipo diferente de efeito de uso único. O DM escolhe o tipo de insígnia ou a determina aleatoriamente usando a tabela @Compendium[dnd5e.tables.OEdr086W61t1DRJo]{Insígnia da Pena}.</p>\n<p><strong>Chicote.</strong> Com uma ação bônus você pode jogar a insígnia em um ponto a até 3 metros de você. A insígnia desaparece e um chicote flutuante aparece no lugar. Então, você pode usar uma ação bônus para fazer um ataque mágico corpo a corpo contra uma criatura a até 3 metros do chicote, com um bônus de ataque de +9. Em caso de acerto, o alvo sofre 1d6 + 5 pontos de dano energético.</p>\n<p>Com uma ação bônus em seu turno, você pode ordenar que o chicote se mova até 6 metros e faça um ataque contra uma criatura a até 3 metros dele. Ele desaparece depois de 1 hora, quando você usar uma ação para dispensá-lo, ficar incapacitado ou morrer.</p>",
       "activities": {
         "attack": {
-          "condition": "A bonus action is used to control the whip."
+          "condition": "Uma ação bônus é usada para controlar o chicote."
         }
       }
     },
@@ -1167,7 +1167,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você pode usar uma ação bônus para dizer a palavra de comando desta espada mágica, fazendo com que chamas irrompam da lâmina. Essas chamas emitem luz plena em um raio de 12 metros e meia-luz por mais 12 metros. Enquanto a espada estiver em chamas, ela causa 2d6 pontos de dano ígneo adicionais a qualquer alvo que ela acerte. As chamas duram até você usar uma ação bônus para dizer a palavra de comando novamente, ou até você largar ou embainhar a espada.</p>",
       "activities": {
         "Attack (Flaming)": {
-          "name": "Attack (Flaming)"
+          "name": "Ataque (Ardente)"
         }
       }
     },
@@ -1176,7 +1176,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você pode usar uma ação bônus para dizer a palavra de comando desta espada mágica, fazendo com que chamas irrompam da lâmina. Essas chamas emitem luz plena em um raio de 12 metros e meia-luz por mais 12 metros. Enquanto a espada estiver em chamas, ela causa 2d6 pontos de dano ígneo adicionais a qualquer alvo que ela acerte. As chamas duram até você usar uma ação bônus para dizer a palavra de comando novamente, ou até você largar ou embainhar a espada.</p>",
       "activities": {
         "Attack (Flaming)": {
-          "name": "Attack (Flaming)"
+          "name": "Ataque (Ardente)"
         }
       }
     },
@@ -1185,7 +1185,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você pode usar uma ação bônus para dizer a palavra de comando desta espada mágica, fazendo com que chamas irrompam da lâmina. Essas chamas emitem luz plena em um raio de 12 metros e meia-luz por mais 12 metros. Enquanto a espada estiver em chamas, ela causa 2d6 pontos de dano ígneo adicionais a qualquer alvo que ela acerte. As chamas duram até você usar uma ação bônus para dizer a palavra de comando novamente, ou até você largar ou embainhar a espada.</p>",
       "activities": {
         "Attack (Flaming)": {
-          "name": "Attack (Flaming)"
+          "name": "Ataque (Ardente)"
         }
       }
     },
@@ -1194,7 +1194,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você pode usar uma ação bônus para dizer a palavra de comando desta espada mágica, fazendo com que chamas irrompam da lâmina. Essas chamas emitem luz plena em um raio de 12 metros e meia-luz por mais 12 metros. Enquanto a espada estiver em chamas, ela causa 2d6 pontos de dano ígneo adicionais a qualquer alvo que ela acerte. As chamas duram até você usar uma ação bônus para dizer a palavra de comando novamente, ou até você largar ou embainhar a espada.</p>",
       "activities": {
         "Attack (Flaming)": {
-          "name": "Attack (Flaming)"
+          "name": "Ataque (Ardente)"
         }
       }
     },
@@ -1203,7 +1203,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você pode usar uma ação bônus para dizer a palavra de comando desta espada mágica, fazendo com que chamas irrompam da lâmina. Essas chamas emitem luz plena em um raio de 12 metros e meia-luz por mais 12 metros. Enquanto a espada estiver em chamas, ela causa 2d6 pontos de dano ígneo adicionais a qualquer alvo que ela acerte. As chamas duram até você usar uma ação bônus para dizer a palavra de comando novamente, ou até você largar ou embainhar a espada.</p>",
       "activities": {
         "Attack (Flaming)": {
-          "name": "Attack (Flaming)"
+          "name": "Ataque (Ardente)"
         }
       }
     },
@@ -1216,7 +1216,7 @@
       "description": "<p>Com uma ação, você pode derramar o conteúdo deste frasco em uma criatura que esteja a até 1,5 metro de distância ou arremessar o frasco a até 6 metros, quebrando-o com o impacto. Em ambos os casos, faça um ataque à distância contra a criatura alvejada, tratando a água benta como uma arma improvisada. Se o alvo for um ínfero ou morto-vivo, sofrerá 2d6 pontos de dano radiante. Um clérigo ou paladino pode criar água benta através da realização de um ritual especial. O ritual leva 1 hora para ser realizado, usa pó de prata no valor de 25 Po e requer que o conjurador gaste um espaço de magia de 1° círculo.</p>",
       "activities": {
         "attack": {
-          "condition": "Target must be a fiend or undead."
+          "condition": "O alvo deve ser um corruptor ou morto-vivo."
         }
       }
     },
@@ -1257,7 +1257,7 @@
       "description": "<p><em>Item maravilhoso</em></p>\n<p>Seu valor de Força é 19 enquanto você usar estas manoplas. Ela não produz qualquer efeito em você se seu valor de Força já for 19 ou maior.</p>",
       "effects": {
         "Gauntlets of Ogre Power": {
-          "name": "Gauntlets of Ogre Power"
+          "name": "Manoplas de Força do Ogro"
         }
       }
     },
@@ -1266,7 +1266,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este prisma tem 50 cargas. Enquanto o estiver empunhando, com uma ação você pode dizer uma das três palavras de comando para produzir um destes três efeitos:</p>\n<ul>\n<li>A primeira palavra de comando faz a gema emitir luz plena em um raio de 9 metros e meia-luz por mais 9 metros. Este efeito não consome uma carga, durando até que você use uma ação bônus para repetir a palavra de comando ou até que você use outra função da gema.</li>\n<li>A segunda palavra de comando gasta 1 carga e faz a gema disparar um feixe de luz brilhante em uma criatura à sua vista e a até 18 metros de você. A criatura deve ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou fica cega por 1 minuto. A criatura pode repetir a salvaguarda no final de cada um dos turnos dela, encerrando o efeito sobre si em caso de sucesso.</li>\n<li>A terceira palavra de comando gasta 5 cargas e faz a gema fulgurar com luz cegante em um cone de 9 metros originado a partir dela. Cada criatura no cone deve fazer uma salvaguarda como se tivesse sido atingida pelo raio criado com a segunda palavra de comando.</li>\n</ul>\n<p>Quando todas as cargas da gema forem gastas, ela se torna uma joia não mágica no valor de 50 PO.</p>",
       "activities": {
         "save": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -1275,7 +1275,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Esta gema tem 3 cargas. Com uma ação, você pode dizer a palavra de comando e gastar 1 carga. Pelos próximos 10 minutos, você tem visão verdadeira a até 36 metros quando olhar através dela.</p>\n<p>Diariamente ao amanhecer a gema recupera 1d3 cargas gastas.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -1332,7 +1332,7 @@
       "description": "<p>Enquanto estiver vestindo esta armadura, você ganha um bônus de +1 na CA. Você também pode usar uma ação bônus para dizer a palavra de comando da armadura e fazer com que ela se pareça com vestimentas normais ou com algum outro tipo de armadura. Você decide como ela se parece, incluindo cor, estilo e acessórios, mas a armadura mantém o volume e peso originais. A ilusão dura até que você use esta propriedade novamente ou remova a armadura.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -1413,11 +1413,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Se atacar uma criatura com esta arma mágica e tirar 20 na jogada de ataque, o alvo sofre 3d6 pontos de dano necrótico adicionais, caso não seja um constructo ou um morto-vivo. Você também ganha pontos de vida temporários equivalentes ao dano adicional.</p>",
       "activities": {
         "attack": {
-          "condition": "Must roll a 20 and the target cannot be undead."
+          "condition": "Deve rolar um 20 e o alvo não pode ser morto-vivo."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -1426,11 +1426,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Quando você ataca um objeto com esta espada mágica e o acerta, maximize os dados de dano de sua arma contra o alvo.</p>\n<p>Quando você ataca uma criatura com esta arma e rola 20 na jogada de ataque, o alvo sofre 14 pontos de dano cortante adicional. Em seguida, role outro d20. Caso o resultado seja 20, você decepa um dos membros do alvo, com o efeito dessa perda sendo determinado pelo DM. Caso a criatura não possua membros a serem decepados, você lhe arranca um pedaço do corpo no lugar.</p>\n<p>Além disso, você pode pronunciar a palavra de comando da espada e fazer com que a lâmina lance luz plena por 3 metros e meia-luz por mais 3 metros. Pronunciar a palavra de comando novamente ou embainhar a espada apaga a luz.</p>",
       "activities": {
         "attack": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature with this weapon and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura com essa arma e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -1439,11 +1439,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Pontos de vida perdidos devido ao dano desta arma podem ser recuperados apenas por meio de um descanso curto ou longo, em vez de regeneração, magia ou qualquer outro meio.</p>\n<p>Uma vez por turno, ao acertar uma criatura com um ataque usando esta arma mágica, você pode lacerar o alvo. No início de cada um dos turnos da criatura lacerada, ela sofre 1d4 pontos de dano necrótico para cada vez que você a lacerou, e pode então fazer uma salvaguarda de Constituição CD 15, encerrando o efeito de tais lacerações sobre ela em caso de sucesso. Como alternativa, a criatura lacerada, ou uma criatura a até 1,5 metro dela, pode usar uma ação para fazer um teste de Sabedoria CD 15 (Medicina), encerrando o efeito de tais lacerações em caso sucesso.</p>",
       "activities": {
         "Wound Damage": {
-          "name": "Wound Damage",
-          "condition": "Start of a wounded creature's turn"
+          "name": "Dano do Ferimento",
+          "condition": "Início do turno de uma criatura ferida"
         },
         "Close Wound": {
-          "name": "Close Wound"
+          "name": "Fechar Ferimento"
         }
       }
     },
@@ -1492,21 +1492,21 @@
       "description": "<p>Você ganha um bônus de +1 nas jogadas de ataque e dano feitas com esta arma mágica (malho).</p>\n<p><strong>Perdição dos Gigantes</strong> (<em>Requer Sintonização</em>).</p>\n<p>Você deve estar usando um cinturão de força de gigante (qualquer variedade) e manoplas de poder de ogro para sintonizar com essa arma. A sintonia acaba se você retirar qualquer um desses itens. Enquanto estiver sintonizado e empunhando esta arma, o seu valor de Força aumenta em 4, podendo exceder 20, mas não 30.</p>\n<p>Quando você tira 20 em uma jogada de ataque feita com esta arma contra um gigante, este deve ser bem-sucedido em uma salvaguarda de Constituição CD 17 ou morre.</p>\n<p>O martelo também tem 5 cargas. Enquanto estiver sintonizado a ele, você pode gastar 1 carga e fazer um ataque à distância com o martelo, arremessando-o como se ele tivesse a propriedade arremesso, com um alcance normal de 6 metros e alcance máximo de 18 metros. Se o ataque acertar, o martelo libera um trovão que pode ser ouvido a até 90 metros. O alvo e todas as criaturas a até 9 metros dele, devem ser bem-sucedidas em uma salvaguarda de Constituição CD 17 ou ficam atordoadas até o fim do seu próximo turno. Diariamente ao amanhecer o martelo recupera 1d4 + 1 cargas gastas.</p>",
       "activities": {
         "Giant's Bane (On Crit)": {
-          "name": "Giant's Bane (On Crit)",
-          "chatFlavor": "A giant must succeed or die"
+          "name": "Ruína do Gigante (Em um Crítico)",
+          "chatFlavor": "Um gigante deve ser bem-sucedido ou morrer"
         },
         "Hurl Hammer": {
-          "name": "Hurl Hammer"
+          "name": "Arremessar martelo"
         },
         "Thunderclap": {
-          "name": "Thunderclap",
-          "chatFlavor": "Succeed or be stunned"
+          "name": "Trovão",
+          "chatFlavor": "Bem-sucedido ou estar atordoado"
         }
       },
       "effects": {
         "Hammer of Thunderbolts": {
-          "name": "Hammer of Thunderbolts",
-          "description": "<p>While attuned to the Hammer of Thunderbolts, your Strength score increases by 4 and can exceed 20, but not 30.</p>"
+          "name": "Martelo do Trovão",
+          "description": "<p>Enquanto estiver sintonizado com o Martelo dos Raios, seu valor de Força aumenta em 4 e pode exceder 20, mas não 30.</p>"
         }
       }
     },
@@ -1579,16 +1579,16 @@
       "description": "<p><em>Item maravilhoso (requer sintonização)</em></p>\n<p>Este elmo estonteante é feito com 1d10 diamantes, 2d10 rubis, 3d10 opalas de fogo e 4d10 opalas. Qualquer gema retirada do elmo se desfaz em pó. Quando todas as gemas são retiradas ou destruídas, o elmo perde sua magia.</p>\n<p>Você ganha os benefícios a seguir enquanto o estiver usando:</p>\n<ul>\n<li>Com uma ação você pode conjurar uma das seguintes magias (CD 18 para evitar magia), usando uma das gemas do elmo do tipo específico como componente: @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{luz do dia} (opala), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{bola de fogo} (opala de fogo), @Compendium[dnd5e.spells.eGMhwmuleAM46C6L]{raios prismáticos} (diamante) ou @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{muralha de fogo} (rubi). A gema é destruída e desaparece do elmo quando a magia é conjurada.</li>\n<li>O elmo emite meia-luz em um raio de 9 metros desde que possua ao menos um diamante e, no mínimo, um morto-vivo esteja dentro da área iluminada. Qualquer morto-vivo que comece seu turno dentro dessa área sofre 1d6 pontos de dano radiante.</li>\n<li>Desde que o elmo tenha ao menos um rubi, você tem resistência contra dano ígneo. </li>\n<li>Desde que o elmo tenha ao menos uma opala de fogo, você pode usar uma ação e dizer a palavra de comando para fazer com que uma arma que esteja empunhando irrompa em chamas. As chamas emitem luz plena em um raio de 3 metros e meia-luz por mais 3 metros. Elas são inofensivas para você e para a arma. Quando você acerta um ataque usando a arma flamejante, o alvo sofre 1d6 pontos de dano ígneo adicionais. As chamas duram até que você use uma ação bônus para dizer a palavra de comando novamente, ou até que você largue ou guarde a arma.</li>\n</ul>\n<p>Se você estiver usando o elmo e sofrer dano ígneo como resultado de uma falha na salvaguarda contra uma magia, jogue 1d20. Se o resultado for 1, o elmo emite raios de luz a partir das gemas restantes. Cada criatura a até 18 metros do elmo, além de você, deve ser bem-sucedida em uma salvaguarda de Destreza CD 17 ou ser atingida por um raio e sofrer uma quantidade de dano radiante igual ao número de gemas no elmo. O elmo e suas gemas são, então, destruídos.</p>",
       "activities": {
         "Daylight (opal)": {
-          "name": "Daylight (opal)"
+          "name": "Luz do dia (opala)"
         },
         "Fireball (fire opal)": {
-          "name": "Fireball (fire opal)"
+          "name": "Bola de fogo (opala de fogo)"
         },
         "Prismatic Spray (diamond)": {
-          "name": "Prismatic Spray (diamond)"
+          "name": "Spray Prismático (diamante)"
         },
         "Wall of Fire (opal)": {
-          "name": "Wall of Fire (opal)"
+          "name": "Muro de Fogo (opala)"
         }
       }
     },
@@ -1601,11 +1601,11 @@
       "description": "<p><em>Item maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando este elmo, com uma ação você pode conjurar a magia @Compendium[dnd5e.spells.ppWAAEul0QHtm4er]{Detectar Pensamentos} (CD 13 para evitar magia) a partir dele. Enquanto mantiver concentração na magia, você pode usar sua ação bônus para enviar uma mensagem telepática para uma criatura na qual esteja concentrado. Ela pode responder — usando uma ação bônus para tal — enquanto sua concentração continuar nela.<br />Enquanto estiver focando em uma criatura com detectar pensamentos, com uma ação você pode conjurar a magia @Compendium[dnd5e.spells.zMAWdyc8UVb37BK4]{Sugestão} (CD 13 para evitar magia) a partir do elmo na mesma criatura. Uma vez usada, sugestão não pode ser usada novamente até o próximo amanhecer.</p>",
       "activities": {
         "HG9ikbJ7bHYwKcug": {
-          "condition": "While focusing on a creature with Detect Thoughts"
+          "condition": "Ao focar em uma criatura com Detectar Pensamentos"
         },
         "Telepathic Message": {
-          "name": "Telepathic Message",
-          "condition": "While focusing on a creature with Detect Thoughts"
+          "name": "Mensagem Telepática",
+          "condition": "Ao focar em uma criatura com Detectar Pensamentos"
         }
       }
     },
@@ -1618,7 +1618,7 @@
       "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força ND 17.</p>",
       "activities": {
         "Burst": {
-          "name": "Burst"
+          "name": "Romper"
         }
       }
     },
@@ -1679,10 +1679,10 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Com uma ação você pode dizer a palavra de comando da trombeta e então soprá-la, de modo a emitir uma explosão trovejante em um cone de 9 metros, audível a 180 metros de distância. Cada criatura no cone deve fazer uma salvaguarda de Constituição CD 15. Se falhar, sofre 5d6 pontos de dano trovejante e fica surda por 1 minuto. Em caso de sucesso, ela sofre metade do dano e não fica surda. Criaturas e objetos feitos de vidro ou cristal têm desvantagem na salvaguarda e sofrem 10d6 pontos de dano trovejante em vez de 5d6.</p>\n<p>Cada uso da magia da trombeta tem uma chance de 20% de explodi-la. A explosão causa 10d6 pontos de dano ígneo àquele que a soprou e destrói o item.</p>",
       "activities": {
         "save": {
-          "condition": "Command word and blow the horn."
+          "condition": "Palavra de comando e soprar o chifre."
         },
         "utility": {
-          "condition": "Command word and blow the horn."
+          "condition": "Palavra de comando e soprar o chifre."
         }
       }
     },
@@ -1719,7 +1719,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Com uma ação você pode colocar este cubo de metal de 2,5 centímetros no chão e dizer a palavra de comando. O cubo rapidamente se transforma em uma fortaleza que dura até você usar uma ação para dizer a palavra de comando que o desativa, o que só acontece se a fortaleza estiver vazia.</p>\n<p>A fortaleza é uma torre quadrada de 6 metros de lado e 9 de altura, com seteiras em todos os lados e uma ameia no topo. O interior dela é dividido em dois andares, com uma escada ao longo de uma parede conectando ambos os pavimentos. A escada termina em um alçapão que conduz ao telhado. Quando ativada, a torre tem uma pequena porta no lado voltado para você. A porta se abre apenas sob seu comando, que pode ser proferido com uma ação bônus. Ela é imune à magia @Compendium[dnd5e.spells.1nhIxh0DsJsntCfj]{arrombar} ou efeitos mágicos similares, como o de um @Compendium[dnd5e.items.vZdLYfHlLcZqQ8zc]{carrilhão destrancador}.</p>\n<p>Cada criatura na área em que a fortaleza surge deve fazer uma salvaguarda de Destreza CD 15, sofrendo 10d10 pontos de dano contundente se falhar, ou a metade do dano em caso de sucesso. Em ambos os casos, a criatura é empurrada para um espaço desocupado do lado de fora mais próximo da fortaleza. Objetos na área que não estejam sendo usados ou carregados sofrem esse dano e são empurrados automaticamente.</p>\n<p>A torre é feita de adamantina, e a magia dela impede que seja derrubada. O telhado, a porta e as paredes têm 100 pontos de vida cada, imunidade a dano de armas não mágicas, excluindo, armas de cerco, e resistência a todos os outros danos. Apenas uma magia @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{desejo} pode reparar a fortaleza (este uso da magia conta como replicação de uma magia de 8° círculo ou inferior). Cada conjuração de desejo faz com que o telhado, a porta ou uma parede recupere 50 pontos de vida.</p>",
       "activities": {
         "save": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -1732,7 +1732,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun da Agilidade</strong>. Seu valor de Destreza aumenta em 2, até o máximo de 20, enquanto esta esfera de cor vermelho-escuro orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Agility": {
-          "name": "Ioun Stone of Agility"
+          "name": "Pedra de Ioun da Agilidade"
         }
       }
     },
@@ -1745,7 +1745,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun da Fortitude</strong>. Seu valor de Constituição aumenta em 2, até um máximo de 20, enquanto esta pedra romboide de cor rosa orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Fortitude": {
-          "name": "Ioun Stone of Fortitude"
+          "name": "Pedra de Ioun da Fortitude"
         }
       }
     },
@@ -1758,7 +1758,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun da Intuição</strong>. Seu valor de Sabedoria aumenta em 2, até um máximo de 20, enquanto esta esfera azul incandescente orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Insight": {
-          "name": "Ioun Stone of Insight"
+          "name": "Pedra de Ioun da Intuição"
         }
       }
     },
@@ -1767,7 +1767,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun do Intelecto</strong>. Seu valor de Inteligência aumenta em 2, até um máximo de 20, enquanto esta esfera rajada azul e escarlate orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Intellect": {
-          "name": "Ioun Stone of Intellect"
+          "name": "Pedra de Ioun do Intelecto"
         }
       }
     },
@@ -1776,7 +1776,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun da Liderança</strong>. Seu valor de Carisma aumenta em 2, até um máximo de 20, enquanto esta esfera rajada rosa e verde orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Leadership": {
-          "name": "Ioun Stone of Leadership"
+          "name": "Pedra de Ioun da Liderança"
         }
       }
     },
@@ -1785,7 +1785,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun da Maestria</strong>. Seu bônus de proficiência aumenta\nem 1 enquanto este prisma verde-claro orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Mastery": {
-          "name": "Ioun Stone of Mastery"
+          "name": "Pedra de Ioun da Maestria"
         }
       }
     },
@@ -1794,7 +1794,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Uma pedra de Ioun é chamada assim por causa de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedras de Ioun, cada qual apresentando uma combinação distinta de formato e cor.</p>\n<p>Quando você usa uma ação para atirar uma destas pedras ao ar, ela passa a orbitar sua cabeça a uma distância de 1d3 x 30 centímetros e lhe confere um benefício. Daí em diante, outra criatura tem que usar uma ação para agarrar ou enredar a pedra para separá-la de você, seja fazendo uma jogada de ataque bem-sucedida contra CA 24 ou fazendo um teste bem-sucedido de Destreza CD 24 (Acrobacia). Com uma ação você pode agarrar e guardar a pedra, encerrando o efeito dela.</p>\n<p>A pedra tem CA 24, 10 pontos de vida e resistência a todos os tipos de dano. Ela é considerada um objeto em uso enquanto estiver orbitando sua cabeça.</p>\n<p><strong>Pedra de Ioun da Proteção</strong>. Você ganha um bônus de +1 na CA\nenquanto este prisma rosa-empoeirado orbitar sua cabeça.</p>",
       "effects": {
         "Ioun Stone of Protection": {
-          "name": "Ioun Stone of Protection"
+          "name": "Pedra de Ioun da Proteção"
         }
       }
     },
@@ -1811,7 +1811,7 @@
       "description": "<p> <em> Item maravilhoso, (requer sintonização) </em> </p>\n<p> Uma Pedra Ioun tem o nome de Ioun, um deus do conhecimento e da profecia reverenciado em alguns mundos. Existem muitos tipos de pedra Ioun, cada tipo uma combinação distinta de forma e cor. </p>\n<p> Quando você usa uma ação para jogar uma dessas pedras no ar, a pedra orbita sua cabeça a uma distância de 1d3 pés e confere um benefício a você. Depois disso, outra criatura deve usar uma ação para agarrar ou prender a pedra para separá-la de você, fazendo uma jogada de ataque bem-sucedida contra CA 24 ou um teste bem-sucedido de Destreza CD 24 (Acrobacia). Você pode usar uma ação para agarrar e guardar a pedra, encerrando seu efeito. </p>\n<p> Uma pedra tem CA 24, 10 pontos de vida e resistência a todos os danos. É considerado um objeto que está sendo usado enquanto orbita sua cabeça. </p>\n<p> <strong> Pedra da Força </strong>. Sua pontuação de Força aumenta em 2, até um máximo de 20, enquanto este rombóide azul claro orbita sua cabeça. </p>",
       "effects": {
         "Ioun Stone of Strength": {
-          "name": "Ioun Stone of Strength"
+          "name": "Pedra de Ioun da Força"
         }
       }
     },
@@ -1824,7 +1824,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Esta esfera de ferro oxidado mede 7,5 centímetros de diâmetro e pesa 0,5 quilo. Com uma ação você pode dizer a palavra de comando e arremessar a esfera em uma criatura Enorme ou menor, à sua vista e a até 18 metros de você. À medida que a esfera se move pelo ar, ela se abre em um emaranhado de faixas de metal.</p>\n<p>Faça uma jogada de ataque à distância com um bônus de ataque igual ao seu modificador de Destreza, mais seu bônus de proficiência. Em caso de acerto, o alvo fica contido até que você use uma ação bônus para dizer a palavra de comando novamente e libertá-lo. Fazer isso, ou errar o ataque, faz com que as faixas se contraiam, retornando ao formato esférico.</p>\n<p>Uma criatura, incluindo a que está contida, pode usar uma ação para fazer um teste de Força CD 20 e romper as faixas de metal. Em caso de sucesso, o item é destruído e a criatura contida é libertada. Se o teste falhar, quaisquer tentativas posteriores feitas pela mesma criatura falham automaticamente até que 24 horas tenham se passado.</p>\n<p>Uma vez que as faixas tenham sido usadas, elas não podem ser reutilizadas até o próximo amanhecer.</p>",
       "activities": {
         "attack": {
-          "condition": "Command word. Target creature must be Huge or smaller."
+          "condition": "Palavra de comando. Criatura alvo deve ser Enorme ou menor."
         }
       }
     },
@@ -2289,25 +2289,25 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização por um cérigo, druida ou paladino)</em></p><p>Este colar tem ld4 + 2 contas mágicas feitas de água marinha, pérola negra ou topázio. Ela também tem muitas contas não mágicas feitas de pedras, como âmbar, jaspe vermelho, citrino, coral, jade, pérola ou quartzo. Se uma conta mágica for removida do colar, ela perde a magia.</p><p>Existem seis tipos de contas mágicas. O DM decide a qual tipo cada conta pertence ou determina aleatoriamente. Um colar não pode ter mais de uma conta do mesmo tipo. Para usar uma conta, você deve estar vestindo o colar. Cada conta contém uma magia que você pode conjurar a partir dela com uma ação bônus (usando a CD para evitar sua magia, caso seja necessário). Uma vez que a magia de uma conta mágica seja conjurada, aquela conta não pode ser usada novamente até o próximo amanhecer.</p><p>Use a tabela @Compendium[dnd5e.tables.XHTUTUXdyzcPbodw]{Colar de Contas de Oração} table e consulte a tabela abaixo para obter descrições detalhadas de cada conta</p><table><thead><tr><th><strong>d20</strong></th><th><strong>Conta de…</strong></th><th><strong>Magia</strong></th><th><strong>Preço sugerido por Conta (PO)</strong></th></tr></thead><tbody><tr><td>1-6</td><td>Abençoar</td><td>@Compendium[dnd5e.spells.8dzaICjGy6mTUaUr]{Benção}</td><td>2.000</td></tr><tr><td>7-12</td><td>Curar</td><td>@Compendium[dnd5e.spells.uUWb1wZgtMou0TVP]{Curar Ferimentos} (2º Círculo) ou @Compendium[dnd5e.spells.F0GsG0SJzsIOacwV]{Restauração Menor}</td><td>4.000</td></tr><tr><td>13-16</td><td>Favorecer</td><td>@Compendium[dnd5e.spells.WzvJ7G3cqvIubsLk]{Restauração Maior}</td><td>32.000</td></tr><tr><td>17-18</td><td>Destruir</td><td>@Compendium[dnd5e.spells.7UwUjJ6owIQkEPrs]{Marca da Punição}</td><td>1.500</td></tr><tr><td>19</td><td>Invocar</td><td>@Compendium[dnd5e.spells.fkREcytuZ8sngWtC]{Aliado Extraplanar}</td><td>128.000</td></tr><tr><td>20</td><td>Caminhar no Vento</td><td>@Compendium[dnd5e.spells.8PJAsHmbu6UgDHC0]{Caminhar no Vento}</td><td>96.000</td></tr></tbody></table><section class=\"secret foundry-note\" id=\"secret-7DOXr3q6fDOOCepZ\"><p><strong>Nota do Foundry</strong></p><p>As 6 cargas refletem o número máximo de contas que podem ser encontradas, por favor, ajuste conforme necessário.</p><p>Além disso, o preço sugerido é apenas um guia e deve ser ajustado para se adequar ao mundo do DM.</p></section>",
       "activities": {
         "Bead of Blessing (bless)": {
-          "name": "Pérola de Bênção (bênção)"
+          "name": "Conta de Bênção (bênção)"
         },
         "Bead of Curing (cure wounds)": {
-          "name": "Pérola de Cura (curar ferimentos)"
+          "name": "Conta de Cura (curar ferimentos)"
         },
         "Bead of Curing (lesser restoration)": {
-          "name": "Pérola de Cura (restauração menor)"
+          "name": "Conta de Cura (restauração menor)"
         },
         "Bead of Favor (greater restoration)": {
-          "name": "Pérola do Favor (restauração maior)"
+          "name": "Conta do Favor (restauração maior)"
         },
         "Bead of Smiting (branding smite)": {
-          "name": "Pérola do Golpeamento (marca da punição)"
+          "name": "Conta da Punição (marca da punição)"
         },
         "Bead of Summons (planar ally)": {
-          "name": "Pérola da Convocação (aliado planar)"
+          "name": "Conta da Convocação (aliado planar)"
         },
         "Bead of Wind Walking (wind walk)": {
-          "name": "Bead of Wind Walking (wind walk)"
+          "name": "Conta da Caminhada no Vento (caminhar no vento)"
         }
       }
     },
@@ -2332,11 +2332,11 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Você ganha um bônus de +2 para as jogadas de ataque e dano feitas com esta arma mágica.</p><p>A espada tem 1d8 + 1 cargas. Quando você obtêm um acerto crítico contra uma criatura que tenha menos de 100 pontos de vida, ela precisa ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou é morta instantaneamente, enquanto a espada extrai a força vital do corpo dela (um constructo ou um morto-vivo são imunes). A espada perde 1 carga se a criatura for morta. Quando a espada ficar sem cargas, ela perde esta propriedade.</p><section class=\"secret foundry-note\" id=\"secret-XU1Smd3yWr2RbK2h\"><p><strong>Nota do Foundry</strong></p><p>As 9 cargas refletem uma espada totalmente carregada. Por favor, ajuste de acordo com o necessário.</p></section>",
       "activities": {
         "attack": {
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         },
         "Save vs Death": {
-          "name": "Save vs Death",
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "name": "Salvaguarda contra Morte",
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         }
       }
     },
@@ -2345,11 +2345,11 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Você ganha um bônus de +2 para as jogadas de ataque e dano feitas com esta arma mágica.</p><p>A espada tem 1d8 + 1 cargas. Quando você obtêm um acerto crítico contra uma criatura que tenha menos de 100 pontos de vida, ela precisa ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou é morta instantaneamente, enquanto a espada extrai a força vital do corpo dela (um constructo ou um morto-vivo são imunes). A espada perde 1 carga se a criatura for morta. Quando a espada ficar sem cargas, ela perde esta propriedade.</p><section class=\"secret foundry-note\" id=\"secret-ckS4CQSkeNGqH9YG\"><p><strong>Nota do Foundry</strong></p><p>As 9 cargas refletem uma espada totalmente carregada. Por favor, ajuste de acordo com o necessário.</p></section>",
       "activities": {
         "attack": {
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         },
         "Save vs Death": {
-          "name": "Save vs Death",
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "name": "Salvaguarda contra Morte",
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         }
       }
     },
@@ -2358,11 +2358,11 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Você ganha um bônus de +2 para as jogadas de ataque e dano feitas com esta arma mágica.</p><p>A espada tem 1d8 + 1 cargas. Quando você obtêm um acerto crítico contra uma criatura que tenha menos de 100 pontos de vida, ela precisa ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou é morta instantaneamente, enquanto a espada extrai a força vital do corpo dela (um constructo ou um morto-vivo são imunes). A espada perde 1 carga se a criatura for morta. Quando a espada ficar sem cargas, ela perde esta propriedade.</p><section class=\"secret foundry-note\" id=\"secret-CNX3bDFw8VVGhJ1M\"><p><strong>Nota do Foundry</strong></p><p>As 9 cargas refletem uma espada totalmente carregada. Por favor, ajuste de acordo com o necessário.</p></section>",
       "activities": {
         "attack": {
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         },
         "Save vs Death": {
-          "name": "Save vs Death",
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "name": "Salvaguarda contra Morte",
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         }
       }
     },
@@ -2371,11 +2371,11 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Você ganha um bônus de +2 para as jogadas de ataque e dano feitas com esta arma mágica.</p><p>A espada tem 1d8 + 1 cargas. Quando você obtêm um acerto crítico contra uma criatura que tenha menos de 100 pontos de vida, ela precisa ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou é morta instantaneamente, enquanto a espada extrai a força vital do corpo dela (um constructo ou um morto-vivo são imunes). A espada perde 1 carga se a criatura for morta. Quando a espada ficar sem cargas, ela perde esta propriedade.</p><section class=\"secret foundry-note\" id=\"secret-njpOaQoYGXWt6oBj\"><p><strong>Nota do Foundry</strong></p><p>As 9 cargas refletem uma espada totalmente carregada. Por favor, ajuste de acordo com o necessário.</p></section>",
       "activities": {
         "attack": {
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         },
         "Save vs Death": {
-          "name": "Save vs Death",
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "name": "Salvaguarda contra Morte",
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         }
       }
     },
@@ -2384,11 +2384,11 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Você ganha um bônus de +2 para as jogadas de ataque e dano feitas com esta arma mágica.</p><p>A espada tem 1d8 + 1 cargas. Quando você obtêm um acerto crítico contra uma criatura que tenha menos de 100 pontos de vida, ela precisa ser bem-sucedida em uma salvaguarda de Constituição CD 15 ou é morta instantaneamente, enquanto a espada extrai a força vital do corpo dela (um constructo ou um morto-vivo são imunes). A espada perde 1 carga se a criatura for morta. Quando a espada ficar sem cargas, ela perde esta propriedade.</p><section class=\"secret foundry-note\" id=\"secret-frvYcC8zMAoCd8sF\"><p><strong>Nota do Foundry</strong></p><p>As 9 cargas refletem uma espada totalmente carregada. Por favor, ajuste de acordo com o necessário.</p></section>",
       "activities": {
         "attack": {
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         },
         "Save vs Death": {
-          "name": "Save vs Death",
-          "condition": "Critical hit on a creature of 100 hit points or less. Undead and constructs are immune."
+          "name": "Salvaguarda contra Morte",
+          "condition": "Acerto crítico em uma criatura com 100 pontos de vida ou menos. Mortos-vivos e constructos são imunes."
         }
       }
     },
@@ -2397,10 +2397,10 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Quando você coloca uma flecha na corda deste arco, ele sussurra em Élfico, \"Derrota rápida para meus inimigos\". Ao apontar esta arma para realizar um ataque à distância, você pode, como uma frase de comando, dizer \"Morte rápida para você que me ofendeu\". O alvo do seu ataque torna-se seu inimigo jurado até ele próprio morrer ou até o amanhecer do sétimo dia após proferir o comando. Você pode ter apenas um inimigo jurado de cada vez. Quando seu inimigo jurado morre, você pode escolher um novo inimigo após o próximo amanhecer.</p>\n<p>Ao fazer uma jogada de ataque à distância com esta arma contra seu inimigo jurado, você tem vantagem na jogada. Além disso, seu alvo não ganha benefício algum de cobertura, a não ser de cobertura total, e você não sofre desvantagem devido ao alcance máximo. Se o ataque acertar, seu inimigo jurado sofre 3d6 pontos de dano perfurante adicionais.</p>\n<p>Enquanto seu inimigo jurado viver, você tem desvantagem em jogadas de ataque com todas as outras armas.</p>",
       "activities": {
         "attack": {
-          "condition": "Command phrase."
+          "condition": "Frases de comando."
         },
         "Damage vs Sworn Enemy": {
-          "name": "Damage vs Sworn Enemy"
+          "name": "Dano contra Inimigo Jurado"
         }
       }
     },
@@ -2413,7 +2413,7 @@
       "description": "<p><em>Beads of this cloudy gray oil form on the outside of its container and quickly evaporate.  </em></p>\n<p>The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium).  Applying the oil takes 10 minutes.  The affected creature then gains the effect of the @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{Etherealness} spell for 1 hour.</p>",
       "activities": {
         "utility": {
-          "condition": "Medium or smaller creature. Takes 10 minutes to apply."
+          "condition": "Criatura Média ou menor. Leva 10 minutos para se aplicar."
         }
       }
     },
@@ -2478,7 +2478,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização por um conjurador)</em></p>\n<p>Enquanto esta pérola estiver em sua posse, é possível usar uma ação para dizer a palavra de comando e recuperar um espaço de magia gasto. Se o espaço de magia era de 4° círculo ou superior, o novo espaço é de 3° círculo. Uma vez que você tenha usado a pérola, ela não pode ser usada novamente até o próximo amanhecer.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -2523,7 +2523,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Você deve ser proficiente com instrumentos de sopro para usar esta flauta. Ela tem 3 cargas. Com uma ação você pode tocá-la e gastar 1 carga para criar uma melodia espectral místicamente atraente. Cada criatura a até 9 metros de você e que ouça a música precisa ser bem-sucedida em úma salvaguarda de Sabedoria CD 15, ou fica amedrontada por você durante 1 minuto. Se desejar, todas as criaturas na área que não sejam hostis a você são automaticamente bem-sucedidas na salvaguarda. Uma criatura que falhe na salvaguarda pode repeti-la ao final de cada um dos turnos dela, encerrando o efeito sobre si em caso de sucesso. Uma criatura que seja bem-sucedida na salvaguarda fica imune aos efeitos da flauta por 24 horas.</p>\n<p>Diariamente ao amanhecer a flauta recupera 1d3 cargas gastas.</p>",
       "activities": {
         "save": {
-          "condition": "Proficiency with wind instruments."
+          "condition": "Proficiente com instrumentos de sopro."
         }
       }
     },
@@ -2532,10 +2532,10 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Você deve ser proficiente com instrumentos de sopro para usar esta flauta. Enquanto estiver sintonizado com ela, ratos comuns e ratos gigantes ficam indiferentes a você e não o atacarão, a não ser que você ameace machucá-los.</p>\n<p>A flauta tem 3 cargas. Ao tocar a flauta com uma ação, você pode usar uma ação bônus para gastar de 1 a 3 cargas, convocando uma @Compendium[dnd5e.monsters.8ihbbjkaOFTPbI73]{fúria de ratos} por cada carga gasta, desde que haja ratos suficientes a até 800 metros de você para serem chamados desta forma (conforme determinado pelo DM). Se não houver ratos suficientes para formar uma fúria, a carga é gasta. Fúrias convocadas se movem-se em direção da música pela rota mais curta possível, mas, exceto isso, não estão sob seu controle. Diariamente ao amanhecer a flauta recupera 1d3 cargas gastas.</p>\n<p>Sempre que uma fúria de ratos que não esteja sob o controle de outra criatura se aproximar a até 9 metros de você enquanto estiver tocando a flauta, você pode fazer um teste de Carisma resistido pelo teste de Sabedoria da fúria de ratos. Se você perder a disputa, a fúria se comporta como faria normalmente e não pode ser guiada pela música da sua flauta pelas próximas 24 horas. Se você ganhar a disputa, a fúria é guiada pela música da flauta e se torna amigável a você e a seus companheiros enquanto você continuar a tocar a flauta a cada rodada com uma ação. Uma fúria amigável obedece aos seus comandos. Se você não der comando algum a uma fúria amigável, ela defende a si mesma, mas, exceto isso, não realiza ação alguma. Se uma fúria amigável iniciar o turno e não puder ouvir a música da flauta, seu controle sobre a fúria termina e ela se comporta como de costume, não podendo ser guiada pela música da flauta pelas próximas 24 horas.</p>",
       "activities": {
         "check": {
-          "condition": "Proficiency with wind instruments."
+          "condition": "Proficiente com instrumentos de sopro."
         },
         "save": {
-          "condition": "Proficiency with wind instruments."
+          "condition": "Proficiente com instrumentos de sopro."
         }
       }
     },
@@ -2568,7 +2568,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Esta armadura consiste em placas de metal moldadas e conectadas de modo a cobrir todo o corpo do usuário. O conjunto de placas inclui manoplas, pesadas botas de couro, um elmo com visor e espessas camadas de enchimento por baixo da armadura. Cintas e fivelas ajudam a distribuir o seu peso pelo corpo.</p>\n<p>Enquanto estiver usando esta armadura, você pode dizer a palavra de comando com uma ação para ganhar o efeito da magia @Compendium[dnd5e.spells.PQuEgKyCdovOvhqN]{forma etérea}, que dura 10 minutos ou, até que você remova a armadura, ou use uma ação para dizer a palavra de comando novamente. Esta propriedade da armadura não pode voltar a ser usada até o próximo amanhecer.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -2605,7 +2605,7 @@
       "description": "<p><em>Agitar este líquido com aparência de lama traz pequenos pedaços de coisas à vista: uma escama de peixe, uma língua de colibri, uma unha de gato ou um pelo de esquilo.</em></p>\n<p>Ao beber esta poção, você pode conjurar a magia @Compendium[dnd5e.spells.hDOENzjuj5WpLq7B]{Animal Friendship} (CD 13 para evitar magia) por 1 hora, à vontade. </p>",
       "activities": {
         "save": {
-          "condition": "Beast must have an Intelligence of 3 or lower."
+          "condition": "A Besta deve ter uma Inteligência de 3 ou menor."
         }
       }
     },
@@ -2750,8 +2750,8 @@
       "description": "<p>Uma ajuda para os fiéis, este cilindro pode ser ligado a um fuso de metal, madeira, osso, pedra, couro, ou algodão grosso, girado à medida que o utilizador segue um mantra ou cântico esculpido ou incrustado nele.</p>"
     },
     "Priest's Pack": {
-      "name": "Priest's Pack",
-      "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+      "name": "Pacote do Sacerdote",
+      "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Quarterstaff": {
       "name": "Bastão",
@@ -2794,11 +2794,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Se atacar uma criatura com esta arma mágica e tirar 20 na jogada de ataque, o alvo sofre 3d6 pontos de dano necrótico adicionais, caso não seja um constructo ou um morto-vivo. Você também ganha pontos de vida temporários equivalentes ao dano adicional.</p>",
       "activities": {
         "attack": {
-          "condition": "Must roll a 20 and the target cannot be undead."
+          "condition": "Deve rolar um 20 e o alvo não pode ser morto-vivo."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -2807,11 +2807,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Pontos de vida perdidos devido ao dano desta arma podem ser recuperados apenas por meio de um descanso curto ou longo, em vez de regeneração, magia ou qualquer outro meio.</p>\n<p>Uma vez por turno, ao acertar uma criatura com um ataque usando esta arma mágica, você pode lacerar o alvo. No início de cada um dos turnos da criatura lacerada, ela sofre 1d4 pontos de dano necrótico para cada vez que você a lacerou, e pode então fazer uma salvaguarda de Constituição CD 15, encerrando o efeito de tais lacerações sobre ela em caso de sucesso. Como alternativa, a criatura lacerada, ou uma criatura a até 1,5 metro dela, pode usar uma ação para fazer um teste de Sabedoria CD 15 (Medicina), encerrando o efeito de tais lacerações em caso sucesso.</p>",
       "activities": {
         "Wound Damage": {
-          "name": "Wound Damage",
-          "condition": "Start of a wounded creature's turn"
+          "name": "Dano do Ferimento",
+          "condition": "Início do turno de uma criatura ferida"
         },
         "Close Wound": {
-          "name": "Close Wound"
+          "name": "Fechar Ferimento"
         }
       }
     },
@@ -2828,7 +2828,7 @@
       "description": "<p><em>Item Maravilhoso</em></p><p>Este frasco de vidro de 7,5 centímetros de diâmetro contém 1d4 + 1 doses de uma mistura espessa que possui fragrância levemente semelhante a da babosa. O frasco e seu conteúdo pesam 225 gramas.</p><p>Com uma ação, uma dose do unguento pode ser engolida ou aplicada à pele. A criatura que a recebe recupera 2d8 + 2 pontos de vida, deixa de estar envenenada e é curada de qualquer doença.</p><section class=\"secret foundry-note\" id=\"secret-hzyPBoWppRXYnf9A\"><p><strong>Nota do Foundry</strong></p><p>As 5 cargas refletem o número máximo de doses possível. Da mesma forma, o preço sugerido de 600 PO é calculado tendo como base 120 PO por dose. Ajuste ambos conforme a necessidade.</p></section>",
       "activities": {
         "heal": {
-          "condition": "The ointment needs to be swallowed or applied to the skin."
+          "condition": "A pomada precisa ser engolida ou aplicada na pele."
         }
       }
     },
@@ -2861,7 +2861,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma pérola que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano ácido enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Acid Resistance": {
-          "name": "Acid Resistance"
+          "name": "Resistência a Ácido"
         }
       }
     },
@@ -2878,7 +2878,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma </em><em>pedra </em><em>de turmalina que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano gélido enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Cold Resistance": {
-          "name": "Cold Resistance"
+          "name": "Resistência ao Frio"
         }
       }
     },
@@ -2887,7 +2887,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Enquanto estiver usando este anel, você pode dizer a palavra de comando com uma ação para invocar um determinado @Compendium[dnd5e.monsters.5P1VGAZQwOilwZQf]{Djinni} do Plano Elemental do Ar. O djinni aparece em um espaço desocupado à sua escolha e a até 36 metros de você. Ele permanece enquanto você permanecer concentrado (como se estivesse se concentrando em uma magia), até um máximo de 1 hora, ou até que ele seja reduzido a 0 pontos de vida. Ele então retorna para o próprio plano de origem.</p>\n<p>Ao longo da invocação, o djinni é amigável a você e a seus companheiros. Ele obedece a quaisquer comandos que você lhe der, não importando o idioma que usar. Se você falhar em lhe dar um comando, o djinni se defende de atacantes, mas não realiza outras ações.</p>\n<p>Após partir, o djinni não pode ser invocado novamente pelas próximas 24 horas, e o anel torna-se não mágico se o djinni morrer.</p>",
       "activities": {
         "summon": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -2900,7 +2900,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Este anel tem 3 cargas. Diariamente ao amanhecer ele recupera 1d3 cargas gastas. Enquanto estiver usando o anel, você pode usar sua reação para gastar 1 das cargas dele e ser bem-sucedido em uma salvaguarda de Destreza que tenha falhado.</p>",
       "activities": {
         "Evade": {
-          "name": "Evade"
+          "name": "Esquiva"
         }
       }
     },
@@ -2917,7 +2917,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma </em><em>pedra </em><em>granada que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano ígneo enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Fire Resistance": {
-          "name": "Fire Resistance"
+          "name": "Resistência ao Fogo"
         }
       }
     },
@@ -2926,7 +2926,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma </em><em>pedra </em><em>de safira que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano energético enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Force Resistance": {
-          "name": "Force Resistance"
+          "name": "Resistência a Força"
         }
       }
     },
@@ -2939,12 +2939,12 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Enquanto estiver usando este anel, você pode ficar invisível com uma ação. Tudo que você estiver vestindo ou carregando fica invisível com você. Você permanece invisível até o anel ser removido, até você atacar ou conjurar uma magia ou até você usar uma ação para ficar visível novamente.</p>",
       "activities": {
         "Become Invisible": {
-          "name": "Become Invisible"
+          "name": "Se torna invisível"
         }
       },
       "effects": {
         "Invisibility": {
-          "name": "Invisibility"
+          "name": "Invisibilidade"
         }
       }
     },
@@ -2957,7 +2957,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma </em><em>pedra </em><em>de citrino que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano elétrico enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Lightning Resistance": {
-          "name": "Lightning Resistance"
+          "name": "Resistência ao Relâmpago"
         }
       }
     },
@@ -2966,7 +2966,7 @@
       "description": "<p><em>(requer sintonização)</em></p>\n<p>Enquanto estiver usando este anel, você é imune a magias que permitam que outras criaturas leiam seus pensamentos, determinem se você está mentindo, descubram seu alinhamento ou saibam o tipo de criatura que você é. Criaturas podem se comunicar telepaticamente com você apenas com sua permissão.</p>\n<p>Com uma ação você pode fazer o anel ficar invisível, assim permanecendo até que você use outra ação para fazê-lo ficar visível, removê-lo ou até a sua morte.</p>\n<p>Se você morrer enquanto estiver usando o anel, sua alma entra nele, a menos que ele já esteja abrigando outra. Você pode permanecer no anel ou partir para o pós-vida. Enquanto sua alma estiver no anel, você pode se comunicar telepaticamente com qualquer criatura que o estiver usando. Um usuário não pode impedir esta comunicação telepática.</p>",
       "activities": {
         "Conceal Ring": {
-          "name": "Conceal Ring"
+          "name": "Ocultar Anel"
         }
       }
     },
@@ -2975,7 +2975,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma </em><em>pedra </em><em>de âmbar negro que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano necrótico enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Necrotic Resistance": {
-          "name": "Necrotic Resistance"
+          "name": "Resistência a Necrótico"
         }
       }
     },
@@ -2984,7 +2984,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma pedra ametista que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano venenoso enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Poison Resistance": {
-          "name": "Poison Resistance"
+          "name": "Resistência a Veneno"
         }
       }
     },
@@ -2993,7 +2993,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Você ganha um bônus de +1 na CA e em salvaguardas enquanto estiver usando este anel.</p>",
       "effects": {
         "Protection": {
-          "name": "Protection"
+          "name": "Proteção"
         }
       }
     },
@@ -3002,7 +3002,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma pedra de jade que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano psíquico enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Psychic Resistance": {
-          "name": "Psychic Resistance"
+          "name": "Resistência Psíquica"
         }
       }
     },
@@ -3011,7 +3011,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma pedra de topázio que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano radiante enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Radiant Resistance": {
-          "name": "Radiant Resistance"
+          "name": "Resistência Radiante"
         }
       }
     },
@@ -3020,7 +3020,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Enquanto estiver usando este anel, você recupera 1d6 pontos de vida a cada 10 minutos, desde que tenha ao menos 1 ponto de vida. Se você perder uma parte do corpo, o anel faz com que essa parte volte a crescer e a funcionar plenamente 1d6 + 1 dias depois, caso você tenha permanecido com ao menos 1 ponto de vida durante todo o tempo da regeneração.</p>\n<p><em>Nota do Foundry: você pode usar a Outra Fórmula para calcular os dias necessários para regenerar uma parte do corpo, se necessário.</em></p>",
       "activities": {
         "heal": {
-          "condition": "You need at least 1 hit point."
+          "condition": "Você precisa de pelo menos 1 ponto de vida."
         }
       }
     },
@@ -3029,7 +3029,7 @@
       "description": "<p><em>(Requer sintonização ao ar livre à noite)</em></p><p>Enquanto estiver usando este anel em meia-luz ou escuridão, você pode conjurar @Compendium[dnd5e.spells.CAxSzHWizrafT033]{Luzes Dançantes} e @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{Luz} a partir do anel à vontade. Conjurar uma magia a partir do anel requer uma ação.</p><p>O anel tem 6 cargas para as outras propriedades a seguir. Diariamente ao amanhecer ele recupera 1d6 cargas gastas.</p><p><strong>Fogo das Fadas</strong>. Você pode usar 1 carga com uma ação para conjurar @Compendium[dnd5e.spells.nqBDWkVOfcGZt4YU]{Fogo das Fadas} a partir do anel.</p><p><strong>Esfera de Eletricidade</strong>. Você pode gastar 2 cargas com uma ação para criar de uma a quatro esferas de eletricidade com 1 metro de diâmetro. Quanto mais esferas você criar, menos poderosa individualmente cada uma será.</p><p>Cada esfera surge em um espaço desocupado à sua vista e a até 36 metros de você. As esferas duram enquanto você se concentrar (como se estivesse se concentrando em uma magia), até 1 minuto. Cada esfera emite meia-luz em um raio de 9 metros.</p><p>Com uma ação bônus, você pode mover cada esfera por até 9 metros, até o limite de 36 metros de distância de você. Quando uma criatura diferente de você chegar a até 1,5 metro de uma esfera, esta descarrega eletricidade na criatura e desaparece. A criatura deve fazer uma salvaguarda de Destreza CD 15. Se falhar, sofre dano elétrico baseado no número de esferas que você criou.</p><table><thead><tr><td><strong>Esferas</strong></td><td><strong>Dano Elétrico</strong></td></tr></thead><tbody><tr><td>4</td><td>2d4</td></tr><tr><td>3</td><td>2d6</td></tr><tr><td>2</td><td>5d4</td></tr><tr><td>1</td><td>4d12</td></tr></tbody></table><p><strong>Estrelas Cadentes</strong>. Você pode gastar de 1 a 3 cargas com uma ação. Para cada carga, você lança uma porção de luz a partir do anel em um ponto à sua vista e a até 18 metros de você. Cada criatura em um cubo de 4,5 metros originado aquele ponto é banhada em faíscas e deve ser bem-sucedida em uma salvaguarda de Destreza CD 15, sofrendo 5d4 pontos de dano ígneo se falhar, ou metade do dano em caso de sucesso.</p>",
       "activities": {
         "Shooting Star": {
-          "name": "Shooting Star"
+          "name": "Estrela Cadente"
         }
       }
     },
@@ -3046,7 +3046,7 @@
       "description": "<p>Você tem um deslocamento de natação de 12 metros enquanto estiver usando este anel.</p>",
       "effects": {
         "Swimming": {
-          "name": "Swimming"
+          "name": "Natação"
         }
       }
     },
@@ -3063,7 +3063,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p><em>Este anel está ornado com uma pedra de jade que parece brilhar quando iluminada.</em></p>\n<p>Você tem resistência a dano trovejante enquanto estiver usando este anel.</p>\n<p>Para outros anéis de resistência, use a tabela @Compendium[dnd5e.tables.MdTxWyYVhTIgtNcG]{Anel de Resistência}.</p>",
       "effects": {
         "Thunder Resistance": {
-          "name": "Thunder Resistance"
+          "name": "Resistência ao Trovão"
         }
       }
     },
@@ -3072,7 +3072,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Enquanto estiver usando este anel, você tem resistência a dano gélido. Além disso, você e todas as coisas que estiver vestindo e carregando não são afetadas por temperaturas tão baixas quanto -46 °C.</p>",
       "effects": {
         "Warmth": {
-          "name": "Warmth"
+          "name": "Calor"
         }
       }
     },
@@ -3093,7 +3093,7 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Este anel tem 3 cargas. Diariamente ao amanhecer ele recupera 1d3 cargas gastas. Enquanto estiver usando este anel, você pode usar uma ação gastando de 1 a 3 das cargas e atacar uma criatura à sua vista e a até 18 metros de você. O anel produz uma cabeça de carneiro espectral e faz uma jogada de ataque com um bônus de +7. Em caso de acerto, para cada carga que você gastou, o alvo sofre 2d10 pontos de dano energético e é empurrado 1,5 metro para longe de você.</p><p>Como alternativa, você pode gastar de 1 a 3 cargas com uma ação para tentar quebrar um objeto à sua vista e a até 18 metros de você, que não esteja sendo usado ou carregado. O anel faz um teste de Força com um bônus de +5 para cada carga que você gastar.</p><section class=\"secret foundry-note\" id=\"secret-hrWDEE29xrHp8mhB\"><p><strong>Nota do Foundry</strong></p><p>A Outra Forma está ajustada para calcular 1d20 + 5 para cada carga gasta para realizar o teste de Força. Adicione +5 por cada carga extra usada conforme requerido.</p></section>",
       "activities": {
         "Break Object": {
-          "name": "Break Object"
+          "name": "Quebrar Objeto"
         }
       }
     },
@@ -3102,12 +3102,12 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Esta túnica é adornada com padrões semelhantes a olhos. Enquanto a estiver usando, você ganha os benefícios a seguir:</p>\n<ul>\n<li>A túnica permite que você veja em todas as direções, e você tem vantagem em testes de Sabedoria (Percepção) que dependam da visão.</li>\n<li>Você tem visão no escuro até um alcance de 36 metros.</li>\n<li>Você pode ver criaturas e objetos invisíveis, bem como ver no Plano Etéreo, até uma distância de 36 metros.</li>\n</ul>\n<p>Os olhos na túnica não podem ser fechados ou desviados. Embora você possa fechar ou desviar seus próprios olhos, eles não são considerados fechados enquanto você estiver vestindo a túnica.</p>\n<p>Uma magia @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{luz} conjurada sobre a túnica ou uma magia @Compendium[dnd5e.spells.BP3GCwa66IAw1yTG]{luz do dia} conjurada a até 1,5 metro dela faz com que você fique cego por 1 minuto. No final de cada um dos seus turnos, você pode fazer uma salvaguarda de Constituição (CD 11 para luz ou CD 15 para luz do dia), encerrando a cegueira em caso de sucesso.</p>",
       "activities": {
         "Save vs. Light": {
-          "name": "Save vs. Light",
-          "condition": "A Light spell is cast on the robe"
+          "name": "Salvaguarda contra Luz",
+          "condition": "Uma magia de luz é usada no manto"
         },
         "Save vs. Daylight": {
-          "name": "Save vs. Daylight",
-          "condition": "A Daylight spell is cast within 5 feet of the robe"
+          "name": "Salvaguarda contra Luz do Dia",
+          "condition": "Luz do Dia é lançado a 1,5 metros do manto"
         }
       }
     },
@@ -3128,7 +3128,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização por um bruxo, feiticeiro ou mago)</em></p>\n<p>Este traje elegante é feito com um requintado tecido branco, cinza ou preto, e é adornado com runas prateadas. A cor da túnica corresponde ao alinhamento para o qual o item foi criado. Uma túnica branca foi feita para o bem, a cinza para neutro e a preta para o mal. Você não pode sintonizar-se a uma túnica do arquimago que não corresponda ao seu alinhamento. Você ganha os benefícios a seguir enquanto veste a túnica:</p>\n<ul>\n<li>Se você não estiver usando armadura, sua Classe de Armadura base é 15 + seu modificador de Destreza.</li>\n<li>Você tem vantagem em salvaguardas contra magias e outros efeitos mágicos.</li>\n<li>A CD para evitar sua magia e seu bônus de ataque mágico aumentam em 2 cada.</li>\n</ul>",
       "effects": {
         "15 base AC": {
-          "name": "15 base AC"
+          "name": "15 CA base"
         }
       }
     },
@@ -3145,7 +3145,7 @@
       "description": "<p><em>(Requer sintonização)</em></p><p>Enquanto estiver empunhando este cetro, você pode usar sua reação para absorver uma magia que tenha como alvo somente você e não uma área. O efeito da magia absorvida é cancelado, e a energia dela — não a própria magia — é armazenada no cetro. A energia absorvida tem o mesmo círculo da magia quando esta foi conjurada. O cetro pode absorver e armazenar até 50 círculos de energia ao longo da existência dele. Uma vez que o cetro tenha absorvido 50 círculos de energia, ele não pode absorver mais. Se você for alvo de uma magia que o cetro não possa armazenar, ele não terá nenhum efeito sobre essa magia.</p><p>Ao sintonizar-se com o cetro, você sabe quantos círculos de energia ele já absorveu desde que foi criado, e quantos círculos de energia mágica ele tem armazenado no momento.</p><p>Se você for um conjurador e segurar o cetro, poderá converter a energia armazenada nele em espaços de magia para conjurar magias que você preparou ou conhece. Você só pode criar espaços de magia de um círculo igual ou inferior ao dos seus próprios espaços de magia, até no máximo o 5° círculo. Você usa os círculos armazenados no lugar de seus espaços, mas, de resto, conjura a magia normalmente. Por exemplo, você pode usar 3 círculos armazenados no cetro como um espaço de magia de 3° círculo.</p><p>Um cetro recém encontrado já possui 1d10 círculos de energia mágica armazenados. Um cetro que não possa mais absorver energia mágica e não tenha nenhuma energia restante torna-se não mágico.</p><section class=\"secret foundry-note\" id=\"secret-4moLuVa8eSuTndZO\"><p><strong>Nota do Foundry</strong></p><p>O cetro atualmente tem o máximo de 10 cargas para um cetro recém-encontrado. Ajuste conforme necessário.</p></section>",
       "activities": {
         "utility": {
-          "condition": "Spell slots created can be no higher than 5th level."
+          "condition": "Espaços de magia criados não podem ser superiores a 5º nível."
         }
       }
     },
@@ -3154,8 +3154,8 @@
       "description": "<p><em>(requer sintonização)</em></p>\n<p>Este cetro tem uma cabeça flangeada e as propriedades a seguir.</p>\n<p><strong>Prontidão.</strong> Enquanto estiver empunhando o cetro, você tem vantagem em testes de Sabedoria (Percepção) e jogadas de iniciativa.</p>\n<p><strong>Magias.</strong> Enquanto estiver empunhando o cetro, com uma ação você pode conjurar uma das seguintes magias a partir dele: @Compendium[dnd5e.spells.Mzh95utKDPIrjiH8]{detectar o bem e o mal}, @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{detectar magia}, @Compendium[dnd5e.spells.2skfDtglk1mGrb3l]{detectar veneno e doença}, ou @Compendium[dnd5e.spells.DQzlB5Y3k791W5bH]{ver o invisível}.</p>\n<p><strong>Aura Protetora.</strong> Com uma ação, você pode fincar a extremidade do cabo do cetro no solo, momento em que a cabeça dele emite luz plena em um raio de 18 metros e meia luz por mais 18 metros. Enquanto estiver nessa luz plena, você e qualquer criatura amigável a você ganham um bônus de +1 na CA e salvaguardas, podendo sentir a localização de qualquer criatura\nhostil invisível que também esteja sob a luz plena.</p>\n<p>A cabeça do cetro para de brilhar e o efeito termina após 10 minutos, ou quando uma criatura usar uma ação para tirar o cetro do chão. Esta propriedade não pode ser usada novamente até o próximo amanhecer.</p>",
       "activities": {
         "Protective Aura": {
-          "name": "Protective Aura",
-          "condition": "Rod must be planted in the ground."
+          "name": "Aura Protetora",
+          "condition": "A vara deve ser plantada no solo."
         }
       }
     },
@@ -3164,7 +3164,7 @@
       "description": "<p><em>(requer sintonização)</em></p>\n<p>Este cetro tem uma cabeça flangeada e funciona como uma maça mágica que concede um bônus de +3 para as jogadas de ataque e dano feitas com ela. O cetro tem propriedades associadas a seis botões diferentes, que estão dispostos em sequência ao longo da haste. Ele também tem três outras propriedades detalhadas abaixo.</p>\n<p><strong>Seis Botões.</strong> Você pode pressionar um dos seis botões do cetro como uma ação bônus. O efeito de um botão dura até que você pressione-o novamente ou um botão diferente, o que faz com que o cetro reverta à forma original.</p>\n<p>Se você pressionar o <strong>botão 1</strong>, o cetro torna-se uma língua flamejante, conforme uma lâmina de fogo brota da extremidade oposta à cabeça flangeada.</p>\n<p>Se você pressionar o <strong>botão 2</strong>, a cabeça flangeada se dobra para baixo e duas lâminas curvas saltam para fora, transformando o cetro em um machado de batalha mágico que concede um bônus de + 3 às jogadas de ataque e dano feitas com ele.</p>\n<p>Se você pressionar o <strong>botão 3</strong>, a cabeça flangeada se dobra para baixo, uma ponta de lança salta da extremidade, e o punho do cetro se alonga 1,8 metro, transformando-o em uma lança mágica que concede um bônus de +3 às jogadas de ataque e dano feitas com ela.</p>\n<p>Se você pressionar o <strong>botão 4</strong>, o cetro se transforma em uma baliza de escalada de até 15 metros de comprimento, conforme especificado por você. Em superfícies duras como granito, uma estaca na parte inferior e três ganchos no topo fixam a baliza. Barras horizontais de 7,5 centímetros de comprimento desdobram-se para fora das laterais, 30 centímetros de distância uma da outra, formando uma escada. A baliza pode suportar até 2 toneladas. Mais peso do que isso, ou a falta de um ponto de apoio sólido, faz com que o cetro reverta à forma normal.</p>\n<p>Se você pressionar o <strong>botão 5</strong>, o cetro se transforma em um aríete portátil e concede ao usuário um bônus de + 10 nos testes de Força feitos para quebrar portas, barricadas e outras barreiras.</p>\n<p>Se você pressionar o <strong>botão 6</strong>, o cetro assume a forma normal (ou permanece nela) e indica o norte magnético (nada acontece se esta função for usada em um local onde não exista um norte magnético). O cetro também lhe dá o conhecimento da profundidade aproximada na qual você se encontra abaixo do solo, ou da altura quando acima dele.</p>\n<p><strong>Dreno de Vida.</strong> Ao atingir uma criatura com um ataque corpo a corpo usando o cetro, você pode forçá-la a fazer uma salvaguarda de Constituição CD 17. Se falhar, sofre 4d6 pontos de dano necrótico adicionais, e você recupera um número de pontos de vida igual à metade desse dano necrótico. Esta propriedade não pode ser usada novamente até o próximo amanhecer.</p>\n<p><strong>Paralisar.</strong> Ao atingir uma criatura com um ataque corpo a corpo usando o cetro, você pode forçá-la a fazer uma salvaguarda de Força CD 17. Se falhar, fica paralisada por 1 minuto. O alvo pode repetir a salvaguarda no final de cada um dos turnos dele, encerrando o efeito sobre si em caso de sucesso. Esta propriedade não pode ser usada novamente até o próximo amanhecer.</p>\n<p><strong>Aterrorizar.</strong> Enquanto estiver empunhando o cetro, com uma ação você pode forçar cada criatura à sua vista e a até 9 metros de você a fazer uma salvaguarda de Sabedoria CD 17. Se falhar, fica amedrontado por você durante 1 minuto. Um alvo amedrontado pode repetir a salvaguarda no final de cada turno dele, encerrando o efeito sobre si em caso de sucesso. Esta propriedade não pode ser usada novamente até o próximo amanhecer.</p>",
       "activities": {
         "attack": {
-          "condition": "Button presses are a bonus action."
+          "condition": "Pressionar botões é uma ação bônus."
         }
       }
     },
@@ -3181,7 +3181,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Esta corda de seda de 18 metros pesa 1,5 quilo e pode suportar até 1.500 quilos. Quando você segura uma ponta da corda e usa uma ação para dizer uma palavra de comando, a corda torna-se animada. Com uma ação bônus, você pode comandar a outra ponta para que se mova na direção de um lugar de sua escolha. A ponta se move 3 metros no seu turno, ao seu comando, e 3 metros em cada um dos seus turnos subsequentes até alcançar o destino, até o alcance máximo dela ou até você ordenar que ela pare. Você também pode ordenar à corda que se prenda firmemente ou desprenda-se de um objeto, que dê nós ou os desate, ou que se enrole em \ntorno de si mesma para ser carregada.</p>\n<p>Se você ordenar que a corda dê nós, grandes nós aparecem em intervalos de 30 centímetros ao longo dela. Enquanto mantiver esse formato, a corda encurta até um comprimento de 15 metros e concede vantagem em testes feitos para escalá-la.</p>\n<p>A corda tem CA 20 e 20 pontos de vida. Ela recupera 1 ponto de vida a cada 5 minutos, desde que tenha pelo menos 1 ponto de vida restante. Se a corda for reduzida a 0 pontos de vida, ela é destruída.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word. A bonus action to move one end 10 ft."
+          "condition": "Palavra de comando. Uma ação bônus para mover uma extremidade 3 metros."
         }
       }
     },
@@ -3190,7 +3190,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Esta corda tem 9 metros de comprimento e pesa 1,5 quilo. Se você segurar uma extremidade dela e usar uma ação para dizer a palavra de comando, a outra extremidade lança-se adiante para enrolar-se em uma criatura à sua vista e a até 6 metros de você. O alvo deve ser bem-sucedido em uma salvaguarda de Destreza CD 15 ou fica contido.</p>",
       "activities": {
         "save": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -3227,13 +3227,13 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Se você segurar este medalhão em forma de besouro em sua mão durante 1 rodada, uma inscrição aparece na superfície dele, revelando sua natureza mágica. Ele fornece dois benefícios enquanto estiver em sua posse:</p>\n<ul>\n<li>Você tem vantagem nas salvaguardas contra magias.</li>\n<li>O escaravelho tem 12 cargas. Ao falhar em uma salvaguarda contra uma magia de necromancia ou um efeito nocivo proveniente de um morto-vivo, você pode usar a sua reação para gastar 1 carga e transformar a falha em um sucesso. O escaravelho se desintegra em pó e é destruído quando a última carga dele é consumida</li>\n</ul>",
       "activities": {
         "utility": {
-          "condition": "Charges are consumed by necromancy spells or an undead caster."
+          "condition": "Cargas são consumidas por magias de necromancia ou por um conjurador morto-vivo."
         }
       }
     },
     "Scholar's Pack": {
-      "name": "Scholar's Pack",
-      "description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+      "name": "Pacote do Estudioso",
+      "description": "<p>Uma mochila pode conter um 28 litros ou 13 quilos de equipamento. Você também pode prender itens, como um saco de dormir ou um rolo de corda, na parte externa de uma mochila.</p>"
     },
     "Scimitar": {
       "name": "Cimitarra",
@@ -3256,11 +3256,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Se atacar uma criatura com esta arma mágica e tirar 20 na jogada de ataque, o alvo sofre 3d6 pontos de dano necrótico adicionais, caso não seja um constructo ou um morto-vivo. Você também ganha pontos de vida temporários equivalentes ao dano adicional.</p>",
       "activities": {
         "attack": {
-          "condition": "Must roll a 20 and the target cannot be undead."
+          "condition": "Deve rolar um 20 e o alvo não pode ser morto-vivo."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -3269,11 +3269,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Quando você ataca um objeto com esta espada mágica e o acerta, maximize os dados de dano de sua arma contra o alvo.</p>\n<p>Quando você ataca uma criatura com esta arma e rola 20 na jogada de ataque, o alvo sofre 14 pontos de dano cortante adicional. Em seguida, role outro d20. Caso o resultado seja 20, você decepa um dos membros do alvo, com o efeito dessa perda sendo determinado pelo DM. Caso a criatura não possua membros a serem decepados, você lhe arranca um pedaço do corpo no lugar.</p>\n<p>Além disso, você pode pronunciar a palavra de comando da espada e fazer com que a lâmina lance luz plena por 3 metros e meia-luz por mais 3 metros. Pronunciar a palavra de comando novamente ou embainhar a espada apaga a luz.</p>",
       "activities": {
         "attack": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature with this weapon and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura com essa arma e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -3286,17 +3286,17 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Pontos de vida perdidos devido ao dano desta arma podem ser recuperados apenas por meio de um descanso curto ou longo, em vez de regeneração, magia ou qualquer outro meio.</p>\n<p>Uma vez por turno, ao acertar uma criatura com um ataque usando esta arma mágica, você pode lacerar o alvo. No início de cada um dos turnos da criatura lacerada, ela sofre 1d4 pontos de dano necrótico para cada vez que você a lacerou, e pode então fazer uma salvaguarda de Constituição CD 15, encerrando o efeito de tais lacerações sobre ela em caso de sucesso. Como alternativa, a criatura lacerada, ou uma criatura a até 1,5 metro dela, pode usar uma ação para fazer um teste de Sabedoria CD 15 (Medicina), encerrando o efeito de tais lacerações em caso sucesso.</p>",
       "activities": {
         "Wound Damage": {
-          "name": "Wound Damage",
-          "condition": "Start of a wounded creature's turn"
+          "name": "Dano do Ferimento",
+          "condition": "Início do turno de uma criatura ferida"
         },
         "Close Wound": {
-          "name": "Close Wound"
+          "name": "Fechar Ferimento"
         }
       }
     },
     "Scroll Case": {
-      "name": "Scroll Case",
-      "description": "<p>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</p>"
+      "name": "Estojo de Pergaminho",
+      "description": "<p>Este estojo cilíndrico de couro pode conter até dez folhas de papel enroladas ou cinco folhas de pergaminho enroladas.</p>"
     },
     "Sealing Wax": {
       "name": "Cera de Lacre",
@@ -3363,11 +3363,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Se atacar uma criatura com esta arma mágica e tirar 20 na jogada de ataque, o alvo sofre 3d6 pontos de dano necrótico adicionais, caso não seja um constructo ou um morto-vivo. Você também ganha pontos de vida temporários equivalentes ao dano adicional.</p>",
       "activities": {
         "attack": {
-          "condition": "Must roll a 20 and the target cannot be undead."
+          "condition": "Deve rolar um 20 e o alvo não pode ser morto-vivo."
         },
         "Natural 20 Damage": {
-          "name": "Natural 20 Damage",
-          "condition": "When you attack a creature and roll a 20 on the attack roll"
+          "name": "Dano em um 20 Natural",
+          "condition": "Quando você ataca uma criatura e rola um 20 na rolagem de ataque"
         }
       }
     },
@@ -3376,11 +3376,11 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Pontos de vida perdidos devido ao dano desta arma podem ser recuperados apenas por meio de um descanso curto ou longo, em vez de regeneração, magia ou qualquer outro meio.</p>\n<p>Uma vez por turno, ao acertar uma criatura com um ataque usando esta arma mágica, você pode lacerar o alvo. No início de cada um dos turnos da criatura lacerada, ela sofre 1d4 pontos de dano necrótico para cada vez que você a lacerou, e pode então fazer uma salvaguarda de Constituição CD 15, encerrando o efeito de tais lacerações sobre ela em caso de sucesso. Como alternativa, a criatura lacerada, ou uma criatura a até 1,5 metro dela, pode usar uma ação para fazer um teste de Sabedoria CD 15 (Medicina), encerrando o efeito de tais lacerações em caso sucesso.</p>",
       "activities": {
         "Close Wound": {
-          "name": "Close Wound"
+          "name": "Fechar Ferimento"
         },
         "Wound Damage": {
-          "name": "Wound Damage",
-          "condition": "Start of a wounded creature's turn"
+          "name": "Dano do Ferimento",
+          "condition": "Início do turno de uma criatura ferida"
         }
       }
     },
@@ -3417,7 +3417,7 @@
       "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força ND 17.</p>",
       "activities": {
         "Burst": {
-          "name": "Burst"
+          "name": "Romper"
         }
       }
     },
@@ -3470,7 +3470,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando este calçado leve, você pode mover-se para cima, para baixo, por superfícies verticais e de cabeça para baixo pelos tetos, deixando suas mãos livres. Você tem um deslocamento de escalada igual ao seu deslocamento de caminhada. No entanto, as sandálias não permitem que você se mova desta forma em uma superfície escorregadia, como uma coberta por gelo ou óleo.</p>",
       "activities": {
         "utility": {
-          "condition": "Surface cannot be slippery."
+          "condition": "A superfície não pode estar escorregadia."
         }
       }
     },
@@ -3491,7 +3491,7 @@
       "description": "<p><em>Item Maravilhoso</em></p><p>Esta substância viscosa, leitosa e esbranquiçada pode formar uma ligação adesiva permanente entre quaisquer dois objetos. Ela deve ser armazenada em uma jarra ou frasco com o interior revestido por óleo escorregadio. Quando encontrado, um recipiente contém (1d6 + 1) x 30 gramas de cola.</p><p>Cada 30 gramas de cola pode cobrir uma superfície equivalente a um quadrado de 30 centímetros de lado. A cola demora 1 minuto para secar. Uma vez que tenha secado, ela cria uma ligação que só pode ser quebrada pela aplicação de um solvente universal, ou óleo de forma etérea, ou a magia @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Desejo}.</p><section class=\"secret foundry-note\" id=\"secret-s3MCPshCsEZEYTHn\"><p><strong>Nota do Foundry</strong></p><p>As 7 cargas refletem a quantidade máxima que pode ser encontrada por um personagem. Por favor, ajuste conforme necessário.</p></section>",
       "activities": {
         "utility": {
-          "condition": "Takes 1 minute to set."
+          "condition": "Leva 1 minuto para configurar."
         }
       }
     },
@@ -3564,7 +3564,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Esta esfera negra de 60 centímetros de diâmetro é um buraco no multiverso, flutuando no espaço e estabilizada por um campo mágico que a circunda.</p>\n<p>A esfera oblitera toda matéria que ela atravessa e toda matéria que a atravessa. Artefatos são a exceção. A não ser que um artefato seja suscetível ao dano de uma esfera de aniquilação, ele passa através dela ileso. Qualquer outra coisa que toque a esfera, mas não seja completamente engolfada e obliterada por ela, sofre 4d10 pontos de dano energético.</p>\n<p>A esfera fica estacionária até alguém a controlar. Se estiver a até 18 metros de uma esfera não controlada, com uma ação você pode fazer um teste de Inteligência CD 25 (Arcanismo). Em caso de sucesso, a esfera levita em uma direção à sua escolha, a uma distância máxima em metros igual ao seu modificador de Inteligência x 1,5 (mínimo de 1,5 metro). Se falhar, a esfera se move 3 metros em sua direção. Uma criatura em cujo espaço a esfera entre deve ser bem-sucedida em uma salvaguarda de Destreza CD 13 ou é tocada por ela, sofrendo 4d10 pontos de dano energético.</p>\n<p>Ao tentar controlar uma esfera que esteja sob o controle de outra criatura, você pode fazer um teste de Inteligência (Arcanismo) resistido por um teste de Inteligência (Arcanismo) da outra criatura. O vencedor ganha o controle da esfera e pode levitá-la normalmente.</p>\n<p>Se a esfera entrar em contato com um portal planar, como o criado pela magia @Compendium[dnd5e.spells.XbwGq5kDJNvAxNXV]{Portal}, ou com um espaço extradimensional, como o que existe em um buraco portátil, o DM determina aleatoriamente o que acontece, utilizando a tabela @Compendium[dnd5e.tables.hHR0Zw75o9PXYl4c]{Esfera da Aniquilação}.</p>",
       "activities": {
         "save": {
-          "condition": "An uncontrolled sphere requires a DC 25 Intelligence (Arcana) check."
+          "condition": "Uma esfera incontrolada requer um teste de Inteligência ND 25 (Arcanismo)."
         }
       }
     },
@@ -3605,12 +3605,12 @@
       "description": "<p><em>(Requer sintonização por um bardo, bruxo, clérigo, druida, feiticeiro ou mago)</em></p><p>Enquanto estiver empunhando este cajado, com uma ação você pode gastar 1 das 10 cargas dele para conjurar @UUID[Compendium.dnd5e.spells.eS7XnnApoxRxYXPs]{Enfeitiçar Pessoa}, @UUID[Compendium.dnd5e.spells.arzCrMRgcNiQuh43]{Comando} ou @UUID[Compendium.dnd5e.spells.4dSvfvTy2ZIJ3K4k]{Compreender Idiomas} usando a CD para evitar sua magia. Este cajado também pode ser usado como um bastão.</p><p>Se estiver segurando o cajado e falhar em uma salvaguarda contra uma magia de encantamento tenha apenas você como alvo, você pode transformar a falha em um sucesso. Você não pode usar esta propriedade do cajado até o próximo amanhecer. Em caso de sucesso em uma salvaguarda contra uma magia de encantamento que tenha apenas você como alvo, com ou sem a intervenção do cajado, você pode usar a sua reação para gastar uma carga do cajado e refletir a magia contra quem a conjurou, como se você tivesse conjurado a magia.</p><p>Diariamente ao amanhecer o cajado recupera 1d8 + 2 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 1, o cajado se torna um bastão não mágico.</p>",
       "activities": {
         "Save Against Enchantment": {
-          "name": "Save Against Enchantment",
-          "condition": "If you are holding the staff and fail a saving throw against an enchantment spell that targets only you"
+          "name": "Salvaguarda contra Encantamento",
+          "condition": "Se você estiver segurando o cajado e falhar em uma salvaguarda contra uma magia de encantamento que tenha apenas você como alvo"
         },
         "Turn Back Spell": {
-          "name": "Turn Back Spell",
-          "condition": "If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention"
+          "name": "Retornar a Magia",
+          "condition": "Se você tiver sucesso em uma salvaguarda contra uma magia de encantamento que tenha apenas você como alvo, com ou sem a intervenção do cajado"
         }
       }
     },
@@ -3619,8 +3619,8 @@
       "description": "<p><em>(Requer sintonização por um bruxo, druida, feiticeiro ou mago)</em></p><p>Você tem resistência a dano ígneo Enquanto estiver empunhando este cajado.</p><p>Este item possui 10 cargas. Enquanto o estiver empunhando, com uma ação você pode gastar 1 ou mais cargas para conjurar uma das seguintes magias a partir dele, usando a CD para evitar sua magia: @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Bola de Fogo} (3 cargas), @Compendium[dnd5e.spells.5SuJewoa1CRWaj1F]{Mãos Flamejantes} (1 carga) ou @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Muralha de Fogo} (4 cargas).</p><p>Diariamente ao amanhecer o cajado recupera 1d6 + 4 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 1, o cajado enegrece, se desmancha em cinzas e é destruído.</p>",
       "effects": {
         "Staff of Fire": {
-          "name": "Staff of Fire",
-          "description": "<p>You have resistance to fire damage while you hold this staff.</p>"
+          "name": "Cajado do Fogo",
+          "description": "<p>Você tem resistência a dano de fogo enquanto segura este cajado.</p>"
         }
       }
     },
@@ -3629,8 +3629,8 @@
       "description": "<p><em>(Requer sintonização por um bruxo, druida, feiticeiro ou mago)</em></p><p>Você tem resistência a dano gélido enquanto estiver empunhando este cajado.</p><p>Este item possui 10 cargas. Enquanto o estiver empunhando, com uma ação você pode gastar 1 ou mais cargas para conjurar uma das seguintes magias a partir dele, usando a CD para evitar sua magia: @Compendium[dnd5e.spells.RpKjTlYASrfqUPVA]{Cone de Frio} (5 cargas), @Compendium[dnd5e.spells.fzZnVKLmBMo2f5up]{Muralha de Gelo} (4 cargas), @Compendium[dnd5e.spells.IBJmWjzbQGu7M4UX]{Névoa Obscurecente} (1 cargas) ou @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{Tempestade Glacial} (4 cargas).</p><p>Diariamente ao amanhecer o cajado recupera 1d6 + 4 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 1, o cajado se transforma em água e é destruído.</p>",
       "effects": {
         "Staff of Frost": {
-          "name": "Staff of Frost",
-          "description": "<p>You have resistance to cold damage while you hold this staff.</p>"
+          "name": "Cajado do Gelo",
+          "description": "<p>Você tem resistência a dano de gelo enquanto segura este cajado.</p>"
         }
       }
     },
@@ -3643,17 +3643,17 @@
       "description": "<p><em>(Requer sintonização por um bruxo, feiticeiro ou mago)</em></p><p>Este cajado pode ser empunhado como um bastão mágico que concede um bônus de +2 às jogadas de ataque e dano feitas com ele. Enquanto o estiver empunhando, você ganha um bônus de +2 para a sua Classe de Armadura, salvaguardas e jogadas de ataque mágico.</p><p>Este item possui 20 cargas para as propriedades a seguir. Diariamente ao amanhecer ele recupera 2d8 + 4 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 1, o cajado mantém o bônus de +2 para jogadas de ataque e dano, mas perde todas as outras propriedades. Se tirar 20, o cajado recupera 1d8 + 2 cargas.</p><p><strong>Ataque Poderoso</strong>. Ao acertar um ataque corpo a corpo usando o cajado, você pode gastar 1 carga para causar 1d6 pontos de dano energético adicionais ao alvo.</p><p><strong>Magias</strong>. Enquanto estiver empunhando este cajado, com uma ação você pode gastar 1 ou mais cargas para conjurar uma das magias a seguir a partir dele, usando a CD para evitar sua magia e seu bônus de ataque mágico: @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Bola de Fogo} (versão de 5° círculo, 5 cargas), @Compendium[dnd5e.spells.RpKjTlYASrfqUPVA]{Cone de Frio} (5 cargas), @Compendium[dnd5e.spells.WmQpxfjZwF3MGUby]{Globo de Invulnerabilidade} (6 cargas), @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Imobilizar Monstro} (5 cargas), @Compendium[dnd5e.spells.MRxldJd6C4bsBo3O]{Levitação} (2 cargas), @Compendium[dnd5e.spells.41JIhpDyM9Anm7cs]{Mísseis Mágicos} (1 carga), @Compendium[dnd5e.spells.o9ZCvuD2B1OTcubb]{Muralha de Energia} (5 cargas), @Compendium[dnd5e.spells.ODhLKBxLnvvLOnw1]{Raio do Enfraquecimento} (1 carga) ou @Compendium[dnd5e.spells.IyikgTEOTv701jgQ]{Relâmpago} (versão de 5° círculo, 5 cargas).</p><p><strong>Golpe de Retribuição</strong>. Com uma ação você pode quebrar o cajado em seu joelho ou em uma superfície sólida, executando um golpe de retribuição. O cajado é destruído e libera a magia restante nele em uma explosão que se expande até preencher uma esfera de 9 metros de raio centrada em você.</p><p>Você tem 50% de chance de instantaneamente viajar para um plano de existência aleatório, evitando a explosão. Se falhar em evitar o efeito, você sofre dano energético igual a 16 x o número de cargas no cajado. Cada criatura na área deve fazer uma salvaguarda de Destreza CD 17. Se falhar, sofre uma quantidade de dano baseada em quão longe ela está do ponto de origem, como demonstrado na tabela a seguir. Em caso de sucesso, a criatura sofre metade do dano.</p><table><thead><tr><td><strong>Distância da Origem</strong></td><td><strong>Dano</strong></td></tr></thead><tbody><tr><td>3 m ou mais perto</td><td>8 x o número de cargas no cajado</td></tr><tr><td>Entre 3 e 6 m</td><td>6 x o número de cargas no cajado</td></tr><tr><td>Entre 6 e 9 m</td><td>4 x o número de cargas no cajado</td></tr></tbody></table>",
       "activities": {
         "Power Strike": {
-          "name": "Power Strike",
-          "condition": "When you hit with a melee attack using the staff"
+          "name": "Ataque Poderoso",
+          "condition": "Quando você acertar um ataque corpo-a-corpo usando o cajado"
         },
         "Retributive Strike": {
-          "name": "Retributive Strike"
+          "name": "Ataque Retributivo"
         }
       },
       "effects": {
         "Staff of Power": {
-          "name": "Staff of Power",
-          "description": "<p>While holding this staff, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.</p>"
+          "name": "Cajado do Poder",
+          "description": "<p>Enquanto segura este cajado, você ganha um bônus de +2 na Classe de Armadura, salvaguardas e jogadas de ataque mágico.</p>"
         }
       }
     },
@@ -3666,7 +3666,7 @@
       "description": "<p><em>(Requer sintonização por um bardo, bruxo, clérigo, druida, feiticeiro ou mago)</em></p><p>Este item possui 10 cargas. Diariamente ao amanhecer ele recupera 1d6 + 4 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 1, um enxame de insetos consome e destrói o cajado, e então se dispersa.</p><p><strong>Magias</strong>. Enquanto estiver empunhando este cajado, com uma ação você pode gastar 1 ou mais cargas para conjurar uma das magias a seguir a partir dele, usando a CD para evitar sua magia: @Compendium[dnd5e.spells.czXrVRx6XYRWsHAi]{Inseto Gigante} ( 4 cargas) ou @Compendium[dnd5e.spells.OVikYmSdHliAG2YD]{Praga de Insetos} (5 cargas).</p><p><strong>Nuvem de Insetos</strong>. Enquanto estiver empunhando o bastão, você pode usar uma ação e gastar uma carga fazer com que um enxame de insetos voadores inofensivos se espalhe em um raio de 9 metros a partir de você. Os insetos permanecem por 10 minutos, tornando a área totalmente obscurecida para criaturas exceto você. O enxame se move com você, permanecendo centrado em sua pessoa. Um vento de pelo menos 16 quilômetros por hora dispersa o enxame e encerra o efeito.</p>",
       "activities": {
         "Insect Cloud": {
-          "name": "Insect Cloud"
+          "name": "Nuvem de Inseto"
         }
       }
     },
@@ -3679,8 +3679,8 @@
       "description": "<p><em>(Requer sintonização por um clérigo, druida ou bruxo)</em></p><p>Este item possui 3 cargas. Diariamente ao amanhecer ele recupera 1d3 cargas gastas.</p><p>Este cajado também pode ser usado como um bastão mágico. Em caso de acerto, ele causa dano como um bastão normal, e você pode gastar 1 carga para causar 2d10 pontos de dano necrótico adicionais ao alvo. Além disso, este deve ser bem-sucedido em uma salvaguarda de Constituição CD 15 ou terá desvantagem por 1 hora em qualquer teste de atributo ou salvaguarda que use Força ou Constituição.</p><section class=\"secret foundry-note\" id=\"secret-Qm70cZsiRYZFY5b9\"><p><strong>Nota do Foundry</strong></p><p>O botão de Outra Fórmula foi configurado para rolar os pontos adicionais de dano necrótico conforme necessário.</p></section>",
       "activities": {
         "Wither": {
-          "name": "Wither",
-          "condition": "When you hit with an attack using the staff"
+          "name": "Murchar",
+          "condition": "Quando você acertar um ataque usando o cajado"
         }
       }
     },
@@ -3689,17 +3689,17 @@
       "description": "<p><em>(Requer sintonização por um bruxo, feiticeiro ou mago)</em></p><p>Este cajado pode ser empunhado como um bastão mágico que concede um bônus de +2 nas jogadas de ataque e dano feitas com ele. Enquanto segurar este cajado, você tem um bônus de +2 em jogadas de ataque mágico.</p><p>Este item possui 50 cargas para as propriedades a seguir. Diariamente ao amanhecer ele recupera 4d6 + 2 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 20, o cajado recupera 1d12 + 1 cargas.</p><p><strong>Absorção de Magia</strong>. Enquanto estiver empunhando o cajado, você tem vantagem em salvaguardas contra magias. Além disso, você pode usar a sua reação quando outra criatura conjura uma magia que afete apenas você. Se fizer isso, o cajado absorve a energia da magia, cancelando o efeito dela e ganhando um número de cargas igual ao círculo da magia absorvida. Porém, se ao fazer isso o total de cargas do cajado ultrapassar 50, ele explode como se você tivesse ativado o <strong>golpe de retribuição</strong> dele (veja abaixo).</p><p><strong>Magias</strong>. Enquanto estiver empunhando o cajado, com uma ação você pode gastar 1 ou mais cargas para conjurar uma das magias a seguir a partir dele, usando a CD para evitar sua magia e seu atributo de conjuração: @Compendium[dnd5e.spells.1nhIxh0DsJsntCfj]{Arrombar} (2 cargas), @Compendium[dnd5e.spells.ztgcdrWPshKRpFd0]{Bola de Fogo} (versão de 7° círculo, 7 cargas), @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjurar Elemental} (7 cargas), @Compendium[dnd5e.spells.d9MwcXi7Il3HROXd]{Criar Passagem} (5 cargas), @Compendium[dnd5e.spells.15Fa6q1nH27XfbR8]{Dissipar Magia} (3 cargas), @Compendium[dnd5e.spells.FjYE214HTERCRZNm]{Esfera Flamejante} (2 cargas), @Compendium[dnd5e.spells.1N8dDMMgZ1h1YJ3B]{Invisibilidade} (2 cargas), @Compendium[dnd5e.spells.X3DrXgxjwI2dvkD6]{Muralha de Fogo} (4 cargas), @Compendium[dnd5e.spells.IyikgTEOTv701jgQ]{Relâmpago} (versão de 7° círculo, 7 cargas), @Compendium[dnd5e.spells.UJJu9c2UvCzVljiP]{Teia} (2 cargas), @Compendium[dnd5e.spells.HQfd7jJyULIoGxrZ]{Telecinese} (5 cargas), @Compendium[dnd5e.spells.WN2LWEljYU6QqnRH]{Tempestade Glacial} (4 cargas) ou @Compendium[dnd5e.spells.J6Jpw5XzB5aTeqnz]{Transição Planar} (7 cargas).</p><p>Você também pode usar uma ação para conjurar uma das magias a seguir a partir do cajado, sem usar nenhuma carga: @Compendium[dnd5e.spells.WahI41a3goVUg0x1]{Aumentar/Reduzir}, @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detectar Magia}, @Compendium[dnd5e.spells.Bnn9Nzajixvow9xi]{Luz}, @Compendium[dnd5e.spells.Utk1OQRwYkMkFRD3]{Mãos Mágicas}, @Compendium[dnd5e.spells.xmDBqZhRVrtLP8h2]{Proteção Contra o Bem e o Mal} ou @Compendium[dnd5e.spells.8cse7rit0oswRPUP]{Tranca Arcana}.</p><p><strong>Golpe de Retribuição</strong>. Com uma ação você pode quebrar o cajado em seu joelho ou em uma superfície sólida, executando um golpe de retribuição. O cajado é destruído e libera a magia restante nele em uma explosão que se expande até preencher uma esfera de 9 metros de raio centrada em você.</p><p>Você tem 50% de chance de instantaneamente viajar para um plano de existência aleatório, evitando a explosão. Se falhar em evitar o efeito, você sofre dano energético igual a 16 x o número de cargas no cajado. Cada criatura na área deve fazer uma salvaguarda de Destreza CD 17. Se falhar, sofre uma quantidade de dano baseada em quão longe ela está do ponto de origem, como demonstrado na tabela a seguir. Em caso de sucesso, a criatura sofre metade do dano.</p><table><thead><tr><td><strong>Distância da Origem</strong></td><td><strong>Dano</strong></td></tr></thead><tbody><tr><td>3 m ou mais perto</td><td>8 x o número de cargas no cajado</td></tr><tr><td>Entre 3 e 6 m</td><td>6 x o número de cargas no cajado</td></tr><tr><td>Entre 6 e 9 m</td><td>4 x o número de cargas no cajado</td></tr></tbody></table>",
       "activities": {
         "Retributive Strike": {
-          "name": "Retributive Strike"
+          "name": "Ataque Retributivo"
         },
         "Absorb Spell": {
-          "name": "Absorb Spell",
-          "condition": "When another creature casts a spell that targets only you"
+          "name": "Absorver Magia",
+          "condition": "Quando outra criatura lança uma magia que tenha apenas você como alvo"
         }
       },
       "effects": {
         "Staff of the Magi": {
-          "name": "Staff of the Magi",
-          "description": "<p>While holding this staff, you gain a +2 bonus to spell attack rolls.</p>"
+          "name": "Cajado do Magi",
+          "description": "<p>Enquanto segura este cajado, você ganha um bônus de +2 nas jogadas de ataque mágico.</p>"
         }
       }
     },
@@ -3708,8 +3708,8 @@
       "description": "<p><em>(Requer sintonização por um bruxo, clérigo ou druida)</em></p>\n<p>Com uma ação você pode dizer a palavra de comando do cajado e atirá-lo ao chão a até 3 metros de você. Ele se torna uma @Compendium[dnd5e.monsters.NpvwE1feOHyEqAbP]{cobra constritora gigante} sob seu controle, que age na própria contagem de iniciativa. Ao usar uma ação bônus para dizer a palavra de comando novamente, o cajado retorna à sua forma verdadeira, posicionado no espaço anteriormente ocupado pela cobra.</p>\n<p>No seu turno, não estando incapacitado, você decide mentalmente o que a cobra faz e como ela se move no próximo turno dela, contanto que ela esteja a até 18 metros de você. Alternativamente, você pode dar uma ordem geral, como atacar os seus inimigos ou guardar um local específico.</p>\n<p>Se a cobra for reduzida a 0 pontos de vida, ela morre e reverte para a forma de cajado. Este, então, se despedaça e é destruído. Se a cobra retornar à forma de cajado antes de perder todos os pontos de vida, ela recupera todos os pontos de vida.</p>",
       "activities": {
         "Transform": {
-          "name": "Transform",
-          "condition": "Command word."
+          "name": "Transformar",
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -3718,13 +3718,13 @@
       "description": "<p><em>(Requer sintonia por um druida)</em></p><p>Este cajado pode ser empunhado como um bastão mágico que concede um bônus de +2 nas jogadas de ataque e dano feitas com ele. Enquanto o estiver empunhando, você tem um bônus de +2 para jogadas de ataque mágico.</p><p>Este item possui 10 cargas para as propriedades a seguir. Diariamente ao amanhecer ele recupera 1d6 + 4 cargas gastas. Se você gastar a última carga, jogue 1d20. Se tirar 1, o cajado perde as propriedades e se torna um bastão não mágico.</p><p><strong>Magias</strong>. Com uma ação você pode gastar 1 ou mais cargas do cajado para conjurar uma das magias a seguir a partir dele, usando a CD para evitar sua magia: @Compendium[dnd5e.spells.hDOENzjuj5WpLq7B]{Amizade Animal} (1 carga), @Compendium[dnd5e.spells.MCEpGpvovcXagwQS]{Despertar} (5 cargas), @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{Falar com Animais} (1 carga), @Compendium[dnd5e.spells.2VXGS206tuChoeXy]{Falar com Plantas} (3 cargas), @Compendium[dnd5e.spells.Iv2qqSAT7OkXKPFx]{Localizar Animais ou Plantas} (2 cargas), @Compendium[dnd5e.spells.AQsBc94ES7W7s7iG]{Muralha de Espinhos} (6 cargas) ou @Compendium[dnd5e.spells.JPwIEfgUPVebr5AH]{Pele-casca} (2 cargas).</p><p>Você também pode usar uma ação para conjurar a magia @Compendium[dnd5e.spells.pRMvmknwLf2tdMTj]{Passo sem Rastro} a partir do cajado sem gastar nenhuma carga.</p><p><strong>Forma de Árvore</strong>. Com uma ação você pode plantar uma das pontas do cajado em terra fértil e gastar 1 carga para transformá-lo em uma árvore saudável. A árvore tem 18 metros de altura e um tronco de 1,5 metro de diâmetro, com seus galhos na copa espalhando-se num raio de 6 metros. A árvore parece ser normal, mas irradia uma leve aura de magia de transmutação, caso seja alvo de @Compendium[dnd5e.spells.ghXTfe7sgCbgf1Q8]{Detectar Magia}. Enquanto toca a árvore e usa outra ação para dizer a palavra de comando, você retorna o cajado à forma verdadeira. Qualquer criatura na árvore cai quando ela reverte para a forma de cajado.</p>",
       "activities": {
         "Tree Form": {
-          "name": "Tree Form"
+          "name": "Forma de Árvore"
         }
       },
       "effects": {
         "Staff of the Woodlands": {
-          "name": "Staff of the Woodlands",
-          "description": "<p>While holding this staff, you have a +2 bonus to spell attack rolls.</p>"
+          "name": "Cajado das Matas",
+          "description": "<p>Enquanto segura este cajado, você tem um bônus de +2 nas jogadas de ataque mágico.</p>"
         }
       }
     },
@@ -3741,7 +3741,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Se a pedra estiver tocando o solo, com uma ação você pode dizer a palavra de comando e convocar um @Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{elemental da terra}, como se tivesse conjurado a magia @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{conjurar elemental}. A pedra não pode ser usada desta maneira novamente até o próximo amanhecer.</p>\n<p>Ela pesa 2,5 quilos.</p>",
       "activities": {
         "utility": {
-          "condition": "Command word."
+          "condition": "Palavra de comando."
         }
       }
     },
@@ -3750,12 +3750,12 @@
       "description": "<p><em>Item maravilhoso (requer sintonização)</em></p>\n<p>Enquanto esta ágata polida estiver em sua posse, você ganha um bônus de +1 em testes de atributo e salvaguardas.</p>",
       "effects": {
         "Stone of Good Luck": {
-          "name": "Stone of Good Luck"
+          "name": "Pedra da Boa Sorte"
         }
       }
     },
     "String, 10 ft.": {
-      "name": "String, 10 ft."
+      "name": "Linha, 3 metros."
     },
     "Studded Leather Armor": {
       "name": "Armadura de Couro Batido",
@@ -3814,7 +3814,7 @@
       "description": "<p><em>Item maravilhoso</em></p>\n<p>Este livro contém exercícios de memória e de lógica e as palavras dele são carregadas de magia. Se você passar 48 horas distribuídas em um período de 6 dias ou menos estudando e praticando o conteúdo deste livro, seu valor de Inteligência aumenta em 2, assim como o seu valor máximo para nesse atributo. O manual então perde a magia que possui, recuperando-a em um século.</p>",
       "activities": {
         "utility": {
-          "condition": "The book must be completed in 6 days or less."
+          "condition": "O livro deve ser concluído em 6 dias ou menos."
         }
       }
     },
@@ -3823,7 +3823,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este livro contém diretrizes para influenciar e cativar outras criaturas, e as palavras dele são carregadas de magia. Se você passar 48 horas distribuídas em um período de 6 dias ou menos estudando e praticando o conteúdo deste livro, seu valor de Carisma aumenta em 2, assim como o seu valor máximo nesse atributo. O manual então perde a magia que possui, recuperando-a em um século.</p>",
       "activities": {
         "utility": {
-          "condition": "The book must be completed in 6 days or less."
+          "condition": "O livro deve ser concluído em 6 dias ou menos."
         }
       }
     },
@@ -3832,7 +3832,7 @@
       "description": "<p><em>Item Maravilhoso</em></p>\n<p>Este livro contém exercícios de intuição e discernimento, e as palavras nele são carregadas com magia. Se você passar 48 horas distribuídas em um período de 6 dias ou menos estudando e praticando o conteúdo deste livro, seu valor de Sabedoria aumenta em 2, assim como o seu valor máximo nesse atributo. O manual então perde a magia que possui, recuperando-a em um século.</p>",
       "activities": {
         "utility": {
-          "condition": "The book must be completed in 6 days or less."
+          "condition": "O livro deve ser concluído em 6 dias ou menos."
         }
       }
     },
@@ -3881,8 +3881,8 @@
       "description": "<p>Um abrigo de lona simples e portátil para até duas pessoas.</p>"
     },
     "U5fRz04JWgNS1WvK": {
-      "name": "Hempen Rope (50 ft.)",
-      "description": "<p>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</p>"
+      "name": "Corda de cânhamo (15m)",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser rompida com um teste de Força CD 17.</p>"
     },
     "Unarmed Strike": {
       "name": "Ataque Desarmado",
@@ -4069,7 +4069,7 @@
       "description": "<p><em>(Requer sintonização por um conjurador)</em></p>\n<p>A varinha tem 7 cargas para as propriedades a seguir. Diariamente ao amanhecer ela recupera 1d6 + 1 cargas gastas.Jogue 1d20 ao gastar a última carga. Caso obtenha 1, a varinha se desfaz em cinzas e é destruída.</p>\n<p><strong>Magias</strong>. Enquanto estiver empunhando a varinha, com uma ação você pode gastar alguma das cargas para conjurar uma das magias a seguir (CD 17 para evitar magia): @Compendium[dnd5e.spells.l9Ju5KE7bbn3WpTm]{Imobilizar Monstro} (5 cargas) or @Compendium[dnd5e.spells.3Lo9boi7P2ro6QV4]{Imobilizar Pessoa} (2 cargas).</p>\n<p><strong>Fuga Facilitada</strong>. Enquanto estiver empunhando a varinha, você pode usar a sua reação para gastar 1 carga e ganhar vantagem em uma salvaguarda para evitar ser paralisado ou contido, ou você pode gastar 1 carga e ganhar vantagem em qualquer teste que faça para escapar de um agarramento.</p>",
       "activities": {
         "Assisted Escape": {
-          "name": "Assisted Escape"
+          "name": "Fuga Auxiliada"
         }
       }
     },
@@ -4078,7 +4078,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Esta varinha tem 7 cargas. Enquanto a estiver empunhando, você pode usar uma ação e gastar 1 carga para dizer a palavra de comando. Pelo próximo minuto, você sabe a direção da criatura hostil mais próxima de você a até 18 metros, mas não a distância em que ela está. A varinha pode sentir a presença de criaturas hostis que estejam etéreas, invisíveis, disfarçadas ou escondidas, bem como daquelas em plena vista. O efeito termina se você não estiver mais segurando a varinha.</p>\n<p>Diariamente ao amanhecer a varinha recupera 1d6 + 1 cargas gastas. Jogue 1d20 ao gastar a última carga. Caso obtenha 1, a varinha se desfaz em cinzas e é destruída. </p>",
       "activities": {
         "Detect Enemy": {
-          "name": "Detect Enemy"
+          "name": "Detectar Inimigo"
         }
       }
     },
@@ -4087,7 +4087,7 @@
       "description": "<p><em>(Requer sintonização)</em></p>\n<p>Esta varinha tem 7 cargas para as propriedades a seguir. Diariamente ao amanhecer ela recupera 1d6 + 1 cargas gastas.Jogue 1d20 ao gastar a última carga. Caso obtenha 1, a varinha se desfaz em cinzas e é destruída.</p>\n<p><strong>Comando</strong>. Enquanto estiver empunhando a varinha, com uma ação você pode gastar 1 carga e ordenar uma criatura a fugir ou abaixar, como a magia @Compendium[dnd5e.spells.arzCrMRgcNiQuh43]{Comando} (CD 15 para evitar magia).</p>\n<p><strong>Cone de Medo</strong>. Enquanto estiver empunhando a varinha, com uma ação você pode gastar 2 cargas, fazendo com que a ponta dela emita um cone de 18 metros de luz âmbar. Cada criatura no cone deve ser bem-sucedida em uma salvaguarda de Sabedoria CD 15 ou fica amedrontada por você durante 1 minuto. Enquanto estiver amedrontada desta forma, a criatura deve gastar os turnos dela tentando se mover para o mais longe possível de você, e não pode voluntariamente se mover para um espaço a até 9 metros de você. Ela também não pode usar reações. Ela está limitada a usar a ação Correr ou tentar escapar de um efeito que a impeça de se mover. Se ela não tiver para onde se mover, também pode usar a ação Esquivar. Ao final de cada um dos turnos dela, a criatura pode repetir a salvaguarda, encerrando o efeito sobre si em caso de sucesso.</p>",
       "activities": {
         "Cone of Fear": {
-          "name": "Cone of Fear"
+          "name": "Cone de Medo"
         }
       }
     },
@@ -4112,7 +4112,7 @@
       "description": "<p><em>(Requer sintonização por um conjurador)</em></p>\n<p>Esta varinha tem 7 cargas. Enquanto a estiver empunhando, com uma ação você pode gastar 1 das cargas para fazer com que um fino raio azul saia da ponta da varinha em direção a uma criatura à sua vista e a até 18 metros de você. O alvo deve ser bem-sucedido em uma salvaguarda de Constituição CD 15 ou fica paralisado por 1 minuto. Ao final de cada um dos turnos dele, o alvo pode repetir a salvaguarda, encerrando o efeito sobre si em caso de sucesso.</p>\n<p>Diariamente ao amanhecer a varinha recupera 1d6 + 1 cargas gastas. Jogue 1d20 ao gastar a última carga. Caso obtenha 1, a varinha se desfaz em cinzas e é destruída.</p>",
       "effects": {
         "Paralysis": {
-          "name": "Paralysis"
+          "name": "Paralisia"
         }
       }
     },
@@ -4125,7 +4125,7 @@
       "description": "<p>Esta varinha tem 3 cargas. Enquanto a estiver empunhando, com uma ação você pode gastar 1 das cargas, de modo que se houver uma porta secreta ou armadilha a até 9 metros de você, a varinha pulsa e aponta para a que estiver mais próxima. Diariamente ao amanhecer a varinha recupera 1d3 cargas gastas.</p>",
       "activities": {
         "Detect Secret": {
-          "name": "Detect Secret"
+          "name": "Detectar Segredo"
         }
       }
     },
@@ -4138,31 +4138,31 @@
       "description": "<p><em>(Requer sintonização por um conjurador)</em></p>\n<p>Esta varinha tem 7 cargas. Enquanto a estiver empunhando, com uma ação você pode gastar 1 das cargas e escolher um alvo a até 36 metros de você. O alvo pode ser uma criatura, um objeto ou um ponto qualquer. Use a tabela @Compendium[dnd5e.tables.X03rbSjVcNNJNqa8]{Varinha das Maravilhas} para descobrir o que acontece.</p>\n<p>Se o resultado fizer você conjurar uma magia a partir da varinha, a CD para evitar magia é 15. Se a magia costuma ter um alcance expresso em metros diferente de 36, ele se torna 36 metros. Se um efeito cobrir uma área, você deve centrá-la no alvo e incluí-lo. Se um efeito tiver possíveis alvos múltiplos, o DM determina aleatoriamente quais são afetados.</p>\n<p>Diariamente ao amanhecer a varinha recupera 1d6 + 1 cargas gastas. Jogue 1d20 ao gastar a última carga. Caso obtenha 1, a varinha se desfaz em pó e é destruída.</p>",
       "activities": {
         "Slow (1–5)": {
-          "name": "Slow (1–5)"
+          "name": "Lentidão (1–5)"
         },
         "Faerie Fire (6–10)": {
-          "name": "Faerie Fire (6–10)"
+          "name": "Fogo das Fadas (6–10)"
         },
         "Gust of Wind (16–20)": {
-          "name": "Gust of Wind (16–20)"
+          "name": "Rajada de vento (16–20)"
         },
         "Detect Thoughts (21–25)": {
-          "name": "Detect Thoughts (21–25)"
+          "name": "Detectar Pensamentos (21–25)"
         },
         "Stinking Cloud (26–30)": {
-          "name": "Stinking Cloud (26–30)"
+          "name": "Nuvem Fedorenta (26–30)"
         },
         "Lightning Bolt (37–46)": {
-          "name": "Lightning Bolt (37–46)"
+          "name": "Relâmpago (37–46)"
         },
         "Darkness (54–58)": {
-          "name": "Darkness (54–58)"
+          "name": "Escuridão (54–58)"
         },
         "Fireball (70–79)": {
-          "name": "Fireball (70–79)"
+          "name": "Bola de fogo (70-79)"
         },
         "Invisibility (80–84)": {
-          "name": "Invisibility (80–84)"
+          "name": "Invisibilidade (80-84)"
         }
       }
     },
@@ -4267,12 +4267,12 @@
       "description": "<p>Essa varinha ou cetro feito de teixo ou outra madeira especial e com poderosas runas inscritas para invocar o poder da natureza para aqueles que atendem seu chamado.</p>\n<p><strong>Foco Arcano.</strong> Um foco druídico pode ser um ramo de visco ou azevinho, uma varinha ou cetro feito de teixo ou outra madeira especial, um cajado retirado inteiramente de uma árvore viva ou um objeto totêmico que possua penas, peles, ossos e dentes de animais sagrados incorporados. Um druida pode usar esse objeto como foco de conjuração.</p>"
     },
     "bDZFQqLQE73cFB8c": {
-      "name": "Hempen Rope (50 ft.)",
-      "description": "<p>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</p>"
+      "name": "Corda de cânhamo (15m)",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser rompida com um teste de Força CD 17.</p>"
     },
     "oRrNK2H2vcN4Kp74": {
-      "name": "Hempen Rope (50 ft.)",
-      "description": "<p>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</p>"
+      "name": "Corda de cânhamo (15m)",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser rompida com um teste de Força CD 17.</p>"
     }
   }
 }
