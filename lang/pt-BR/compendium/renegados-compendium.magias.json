@@ -1,5 +1,5 @@
 {
-  "label": "Magias (SRD)",
+  "label": "Magias",
   "mapping": {
     "materials": "system.materials.value",
     "sources": {
