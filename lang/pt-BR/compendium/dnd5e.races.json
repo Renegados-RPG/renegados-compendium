@@ -1,96 +1,96 @@
 {
-  "label": "Races (SRD)",
+  "label": "Raças (SRD)",
   "folders": {
-    "Dragonborn": "Dragonborn",
-    "Dragonborn Features": "Dragonborn Features",
-    "Dwarf": "Dwarf",
-    "Dwarf Features": "Dwarf Features",
-    "Elf": "Elf",
-    "Elf Features": "Elf Features",
-    "Gnome": "Gnome",
-    "Gnome Features": "Gnome Features",
+    "Dragonborn": "Draconato",
+    "Dragonborn Features": "Características do Draconato",
+    "Dwarf": "Anão",
+    "Dwarf Features": "Características do Anão",
+    "Elf": "Elfo",
+    "Elf Features": "Características do Elfo",
+    "Gnome": "Gnomo",
+    "Gnome Features": "Características do Gnomo",
     "Halfling": "Halfling",
-    "Halfling Features": "Halfling Features",
-    "Human": "Human",
+    "Halfling Features": "Características do Halfling",
+    "Human": "Humano",
     "Orc": "Orc",
-    "Orc Features": "Orc Features",
+    "Orc Features": "Características do Orc",
     "Tiefling": "Tiefling",
-    "Tiefling Features": "Tiefling Features"
+    "Tiefling Features": "Características de Tiefling"
   },
   "entries": {
     "Artificer's Lore": {
-      "name": "Artificer's Lore",
-      "description": "<p>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</p>"
+      "name": "Conhecimento do Artífice",
+      "description": "<p>Sempre que você fizer um teste de Inteligência (História) relacionado a itens mágicos, objetos alquímicos ou dispositivos tecnológicos, você pode adicionar o dobro do seu bônus de proficiência, em vez de qualquer bônus de proficiência que normalmente aplicaria.</p>"
     },
     "Brave": {
-      "name": "Brave",
-      "description": "<p>You have advantage on saving throws against being frightened.</p>"
+      "name": "Corajoso",
+      "description": "<p>Você tem vantagem em teste de salvaguarda contra ser amedrontado.</p>"
     },
     "Breath Weapon - Black": {
-      "name": "Breath Weapon - Black",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 acid damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Preto",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano ácido em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Blue": {
-      "name": "Breath Weapon - Blue",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Azul",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de raio em caso de falha na salvaguarda, e metade do dano em caso de sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Após usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Brass": {
-      "name": "Breath Weapon - Brass",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Latão",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de fogo em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Bronze": {
-      "name": "Breath Weapon - Bronze",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Bronze",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de raio em caso de falha na salvaguarda, e metade do dano em caso de sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Após usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Copper": {
-      "name": "Breath Weapon - Copper",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 acid damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Cobre",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano ácido em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Gold": {
-      "name": "Breath Weapon - Gold",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Ouro",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de fogo em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Green": {
-      "name": "Breath Weapon - Green",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 poison damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Verde",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Constituição. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de veneno em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Red": {
-      "name": "Breath Weapon - Red",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a Dexterity saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Vermelho",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Destreza. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de fogo em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - Silver": {
-      "name": "Breath Weapon - Silver",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 cold damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Prata",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Constituição. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de frio em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Breath Weapon - White": {
-      "name": "Breath Weapon - White",
-      "description": "<p>You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a Constitution saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 cold damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p>"
+      "name": "Arma de Sopro - Branco",
+      "description": "<p>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Constituição. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano de frio em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p>"
     },
     "Dragonborn": {
-      "name": "Dragonborn",
-      "description": "<p>Your draconic heritage manifests in a variety of traits you share with other dragonborn.</p><p><em><strong>Ability Score Increase.</strong></em> Your Strength score increases by 2, and your Charisma score increases by 1.</p><p><em><strong>Age.</strong></em> Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-­year-­old human child by the age of 3, and reach adulthood by 15. They live to be around 80.</p><p><em><strong>Alignment.</strong></em> Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.</p><p><em><strong>Size.</strong></em> Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.</p><p><em><strong>Speed.</strong></em> Your base walking speed is 30 feet.</p><table><caption>Draconic Ancestry</caption><thead><tr><td>Dragon</td><td>Damage Type</td><td>Breath Weapon</td></tr></thead><tbody><tr><td>Black</td><td>Acid</td><td>5 by 30 ft. line (Dex. save)</td></tr><tr><td>Blue</td><td>Lightning</td><td>5 by 30 ft. line (Dex. save)</td></tr><tr><td>Brass</td><td>Fire</td><td>5 by 30 ft. line (Dex. save)</td></tr><tr><td>Bronze</td><td>Lightning</td><td>5 by 30 ft. line (Dex. save)</td></tr><tr><td>Copper</td><td>Acid</td><td>5 by 30 ft. line (Dex. save)</td></tr><tr><td>Gold</td><td>Fire</td><td>15 ft. cone (Dex. save)</td></tr><tr><td>Green</td><td>Poison</td><td>15 ft. cone (Con. save)</td></tr><tr><td>Red</td><td>Fire</td><td>15 ft. cone (Dex. save)</td></tr><tr><td>Silver</td><td>Cold</td><td>15 ft. cone (Con. save)</td></tr><tr><td>White</td><td>Cold</td><td>15 ft. cone (Con. save)</td></tr></tbody></table><p><em><strong>Draconic Ancestry.</strong></em> You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</p><p><em><strong>Breath Weapon.</strong></em> You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.</p><p>When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.</p><p>After you use your breath weapon, you can't use it again until you complete a short or long rest.</p><p><em><strong>Damage Resistance.</strong></em> You have resistance to the damage type associated with your draconic ancestry.</p><p><em><strong>Languages.</strong></em> You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</p>",
+      "name": "Draconato",
+      "description": "<p>Sua herança dracônica se manifesta em uma variedade de características que você compartilha com outros draconatos.</p><p><em><strong>Aumento da pontuação de habilidade</strong></em>Seu valor de Força aumenta em 2, e seu valor de Carisma aumenta em 1.</p><p><em><strong>Idade.</strong></em>Draconatos jovens crescem rapidamente. Eles andam horas após a eclosão, atingem o tamanho e o desenvolvimento de uma criança humana de 10 anos aos 3 anos e chegam à idade adulta aos 15. Eles vivem cerca de 80.</p><p><em><strong>Alinhamento.</strong></em>Os draconatos tendem a extremos, fazendo uma escolha consciente de um lado ou outro na guerra cósmica entre o bem e o mal. A maioria dos draconatos são bons, mas aqueles que ficam do lado do mal podem ser vilões terríveis.</p><p><em><strong>Tamanho.</strong></em>Draconatos são mais altos e pesados ​​que humanos, com mais de 1,80 m de altura e pesando em média quase 113 kg. Seu tamanho é Médio.</p><p><em><strong>Deslocamento.</strong></em>Sua velocidade base de caminhada é de 9 metros.</p><table><caption>Ancestralidade Dracônica</caption><thead><tr><td>Dragão</td><td>Tipo de Dano</td><td>Arma de Sopro</td></tr></thead><tbody><tr><td>Preto</td><td>Ácido</td><td>Linha de 1,5 por 9m (Salvaguarda de Destreza)</td></tr><tr><td>Azul</td><td>Raio</td><td>Linha de 1,5 por 9m (Salvaguarda de Destreza)</td></tr><tr><td>Latão</td><td>Fogo</td><td>Linha de 1,5 por 9m (Salvaguarda de Destreza)</td></tr><tr><td>Bronze</td><td>Raio</td><td>Linha de 1,5 por 9m (Salvaguarda de Destreza)</td></tr><tr><td>Cobre</td><td>Ácido</td><td>Linha de 1,5 por 9m (Salvaguarda de Destreza)</td></tr><tr><td>Ouro</td><td>Fogo</td><td>Cone de 4,5m (Salvaguarda de Destreza)</td></tr><tr><td>Verde</td><td>Veneno</td><td>Cone de 4,5m (Salvaguarda de Constituição)</td></tr><tr><td>Vermelho</td><td>Fogo</td><td>Cone de 4,5m (Salvaguarda de Destreza)</td></tr><tr><td>Prata</td><td>Frio</td><td>Cone de 4,5m (Salvaguarda de Constituição)</td></tr><tr><td>Branco</td><td>Frio</td><td>Cone de 4,5m (Salvaguarda de Constituição)</td></tr></tbody></table><p><em><strong>Ancestralidade Dracônica</strong></em>Você tem ancestralidade dracônica. Escolha um tipo de dragão da tabela Ancestralidade Dracônica. Sua arma de sopro e resistência a dano são determinadas pelo tipo de dragão, como mostrado na tabela.</p><p><em><strong>Arma de Sopro.</strong></em>Você pode usar sua ação para exalar energia destrutiva. Sua ancestralidade dracônica determina o tamanho, a forma e o tipo de dano da exalação.</p><p>Quando você usa sua arma de sopro, cada criatura na área da exalação deve fazer um teste de salvaguarda de Constituição. A CD para este teste de salvaguarda é igual a 8 + seu modificador de Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano em uma falha na salvaguarda, e metade desse dano em um sucesso. O dano aumenta para 3d6 no 6º nível, 4d6 no 11º nível e 5d6 no 16º nível.</p><p>Depois de usar sua arma de sopro, você não pode usá-la novamente até completar um descanso curto ou longo.</p><p><em><strong>Idiomas.</strong></em>Você pode falar, ler e escrever Comum e Dracônico. Dracônico é considerado uma das línguas mais antigas e é frequentemente usado no estudo da magia. A língua soa áspera para a maioria das outras criaturas e inclui inúmeras consoantes duras e sibilantes.</p>",
       "advancement": {
         "Draconic Ancestry": {
-          "title": "Draconic Ancestry",
-          "hint": "You have draconic ancestry. Choose one type of dragon from the list. Your breath weapon and damage resistance are determined by the dragon type."
+          "title": "Ancestralidade Dracônica",
+          "hint": "Você tem ancestralidade dracônica. Escolha um tipo de dragão da lista. Sua arma de sopro e resistência a danos são determinadas pelo tipo de dragão."
         },
         "Breath Weapon": {
-          "title": "Breath Weapon"
+          "title": "Arma de Sopro"
         },
         "9D8XNnmTLWfzN32K": {
-          "hint": "Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+          "hint": "Draconatos são mais altos e pesados ​​que humanos, com mais de 1,80 m de altura e pesando em média quase 113 kg. Seu tamanho é Médio."
         },
         "2f4dkpTYlhOgRgxu": {
-          "hint": "You have resistance to the damage type associated with your draconic ancestry."
+          "hint": "Você tem resistência ao tipo de dano associado à sua ancestralidade dracônica."
         }
       }
     },
     "Dwarven Resilience": {
-      "name": "Dwarven Resilience",
-      "description": "<p>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>"
+      "name": "Resiliência Anã",
+      "description": "<p>Você tem vantagem em testes de salvaguardas contra veneno, e você tem resistência contra dano de veneno.</p>"
     },
     "Fey Ancestry": {
-      "name": "Fey Ancestry",
+      "name": "Ancestralidade Feérica",
       "description": "<p>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</p>"
     },
     "Gnome Cunning": {
@@ -227,8 +227,8 @@
       }
     },
     "Stonecunning": {
-      "name": "Stonecunning",
-      "description": "<p>Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p>"
+      "name": "Conhecimento de Pedra",
+      "description": "<p>Sempre que fizer um teste de Inteligência (História) relacionada à origem da alvenaria, você é considerado proficiente na habilidade História e adiciona o dobro de seu bônus de proficiência ao teste, em vez de seu bônus de proficiência normal.</p>"
     },
     "Tiefling": {
       "name": "Tiefling",
