@@ -105,7 +105,7 @@
     },
     "Built for Success": {
       "name": "Built for Success",
-      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Built for Success\" class=\"rd__b  rd__b--3\"><p>You can add a [[/r d4]] to one attack roll, ability check, or saving throw you make, and you can do so after seeing the [[/r d20]] roll but before the effects of the roll are resolved. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div>",
+      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Built for Success\" class=\"rd__b  rd__b--3\"><p>Você pode adicionar um [[/r d4]] a um ataque, teste de habilidade ou teste de Salvaguarda que você fizer, e pode fazê-lo após ver o lançamento do [[/r d20]] mas antes que os efeitos do lançamento sejam resolvidos. Você pode usar esse traço um número de vezes igual ao seu bônus de proficiência, e recupera todos os usos gastos quando termina um descanso longo.</p></div></div></div>",
       "activities": {
         "Built for Success": {
           "name": "Built for Success"
