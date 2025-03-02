@@ -44,49 +44,49 @@
   },
   "entries": {
     "s0Cc2zcX0JzIgam5": {
-      "name": "Ability Score Improvement",
-      "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>"
+      "name": "Aumento no Valor de Atributo",
+      "description": "<p>Quando você atingir o 4º nível, e novamente no 8º, 12º, 16º e 19º nível, você pode aumentar um atributo de sua escolha em 2, ou pode aumentar dois atributos de sua escolha em 1. Como regra geral, você não pode aumentar um atributo acima de 20 usando esse recurso.</p>"
     },
     "sPy2OLoN7JaAcMl4": {
-      "name": "Ability Score Improvement",
-      "description": "<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>"
+      "name": "Aumento no Valor de Atributo",
+      "description": "<p>Quando você atinge o 4º nível, e novamente no 6º, 8º, 12º, 14º, 16º e 19º nível, você pode aumentar um atributo de sua escolha em 2, ou pode aumentar dois atributos de sua escolha em 1. Como regra geral, você não pode aumentar um atributo acima de 20 usando esse recurso.</p>"
     },
     "v7MxFuTAgOsmxZCD": {
-      "name": "Ability Score Improvement",
-      "description": "<p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>"
+      "name": "Aumento no Valor de Atributo",
+      "description": "<p>Quando você atingir o 4º nível, e novamente no 8º, 12º, 16º e 19º nível, você pode aumentar um atributo de sua escolha em 2, ou pode aumentar dois atributos de sua escolha em 1. Como regra geral, você não pode aumentar um atributo acima de 20 usando esse recurso.</p>"
     },
     "xF1VTcJ3AdkbTsdQ": {
-      "name": "Action Surge",
-      "description": "<p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible Bonus Action.</p><p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>"
+      "name": "Surto de Ação",
+      "description": "<p>Começando no 2º nível, você pode se esforçar além dos seus limites normais por um momento. No seu turno, você pode realizar uma ação adicional além da sua ação regular e uma possível Ação Bônus.</p><p>Depois de usar esta habilidade, você deve terminar um descanso curto ou longo antes de poder usá-la novamente. A partir do 17º nível, você pode usá-la duas vezes antes de um descanso, mas apenas uma vez no mesmo turno.</p>"
     },
     "kYJsED0rqqqUcgKz": {
-      "name": "Additional Fighting Style",
-      "description": "<p>Choose a second fighting style class feature from the following:</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Archery}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defense}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Dueling}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O]{Protection}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p><p>The choice must be different to the one made at level 1.</p><p>You can drag your choice from the above onto your character sheet and it will automatically update.</p>"
+      "name": "Estilo de Luta Adicional",
+      "description": "<p>Escolha uma segunda característica de classe de estilo de luta entre as seguintes:</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Arquearia}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defesa}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Duelo}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.3Nc6u9pyStByuJsm]{Luta com Grandes Armas}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O]{Proteção}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Luta com duas armas}</p><p>A escolha deve ser diferente daquela feita no nível 1.</p><p>Você pode arrastar sua escolha acima para sua ficha de personagem e ela será atualizada automaticamente.</p>"
     },
     "myBu3zi5eYvQIcuy": {
-      "name": "Additional Magical Secrets",
-      "description": "<p>At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.</p>"
+      "name": "Segredos Mágicos Adicionais",
+      "description": "<p>No 6º nível, você aprende duas magias de sua escolha de qualquer classe. A magia que você escolher deve ser de um nível que você pode conjurar, como mostrado na tabela do Bardo, ou um truque. As magias escolhidas contam como magias de bardo para você, mas não contam contra o número de magias de bardo que você conhece.</p>"
     },
     "2fyuw7MiCnocDeAU": {
       "name": "Explosão Agonizante",
       "description": "<p>Quando você conjura @UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Rajada Mística}, adicione seu modificador de Carisma ao dano causado quando atingir.</p>"
     },
     "e0uTcFPpgxjIyUW9": {
-      "name": "Arcane Recovery",
-      "description": "<p>You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.</p><p>For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.</p>",
+      "name": "Recuperação Arcana",
+      "description": "<p>Você aprendeu a recuperar parte de sua energia mágica estudando seu livro de magias. Uma vez por dia, quando termina um descanso curto, você pode escolher espaços de magia gastos para recuperar. Os espaços de magia podem ter um nível combinado que seja igual ou inferior à metade do seu nível de mago (arredondado para cima), e nenhum dos espaços pode ser de 6º nível ou superior.</p><p>Por exemplo, se você é um mago de 4º nível, pode recuperar até dois níveis de espaços de magia. Você pode recuperar um espaço de magia de 2º nível ou dois espaços de magia de 1º nível.</p>",
       "activities": {
         "utility": {
-          "chatFlavor": "The wizard can recover [[ceil(@classes.wizard.levels/2)]] levels worth of spell slots (of 5th-level or lower)."
+          "chatFlavor": "O mago pode recuperar [[ceil(@classes.wizard.levels/2)]] níveis de espaços de magia (de 5º nível ou inferior)."
         }
       }
     },
     "AEWr9EMxy5gj4ZFT": {
-      "name": "Arcane Tradition",
-      "description": "<p>When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools, such as Evocation.</p><p>Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.</p>"
+      "name": "Tradição Arcana",
+      "description": "<p>Quando você atinge o 2º nível, você escolhe uma tradição arcana, moldando sua prática de magia através de uma das oito escolas, como Evocação.</p><p>Sua escolha lhe concede características no 2º nível e novamente no 6º, 10º e 14º nível.</p>"
     },
     "ip4bvmGoz3qkoqes": {
-      "name": "Archdruid",
-      "description": "<p>At 20th level, you can use your @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Wild Shape} an unlimited number of times.</p><p>Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell.</p><p>You gain this benefit in both your normal shape and your beast shape from Wild Shape.</p>"
+      "name": "Arquidruida",
+      "description": "<p>No 20º nível, você pode usar seu @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma Selvagem} um número ilimitado de vezes.</p><p>Além disso, você pode ignorar os componentes verbais e somáticos de suas magias de druida, bem como quaisquer componentes materiais que não tenham custo e não sejam consumidos por uma magia.</p><p>Você ganha esse benefício tanto na sua forma normal quanto na sua forma de besta da Forma Selvagem.</p>"
     },
     "8YwPFv3UAPjWVDNf": {
       "name": "Arquearia",
@@ -98,104 +98,104 @@
       }
     },
     "alUqO6c6OEKFQJdb": {
-      "name": "Armor of Shadows",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H]{Mage Armor} on yourself at will, without expending a spell slot or material components.</p>"
+      "name": "Armadura de Sombras",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H]{Armadura Arcana} em si mesmo à vontade, sem gastar um espaço de magia ou componentes materiais.</p>"
     },
     "QEuH5TeBN4PPYT2g": {
-      "name": "Ascendant Step",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{Levitate} on yourself at will, without expending a spell slot or material components.</p>"
+      "name": "Passo Ascendente",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{Levitar} em si mesmo à vontade, sem gastar um espaço de magia ou componentes materiais.</p>"
     },
     "nahSkBO6LH4HkpaT": {
-      "name": "Aura of Courage",
-      "description": "<p>Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious.</p><p>At 18th level, the range of this aura increases to 30 feet.</p>"
+      "name": "Aura da Coragem",
+      "description": "<p>A partir do 10º nível, você e criaturas amigáveis ​​a 1,5 metros de você não podem ser amedrontados enquanto estiverem conscientes.</p><p>No 18º nível, o alcance dessa aura aumenta para 9 metros.</p>"
     },
     "M2DxVsgLeZgXOznT": {
-      "name": "Aura of Devotion",
-      "description": "<p>Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious.</p><p>At 18th level, the range of this aura increases to 30 feet.</p>"
+      "name": "Aura da Devoção",
+      "description": "<p>A partir do 7º nível, você e criaturas amigáveis ​​a 1,5 metros de você não podem ser encantados enquanto estiverem conscientes.</p><p>No 18º nível, o alcance dessa aura aumenta para 9 metros.</p>"
     },
     "carGDhkIdoduTC0I": {
-      "name": "Aura of Protection",
-      "description": "<p>Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.</p><p> At 18th level, the range of this aura increases to 30 feet.</p>"
+      "name": "Aura da Proteção",
+      "description": "<p>Começando no 6º nível, sempre que você ou uma criatura aliada a até 1,5 metros de você precisar fazer um teste de salvaguarda, a criatura ganha um bônus no teste de salvaguarda igual ao seu modificador de Carisma (com um bônus mínimo de +1). Você deve estar consciente para conceder esse bônus.</p><p>No 18º nível, o alcance dessa aura aumenta para 9 metros.</p>"
     },
     "ILhzFHiRrqgQ9dFJ": {
-      "name": "Bard College",
-      "description": "<p>At 3rd level, you delve into the advanced techniques of a bard college of your choice, such as the College of Lore. Your choice grants you features at 3rd level and again at 6th and 14th level.</p>"
+      "name": "Colégio de Bardo",
+      "description": "<p>No 3º nível, você se aprofunda nas técnicas avançadas de uma faculdade de bardo de sua escolha, como o Colégio do Conhecimento. Sua escolha lhe concede recursos no 3º nível e novamente no 6º e 14º níveis.</p>"
     },
     "hpLNiGq7y67d2EHA": {
-      "name": "Bardic Inspiration",
-      "description": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6. Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once).</p><p>You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p><section class=\"secret\" id=\"secret-eL25CzgN1MY7TpsR\"><p><strong>Foundry Note</strong></p><p>Recovery is set to long rest (for levels before @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Font of Inspiration} is gained). Please manually adjust as required.</p></section>"
+      "name": "Inspiração Bárdica",
+      "description": "<p>Você pode inspirar outros por meio de palavras ou música comoventes. Para fazer isso, você usa uma ação bônus em seu turno para escolher uma criatura, diferente de si mesmo, a 18 metros de você que pode ouvir você. Essa criatura recebe um dado de Inspiração Bárdica, um d6. Em algum momento dentro dos próximos 10 minutos, a criatura pode rolar o dado e adicionar o número rolado a um teste de habilidade, rolagem de ataque ou teste de salvaguarda que fizer. A criatura pode esperar até depois de rolar o d20 antes de decidir usar o dado de Inspiração Bárdica, mas deve decidir antes que o Mestre diga se a rolagem é bem-sucedida ou falha. Uma vez que o dado de Inspiração Bárdica é rolado, ele é perdido. Uma criatura pode ter apenas um dado de Inspiração Bárdica por vez.</p><p>Você pode usar esse recurso um número de vezes igual ao seu modificador de Carisma (no mínimo uma vez).</p><p>Você recupera qualquer uso gasto quando termina um descanso longo.</p><p>Seu dado de Inspiração Bárdica muda quando você atinge certos níveis nesta classe. O dado se torna um d8 no nível 5, um d10 no nível 10 e um d12 no nível 15.</p><section class=\"secret\" id=\"secret-eL25CzgN1MY7TpsR\"><p><strong>Nota pro Foundry</strong></p><p>A recuperação é definida para descanso longo (para níveis anteriores à obtenção de @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Fonte de Inspiração}). Ajuste manualmente conforme necessário.</p></section>"
     },
     "61kXR1sniXHjvN17": {
       "name": "Idioma Bestial",
       "description": "<p>Você pode conjurar @Compendium[dnd5e.spells.aL1F8fvYLtNzUbKu]{Speak with Animals}, à vontade, sem precisar gastar um espaço de magia.</p>"
     },
     "xvgPu1O57DgXCM86": {
-      "name": "Beast Spells",
-      "description": "<p>Beginning at 18th level, you can cast many of your druid spells in any shape you assume using @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Wild Shape}. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.</p>"
+      "name": "Magias Bestiais",
+      "description": "<p>A partir do 18º nível, você pode conjurar muitas de suas magias de druida em qualquer forma que você assuma usando @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma Selvagem}. Você pode executar os componentes somáticos e verbais de uma magia de druida enquanto estiver em forma de besta, mas você não é capaz de fornecer componentes materiais.</p>"
     },
     "eNvpIaSnJUdF8fHl": {
-      "name": "Beguiling Influence",
-      "description": "<p>You gain proficiency in the Deception and Persuasion skills.</p>"
+      "name": "Influência Sedutora",
+      "description": "<p>Você adquire proficiência nas perícias de Enganação e Persuasão.</p>"
     },
     "KygHql3cTj4IRrvZ": {
-      "name": "Bewitching Whispers",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.P6f1PPKPd9BCb742]{Compulsion} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Sussurros Encantadores",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.P6f1PPKPd9BCb742]{Compulsão} uma vez usando um espaço de magia de bruxo. Você não pode fazê-lo novamente até terminar um descanso longo.</p>"
     },
     "yv49QN6Bzqs0ecCs": {
-      "name": "Blessed Healer",
-      "description": "<p>Beginning at 6th level, the healing spells you cast on others heal you as well.</p><p>When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.</p><section class=\"secret foundry-note\" id=\"secret-8pxfORAMtA2mWG44\"><p><strong>Foundry Note</strong></p><p>The healing formula is set to 2. Please add the additional from the spell level manually.</p></section>"
+      "name": "Curandeiro Abençoado",
+      "description": "<p>A partir do 6º nível, as magias de cura que você conjura nos outros também curam você.</p><p>Quando você conjura uma magia de 1º nível ou superior que restaura pontos de vida a uma criatura diferente de você, você recupera pontos de vida iguais a 2 + o nível da magia.</p><section class=\"secret foundry-note\" id=\"secret-8pxfORAMtA2mWG44\"><p><strong>Nota pro Foundry</strong></p><p>A fórmula de cura está definida como 2. Adicione o adicional do nível da magia manualmente.</p></section>"
     },
     "fjsBk7zxoAbLf8ZI": {
-      "name": "Blindsense",
-      "description": "<p>Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.</p>"
+      "name": "Sentido Cego",
+      "description": "<p>A partir do 14º nível, se você for capaz de ouvir, você estará ciente da localização de qualquer criatura escondida ou invisível a até 3 metros de você.</p>"
     },
     "lT8GsPOPgRzDC3QJ": {
-      "name": "Bonus Cantrip",
-      "description": "<p>When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice.</p>"
+      "name": "Truque Bônus",
+      "description": "<p>Quando você escolhe este círculo no 2º nível, você aprende um truque druídico adicional de sua escolha.</p>"
     },
     "e9ytGikyLFgwZ5wi": {
-      "name": "Bonus Proficiencies",
-      "description": "<p>When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.</p>"
+      "name": "Proficiências Adicionais",
+      "description": "<p>Quando você ingressa no Colégio do Conhecimento no 3º nível, você obtém proficiência com três perícias de sua escolha.</p>"
     },
     "68bYIOvx6rIqnlOW": {
       "name": "Proficiência Adicional",
       "description": "<p>Quando você escolhe este domínio no 1º nível, você ganha proficiência com armaduras pesadas.</p>"
     },
     "CFIYXDmbmSP8BXjN": {
-      "name": "Book of Ancient Secrets",
-      "description": "<p>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.</p><p>On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</p>"
+      "name": "Livro dos Segredos Antigos",
+      "description": "<p>Agora você pode inscrever rituais mágicos no seu Livro das Sombras. Escolha duas magias de 1º nível que tenham o identificador ritual da lista de magias de qualquer classe (as duas não precisam ser da mesma lista). As magias aparecem no livro e não contam para o número de magias que você conhece. Com seu Livro das Sombras em mãos, você pode conjurar as magias escolhidas como rituais. Você não pode conjurar as magias exceto como rituais, a menos que você as tenha aprendido por algum outro meio. Você também pode conjurar uma magia de bruxo que você conhece como um ritual se ela tiver o identificador ritual.</p><p>Em suas aventuras, você pode adicionar outras magias rituais ao seu Livro das Sombras. Quando você encontrar uma magia dessas, você pode adicioná-la ao livro se o nível da magia for igual ou menor que a metade do seu nível de bruxo (arredondado para cima) e se você puder reservar um tempo para transcrever a magia. Para cada nível da magia, o processo de transcrição leva 2 horas e custa 50 po para as tintas raras necessárias para inscrevê-la.</p>"
     },
     "L94gyvNpUhUe0rwh": {
-      "name": "Brutal Critical",
-      "description": "<p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack. This increases to two additional dice at 13th level and three additional dice at 17th level.</p>"
+      "name": "Crítico Brutal",
+      "description": "<p>Começando no nível 9, você pode rodar um dano adicional à arma quando determinar o dano extra para um ataque crítico com um ataque corpo a corpo. Isso aumenta para dois dados adicionais no nível 13 e três dados adicionais no nível 17.</p>"
     },
     "zElYrOcCFFMhB6Xl": {
-      "name": "Careful Spell",
-      "description": "<p>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.</p>"
+      "name": "Magia Cuidadosa",
+      "description": "<p>Quando você conjura uma magia que força outras criaturas a fazer um teste de salguardar, você pode proteger algumas dessas criaturas da força total da magia. Para fazer isso, você gasta 1 ponto de feitiçaria e escolhe um número dessas criaturas até seu modificador de Carisma (mínimo de uma criatura). Uma criatura escolhida automaticamente obtém sucesso em seu teste de resistência contra a magia.</p>"
     },
     "Phy02H5x0TKHd7T3": {
-      "name": "Chains of Carceri",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.l9Ju5KE7bbn3WpTm]{Hold Monster} at will - targeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p>"
+      "name": "Correntes de Carceri",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.l9Ju5KE7bbn3WpTm]{Segurar Monstro} à vontade - tendo como alvo um celestial, um corruptor ou um elemental - sem gastar um espaço de magia ou componentes materiais. Você deve terminar um descanso longo antes de poder usar essa invocação na mesma criatura novamente.</p>"
     },
     "8M7uOPhbTxoxxJSo": {
       "name": "Canalizar Divindade",
       "description": "<p>Seu juramento permite que você canalize energia divina como fonte de efeitos mágicos. Cada opção do Canalizar Divindade fornecida pelo seu juramento explica como usá-la.</p><p>Quando você usa Canalizar Divindade, você escolhe qual opção usar. Você deve então terminar um descanso curto ou longo para usar o Canalizar Divindade novamente.</p><p>Alguns efeitos do Canalizar Divindade requerem testes de resistência. Quando você usa tal efeito desta classe, a CD é igual a sua salvaguarda de feitiço de paladino.</p><section class=\"secret foundry-note\" id=\"secret-zMJG0jvMiZEEkLfI\"><p><strong>Nota do Foundry</strong></p><p>Use isso para acompanhar todos os usos do Canalizar Divindade de paladino.</p></section>"
     },
     "YpiLQEKGalROn7iJ": {
-      "name": "Channel Divinity",
-      "description": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p><p>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.</p><section class=\"secret foundry-note\" id=\"secret-AZYZtT1NonF68bPW\"><p><strong>Foundry Note</strong></p><p>Use this to track all the various uses of Channel Divinity for the cleric.</p></section>"
+      "name": "Canalizar Divindade",
+      "description": "<p>No 2º nível, você ganha a habilidade de canalizar energia divina diretamente de sua divindade, usando essa energia para alimentar efeitos mágicos. Você começa com dois desses efeitos: Expulsar motos-vivos e um efeito determinado por seu domínio. Alguns domínios concedem a você efeitos adicionais conforme você avança em níveis, como observado na descrição do domínio.</p><p>Quando você usa seu Canalizar Divindade, você escolhe qual efeito criar. Você deve então terminar um descanso curto ou longo para usar seu Canalizar Divindade novamente. Alguns efeitos de Canalizar Divindade exigem salvaguardas. Quando você usa tal efeito desta classe, a CD é igual à sua CD de salvaguarda de conjuração de clérigo.</p><p>A partir do 6º nível, você pode usar seu Canalizar Divindade duas vezes entre descansos, e a partir do 18º nível, você pode usá-la três vezes entre descansos. Quando você termina um descanso curto ou longo, você recupera seus usos gastos.</p><section class=\"secret foundry-note\" id=\"secret-AZYZtT1NonF68bPW\"><p><strong>Nota pro Foundry</strong></p><p>Use isto para controlar todos os vários usos de Canalizar Divindade para o clérigo.</p></section>"
     },
     "hEymt45rICi4f9eL": {
-      "name": "Channel Divinity: Preserve Life",
-      "description": "<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level.</p><p>Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>",
+      "name": "Canalizar Divindade: Preservar Vida",
+      "description": "<p>A partir do 2º nível, você pode usar Canalizar Divindade para curar os gravemente feridos.</p><p>Como ação, você apresenta seu símbolo sagrado e evoca energia de cura que pode restaurar uma quantidade de pontos de vida igual a cinco vezes seu nível de clérigo.</p><p>Escolha qualquer criatura a até 9 metros de você e divida esses pontos de vida entre elas. Este recurso pode restaurar uma criatura a não mais que metade do seu máximo de pontos de vida. Você não pode usar este recurso em um morto-vivo ou um constructo.</p>",
       "activities": {
         "heal": {
-          "condition": "The target cannot be Undead or a Construct"
+          "condition": "O alvo não pode ser um morto-vivo ou um constructo"
         }
       }
     },
     "xNN0JMKqlG4hKVYu": {
-      "name": "Channel Divinity: Sacred Weapon",
+      "name": "Canalizar Divindade: Arma Sagrada",
       "description": "<p>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity.</p><p>For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</p>"
     },
     "ZdwGlsJNtc7pGFCd": {
@@ -327,66 +327,66 @@
       "description": "<p>Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.</p><p>Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate.</p><p>If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.</p><p>At 20th level, your call for intervention succeeds automatically, no roll required.</p>",
       "activities": {
         "utility": {
-          "condition": "Your need must be great..."
+          "condition": "Sua necessidade deve ser grande..."
         }
       }
     },
     "E8ozg8avUVOX9N7u": {
-      "name": "Divine Sense",
-      "description": "<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Hallow} spell.</p><p>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</p>"
+      "name": "Sentido Divino",
+      "description": "<p>A presença de um mal forte registra em seus sentidos como um odor nocivo, e o bem poderoso soa como música celestial em seus ouvidos. Como uma ação, você pode abrir sua consciência para detectar tais forças. Até o final de seu próximo turno, você sabe a localização de qualquer celestial, corruptor ou morto-vivo a 18 metros de você que não esteja atrás de cobertura total. Você sabe o tipo (celestial, corruptor ou morto-vivo) de qualquer ser cuja presença você sentir, mas não sua identidade (o vampiro Conde Strahd von Zarovich, por exemplo). Dentro do mesmo raio, você também detecta a presença de qualquer lugar ou objeto que tenha sido consagrado ou profanado, como com o feitiço @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Consagração}.</p><p>Você pode usar esse recurso um número de vezes igual a 1 + seu modificador de Carisma. Quando você termina um descanso longo, você recupera todos os usos gastos.</p>"
     },
     "ySMPQ6zNSlvkrl2f": {
-      "name": "Divine Smite",
-      "description": "<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage.</p><p>The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.</p>"
+      "name": "Golpe Divino",
+      "description": "<p>Começando no segundo nível, quando você acerta uma criatura com um ataque de arma corpo-a-corpo você pode gastar um espaço de magia para causar dano radiante ao alvo, além do dano da arma.</p><p>O dano extra é 2d8 para um espaço de magia de 1 nível, mais 1d8 para cada nível de magia maior que 1, até um máximo de 5d8. O dano aumenta em 1d8 se o alvo for um morto-vivo ou um corruptor.</p>"
     },
     "T6u5z8ZTX6UftXqE": {
-      "name": "Divine Strike",
-      "description": "<p>At 8th level, you gain the ability to infuse your weapon strikes with divine energy.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.</p>"
+      "name": "Ataque Divino",
+      "description": "<p>No 8º nível, você ganha a habilidade de infundir seus golpes de arma com energia divina.</p><p>Uma vez em cada um de seus turnos, quando você acerta uma criatura com um ataque de arma, você pode fazer com que o ataque cause 1d8 de dano radiante extra ao alvo. Quando você atinge o 14º nível, o dano extra aumenta para 2d8.</p>"
     },
     "Gsha4bl0apxqspFy": {
-      "name": "Draconic Presence",
-      "description": "<p>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.</p>",
+      "name": "Presença Dracônica",
+      "description": "<p>A partir do 18º nível, você pode canalizar a presença aterrorizante de seu ancestral dragão, fazendo com que aqueles ao seu redor fiquem em estado de admiração ou medo. Como uma ação, você pode gastar 5 pontos de feitiçaria para usar esse poder e exalar uma aura de admiração ou medo (sua escolha) a uma distância de 18 metros. Por 1 minuto ou até você perder sua concentração (como se estivesse lançando uma magia de concentração), cada criatura hostil que inicia seu turno nesta aura deve ter sucesso em um teste de salvaguarda de Sabedoria ou ser encantada (se você escolheu admiração) ou amedrontada (se você escolheu medo) até que a aura termine. Uma criatura que tem sucesso neste teste de salvaguarda é imune à sua aura por 24 horas.</p>",
       "activities": {
         "save": {
-          "condition": "Also requires 5 sorcery points."
+          "condition": "Também requer 5 pontos de feitiçaria."
         }
       }
     },
     "MW1ExvBLm8Hg82aA": {
-      "name": "Draconic Resilience",
-      "description": "<p>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</p><p>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.</p>",
+      "name": "Resiliência Dracônica",
+      "description": "<p>À medida que a magia flui por seu corpo, ela faz com que características físicas de seus ancestrais dragões emerjam. No 1º nível, seu limite máximo de pontos de vida aumenta em 1 e aumenta em 1 novamente sempre que você ganhar um nível nesta classe.</p><p>Além disso, partes de sua pele são cobertas por um fino brilho de escamas semelhantes às de um dragão. Quando você não está usando armadura, sua CA é igual a 13 + seu modificador de Destreza.</p>",
       "effects": {
         "Draconic Resilience": {
-          "name": "Draconic Resilience"
+          "name": "Resiliência Dracônica"
         }
       }
     },
     "EZsonMThTNLZq35j": {
-      "name": "Dragon Ancestor",
-      "description": "<p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><table><thead><tr><td><strong>Dragon</strong></td><td><strong>Damage Type</strong></td></tr></thead><tbody><tr><td>Black</td><td>Acid</td></tr><tr><td>Blue</td><td>Lightning</td></tr><tr><td>Brass</td><td>Fire</td></tr><tr><td>Bronze</td><td>Lightning</td></tr><tr><td>Copper</td><td>Acid</td></tr><tr><td>Gold</td><td>Fire</td></tr><tr><td>Green</td><td>Poison</td></tr><tr><td>Red</td><td>Fire</td></tr><tr><td>Silver</td><td>Cold</td></tr><tr><td>White</td><td>Cold</td></tr></tbody></table><p>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p>"
+      "name": "Ancestral Dragão",
+      "description": "<p>No 1º nível, você escolhe um tipo de dragão como seu ancestral. O tipo de dano associado a cada dragão é usado pelas características que você obtém mais tarde.</p><table><thead><tr><td><strong>Dragão</strong></td><td><strong>Tipo de Dano</strong></td></tr></thead><tbody><tr><td>Preto</td><td>Ácido</td></tr><tr><td>Azul</td><td>Raio</td></tr><tr><td>Latão</td><td>Fogo</td></tr><tr><td>Bronze</td><td>Raio</td></tr><tr><td>Cobre</td><td>Ácido</td></tr><tr><td>Ouro</td><td>Fogo</td></tr><tr><td>Verde</td><td>Veneno</td></tr><tr><td>Vermelho</td><td>Fogo</td></tr><tr><td>Prata</td><td>Frio</td></tr><tr><td>Branco</td><td>Frio</td></tr></tbody></table><p>Você pode falar, ler e escrever Dracônico. Além disso, sempre que você fizer um teste de Carisma ao interagir com dragões, seu bônus de proficiência é dobrado se ele se aplicar ao teste.</p>"
     },
     "3647zjKSE9zFwOXc": {
       "name": "Asas de Dragão",
       "description": "<p>No 14° nível, você adquire a habilidade de brotar um par de asas de dragão das suas costas, ganhando deslocamento de voo igual ao seu deslocamento atual. Você pode criar essas asas com uma ação bônus, no seu turno. Elas duram até que você as dissipe, com uma ação bônus no seu turno.</p><p>Você não pode manifestar suas asas quando estiver vestindo uma armadura, a não ser que a armadura seja feita para acomodá- las, e roupas que não forem feitas para se acomodar às suas asas devem ser destruídas quando você manifestá-las.</p>"
     },
     "QBk1RsuTIEF4GEBC": {
-      "name": "Dreadful Word",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.9hQXdMSmerkTsHDe]{Confusion} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Palavra Terrível",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.9hQXdMSmerkTsHDe]{Confusão} uma vez usando um espaço de magia de bruxo. Você não pode fazer isso novamente até terminar um descanso longo.</p>"
     },
     "u6Du2P9s81SWuGbi": {
-      "name": "Druid Circle",
-      "description": "<p>At 2nd level, you choose to identify with a circle of druids, such as the Circle of the Land.</p><p>Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.</p>"
+      "name": "Círculo Druídico",
+      "description": "<p>No 2º nível, você escolhe se identificar com um círculo de druidas, como o Círculo da Terra.</p><p>Sua escolha lhe concede características no 2º nível e novamente no 6º, 10º e 14º nível.</p>"
     },
     "LzJ5ayHt0OlSVGxi": {
-      "name": "Druidic",
-      "description": "<p>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.</p>"
+      "name": "Druídico",
+      "description": "<p>Você conhece Druídico, a linguagem secreta dos druidas. Você pode falar a linguagem e usá-la para deixar mensagens ocultas. Você e outros que conhecem essa linguagem automaticamente identificam tal mensagem. Outros identificam a presença da mensagem com um teste bem-sucedido de Sabedoria CD 15 (Percepção), mas não conseguem decifrá-la sem magia.</p>"
     },
     "hCop9uJrWhF1QPb4": {
-      "name": "Dueling",
-      "description": "<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>",
+      "name": "Duelo",
+      "description": "<p>Quando você empunha uma arma corpo a corpo em uma mão e nenhuma outra arma, você ganha +2 de bônus aos dados de dano com aquela arma.</p>",
       "effects": {
         "Fighting Style: Dueling": {
-          "name": "Fighting Style: Dueling"
+          "name": "Estilo de Luta: Duelo"
         }
       }
     },
@@ -399,25 +399,25 @@
       "description": "<p>No 20° nível, você pode recarregar sua reserva interior de poder místico quando suplicar ao seu patrono para recuperar espaços de magia gastos. Você pode gastar 1 minuto suplicando pela ajuda do seu patrono para recuperar todos os espaços de magia gastos da sua característica Magia de Pacto. Uma vez que você recuperou espaços de magia com essa característica, você deve terminar um descanso longo antes de fazê-lo novamente.</p>"
     },
     "bbUEsCPTLzbbwK6o": {
-      "name": "Eldritch Sight",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{Detect Magic} at will, without expending a spell slot.</p>"
+      "name": "Visão Mística",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.ghXTfe7sgCbgf1Q8]{Detectar Magia} à vontade, sem gastar um espaço de magia.</p>"
     },
     "r01WtcxTg4yTHm9m": {
-      "name": "Eldritch Spear",
-      "description": "<p>When you cast @UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Eldritch Blast}, its range is 300 feet.</p>"
+      "name": "Lança Mística",
+      "description": "<p>Quando você conjura @UUID[Compendium.dnd5e.spells.Item.Z9p1vezIn95jw1Yw]{Rajada Mística}, seu alcance é de 90 metros.</p>"
     },
     "x6eEZ9GUsuOcEa3G": {
-      "name": "Elemental Affinity",
-      "description": "<p>Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.</p>",
+      "name": "Afinidade Elemental",
+      "description": "<p>Começando no 6º nível, quando você conjura uma magia que causa dano do tipo associado à sua ancestralidade dracônica, você pode adicionar seu modificador de Carisma a uma jogada de dano daquela magia. Ao mesmo tempo, você pode gastar 1 ponto de feitiçaria para ganhar resistência àquele tipo de dano por 1 hora.</p>",
       "activities": {
         "damage": {
-          "condition": "1 sorcery point is also required if the resistance is desired."
+          "condition": "É necessário 1 ponto de magia se a resistência for desejada."
         }
       }
     },
     "L7nJSRosos8sHJH9": {
-      "name": "Elusive",
-      "description": "<p>Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.</p>"
+      "name": "Elusivo",
+      "description": "<p>Começando no 18º nível, você é tão evasivo que os atacantes raramente ganham a vantagem contra você. Nenhum teste de ataque tem vantagem contra você enquanto você não estiver incapacitado.</p>"
     },
     "7O85kj6uDEG5NzUE": {
       "name": "Evocação Potencializada",
@@ -429,8 +429,8 @@
       }
     },
     "IWpe0Y9uAStHGiH1": {
-      "name": "Empowered Spell",
-      "description": "<p>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p><p>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.</p>"
+      "name": "Magia Potencializada",
+      "description": "<p>Quando você rola dano para uma magia, você pode gastar 1 ponto de feitiçaria para re-rolar um número de dados de dano de até seu modificador de Carisma (mínimo de um). Você deve usar os novos resultados.</p><p>Você pode usar Magia Potencializada mesmo se já tiver usado uma opção de Metamagia diferente durante a conjuração da magia.</p>"
     },
     "3jwFt3hSqDswBlOH": {
       "name": "Corpo Vazio",
@@ -447,16 +447,16 @@
       }
     },
     "pAQMJU5R9SGUmzHU": {
-      "name": "Escape the Horde",
-      "description": "<p>Opportunity attacks against you are made with disadvantage.</p>"
+      "name": "Fuja da Horda",
+      "description": "<p>Ataques de oportunidade contra você são feitos com desvantagem.</p>"
     },
     "a4P4DNMmH8CqSNkC": {
-      "name": "Evasion",
-      "description": "<p>At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a fireball spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>"
+      "name": "Evasão",
+      "description": "<p>No 7º nível, sua agilidade instintiva permite que você desvie de certos efeitos de área, como o sopro de raio de um dragão azul ou uma magia de bola de fogo. Quando você é sujeito a um efeito que permite que você faça um teste de salvaguarda de Destreza para receber apenas metade do dano, você recebe nenhum dano se tiver sucesso no teste de salvaguarda e apenas metade do dano se falhar.</p>"
     },
     "laVHAIOKIsUeezWd": {
-      "name": "Evasion",
-      "description": "<p>When you are subjected to an effect, such as a red dragon's fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>"
+      "name": "Evasão",
+      "description": "<p>Quando você é submetido a um efeito, como o sopro de fogo de um dragão vermelho ou uma magia de raio, que permite que você faça um teste de resistência de Destreza para sofrer apenas metade do dano, você não sofre dano se for bem-sucedido no teste de resistência, e sofre apenas metade do dano se falhar.</p>"
     },
     "7uzJ2JkmsdRGLra3": {
       "name": "Evocação Instruída",
@@ -471,23 +471,23 @@
       "description": "No 1º nível, você escolhe duas de suas perícias que seja proficiente, ou uma perícia que seja proficiente e ferramentas de ladrão. Seu bônus de proficiência é dobrado em qualquer teste de habilidade que fizer com elas.</p><p>No 6º nível, você pode escolher outras duas de suas proficiências (em perícias ou ferramentas de ladrão) para ganhar esse benefício.</p>"
     },
     "aQLg7BWdRnm4Hr9S": {
-      "name": "Expertise",
-      "description": "<p>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 10th level, you can choose another two skill proficiencies to gain this benefit.</p>"
+      "name": "Especialização",
+      "description": "<p>No 3º nível, escolha duas de suas perícias. Seu bônus de proficiência é dobrado para qualquer teste de habilidade que você fizer usando qualquer uma das perícias escolhidas. No 10º nível, você pode escolher outras duas perícias para obter esse benefício.</p>"
     },
     "tQxlKyAx9sgPrbgj": {
-      "name": "Extended Spell",
-      "description": "<p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.</p>"
+      "name": "Magia Estendida",
+      "description": "<p>Ao conjurar uma magia com duração de 1 minuto ou mais, você pode gastar 1 ponto de feitiçaria para dobrar sua duração, até uma duração máxima de 24 horas.</p>"
     },
     "XogoBnFWmCAHXppo": {
-      "name": "Extra Attack",
-      "description": "<p>You can attack twice, instead of once, whenever you take the Attack action on your turn.</p>"
+      "name": "Ataque Extra",
+      "description": "<p>Você pode atacar duas vezes, em vez de uma, sempre que realizar a ação Atacar em seu turno.</p>"
     },
     "q9g1MLXuLZyxjQMg": {
-      "name": "Extra Attack",
-      "description": "<p>You can attack twice, instead of once, whenever you take the Attack action on your turn.</p><p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>"
+      "name": "Ataque Extra",
+      "description": "<p>Você pode atacar duas vezes, em vez de uma, sempre que realizar a ação Atacar em seu turno.</p><p>O número de ataques aumenta para três quando você atinge o 11º nível nesta classe e para quatro quando você atinge o 20º nível nesta classe.</p>"
     },
     "lEZKbWaVrSljRa9n": {
-      "name": "Eyes of the Rune Keeper",
+      "name": "Olhos do Guardião das Runas",
       "description": "<p>You can read all writing.</p>"
     },
     "ga3dt2zrCn2MHK8R": {
@@ -639,10 +639,10 @@
     },
     "FAk41RPCTcvCk6KI": {
       "name": "Improved Divine Smite",
-      "description": "<p>By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them.</p><p>Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your @UUID[Compendium.dnd5e.classfeatures.Item.ySMPQ6zNSlvkrl2f]{Divine Smite} with an attack, you add this damage to the extra damage of your Divine Smite.</p>",
+      "description": "<p>No 11º nível, você está tão imbuído de poder justo que faz com que todos os seus ataques com armas corpo-a-corpo carregem poder divino com eles.</p><p>Sempre que você acerta uma criatura com uma arma corpo a corpo, a criatura sofre 1d8 de dano radiante extra. Se você também usar seu @UUID[Compendium.dnd5e.classfeatures.Item.ySMPQ6zNSlvkrl2f]{Golpe Divino} com um ataque, você adiciona esse dano ao dano extra do seu Golpe Divino.</p>",
       "effects": {
         "Improved Divine Smite": {
-          "name": "Improved Divine Smite"
+          "name": "Golpe Divino Melhorado"
         }
       }
     },
@@ -651,19 +651,19 @@
       "description": "<p>A partir do 9º nível, você pode jogar de novo um teste de resistência que falhou. Se o fizer, você deve usar o novo valor e não pode usar essa característica de novo antes de terminar um descanso longo.</p><p>Você pode usar esta característica duas vezes entre descansos longos quando chegar no 13º nível e três vezes entre descansos longos quando chegar no 17º nível.</p><p><em>**Foundry note: Observe que o limite padrão de usos definido é 1 por descanso longo. Ajuste manualmente caso for necessário.</em></p>"
     },
     "Q1exex5ALteprrPo": {
-      "name": "Indomitable Might",
-      "description": "<p>Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.</p>"
+      "name": "Indomável",
+      "description": "<p>A partir do 18º nível, se o seu total para um teste de Força for menor do que o seu valor de Força, você pode usar esse valor no lugar do total.</p>"
     },
     "M6VSMzVtKPhh8B0i": {
-      "name": "Intimidating Presence",
-      "description": "<p>Beginning at 10th level, you can use your action to frighten someone with your menacing presence.</p><p>When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.</p><p>If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.</p>"
+      "name": "Presença Intimidadora",
+      "description": "<p>A partir do 10º nível, você pode usar sua ação para amedrontar alguém com sua presença ameaçadora.</p><p>Quando você fizer isso, escolha uma criatura que você pode ver a 9 metros de você. Se a criatura puder ver ou ouvir você, ela deve ter sucesso em um teste de salvaguarda de Sabedoria (CD igual a 8 + seu bônus de proficiência + seu modificador de Carisma) ou ficar amedrontada de você até o final de seu próximo turno. Em turnos subsequentes, você pode usar sua ação para estender a duração deste efeito na criatura amedrontada até o final do seu próximo turno. Este efeito termina se a criatura terminar seu turno fora de linha de visão ou a mais de 18 metros de distância de você.</p><p>Se a criatura tiver sucesso em seu teste de salvaguarda, você não pode usar esse recurso naquela criatura novamente por 24 horas.</p>"
     },
     "ezWijmCnlnQ9ZRX2": {
-      "name": "Jack of All Trades",
-      "description": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p>",
+      "name": "Versatilidade",
+      "description": "<p>A partir do 2º nível, você pode adicionar metade do seu bônus de proficiência, arredondado para baixo, a qualquer teste de habilidade que você fizer que ainda não inclua seu bônus de proficiência.</p>",
       "effects": {
         "Jack of All Trades": {
-          "name": "Jack of All Trades"
+          "name": "Versatilidade"
         }
       }
     },
@@ -680,56 +680,56 @@
       "description": "<p>Começando no 8° nível, se mover através de terreno difícil não-mágico não lhe custa deslocamento adicional. Você também pode passar através de plantas não-mágicas sem ter seu deslocamento reduzido por elas e sem sofrer dano delas caso apresentem espinhos, acúleos ou perigo similar.</p><p>Além disso, você tem vantagem em testes de resistência contra plantas criadas ou manipuladas magicamente para impedir movimento, como as criadas pela magia @UUID[Compendium.dnd5e.spells.Item.gMrWeG8fMDPRFiVe]{Constrição}.</p>"
     },
     "C5fzaOBc6HxyOWRn": {
-      "name": "Land's Stride",
-      "description": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the @UUID[Compendium.dnd5e.spells.Item.gMrWeG8fMDPRFiVe]{Entangle} spell.</p>"
+      "name": "Passo da Terra",
+      "description": "<p>Começando no 8° nível, se mover através de terreno difícil não-mágico não lhe custa deslocamento adicional. Você também pode passar através de plantas não-mágicas sem ter seu deslocamento reduzido por elas e sem sofrer dano delas caso apresentem espinhos, acúleos ou perigo similar.</p><p>Além disso, você tem vantagem em testes de salvaguarda contra plantas criadas ou manipuladas magicamente para impedir movimento, como as criadas pela magia @UUID[Compendium.dnd5e.spells.Item.gMrWeG8fMDPRFiVe]{Emaranhar}.</p>"
     },
     "OdrvL3afwLOPeuYZ": {
-      "name": "Lay on Hands",
-      "description": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p>",
+      "name": "Cura pelas Mãos",
+      "description": "<p>Seu toque abençoado pode curar ferimentos. Você tem uma reserva de poder de cura que se reabastece quando você faz um descanso longo. Com essa reserva, você pode restaurar um número total de pontos de vida igual ao seu nível de paladino × 5.</p><p>Como uma ação, você pode tocar em uma criatura e extrair poder da reserva para restaurar uma quantidade de pontos de vida daquela criatura, até a quantidade máxima restante na sua reserva.</p><p>Alternativamente, você pode gastar 5 pontos de vida da sua reserva de cura para curar o alvo de uma doença ou neutralizar um veneno que o afeta. Você pode curar várias doenças e neutralizar vários venenos com um único uso de Cura pelas Mãos, gastando pontos de vida separadamente para cada um.</p><p>Esse recurso não tem efeito em mortos-vivos e constructos.</p>",
       "activities": {
         "heal": {
-          "condition": "Target cannot be Undead or a Construct."
+          "condition": "O alvo não pode ser um morto-vivo ou um constructo."
         },
         "Cure Disease and Poison": {
-          "name": "Cure Disease and Poison",
-          "condition": "Target cannot be Undead or a Construct."
+          "name": "Curar Doenças e Venenos",
+          "condition": "O alvo não pode ser um morto-vivo ou um constructo."
         }
       }
     },
     "zUIAzBnyt0NDvVXb": {
-      "name": "Lifedrinker",
-      "description": "<p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</p>"
+      "name": "Sorvedor de vida",
+      "description": "<p>Quando você acerta uma criatura com sua arma de pacto, a criatura recebe dano necrótico extra igual ao seu modificador de Carisma (mínimo 1).</p>"
     },
     "aonJ2YjkqkYB9WYB": {
-      "name": "Magical Secrets",
-      "description": "<p>By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines.</p><p>Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.</p><p>The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.</p><p>You learn two additional spells from any class at 14th level and again at 18th level.</p>"
+      "name": "Segredos Mágicos",
+      "description": "<p>Ao 10º nível, você saqueou conhecimento mágico de um amplo espectro de disciplinas.</p><p>Escolha duas magias de qualquer classe, incluindo esta. Uma magia que você escolher deve ser de um nível que você pode conjurar, como mostrado na tabela do Bardo, ou um truque.</p><p>As magias escolhidas contam como magias de bardo para você e estão incluídas no número na coluna Magias Conhecidas da tabela do Bardo.</p><p>Você aprende duas magias adicionais de qualquer classe no 14º nível e novamente no 18º nível.</p>"
     },
     "ax8M0X0q1GGWM26j": {
-      "name": "Martial Archetype",
-      "description": "<p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques, such as Champion. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>"
+      "name": "Arquétipo Marcial",
+      "description": "<p>No 3º nível, você escolhe um arquétipo que você se esforça para emular em seus estilos e técnicas de combate, como Campeão. O arquétipo que você escolher lhe concede características no 3º nível e novamente no 7º, 10º, 15º e 18º níveis.</p>"
     },
     "l50hjTxO2r0iecKw": {
-      "name": "Martial Arts",
-      "description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n<ul>\n<li>\n<p>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</p>\n</li>\n<li>\n<p>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p>\n</li>\n<li>\n<p>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p>\n</li>\n</ul>\n<p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.</p>"
+      "name": "Artes Marciais",
+      "description": "<p>No 1º nível, sua prática de artes marciais lhe concede maestria em estilos de combate que utilizam armas de monge, que são espadas curtas e quaisquer armas de combate corpo a corpo simples que não possuam as propriedades de \"duas mãos\" ou \"pesada\". Você obtém os seguintes benefícios enquanto estiver desarmado ou empunhando apenas armas de monge e não estiver usando armadura ou empunhando um escudo:</p>\n<ul>\n<li>\n<p>Você pode usar Destreza em vez de Força para as rolagens de ataque e dano de seus golpes desarmados e armas de monge.</p>\n</li>\n<li>\n<p>Você pode rolar um d4 no lugar do dano normal de seu golpe desarmado ou arma de monge. Este dado muda conforme você ganha níveis de monge, conforme mostrado na coluna Artes Marciais da tabela de Monge.</p>\n</li>\n<li>\n<p>Quando você usa a ação Atacar com um golpe desarmado ou uma arma de monge em seu turno, você pode fazer um golpe desarmado como uma ação bônus. Por exemplo, se você toma a ação Atacar e ataca com um bastão, você também pode fazer um golpe desarmado como uma ação bônus, supondo que você não tenha tomado uma ação bônus neste turno.</p>\n</li>\n</ul>\n<p>Certos mosteiros usam formas especializadas das armas de monge. Por exemplo, você pode usar um cassetete que consiste em dois pedaços de madeira conectados por uma corrente curta (chamado de nunchaku) ou uma foice com uma lâmina mais curta e reta (chamada de kama). Qualquer nome que você use para uma arma de monge, você pode usar as estatísticas do jogo fornecidas para a arma.</p>"
     },
     "MhJfdBl1B7PdU4oZ": {
-      "name": "Mask of Many Faces",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.A3q2gTNqG6fvNGrv]{Disguise Self} at will, without expending a spell slot.</p>"
+      "name": "Máscara de Muitos Rostos",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.A3q2gTNqG6fvNGrv]{Disfarçar-se} à vontade, sem gastar um espaço de magia.</p>"
     },
     "lxfdjLer3uKjyZqU": {
-      "name": "Master of Myriad Forms",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.8RTDOt80u8aBv9qx]{Alter Self} at will, without expending a spell slot.</p>"
+      "name": "Mestre das Infindáveis Formas",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.8RTDOt80u8aBv9qx]{Alterar-se}, à vontade, sem precisar gastar um espaço de magia.</p>"
     },
     "9Uh7uTDNZ04oTJsL": {
-      "name": "Metamagic",
-      "description": "<p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zElYrOcCFFMhB6Xl]{Careful Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.DZpAa3LzMNBexbmX]{Distant Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.IWpe0Y9uAStHGiH1]{Empowered Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.tQxlKyAx9sgPrbgj]{Extended Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.tNG2qi9zhmXEkecA]{Heightened Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.nViGf6bZ6DQAJhkw]{Quickened Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.fXa0DMhoVLtbBu9l]{Subtle Spell}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.Qb391hakCfmH4w8p]{Twinned Spell}</p>"
+      "name": "Metamagia",
+      "description": "<p>No 3º nível, você ganha a capacidade de distorcer suas magias para atender às suas necessidades. Você ganha duas das seguintes opções de Metamagia de sua escolha. Você ganha outra no 10º e 17º nível. Você pode usar apenas uma opção de Metamagia em um feitiço quando o conjura, a menos que indicado de outra forma.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zElYrOcCFFMhB6Xl]{Magia Cuidadosa}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.DZpAa3LzMNBexbmX]{Magia Distante}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.IWpe0Y9uAStHGiH1]{Magia Potencializada}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.tQxlKyAx9sgPrbgj]{Magia Estendida}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.tNG2qi9zhmXEkecA]{Magia Intensificada}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.nViGf6bZ6DQAJhkw]{Magia Acelerada}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.fXa0DMhoVLtbBu9l]{Magia Sutil}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.Qb391hakCfmH4w8p]{Magia Duplicada}</p>"
     },
     "0Jgf8fYY2ExwgQpN": {
       "name": "Fúria Inconsciente",
       "description": "<p>A partir do 6° nível, você não pode ser enfeitiçado ou amedrontado enquanto estiver em fúria. Se você estava enfeitiçado ou amedrontado quando entrou em @UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{fúria}, o efeito é suspenso pela duração da fúria.</p>"
     },
     "QnRKYXb2bXpnNd2k": {
-      "name": "Minions of Chaos",
+      "name": "Minions do Caos",
       "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{Conjure Elemental} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
     },
     "DjXi0IkCTbJx1gsp": {
