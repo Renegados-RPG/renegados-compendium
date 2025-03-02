@@ -564,19 +564,19 @@
     },
     "LBKChJY5n02Afhnq": {
       "name": "Fonte de Magia",
-      "description": "<p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</p><h5>Sorcery Points</h5><p>You have 2 sorcery points, and you gain more as you reach higher levels. Your sorcerer level equals the number of sorcery points you have, so a 4th level sorcerer has 4 sorcery points, a 16th level sorcerer has 16. You can never have more sorcery points than your level dictates.  You regain all spent sorcery points when you finish a long rest.</p><h5>Flexible Casting</h5><p>You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.</p><p><em><strong>Creating Spell Slots</strong>.</em>You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.</p><p>Any spell slot you create with this feature vanishes when you finish a long rest.</p><table><caption>Creating Spell Slots</caption><thead><tr><td><strong>Spell Slot Level</strong></td><td><strong>Sorcery Point Cost</strong></td></tr></thead><tbody><tr><td>1st</td><td>2</td></tr><tr><td>2nd</td><td>3</td></tr><tr><td>3rd</td><td>5</td></tr><tr><td>4th</td><td>6</td></tr><tr><td>5th</td><td>7</td></tr></tbody></table><p><em><strong>Converting a Spell Slot to Sorcery Points</strong>. </em>As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.</p><section class=\"secret foundry-note\" id=\"secret-6nrlbnZxIbKqf5Ul\"><p><strong>Foundry Note</strong></p><p>Use this to track all the various uses of sorcery points for the sorcerer.</p></section>",
+      "description": "<p>No 2º nível, você acessa uma profunda fonte de magia dentro de si. Essa fonte é representada por pontos de feitiçaria, que permitem que você crie uma variedade de efeitos mágicos.</p><h5>Pontos de Feitiçaria</h5><p>Você tem 2 pontos de feitiçaria, e ganha mais conforme alcança níveis mais altos. Seu nível de feiticeiro é igual ao número de pontos de feitiçaria que você tem, então um feiticeiro de 4º nível tem 4 pontos de feitiçaria, um feiticeiro de 16º nível tem 16. Você nunca pode ter mais pontos de feitiçaria do que seu nível determina. Você recupera todos os pontos de feitiçaria gastos quando termina um descanso longo.</p><h5>Conjuração Flexível</h5><p>Você pode usar seus pontos de feitiçaria para ganhar espaços de magia adicionais, ou sacrificar espaços de magia para ganhar pontos de feitiçaria adicionais. Você aprende outras maneiras de usar seus pontos de feitiçaria conforme alcança níveis mais altos.</p><p><em><strong>Criando Espaços de Magia</strong></em>Você pode transformar pontos de feitiçaria não gastos em um espaço de magia como uma ação bônus no seu turno. A tabela Criando Espaços de Magia mostra o custo de criar um espaço de magia de um dado nível. Você pode criar espaços de magia de nível não superior ao 5º.</p><p>Qualquer espaço de magia que você criar com este recurso desaparece quando você termina um descanso longo.</p><table><caption>Criando Espaços de Magia</caption><thead><tr><td><strong>Nível do Espaço de Magia</strong></td><td><strong>Custo em Ponto de Feitiçaria</strong></td></tr></thead><tbody><tr><td>1º</td><td>2</td></tr><tr><td>2º</td><td>3</td></tr><tr><td>3º</td><td>5</td></tr><tr><td>4º</td><td>6</td></tr><tr><td>5º</td><td>7</td></tr></tbody></table><p><em><strong>Convertendo Espaço de Magia em Pontos de Feitiçaria</strong></em>Como uma ação bônus no seu turno, você pode gastar um espaço de magia e ganhar um número de pontos de feitiçaria igual ao nível do espaço.</p><section class=\"secret foundry-note\" id=\"secret-6nrlbnZxIbKqf5Ul\"><p><strong>Nota pro Foundry</strong></p><p>Use isso para controlar todos os vários usos dos pontos de feitiçaria para o feiticeiro.</p></section>",
       "activities": {
         "Regain Spell Slot": {
-          "name": "Regain Spell Slot"
+          "name": "Recuperar Espaços de Magia"
         },
         "Regain Sorcery Points": {
-          "name": "Regain Sorcery Points"
+          "name": "Recuperar Pontos de Feitiçaria"
         }
       }
     },
     "CkbbAckeCtyHXEnL": {
-      "name": "Frenzy",
-      "description": "<p>Starting when you choose this path at 3rd level, you can go into a frenzy when you @UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{Rage}. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).</p>"
+      "name": "Frenesi",
+      "description": "<p>Começando quando você escolhe esse caminho no 3º nível, você pode entrar em frenesi quando você @UUID[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO]{Fúria}. Se você fizer isso, durante a duração de sua fúria, você pode fazer um único ataque com arma corpo a corpo como uma ação bônus em cada um de seus turnos após este. Quando sua fúria termina, você sofre um nível de exaustão (conforme descrito no apêndice A).</p>"
     },
     "65ReXU4ZWqcSs3Cm": {
       "name": "Olhar de Duas Mentes",
@@ -588,49 +588,49 @@
       }
     },
     "StfmqK1twVfukpa0": {
-      "name": "Giant Killer",
-      "description": "<p>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p>",
+      "name": "Matador de Gigantes",
+      "description": "<p>Quando uma criatura Grande ou maior a até 1,5 m de você acerta, ou erra um ataque, você pode usar sua reação para atacar aquela criatura imediatamente após o ataque, desde que você possa vê-la.</p>",
       "activities": {
         "utility": {
-          "condition": "Creature must be Large or larger and visible."
+          "condition": "A criatura deve ser Grande ou maior e visível."
         }
       }
     },
     "Dop1RcU5UdhSVLYS": {
-      "name": "Grappler",
-      "description": "<p><em>Prerequisite: Strength 13 or higher </em></p><p>You've developed the skills necessary to hold your own in close-quarters grappling.</p><p>You gain the following benefits:</p>\n<ul>\n<li>You have advantage on attack rolls against a creature you are grappling.</li>\n<li>You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.</li>\n</ul>"
+      "name": "Agarrador",
+      "description": "<p><em>Pré-requisito: Força 13 ou mais </em></p><p>Você desenvolveu as habilidades necessárias para se defender em lutas corpo a corpo.</p><p>Você ganha os seguintes benefícios:</p>\n<ul>\n<li>Você tem vantagem em testes de ataque contra uma criatura que está agarrando.</li>\n<li>Você pode usar sua ação para tentar imobilizar uma criatura agarrada por você. Para fazer isso, faça outro teste de agarrar. Se você tiver sucesso, você e a criatura ficarão presos até que o agarrar termine.</li>\n</ul>"
     },
     "3Nc6u9pyStByuJsm": {
       "name": "Combate com Armas Grandes",
       "description": "<p>Quando você rolar um 1 ou um 2 num dado de dano de um ataque com arma corpo-a-corpo que você esteja empunhando com duas mãos, você pode rolar o dado novamente e usar a nova rolagem, mesmo que resulte em 1 ou 2. A arma deve ter a propriedade duas mãos ou versátil para ganhar esse benefício.</p>"
     },
     "tNG2qi9zhmXEkecA": {
-      "name": "Heightened Spell",
-      "description": "<p>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.</p>"
+      "name": "Magia Melhorada",
+      "description": "<p>Quando você conjura uma magia que força uma criatura a fazer um teste de salvaguarda para resistir aos seus efeitos, você pode gastar 3 pontos de feitiçaria para dar desvantagem a um alvo da magia em seu primeiro teste de salvaguarda feito contra a magia.</p>"
     },
     "r0unvWK0lPsDthDx": {
-      "name": "Hide in Plain Sight",
-      "description": "<p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</p><p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</p>",
+      "name": "Ocultar à Plena Vista",
+      "description": "<p>A partir do 10º nível, você pode gastar 1 minuto criando camuflagem para si mesmo. Você deve ter acesso a lama fresca, sujeira, plantas, fuligem e outros materiais naturais com os quais criar sua camuflagem.</p><p>Uma vez camuflado dessa forma, você pode tentar se esconder pressionando-se contra uma superfície sólida, como uma árvore ou parede, que seja pelo menos tão alta e larga quanto você. Você ganha +10 de bônus em testes de Destreza (Furtividade) enquanto permanecer lá sem se mover ou tomar ações. Assim que você se mover ou tomar uma ação ou reação, você deve se camuflar novamente para obter esse benefício.</p>",
       "effects": {
         "Hide in Plain Sight": {
-          "name": "Hide in Plain Sight"
+          "name": "Ocultar à Plena Vista"
         }
       }
     },
     "ANE5gjojvhNEagzz": {
-      "name": "Holy Nimbus",
-      "description": "<p>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that. Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</p><p>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+      "name": "Auréola Sagrada",
+      "description": "<p>No nível 20, como uma ação, você pode emanar uma aura de luz solar. Por 1 minuto, luz brilhante irradia de você em um raio de 9 metros, e luz tênue se estende por mais 9 metros a partir daí. Sempre que uma criatura inimiga começa seu turno na luz brilhante, a criatura recebe 10 de dano radiante.</p><p>Além disso, pela duração, você tem vantagem em testes de salvaguarda contra magias lançadas por corruptores ou mortos-vivos.</p><p>Depois de usar esse recurso, você não pode usá-lo novamente até que termine um descanso longo.</p>"
     },
     "C6sHdDGmCMo0cYHd": {
-      "name": "Horde Breaker",
-      "description": "<p>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p>"
+      "name": "Destruidor de Hordas",
+      "description": "<p>Uma vez em cada um de seus turnos, quando você fizer um ataque com arma, você pode fazer outro ataque com a mesma arma contra uma criatura diferente que esteja a 1,5 metros do alvo original e dentro do alcance de sua arma.</p>"
     },
     "wrxIW5sDfmGr3u5s": {
-      "name": "Hunter's Prey",
-      "description": "<p>At 3rd level, you gain one of the following features of your choice.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.5gx1O0sxK08awEO9]{Colossus Slayer}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.StfmqK1twVfukpa0]{Giant Killer}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.C6sHdDGmCMo0cYHd]{Horde Breaker}</p>"
+      "name": "Presa do Caçador",
+      "description": "<p>No 3º nível, você ganha uma das seguintes características de sua escolha.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.5gx1O0sxK08awEO9]{Matador de Colossos}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.StfmqK1twVfukpa0]{Matador de Gigantes}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.C6sHdDGmCMo0cYHd]{Destruidor de Hordas}</p>"
     },
     "aCUmlnHlUPHS0rdu": {
-      "name": "Hurl Through Hell",
+      "name": "Arremessar através do Inferno",
       "description": "<p>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.</p><p>At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
     },
     "YgLQV1O849wE5TgM": {
