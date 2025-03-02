@@ -196,31 +196,31 @@
     },
     "xNN0JMKqlG4hKVYu": {
       "name": "Canalizar Divindade: Arma Sagrada",
-      "description": "<p>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity.</p><p>For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</p>"
+      "description": "<p>Como uma ação, você pode imbuir uma arma que está segurando com energia positiva, usando seu Canalizar Divindade.</p><p>Por 1 minuto, você adiciona seu modificador de Carisma às jogadas de ataque feitas com essa arma (com um bônus mínimo de +1). A arma também emite luz brilhante em um raio de 6 metros e luz fraca por mais 6 metros. Se a arma não for mágica, ela se torna mágica por toda a duração.</p><p>Você pode encerrar esse efeito em seu turno como parte de qualquer outra ação. Se você não estiver mais segurando ou carregando essa arma, ou se você cair inconsciente, esse efeito termina.</p>"
     },
     "ZdwGlsJNtc7pGFCd": {
-      "name": "Channel Divinity: Turn the Unholy",
-      "description": "<p>As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
+      "name": "Canalizar Divindade: Expulsar o Profano",
+      "description": "<p>Como uma ação, você apresenta seu símbolo sagrado e profere uma oração censurando corruptores e mortos-vivos, usando seu Canalizar Divindade. Cada demônio ou morto-vivo que pode ver ou ouvir você em um raio de 9 metros de você deve fazer um teste de salvaguarda de Sabedoria. Se a criatura falhar em seu teste de salvaguarda, ela é expulsa por 1 minuto ou até que sofra dano.</p><p>Uma criatura expulsa deve gastar seus turnos tentando se mover o mais longe possível de você, e não pode voluntariamente se mover para um espaço a até 9 metros ou menos de você. Ela também não pode usar reações. Para sua ação, ela só pode usar a ação Disparada ou tentar escapar de um efeito que a impeça de se mover. Se não tiver para onde se mover, a criatura pode usar a ação Esquivar.</p>"
     },
     "r91UIgwFdHwkXdia": {
-      "name": "Channel Divinity: Turn Undead",
-      "description": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead.</p><p>Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions.</p><p>For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>",
+      "name": "Canalizar Divindade: Expulsar Mortos-Vivos",
+      "description": "<p>Como uma ação, você apresenta seu símbolo sagrado e recita uma oração censurando os mortos-vivos.</p><p>Cada morto-vivo que pode ver ou ouvir você a 9 metros de distância deve fazer um teste de salvaguarda de Sabedoria. Se a criatura falhar em seu teste de salvaguarda, ela é expulsa por 1 minuto ou até que sofra algum dano.</p><p>Uma criatura expulsa deve gastar seus turnos tentando se mover o mais longe possível de você, e não pode se mover voluntariamente para um espaço a 30 pés de você. Também não pode fazer reações.</p><p>Para sua ação, ela só pode usar a ação Disparada ou tentar escapar de um efeito que impede que ela se mova. Se não houver para onde se mover, a criatura pode usar a ação Esquivar.</p>",
       "activities": {
         "save": {
-          "condition": "Targets must be able to see or hear you."
+          "condition": "Os alvos devem ser capazes ver ou ouvir você."
         }
       }
     },
     "YiK59gWSlcQ6Mbdz": {
-      "name": "Circle Spells",
-      "description": "<p>Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.</p>\n<p>Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p>\n<table><caption>Arctic</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.3Lo9boi7P2ro6QV4]{Hold Person}, @UUID[Compendium.dnd5e.spells.Item.9gYGkrL6qFTsE6fw]{Spike Growth}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.dhqBY4TvVjxVmOZd]{Sleet Storm}, @UUID[Compendium.dnd5e.spells.Item.yqUDoxk4x0NWG5Bz]{Slow}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Freedom of Movement}, @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{Ice Storm}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{Commune}, @UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{Cone of Cold}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Coast</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.X4c8xCkmF8U9HUMz]{Mirror Image}, @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{Misty Step}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.13uVuBQP6VaiSPvC]{Water Breathing}, @UUID[Compendium.dnd5e.spells.Item.YBda6nLKjxdT1LbS]{Water Walk}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL]{Control Water}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Freedom of Movement}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{Conjure Elemental}, @UUID[Compendium.dnd5e.spells.Item.fVbCxFRaORalHB20]{Scrying}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Desert</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.UDUnlfPsOAbq2RSE]{Blur}, @UUID[Compendium.dnd5e.spells.Item.5VhqFROQYjr1P9lp]{Silence}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.BV0mpbHh29IbbIj5]{Create Food and Water}, @UUID[Compendium.dnd5e.spells.Item.j8NtLXOOJ3GAKF8I]{Protection from Energy}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.pybg5MNc3lkerH4Y]{Blight}, @UUID[Compendium.dnd5e.spells.Item.sTIkQK7KuQNOyY0C]{Hallucinatory Terrain}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{Insect Plague}, @UUID[Compendium.dnd5e.spells.Item.NmoRmM1mhuM3pqnY]{Wall of Stone}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Forest</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.JPwIEfgUPVebr5AH]{Barkskin}, @UUID[Compendium.dnd5e.spells.Item.KJRVzeMQXPj8Gtyx]{Spider Climb}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.ehvmg9U9fcMEhE4z]{Call Lightning}, @UUID[Compendium.dnd5e.spells.Item.YWtwzp6ZnQJMEmVW]{Plant Growth}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.XqzXSKNR75ZdYTA9]{Divination}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Freedom of Movement}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.dp6xny4v8PDoIGjh]{Commune with Nature}, @UUID[Compendium.dnd5e.spells.Item.DUBgwHPakcLDkB6W]{Tree Stride}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Grassland</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B]{Invisibility}, @UUID[Compendium.dnd5e.spells.Item.pRMvmknwLf2tdMTj]{Pass without Trace}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.BP3GCwa66IAw1yTG]{Daylight}, @UUID[Compendium.dnd5e.spells.Item.Szvk5FEVQW3uhJi5]{Haste}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.XqzXSKNR75ZdYTA9]{Divination}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Freedom of Movement}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.kSPRpeIx3w3nihrF]{Dream}, @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{Insect Plague}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Mountain</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.KJRVzeMQXPj8Gtyx]{Spider Climb}, @UUID[Compendium.dnd5e.spells.Item.9gYGkrL6qFTsE6fw]{Spike Growth}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{Lightning Bolt}, @UUID[Compendium.dnd5e.spells.Item.64uo4fHriHLjRUrX]{Meld into Stone}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.QvGcdRUSNRKEQJlK]{Stone Shape}, @UUID[Compendium.dnd5e.spells.Item.ReMbjfeOKoSj3O79]{Stoneskin}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.d9MwcXi7Il3HROXd]{Passwall}, @UUID[Compendium.dnd5e.spells.Item.NmoRmM1mhuM3pqnY]{Wall of Stone}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Swamp</caption>\n<thead>\n<tr>\n<td><strong>Druid Level</strong></td>\n<td><strong>Circle Spells</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3rd</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.4H6YgYdKgnX6ZQ8M]{Acid Arrow}, @UUID[Compendium.dnd5e.spells.Item.S7VbUetIfVT7B6Eq]{Darkness}</td>\n</tr>\n<tr>\n<td>5th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.YBda6nLKjxdT1LbS]{Water Walk}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Stinking Cloud}</td>\n</tr>\n<tr>\n<td>7th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Freedom of Movement}, @UUID[Compendium.dnd5e.spells.Item.gXtzz9t1DTzJeLr4]{Locate Creature}</td>\n</tr>\n<tr>\n<td>9th</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{Insect Plague}, @UUID[Compendium.dnd5e.spells.Item.fVbCxFRaORalHB20]{Scrying}</td>\n</tr>\n</tbody>\n</table>"
+      "name": "Magias do Círculo",
+      "description": "<p>Sua conexão mística com a terra o infunde com a capacidade de lançar certas magias. No 3º, 5º, 7º e 9º nível, você ganha acesso a magias do círculo conectados à terra onde você se tornou um druida. Escolha essa terra - ártico, costa, deserto, floresta, pasto, montanha ou pântano - e consulte a lista de feitiços associada.</p>\n<p>Uma vez que você obtém acesso a uma magia do círculo, você sempre o tem preparado, e ele não conta para o número de magias que você pode preparar a cada dia. Se você obtém acesso a um magia que não aparece na lista de magias de druida, a magia é, no entanto, uma magia de druida para você.</p>\n<table><caption>Ártico</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.3Lo9boi7P2ro6QV4]{Segurar Pessoa}, @UUID[Compendium.dnd5e.spells.Item.9gYGkrL6qFTsE6fw]{Crescimento de Espinhos}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.dhqBY4TvVjxVmOZd]{Tempestade de Granizo}, @UUID[Compendium.dnd5e.spells.Item.yqUDoxk4x0NWG5Bz]{Lentidão}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberdade de Movimento}, @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{Tempestade de Gelo}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{Comunhão}, @UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{Cone de Frio}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Costa</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.X4c8xCkmF8U9HUMz]{Imagem Espelhada}, @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{Passo Nebuloso}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.13uVuBQP6VaiSPvC]{Respiração Aquática}, @UUID[Compendium.dnd5e.spells.Item.YBda6nLKjxdT1LbS]{Caminhar sobre a Água}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL]{Controlar Água}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberdade de Movimento}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{Conjurar Elemental}, @UUID[Compendium.dnd5e.spells.Item.fVbCxFRaORalHB20]{Vidência}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Deserto</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.UDUnlfPsOAbq2RSE]{Borrar}, @UUID[Compendium.dnd5e.spells.Item.5VhqFROQYjr1P9lp]{Silêncio}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.BV0mpbHh29IbbIj5]{Criar Comida e Água}, @UUID[Compendium.dnd5e.spells.Item.j8NtLXOOJ3GAKF8I]{Proteção contra Energia}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.pybg5MNc3lkerH4Y]{Praga}, @UUID[Compendium.dnd5e.spells.Item.sTIkQK7KuQNOyY0C]{Terreno Alucinatório}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{Praga de Insetos}, @UUID[Compendium.dnd5e.spells.Item.NmoRmM1mhuM3pqnY]{Muro de Pedra}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Floresta</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.JPwIEfgUPVebr5AH]{Casca de Árvore}, @UUID[Compendium.dnd5e.spells.Item.KJRVzeMQXPj8Gtyx]{Escalada de Aranha}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.ehvmg9U9fcMEhE4z]{Chamar Relâmpagos}, @UUID[Compendium.dnd5e.spells.Item.YWtwzp6ZnQJMEmVW]{Crescimento de Plantas}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.XqzXSKNR75ZdYTA9]{Divinação}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberdade de Movimento}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.dp6xny4v8PDoIGjh]{Comunhão com a Natureza}, @UUID[Compendium.dnd5e.spells.Item.DUBgwHPakcLDkB6W]{Passar pela Árvore}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Pasto</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B]{Invisibilidade}, @UUID[Compendium.dnd5e.spells.Item.pRMvmknwLf2tdMTj]{Passo sem Pegada}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.BP3GCwa66IAw1yTG]{Luz do Dia}, @UUID[Compendium.dnd5e.spells.Item.Szvk5FEVQW3uhJi5]{Velocidade}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.XqzXSKNR75ZdYTA9]{Divinação}, @UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberdade de Movimento}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.kSPRpeIx3w3nihrF]{Sonho}, @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{Praga de Insetos}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Montanha</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.KJRVzeMQXPj8Gtyx]{Escalada de Aranha}, @UUID[Compendium.dnd5e.spells.Item.9gYGkrL6qFTsE6fw]{Crescimento de Espinhos}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{Relâmpago}, @UUID[Compendium.dnd5e.spells.Item.64uo4fHriHLjRUrX]{Fundir-se com Pedra}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.QvGcdRUSNRKEQJlK]{Moldar Pedra}, @UUID[Compendium.dnd5e.spells.Item.ReMbjfeOKoSj3O79]{Pele de Pedra}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.d9MwcXi7Il3HROXd]{Passar pela Parede}, @UUID[Compendium.dnd5e.spells.Item.NmoRmM1mhuM3pqnY]{Muro de Pedra}</td>\n</tr>\n</tbody>\n</table>\n<table><caption>Pântano</caption>\n<thead>\n<tr>\n<td><strong>Nível de Druida</strong></td>\n<td><strong>Magias do Círculo</strong></td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.4H6YgYdKgnX6ZQ8M]{Flecha Ácida}, @UUID[Compendium.dnd5e.spells.Item.S7VbUetIfVT7B6Eq]{Escuridão}</td>\n</tr>\n<tr>\n<td>5º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.YBda6nLKjxdT1LbS]{Caminhar sobre a Água}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Nuvem Fétida}</td>\n</tr>\n<tr>\n<td>7º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberdade de Movimento}, @UUID[Compendium.dnd5e.spells.Item.gXtzz9t1DTzJeLr4]{Localizar Criatura}</td>\n</tr>\n<tr>\n<td>9º</td>\n<td>@UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{Praga de Insetos}, @UUID[Compendium.dnd5e.spells.Item.fVbCxFRaORalHB20]{Vidência}</td>\n</tr>\n</tbody>\n</table>"
     },
     "U7BIPVPsptBmwsnV": {
-      "name": "Cleansing Touch",
-      "description": "<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.</p>",
+      "name": "Toque Purificador",
+      "description": "<p>A partir do 14º nível, você pode usar sua ação para encerrar uma magia em si mesmo ou em uma criatura disposta que você tocar.</p><p>Você pode usar essa habilidade um número de vezes igual ao seu modificador de Carisma (no mínimo uma vez). Você recupera usos gastos quando termina um descanso longo.</p>",
       "activities": {
         "utility": {
-          "condition": "Target must be willing."
+          "condition": "O alvo deve estar disposto."
         }
       }
     },
@@ -229,11 +229,11 @@
       "description": "<p>Sua tenacidade pode derrubar os mais poderosos oponentes. Quando você atinge uma criatura com um ataque com arma, a criatura sofre 1d8 de dano extra, se ela estiver abaixo do máximo de pontos de vida dela. Você só pode causar esse dano extra uma vez por turno.</p>"
     },
     "SEJmsjkEhdAZ90ki": {
-      "name": "Countercharm",
-      "description": "<p>At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).</p>",
+      "name": "Contra-charme",
+      "description": "<p>No 6º nível, você ganha a habilidade de usar notas musicais ou palavras de poder para interromper efeitos que influenciam a mente. Como uma ação, você pode iniciar uma apresentação que dura até o fim de seu próximo turno. Durante esse tempo, você e qualquer criatura amigável a 9 metros de você têm vantagem em testes de salvaguardas contra ser assustado ou encantado. Uma criatura deve ser capaz de ouvir você para receber esse benefício. A apresentação termina mais cedo se você ficar incapacitado ou silenciado ou se você voluntariamente encerrá-la (nenhuma ação é necessária).</p>",
       "activities": {
         "utility": {
-          "condition": "Creatures must be able to hear you to benefit."
+          "condition": "As criaturas devem poder ouvir você para se beneficiar."
         }
       }
     },
@@ -251,37 +251,37 @@
       }
     },
     "vt31lWAULygEl7yk": {
-      "name": "Danger Sense",
-      "description": "<p>At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.</p><p>You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.</p>"
+      "name": "Sentido de Perigo",
+      "description": "<p>No 2º nível, você ganha um sentido sobrenatural de quando as coisas ao seu redor não estão como deveriam, dando a você uma vantagem quando você desvia do perigo.</p><p>Você tem vantagem em teste de salvaguarda de Destreza contra efeitos que você pode ver, como armadilhas e magias. Para obter esse benefício, você não pode estar cego, surdo ou incapacitado.</p>"
     },
     "Jv0zu4BtUi8bFCqJ": {
-      "name": "Dark One's Blessing",
-      "description": "<p>Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).</p>"
+      "name": "Bênção do Ser das Trevas",
+      "description": "<p>A partir do 1º nível, quando você reduz uma criatura hostil a 0 pontos de vida, você ganha pontos de vida temporários iguais ao seu modificador de Carisma + seu nível de bruxo (mínimo de 1).</p>"
     },
     "OQSb0bO1yDI4aiMx": {
-      "name": "Dark One's Own Luck",
-      "description": "<p>Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
+      "name": "Sorte do Senhor das Trevas",
+      "description": "<p>Começando no 6º nível, você pode invocar seu patrono para alterar o destino a seu favor. Quando você faz um teste de habilidade ou um teste de salvaguarda, você pode usar essa característica para adicionar um d10 à sua rolagem. Você pode fazer isso depois de ver a rolagem inicial, mas antes que qualquer efeito da rolagem ocorra.</p><p>Depois de usar esse recurso, você não poderá usá-lo novamente até terminar um descanso curto ou longo.</p>"
     },
     "zSlV0O2rQMdoq6pB": {
-      "name": "Defense",
-      "description": "<p>While you are wearing armor, you gain a +1 bonus to AC</p>",
+      "name": "Defesa",
+      "description": "<p>Enquanto estiver usando armadura, você ganha um bônus de +1 na CA.</p>",
       "effects": {
         "Fighting Style: Defense": {
-          "name": "Fighting Style: Defense"
+          "name": "Estilo de Luta: Defesa"
         }
       }
     },
     "WgQrqjmeyMqDzVt3": {
-      "name": "Defensive Tactics",
-      "description": "<p>At 7th level, you gain on of the following features of your choice.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.pAQMJU5R9SGUmzHU]{Escape the Horde}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.slelvrm83v9UAKZU]{Multiattack Defense}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zbHu0NvHuII8lR7W]{Steel Will}</p>"
+      "name": "Táticas Defensivas",
+      "description": "<p>No nível 7, você ganha as seguintes características de sua escolha.</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.pAQMJU5R9SGUmzHU]{Escape da Horda}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.slelvrm83v9UAKZU]{Defesa Multiataque}</p><p>@UUID[Compendium.dnd5e.classfeatures.Item.zbHu0NvHuII8lR7W]{Vontade de Aço}</p>"
     },
     "mzweVbnsJPQiVkAe": {
-      "name": "Deflect Missiles",
-      "description": "<p>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by [[/r 1d10 + @abilities.dex.mod + @classes.monk.levels]]{1d10 + your Dexterity modifier + your monk level}.</p><p>If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 @UUID[Compendium.dnd5e.classfeatures.Item.10b6z2W1txNkrGP7]{Ki} point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.</p>"
+      "name": "Defletir Míssies",
+      "description": "<p>Começando no 3º nível, você pode usar sua reação para desviar ou capturar o míssil quando for atingido por um ataque de arma de longo alcance. Quando você faz isso, o dano que você recebe do ataque é reduzido em [[/r 1d10 + @abilities.dex.mod + @classes.monk.levels]]{1d10 + seu modificador de Destreza + seu nível de monge}.</p><p>Se você reduzir o dano para 0, você pode pegar o míssil se ele for pequeno o suficiente para você segurar em uma mão e você tiver pelo menos uma mão livre. Se você pegar um míssil dessa forma, você pode gastar 1 ponto de @UUID[Compendium.dnd5e.classfeatures.Item.10b6z2W1txNkrGP7]{Ki} para fazer um ataque à distância com a arma ou munição que você acabou de pegar, como parte da mesma reação. Você faz esse ataque com proficiência, independentemente de suas proficiências com armas, e o míssil conta como uma arma de monge para o ataque, que tem um alcance normal de 6 metros e um longo alcance de 9 metros.</p>"
     },
     "NMy4piwXIpLjYbRE": {
-      "name": "Destroy Undead",
-      "description": "<p>Starting at 5th level, when an undead fails its saving throw against your @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Turn Undead} feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the table below.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Cleric Level</strong></td>\n<td><strong>Destroys Undead of CR...</strong></td>\n</tr>\n<tr>\n<td>5th</td>\n<td>1/2 or lower</td>\n</tr>\n<tr>\n<td>8th</td>\n<td>1 or lower</td>\n</tr>\n<tr>\n<td>11th</td>\n<td>2 or lower</td>\n</tr>\n<tr>\n<td>14th</td>\n<td>3 or lower</td>\n</tr>\n<tr>\n<td>17th</td>\n<td>4 or lower</td>\n</tr>\n</tbody>\n</table>"
+      "name": "Destruir Mortos Vivos",
+      "description": "<p>A partir do 5º nível, quando um morto-vivo falha em seu teste de salvaguarda contra seu poder @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Expulsar mortos-vivos}, a criatura é instantaneamente destruída se seu Nível de Desafio (ND) for igual ou inferior a um certo limite, conforme mostrado na tabela abaixo.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>Nível de Clérigo</strong></td>\n<td><strong>Destrói Mortos-Vivos de ND...</strong></td>\n</tr>\n<tr>\n<td>5º</td>\n<td>1/2 ou inferior</td>\n</tr>\n<tr>\n<td>8º</td>\n<td>1 ou inferior</td>\n</tr>\n<tr>\n<td>11º</td>\n<td>2 ou inferior</td>\n</tr>\n<tr>\n<td>14º</td>\n<td>3 ou inferior</td>\n</tr>\n<tr>\n<td>17º</td>\n<td>4 ou inferior</td>\n</tr>\n</tbody>\n</table>"
     },
     "3sN91lT1R3oxcDKd": {
       "name": "Visão Diabólica",
@@ -307,24 +307,24 @@
       }
     },
     "jF8AFfEMICIJnAkR": {
-      "name": "Disciple of Life",
-      "description": "<p>Starting at 1st level, your healing spells are more effective.</p><p>Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.</p>"
+      "name": "Discípulo da Vida",
+      "description": "<p>A partir do 1º nível, suas magias de cura são mais eficazes.</p><p> Sempre que você usar uma magia de 1º nível ou superior para restaurar pontos de vida de uma criatura, a criatura recupera pontos de vida adicionais iguais a 2 + o nível da magia.</p>"
     },
     "DZpAa3LzMNBexbmX": {
-      "name": "Distant Spell",
-      "description": "<p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.</p><p>When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.</p>"
+      "name": "Magia Distante",
+      "description": "<p> Quando você conjura uma magia que tem um alcance de 1,5 metros ou mais, você pode gastar 1 ponto de feitiçaria para dobrar o alcance da magia.</p><p> Quando você conjura uma magia que tem um alcance de toque, você pode gastar 1 ponto de feitiçaria para fazer o alcance da magia 9 metros.</p>"
     },
     "x637K2Icp2ZFM1TB": {
-      "name": "Divine Domain",
-      "description": "<p>Choose one domain related to your deity, such as Life. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.</p>\n<h5>Domain Spells</h5>\n<p>Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</p>\n<p>If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.</p>"
+      "name": "Domínio Divino",
+      "description": "<p>Escolha um domínio relacionado à sua divindade, como Vida. Sua escolha lhe concede magias de domínio e outras características quando você a escolhe no 1º nível. Ela também lhe concede maneiras adicionais de usar Canalizar Divindade quando você ganha essa característica no 2º nível, e benefícios adicionais nos 6º, 8º e 17º níveis.</p>\n<h5>Magias de Domínio</h5>\n<p>Cada domínio tem uma lista de magias — suas magias de domínio — que você ganha nos níveis de clérigo indicados na descrição do domínio. Uma vez que você ganha uma magia de domínio, você sempre a tem preparada, e ela não conta no número de magias que você pode preparar a cada dia.</p>\n<p>Se você tiver uma magia de domínio que não aparece na lista de magias de clérigo, ela ainda é uma magia de clérigo para você.</p>"
     },
     "dY9yrqkyEDuF0CG2": {
-      "name": "Divine Health",
-      "description": "<p>By 3rd level, the divine magic flowing through you makes you immune to disease.</p>"
+      "name": "Saúde Divina",
+      "description": "<p>No 3º nível, a magia divina que flui através de você o torna imune a doenças.</p>"
     },
     "eVXqHn0ojWrEuYGU": {
-      "name": "Divine Intervention",
-      "description": "<p>Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.</p><p>Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The GM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate.</p><p>If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.</p><p>At 20th level, your call for intervention succeeds automatically, no roll required.</p>",
+      "name": "Intervenção Divina",
+      "description": "<p>A partir do 10º nível, você pode invocar sua divindade para intervir em seu nome quando sua necessidade for grande.</p><p>Implorar a ajuda de sua divindade exige que você use sua ação. Descreva a assistência que você busca e role dados de porcentagem. Se você rolar um número igual ou inferior ao seu nível de clérigo, sua divindade intervém. O Mestre escolhe a natureza da intervenção; o efeito de qualquer magia de clérigo ou magia de domínio de clérigo seria apropriado.</p><p>Se sua divindade intervir, você não poderá usar esse recurso novamente por 7 dias. Caso contrário, você pode usá-lo novamente depois de terminar um descanso longo.</p><p>No 20º nível, seu pedido de intervenção tem sucesso automaticamente, sem necessidade de rolagem.</p>",
       "activities": {
         "utility": {
           "condition": "Sua necessidade deve ser grande..."
@@ -488,18 +488,18 @@
     },
     "lEZKbWaVrSljRa9n": {
       "name": "Olhos do Guardião das Runas",
-      "description": "<p>You can read all writing.</p>"
+      "description": "<p>Você pode ler todos os idiomas escritos.</p>"
     },
     "ga3dt2zrCn2MHK8R": {
-      "name": "Fast Hands",
-      "description": "<p>Starting at 3rd level, you can use the bonus action granted by your @UUID[Compendium.dnd5e.classfeatures.Item.01pcLg6PRu5zGrsb]{Cunning Action} to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.</p>"
+      "name": "Mãos Rápidas",
+      "description": "<p>A partir do 3º nível, você pode usar a ação bônus concedida pelo seu @UUID[Compendium.dnd5e.classfeatures.Item.01pcLg6PRu5zGrsb]{Ação Astuta} para fazer um teste de Destreza (Prestidigitação), usar suas ferramentas de ladrão para desarmar uma armadilha ou abrir uma fechadura, ou realizar a ação Usar um Objeto.</p>"
     },
     "Kl6zifJ5OmdHlOi2": {
-      "name": "Fast Movement",
-      "description": "<p>Your speed increases by 10 feet while you aren't wearing heavy armor.</p>",
+      "name": "Movimento Rápido",
+      "description": "<p>Sua velocidade aumenta em 3 metros enquanto você não estiver usando armadura pesada.</p>",
       "effects": {
         "Fast Movement": {
-          "name": "Fast Movement"
+          "name": "Movimento Rápido"
         }
       }
     },
@@ -508,42 +508,42 @@
       "description": "<p>A partir do 1° nível, você tem experiência significativa estudando, rastreando, caçando e, até mesmo, falando com certos tipos de inimigos.</p><p>Escolha um tipo de inimigo favorito: aberrações, bestas, celestiais, constructos, corruptores, dragões, elementais, fadas, gigantes, limos, monstruosidades, mortos-vivos ou plantas. Alternativamente, você pode escolher duas raças de humanoides (como gnolls e orcs) para seus inimigos favoritos.</p><p>Você tem vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus inimigos favoritos, assim como em testes de Inteligência para lembrar informações sobre eles.</p><p>Quando você adquire essa característica, você também aprende um idioma, à sua escolha, que seja falado pelos seus inimigos favoritos, se eles falarem algum.</p><p>Você escolhe um inimigo favorito adicional, assim como um idioma associado, no 6° e 14° nível. A medida que você ganha níveis, suas escolhas deverão refletir os tipos de monstros que você encontrou nas suas aventuras.</p><section class=\"secret foundry-note\" id=\"secret-2vKbF8oen9AQiV1L\"><p><strong>Nota do Foundry</strong></p><p>Se desejar, edite manualmente e anote suas escolhas aqui:</p><ul><li><em>1º nível</em></li><li><em>6º nível</em></li><li><em>14º nível</em></li></ul></section>"
     },
     "NlXslw4yAqmKZWtN": {
-      "name": "Feral Instinct",
-      "description": "<p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.</p><p>Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</p>",
+      "name": "Instinto Selvagem",
+      "description": "<p>No 7º nível, seus instintos estão tão aguçados que você tem vantagem em rolagens de iniciativa.</p><p>Além disso, se você for surpreendido no início do combate e não estiver incapacitado, você pode agir normalmente em seu primeiro turno, mas apenas se entrar em sua fúria antes de fazer qualquer outra coisa nesse turno.</p>",
       "effects": {
         "Feral Instinct": {
-          "name": "Feral Instinct"
+          "name": "Instinto Selvagem"
         }
       }
     },
     "QBVmY56RMQuh6C8h": {
-      "name": "Feral Senses",
-      "description": "<p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</p><p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</p>"
+      "name": "Sentidos Selvagens",
+      "description": "<p>No nível 18, você ganha sentidos pré-ternaturais que o ajudam a combater criaturas que você não consegue ver. Quando você ataca uma criatura que você não pode ver, sua incapacidade de vê-lo não impõe desvantagem em suas rolagens de ataque contra ela.</p><p>Você também está ciente do local de qualquer criatura invisível a 9 metros de você, desde que a criatura não esteja escondida de você e você não seja cego ou surdo.</p>"
     },
     "9UZ2WjUF2k58CQug": {
-      "name": "Fiendish Resilience",
-      "description": "<p>Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.</p>",
+      "name": "Resiliência Diabólica",
+      "description": "<p>A partir do 10º nível, você pode escolher um tipo de dano quando termina um descanso curto ou longo. Você ganha resistência a esse tipo de dano até que escolha um diferente com essa característica. Dano de armas mágicas ou armas de prata ignoram essa resistência.</p>",
       "effects": {
         "Fiendish Resilience": {
-          "name": "Fiendish Resilience"
+          "name": "Resiliência Diabólica"
         }
       }
     },
     "id0gmGvzNZBEdzbx": {
-      "name": "Fiendish Vigor",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.7e3QXF10hLNDEdr6]{False Life} on yourself at will as a 1st-level spell, without expending a spell slot or material components.</p>"
+      "name": "Vigor Diabólico",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.7e3QXF10hLNDEdr6]{Vida Falsa} em si mesmo à vontade como uma magia de 1º nível, sem gastar um espaço de magia ou componentes materiais.</p>"
     },
     "Ho7dVxBlOYFlfBHk": {
-      "name": "Fighting Style",
-      "description": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options from the appropriate class list. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defense}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Dueling}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O]{Protection}</p>"
+      "name": "Estilo de Luta",
+      "description": "<p>Você adota um estilo particular de luta como sua especialidade. Escolha uma das seguintes opções da lista de classes apropriada. Você não pode escolher uma opção de Estilo de Luta mais de uma vez, mesmo que depois você possa escolher novamente.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defesa}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Duelo}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.3Nc6u9pyStByuJsm]{Lutar com Armas Grandes}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O]{Proteção}</p>"
     },
     "fbExzwNwEAl2kW9c": {
-      "name": "Fighting Style",
-      "description": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options from the appropriate class list. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Archery}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defense}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Dueling}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.3Nc6u9pyStByuJsm]{Great Weapon Fighting}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O]{Protection}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p>"
+      "name": "Estilo de Luta",
+      "description": "<p>Você adota um estilo particular de luta como sua especialidade. Escolha uma das seguintes opções da lista de classes apropriada. Você não pode escolher uma opção de Estilo de Luta mais de uma vez, mesmo que depois você possa escolher novamente.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Arquearia}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defensa}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Duelo}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.3Nc6u9pyStByuJsm]{Lutar com Armas Grandes}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.06NVMYf58Z76O85O]{Proteção}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Luta com Duas Armas}</p>"
     },
     "nJA3ISVmyj3uPRVM": {
-      "name": "Fighting Style",
-      "description": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options from the appropriate class list. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Archery}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defense}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Dueling}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Two Weapon Fighting}</p>"
+      "name": "Estilo de Luta",
+      "description": "<p>Você adota um estilo particular de luta como sua especialidade. Escolha uma das seguintes opções da lista de classes apropriada. Você não pode escolher uma opção de Estilo de Luta mais de uma vez, mesmo que depois você possa escolher novamente.</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.8YwPFv3UAPjWVDNf]{Arquearia}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.zSlV0O2rQMdoq6pB]{Defesa}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.hCop9uJrWhF1QPb4]{Duelo}</p>\n<p>@UUID[Compendium.dnd5e.classfeatures.Item.mHcSjcHJ8oZu3hkb]{Luta com Duas Armas}</p>"
     },
     "5MwNlVZK7m6VolOH": {
       "name": "Rajada de Golpes",
@@ -563,7 +563,7 @@
       "description": "<p>Começando no momento em que você atinge o 5° nível, você recupera todos as utilizações gastas da sua @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiração Bárdica} quando você termina um descanso curto ou longo.</p><section class=\"secret foundry-note\" id=\"secret-2Ixwv0urEA2kot3D\"><p><strong>Nota do Foundry</strong></p><p>Por padrão, a Inspiração Bárdica é recuperada apenas após um descanso longo. Edite para descanso curto ao alcançar esse nível.</p></section>"
     },
     "LBKChJY5n02Afhnq": {
-      "name": "Font of Magic",
+      "name": "Fonte de Magia",
       "description": "<p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</p><h5>Sorcery Points</h5><p>You have 2 sorcery points, and you gain more as you reach higher levels. Your sorcerer level equals the number of sorcery points you have, so a 4th level sorcerer has 4 sorcery points, a 16th level sorcerer has 16. You can never have more sorcery points than your level dictates.  You regain all spent sorcery points when you finish a long rest.</p><h5>Flexible Casting</h5><p>You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.</p><p><em><strong>Creating Spell Slots</strong>.</em>You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.</p><p>Any spell slot you create with this feature vanishes when you finish a long rest.</p><table><caption>Creating Spell Slots</caption><thead><tr><td><strong>Spell Slot Level</strong></td><td><strong>Sorcery Point Cost</strong></td></tr></thead><tbody><tr><td>1st</td><td>2</td></tr><tr><td>2nd</td><td>3</td></tr><tr><td>3rd</td><td>5</td></tr><tr><td>4th</td><td>6</td></tr><tr><td>5th</td><td>7</td></tr></tbody></table><p><em><strong>Converting a Spell Slot to Sorcery Points</strong>. </em>As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.</p><section class=\"secret foundry-note\" id=\"secret-6nrlbnZxIbKqf5Ul\"><p><strong>Foundry Note</strong></p><p>Use this to track all the various uses of sorcery points for the sorcerer.</p></section>",
       "activities": {
         "Regain Spell Slot": {
@@ -733,8 +733,8 @@
       "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.1LkZvINag7KqBmDR]{Conjure Elemental} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
     },
     "DjXi0IkCTbJx1gsp": {
-      "name": "Mire the Mind",
-      "description": "<p>You can cast @UUID[Compendium.dnd5e.spells.Item.yqUDoxk4x0NWG5Bz]{Slow} once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Atolar a mente",
+      "description": "<p>Você pode conjurar @UUID[Compendium.dnd5e.spells.Item.yqUDoxk4x0NWG5Bz]{Lentidão} uma vez usando um espaço de magia de bruxo. Você não pode fazer isso novamente até terminar um descanso longo.</p>"
     },
     "k5DU0mMuYVHejiqz": {
       "name": "Misty Visions",
