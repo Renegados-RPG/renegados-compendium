@@ -1,0 +1,60 @@
+{
+  "_id": "Z6jVoDUcgGeYA0C9",
+  "name": "Twilight Shroud",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>17th-level Twilight Domain feature</i></p><p>The twilight that you summon offers a protective embrace: you and your allies have &amp;Reference[rule=halfcover]{half cover} while in the sphere created by your Twilight Sanctuary.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 17 (Twilight)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "twilight-shroud",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "TtJ6dSOjvETcJJye",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740761008617,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!Z6jVoDUcgGeYA0C9"
+}

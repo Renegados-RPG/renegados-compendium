@@ -1,0 +1,56 @@
+{
+  "name": "Healing Machine",
+  "type": "feat",
+  "_id": "4BFFpgoP9h3zT7Ba",
+  "img": "icons/tools/fasteners/bolts-roundhead.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Healing Machine\" class=\"rd__b  rd__b--3\"><p>If the @UUID[Compendium.renegados-compendium.magias.Item.8V0LruVLAmftbijd] spell is cast on you, you can spend a Hit Die, roll it, and regain a number of hit points equal to the roll plus your Constitution modifier (minimum of 1 hit point).</p></div><div data-roll-name-ancestor=\"Healing Machine\" class=\"rd__b  rd__b--3\"><p>In addition, your creator designed you to benefit from several spells that preserve life but that normally don't affect Constructs: @UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2], @UUID[Compendium.renegados-compendium.magias.Item.yAtKkow5KK0q6EGi], @UUID[Compendium.renegados-compendium.magias.Item.YVhoQSeBV84mkRiP], @UUID[Compendium.renegados-compendium.magias.Item.U0SCH3Fzm8B6LA7G], and @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2].</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "NxeGlNpsY4aeI6ff",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.WdVREpYegyxWT0V9",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740447492510,
+    "modifiedTime": 1740447510533,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!4BFFpgoP9h3zT7Ba"
+}

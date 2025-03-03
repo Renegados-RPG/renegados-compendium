@@ -1,0 +1,22 @@
+{
+  "name": "6th level",
+  "color": "#58376F",
+  "description": "",
+  "flags": {},
+  "sort": 700000,
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.4",
+    "createdTime": 1740591310574,
+    "modifiedTime": 1740609946997,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "qNZdjFuhwLB2pFDx",
+  "_key": "!folders!qNZdjFuhwLB2pFDx"
+}

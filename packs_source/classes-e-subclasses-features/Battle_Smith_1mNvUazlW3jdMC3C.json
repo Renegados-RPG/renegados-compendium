@@ -1,0 +1,22 @@
+{
+  "name": "Battle Smith",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 200000,
+  "sorting": "a",
+  "folder": "v7nqSImzmxROa4U8",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": 1740074341455,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "1mNvUazlW3jdMC3C",
+  "_key": "!folders!1mNvUazlW3jdMC3C"
+}

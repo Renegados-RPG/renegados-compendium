@@ -1,0 +1,60 @@
+{
+  "_id": "pRN09fcYGRTzyvPR",
+  "name": "Lifedrinker",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisites: 12th level, Pact of the Blade</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum of 1).</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "111",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": "eldritchInvocation"
+    },
+    "requirements": "Pact of the Blade",
+    "properties": [],
+    "prerequisites": {
+      "level": 12,
+      "repeatable": false
+    },
+    "activities": {},
+    "enchant": {},
+    "identifier": "lifedrinker",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/skills/melee/strike-sword-blood-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "gTeiHzLTxZ0Ebpj3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796435767,
+    "modifiedTime": 1740796435767,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!pRN09fcYGRTzyvPR"
+}

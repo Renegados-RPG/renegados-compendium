@@ -1,0 +1,178 @@
+{
+  "_id": "kCkPHB6zPINb2U5K",
+  "name": "Genasi (Earth)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> You are Medium or Small. You choose the size when you select this race.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div><div data-roll-name-ancestor=\"Earth Walk\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Earth Walk.</span> You can move across &amp;Reference[rule=difficultterrain]{difficult terrain} without expending extra movement if you are using your walking speed on the ground or a floor.</p></div><div data-roll-name-ancestor=\"Merge with Stone\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Merge with Stone.</span> You know the @UUID[Compendium.renegados-compendium.magias.Item.0x9IlXZhrPcoZ9n9] cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.</p><p>Starting at 5th level, you can cast the @UUID[Compendium.renegados-compendium.magias.Item.OB6eQ7SOeB5eJzVj] spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</p></div></div><hr class=\"hr-1\" /><p>Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.</p><p>A typical genasi has a life span of 120 years.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "17",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "genasi",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "WkM67s3bxqa81kz7",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "izQ2ZNwDfu7zLVDX",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm", "med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "NAJWpHSx9oORqz2d",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "JWth3N8R6Zws0Nea",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.0x9IlXZhrPcoZ9n9",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.lc1ME77hhpjUJL60",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "innate",
+            "uses": {
+              "max": "@prof",
+              "per": "lr",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "hint": "",
+        "icon": "icons/magic/earth/barrier-stone-explosion-debris.webp"
+      },
+      {
+        "_id": "6NEfLonWWkHG3F9b",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.pRMvmknwLf2tdMTj"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Merge with Stone",
+        "hint": "",
+        "icon": "icons/magic/earth/projectile-stone-landslide.webp"
+      }
+    ],
+    "identifier": "genasi-earth"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Genasi.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "Fd1ysNCpXyq9xZWx",
+  "_stats": {
+    "compendiumSource": "Item.ckRbyDZlOtwPwtDd",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740692691801,
+    "modifiedTime": 1740781142280,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!kCkPHB6zPINb2U5K"
+}

@@ -1,0 +1,65 @@
+{
+  "_id": "ibcv9NYKDWfATOTf",
+  "name": "Protection of the Talisman",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "71",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisites: 7th level, Pact of the Talisman</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When the wearer of your talisman fails a saving throw, they can add a [[/r d4]] to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "Pact of the Talisman",
+    "prerequisites": {
+      "level": 7,
+      "repeatable": false
+    },
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "eldritchInvocation"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "protection-of-the-talisman",
+    "cover": null,
+    "crewed": false,
+    "enchant": {}
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/equipment/neck/pendant-faceted-silver-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "gTeiHzLTxZ0Ebpj3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796435767,
+    "modifiedTime": 1740796435767,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!ibcv9NYKDWfATOTf"
+}

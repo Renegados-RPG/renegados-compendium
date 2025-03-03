@@ -1,0 +1,60 @@
+{
+  "_id": "7r7Y9OzHDaNBOZs3",
+  "name": "Repelling Blast",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: @UUID[Compendium.renegados-compendium.magias.Item.8vEFe9YqpUMNQXgO] cantrip</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When you hit a creature with @UUID[Compendium.renegados-compendium.magias.Item.8vEFe9YqpUMNQXgO], you can push the creature up to 10 feet away from you in a straight line.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "111",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": "eldritchInvocation"
+    },
+    "requirements": "eldritch blast cantrip",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "repelling-blast",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/fire/explosion-embers-evade-silhouette.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "gTeiHzLTxZ0Ebpj3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796435767,
+    "modifiedTime": 1740796435767,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!7r7Y9OzHDaNBOZs3"
+}

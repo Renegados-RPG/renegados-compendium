@@ -1,0 +1,22 @@
+{
+  "name": "Life",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "yykRMfmKEESCS1ge",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": 1740755288259,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "B2KJH0cTUlDsfOq5",
+  "_key": "!folders!B2KJH0cTUlDsfOq5"
+}

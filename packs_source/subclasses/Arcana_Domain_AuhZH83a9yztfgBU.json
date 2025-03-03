@@ -1,0 +1,363 @@
+{
+  "_id": "AuhZH83a9yztfgBU",
+  "name": "Arcana Domain",
+  "type": "subclass",
+  "system": {
+    "identifier": "arcana-domain",
+    "classIdentifier": "cleric",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Arcana Domain\" data-source=\"SCAG\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p125\">Arcana Domain</span></h2><p>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</p><p>The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include @deity[Azuth|Faerûnian|SCAG] and @deity[Mystra|Faerûnian|SCAG], as well as @deity[Corellon Larethian|Elven|SCAG] of the elven pantheon. In other worlds, this domain includes @deity[Hecate|Greek], @deity[Math Mathonwy|Celtic], and @deity[Isis|Egyptian]; the triple moon gods of @deity[Solinari|Dragonlance], @deity[Lunitari|Dragonlance], and @deity[Nuitari|Dragonlance] of Krynn; and @deity[Boccob|Greyhawk], @deity[Vecna|Greyhawk], and @deity[Wee Jas|Greyhawk] of Greyhawk.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Arcana Domain Spells\"><caption>Arcana Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.7pKlr3nWnAkMV3iF], @UUID[Compendium.renegados-compendium.magias.Item.2lSqfppArfPi5SPF]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DGin0pShUvQVZU8h], @UUID[Compendium.renegados-compendium.magias.Item.jUfOneIDLvwwjn33]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ZZeFyNktRmVEqrar], @UUID[Compendium.renegados-compendium.magias.Item.2P77SH6Dm3QkPRgt]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.gbqpRHzwNGph3fHY], @UUID[Compendium.renegados-compendium.magias.Item.UnFDDelmcvHcbrVh]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.7xuPlGz8FNWNmOh8], @UUID[Compendium.renegados-compendium.magias.Item.GovMhwY2Z5VLeYWx]</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 1: Arcane Initiate\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p125\">Level 1: Arcane Initiate</span></h3><p>When you choose this domain at 1st level, you gain proficiency in the &amp;Reference[skill=Arcana] skill, and you gain two cantrips of your choice from the <a href=\"https://5e.tools/spells.html#blankhash,flstclass:wizard=1,flstlevel:0=1\">wizard spell list</a>. For you, these cantrips count as cleric cantrips.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 2: Channel Divinity: Arcane Abjuration\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p125\">Level 2: Channel Divinity: Arcane Abjuration</span></h3><p>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.</p><p>As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the @action[Dash] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the @action[Dodge] action.</p><p>After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the @UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3] spell, no @status[concentration] required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Arcane Banishment\"><caption>Arcane Banishment</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Banishes Creatures of CR...</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">1/2 or lower</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">8th</td><td class=\"rd__th ve-col-10 \">1 or lower</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">11th</td><td class=\"rd__th ve-col-10 \">2 or lower</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">14th</td><td class=\"rd__th ve-col-10 \">3 or lower</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">4 or lower</td></tr></tbody></table></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Spell Breaker\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p125\">Level 6: Spell Breaker</span></h3><p>Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Potent Spellcasting\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p125\">Level 8: Potent Spellcasting</span></h3><p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Blessed Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p30\">Level 8: Blessed Strikes</span></h3><p><em>8th-level cleric @variantrule[optional class features|tce|optional feature], which replaces the Potent Spellcasting feature</em></p><p>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [[/damage 1d8 type=radiant]] damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Arcane Mastery\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p125\">Level 17: Arcane Mastery</span></h3><p>At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "125",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "s1M9B73RU09H9Hk8",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7pKlr3nWnAkMV3iF",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.2lSqfppArfPi5SPF",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["wis"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 1,
+        "title": "Arcana Domain Spells",
+        "hint": ""
+      },
+      {
+        "_id": "zjSDs6oCp4GWvvUO",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.JV6nLKky3HYzqifO"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "fzAyGDmTUvRuwlKO",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 2,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.2tnvKD2Qy3NkGllF"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.0x9IlXZhrPcoZ9n9"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.WKc3pviCxsaWGqpe"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.9TFdlhoeXCgLw8fE"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7mBrrb06OZbeGCkN"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.UYCTsaIkEb4VNHGH"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.Mv7As8uQMMx1FsyU"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.MBP9fxZGPtG1Urjw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.naK1Orjdev6Yyn1R"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.fuxuLZNaLeCe1qWM"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.KLWGjZ3svpAY6mfs"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.LjcVLZFYVTde3B3P"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.IFH69Z26eqa6jJPk"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.Er9lqCVyk6dPcWqC"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.yA9ymDlR6IuPw3hH"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.8V0LruVLAmftbijd"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7EyerZUh1sokOspw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7AfO3ibGO0Pewcfk"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.H0rSowwQhSqNK8bm"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.dxDTEExJ3DRwC1Wr"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.W2XCjb7Sl4yNfSW4"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.GEorq7yxqGkqL4Nz"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.uL38dnSKNLVBSpKd"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.fqXdR95kfuUJhTSw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.BLk2sBlHfJfNKoHt"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.50eeZFgLevCY9rbL"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.PHEN8fwI4cGeEP3I"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.FA2vhPGnhJUrkP97"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.O9Lso2KOOcx1e5ii"
+            }
+          ],
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          },
+          "type": "spell",
+          "restriction": {
+            "level": "0"
+          }
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Wizard Cantrips",
+        "hint": ""
+      },
+      {
+        "_id": "FK9CqSjD1KknvDih",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:arc"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "Arcane Initiate",
+        "hint": ""
+      },
+      {
+        "_id": "VCQPOLqIAVTDyExW",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.hKjTjHSSbQ2TTzvp"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "95o45HLk5kYtadcI",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "cr",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "5": {
+              "value": 1.5
+            },
+            "8": {
+              "value": 1
+            },
+            "11": {
+              "value": 2
+            },
+            "14": {
+              "value": 3
+            },
+            "17": {
+              "value": 4
+            }
+          }
+        },
+        "value": {},
+        "title": "Arcane Banishment CR",
+        "hint": ""
+      },
+      {
+        "_id": "RIrkZygmNoTbHsTC",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FhoMt0R2DIOkind1"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ygeNML5p2foDWqaa",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "GRFCB6mH6CdCEagc"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.72LoZHsqoyVFKXZF"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.RRJzUf8gzduAFhbU"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Features",
+        "hint": "",
+        "_id": "JFcmm9U6iEYS9xFd"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.2r1kksSm9JsamrXH"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Features",
+        "hint": "",
+        "_id": "QupRDIX99wAvewvN"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/symbols/circled-gem-pink.webp",
+  "folder": "Urx2eYyUy28giX4D",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707154864,
+    "modifiedTime": 1740750016766,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!AuhZH83a9yztfgBU"
+}

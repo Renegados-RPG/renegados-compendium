@@ -1,0 +1,56 @@
+{
+  "name": "Mental Discipline",
+  "type": "feat",
+  "_id": "0VyFZWCPVFvibDfa",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Mental Discipline\" class=\"rd__b  rd__b--3\"><p>Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] and &amp;Reference[condition=frightened] conditions on yourself.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "cF5GF05wt4pPSFYm",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.Qjh5pAGAeopCQLXw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740771382072,
+    "modifiedTime": 1740771382178,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!0VyFZWCPVFvibDfa"
+}

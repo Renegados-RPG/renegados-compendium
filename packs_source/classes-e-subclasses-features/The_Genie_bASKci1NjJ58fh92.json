@@ -1,0 +1,119 @@
+{
+  "_id": "bASKci1NjJ58fh92",
+  "name": "The Genie",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "73",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.</p><p>You choose your patron's kind or determine it randomly, using the Genie Kind table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Genie Kind\"><caption>Genie Kind</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d4]]</th><th class=\"rd__th ve-col-5 \" data-rd-isroller=\"false\">Kind</th><th class=\"rd__th ve-col-5 \" data-rd-isroller=\"false\">Element</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-5 \">@creature[Dao]</td><td class=\"rd__th ve-col-5 \">Earth</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-5 \">@creature[Djinni]</td><td class=\"rd__th ve-col-5 \">Air</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-5 \">@creature[Efreeti]</td><td class=\"rd__th ve-col-5 \">Fire</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-5 \">@creature[Marid]</td><td class=\"rd__th ve-col-5 \">Water</td></tr></tbody></table><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Expanded Spell List</span></h3> <p><i>1st-level Genie feature</i></p><p>The Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron's kind: dao, djinni, efreeti, or marid.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Genie Expanded Spells\"><caption>Genie Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-2-2 \" data-rd-isroller=\"false\">Genie Spells</th><th class=\"rd__th ve-col-2-2 \" data-rd-isroller=\"false\">Dao Spells</th><th class=\"rd__th ve-col-2-2 \" data-rd-isroller=\"false\">Djinni Spells</th><th class=\"rd__th ve-col-2-2 \" data-rd-isroller=\"false\">Efreeti Spells</th><th class=\"rd__th ve-col-2-2 \" data-rd-isroller=\"false\">Marid Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \">1st</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.zGw8Bk2nBK4On6x2]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.eblKmCn9x7A9n3IM]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.WGdHm2U73KdKbVJ2]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.cE2CzvJbuIzgH913]</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \">2nd</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.UgCVyp9tdt67xmfk]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.3j5E8SvpiHgUQ3Bk]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.4mwMeYMmmaGE9nqk]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.qhKu9FnrixJ5MfE6]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.JpzUehcuOEGObTdR]</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \">3rd</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.rIVCdTUAt1BNNnNU]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.66tcicN1pTIplIf5]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.V4eCnigfR2ZtMgbx]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.uGu9D0QJtYH33DrE]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.WMLFxFqcE9rHJrop]</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \">4th</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.bpqnEBBGUYWMCakJ]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.a20kycxBoE1QlSeb]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.vAdS4HY2pEgSK2Qp]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.rhv5Xc3Fofp7JLf9]</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \">5th</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.Zj3SHUI08KXndB0h]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.iLfkkZ2PipZIbR8b]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.ogrGfpDCLyrP21po]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX]</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.9eANbJeKnbPCPRHs]</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \">9th</td><td class=\"rd__th ve-col-2-2 \">@UUID[Compendium.renegados-compendium.magias.Item.92PsDAWcfW2Jm3bI]</td><td class=\"rd__th ve-col-2-2 \">—</td><td class=\"rd__th ve-col-2-2 \">—</td><td class=\"rd__th ve-col-2-2 \">—</td><td class=\"rd__th ve-col-2-2 \">—</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Genie's Vessel\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p73\">Genie's Vessel</span></h3> <p><i>1st-level Genie feature</i></p><p>Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Genie's Vessel\"><caption>Genie's Vessel</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Vessel</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Oil lamp</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Urn</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Ring with a compartment</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Stoppered bottle</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Hollow statuette</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Ornate lantern</td></tr></tbody></table><p>While you are touching the vessel, you can use it in the following ways:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Bottled Respite.\"><span class=\"bold rd__list-item-name\">Bottled Respite.</span> As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Genie's Wrath.\"><span class=\"bold rd__list-item-name\">Genie's Wrath.</span> Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).</p></li></ul><p>The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.</p><p>If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and the previous vessel is destroyed if it still exists. The vessel vanishes in a flare of elemental power when you die.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 3 (Genie)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "y6fOdRnfgzCPBZnb": {
+        "_id": "y6fOdRnfgzCPBZnb",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "the-genie",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/light/explosion-beam-impact-silhouette.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "d8cYH53qAKtFUuA3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796152369,
+    "modifiedTime": 1740796152369,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!bASKci1NjJ58fh92"
+}

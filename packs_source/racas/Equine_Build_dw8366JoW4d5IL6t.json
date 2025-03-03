@@ -1,0 +1,56 @@
+{
+  "name": "Equine Build",
+  "type": "feat",
+  "_id": "dw8366JoW4d5IL6t",
+  "img": "icons/containers/bags/coinpouch-simple-leather-silver-brown.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Equine Build\" class=\"rd__b  rd__b--3\"><p>You count as one size larger when determining your carrying capacity and the weight you can push or drag.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "charge",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "OVAMPCqssD1QPDWp",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.SAxp4inRrIlVZxOw",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740617721028,
+    "modifiedTime": 1740617721073,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!dw8366JoW4d5IL6t"
+}

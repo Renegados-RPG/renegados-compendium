@@ -1,0 +1,210 @@
+{
+  "_id": "Uppbm5KxoNA44llB",
+  "name": "Nature Domain",
+  "type": "subclass",
+  "system": {
+    "identifier": "nature-domain",
+    "classIdentifier": "cleric",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as <a href=\"https://5e.tools/deities.html#silvanus_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"silvanus_forgotten%20realms_phb\">Silvanus</a>, <a href=\"https://5e.tools/deities.html#obad-hai_greyhawk_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"obad-hai_greyhawk_phb\">Obad-Hai</a>, <a href=\"https://5e.tools/deities.html#chislev_dragonlance_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"chislev_dragonlance_phb\">Chislev</a>, <a href=\"https://5e.tools/deities.html#balinor_eberron_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"balinor_eberron_phb\">Balinor</a>, and <a href=\"https://5e.tools/deities.html#pan_greek_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"pan_greek_phb\">Pan</a>) to friendly deities associated with particular springs and groves (such as <a href=\"https://5e.tools/deities.html#eldath_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"eldath_forgotten%20realms_phb\">Eldath</a>). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><div class=\"rd__b  rd__b--1\"><p>At each indicated cleric level, you add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Nature Domain Spells\"><caption>Nature Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#animal%20friendship_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"animal%20friendship_phb\" data-vet-is-allow-redirect=\"true\">animal friendship</a>, <a href=\"https://5e.tools/spells.html#speak%20with%20animals_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"speak%20with%20animals_phb\" data-vet-is-allow-redirect=\"true\">speak with animals</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#barkskin_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"barkskin_phb\" data-vet-is-allow-redirect=\"true\">barkskin</a>, <a href=\"https://5e.tools/spells.html#spike%20growth_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"spike%20growth_phb\" data-vet-is-allow-redirect=\"true\">spike growth</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#plant%20growth_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"plant%20growth_phb\" data-vet-is-allow-redirect=\"true\">plant growth</a>, <a href=\"https://5e.tools/spells.html#wind%20wall_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"wind%20wall_phb\" data-vet-is-allow-redirect=\"true\">wind wall</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#dominate%20beast_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dominate%20beast_phb\" data-vet-is-allow-redirect=\"true\">dominate beast</a>, <a href=\"https://5e.tools/spells.html#grasping%20vine_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"grasping%20vine_phb\" data-vet-is-allow-redirect=\"true\">grasping vine</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#insect%20plague_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"insect%20plague_phb\" data-vet-is-allow-redirect=\"true\">insect plague</a>, <a href=\"https://5e.tools/spells.html#tree%20stride_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"tree%20stride_phb\" data-vet-is-allow-redirect=\"true\">tree stride</a></td></tr></tbody></table><div data-roll-name-ancestor=\"Acolyte of Nature\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Acolyte of Nature</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 61\">p61</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"animal%20handling_phb\" data-vet-is-faux-page=\"true\" data-vet-is-allow-redirect=\"true\">Animal Handling</span>, <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"nature_phb\" data-vet-is-faux-page=\"true\" data-vet-is-allow-redirect=\"true\">Nature</span>, or <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"survival_phb\" data-vet-is-faux-page=\"true\" data-vet-is-allow-redirect=\"true\">Survival</span>.</p></div><div data-roll-name-ancestor=\"Bonus Proficiency\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Bonus Proficiency</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 61\">p61</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Also at 1st level, you gain proficiency with heavy armor.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Nature Domain\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Nature Domain</span></h2><p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as @deity[Silvanus], @deity[Obad-Hai|Greyhawk], @deity[Chislev|Dragonlance], @deity[Balinor|Eberron], and @deity[Pan|Greek]) to friendly deities associated with particular springs and groves (such as @deity[Eldath]). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><p>At each indicated cleric level, you add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Nature Domain Spells\"><caption>Nature Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.leY8JlM8hRZ0u2mm], @UUID[Compendium.renegados-compendium.magias.Item.hUgOe02o6ng8rP6J]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.usG2bX3YCieFKDRd], @UUID[Compendium.renegados-compendium.magias.Item.3j5E8SvpiHgUQ3Bk]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.RsbFt4DzKfv2NwaM], @UUID[Compendium.renegados-compendium.magias.Item.V4eCnigfR2ZtMgbx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.c4OvYSD1nGBpwS7c], @UUID[Compendium.renegados-compendium.magias.Item.l8TSNu4ielpDfAlZ]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY], @UUID[Compendium.renegados-compendium.magias.Item.0Eg8pvUtelnrScqT]</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 1: Acolyte of Nature\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Level 1: Acolyte of Nature</span></h3><p>At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: &amp;Reference[skill=AnimalHandling]{Animal Handling}, &amp;Reference[skill=Nature], or &amp;Reference[skill=Survival].</p></div><div data-roll-name-ancestor=\"Level 1: Bonus Proficiency\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Level 1: Bonus Proficiency</span></h3><p>Also at 1st level, you gain proficiency with heavy armor.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 2: Channel Divinity: Charm Animals and Plants\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Level 2: Channel Divinity: Charm Animals and Plants</span></h3><p>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</p><p>As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is &amp;Reference[condition=charmed] by you for 1 minute or until it takes damage. While it is &amp;Reference[condition=charmed] by you, it is friendly to you and other creatures you designate.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Dampen Elements\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Level 6: Dampen Elements</span></h3><p>Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Divine Strike\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Level 8: Divine Strike</span></h3><p>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra [[/damage 1d8]] cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to [[/damage 2d8]].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Blessed Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p30\">Level 8: Blessed Strikes</span></h3><p><em>8th-level cleric @variantrule[optional class features|tce|optional feature], which replaces the Divine Strike feature</em></p><p>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [[/damage 1d8 type=radiant]] damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Master of Nature\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Level 17: Master of Nature</span></h3><p>At 17th level, you gain the ability to command animals and plant creatures. While creatures are &amp;Reference[condition=charmed] by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "61",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "divine-strike",
+          "type": "dice",
+          "scale": {
+            "8": {
+              "number": 1,
+              "faces": 8,
+              "modifiers": []
+            },
+            "14": {
+              "number": 2,
+              "faces": 8,
+              "modifiers": []
+            }
+          },
+          "distance": {
+            "units": ""
+          }
+        },
+        "title": "Divine Strike",
+        "_id": "rEgp8e4z3hH8pEjl",
+        "value": {}
+      },
+      {
+        "_id": "LY7V3c581Z6EMqZV",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.SmedioS7rA6DBxMX"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WecAaiwzkG6VRwDB"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "AaNyZlBB4JcAF2Vu",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["skills:ani", "skills:nat", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "Acolyte of Nature",
+        "hint": ""
+      },
+      {
+        "_id": "uyqbGqjBLZNByqYP",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["armor:hvy"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "Bonus Proficiency",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.399Ybiw7nEnk4jFd",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "_id": "0WAzpjwGjU2Fon8W",
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.L8VIXzCNMqS6LaIw",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Feature",
+        "hint": "",
+        "_id": "9Xoa5HD8SCD8jkzz"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.SwxV2l4DHW6AoFIh",
+              "optional": true
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QHTNXHaxCKvmwTmL",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Feature",
+        "hint": "",
+        "_id": "3rGfx2KOQwFmynWq"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.S10pFGs9fzspTPGF",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Feature",
+        "hint": "",
+        "_id": "EkePFfLzRiMOYGd8"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/nature/plant-sproud-hands-dirt-green.webp",
+  "folder": "Urx2eYyUy28giX4D",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707154864,
+    "modifiedTime": 1740753462061,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!Uppbm5KxoNA44llB"
+}

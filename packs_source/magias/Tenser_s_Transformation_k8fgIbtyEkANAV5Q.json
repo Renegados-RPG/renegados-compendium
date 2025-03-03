@@ -1,0 +1,164 @@
+{
+  "_id": "k8fgIbtyEkANAV5Q",
+  "name": "Tenser's Transformation",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "168",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can't cast spells, and you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.</li><li class=\"rd__li \">You have advantage on attack rolls that you make with simple and martial weapons.</li><li class=\"rd__li \">When you hit a target with a weapon attack, that target takes an extra [[/damage 2d12 type=force]] damage.</li><li class=\"rd__li \">You have proficiency with all armor, shields, simple weapons, and martial weapons.</li><li class=\"rd__li \">You have proficiency in Strength and Constitution saving throws.</li><li class=\"rd__li \">You can attack twice, instead of once, when you take the @action[Attack] action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.</li></ul><p>Immediately after the spell ends, you must succeed on a [[/save ability=con dc=15]] saving throw or suffer one level of &amp;Reference[condition=exhaustion].</p></div>",
+      "chat": ""
+    },
+    "level": 6,
+    "school": "trs",
+    "properties": ["vocal", "somatic", "material", "concentration"],
+    "materials": {
+      "value": "a few hairs from a bull",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "self",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": ""
+      },
+      "affects": {
+        "count": "",
+        "type": "",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "0",
+      "units": "self"
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "kS0GHUAXvl6bS2C8": {
+        "_id": "kS0GHUAXvl6bS2C8",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["con"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 2,
+              "denomination": 12,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "tensers-transformation"
+  },
+  "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [],
+  "folder": "qNZdjFuhwLB2pFDx",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740591310753,
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bzRFRwzAgwZeJ3Yf": 3
+  },
+  "_key": "!items!k8fgIbtyEkANAV5Q"
+}

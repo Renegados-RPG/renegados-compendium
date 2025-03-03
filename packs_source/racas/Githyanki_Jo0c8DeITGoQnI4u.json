@@ -1,0 +1,223 @@
+{
+  "_id": "Jo0c8DeITGoQnI4u",
+  "name": "Githyanki",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Knowledge\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Astral Knowledge.</span> You can mystically access a reservoir of experiences of entities connected to the Astral Plane. Whenever you finish a long rest, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player's Handbook, as you momentarily project your consciousness into the Astral Plane. These proficiencies last until the end of your next long rest.</p></div><div data-roll-name-ancestor=\"Githyanki Psionics\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Githyanki Psionics.</span> You know the @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] cantrip, and the hand is &amp;Reference[condition=invisible] when you cast the cantrip with this trait.</p><p>Starting at 3rd level, you can cast the @UUID[Compendium.renegados-compendium.magias.Item.OsjM1ALQq3WewYMW] spell with this trait. Starting at 5th level, you can also cast @UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5] with it. Once you cast @UUID[Compendium.renegados-compendium.magias.Item.OsjM1ALQq3WewYMW] or @UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.</p></div><div data-roll-name-ancestor=\"Psychic Resilience\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Psychic Resilience.</span> You have resistance to psychic damage.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Once members of a people who escaped servitude to mind flayers, githyanki split from their cousins, githzerai, and fled to the Astral Plane. In that timeless, silvery realm, githyanki honed their psionic powers and built a great city called Tu'narath. They have since spread throughout the multiverse, starting in outposts outside the Astral Plane, called creches, where time passes and their children can reach adulthood.</p><p>A lanky people with skin tones of yellows, greens, and browns, githyanki complement their physical prowess with psionic might, instilled in them by mind flayers and cultivated over eons in the Astral Plane. Now all githyanki can use their psychic bond with that plane to access splinters of knowledge left behind by beings who travel, live, and die among the silver astral clouds.</p><p>Githyanki who reside in the Astral Plane can live indefinitely.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "18",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "githyanki",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "BgpUtpUGUHMOeTrv",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "eLuJ00wvwiaO8SNO",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "7RTaSehEB5Fm2bB8",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "Q77E4iGmrEm8hHfM",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.7OiZKR9KmJogO4fR",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.dMnolNmJaiGBcW94",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "WeuklBLOmjaPON1S",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "atwill",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Githyanki Psionics",
+        "hint": "You know the @spell[mage hand] cantrip, and the hand is &Reference[condition=invisible] when you cast the cantrip with this trait.",
+        "icon": "icons/skills/social/wave-halt-stop.webp"
+      },
+      {
+        "_id": "b7sd8SqlEOrdZCDA",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.ZrTc23tToJ0JpH2h"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Githyanki Psionics",
+        "hint": "",
+        "icon": "icons/magic/movement/trail-streak-zigzag-teal.webp"
+      },
+      {
+        "_id": "aTd7VZtHRGimvdRN",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Githyanki Psionics.",
+        "hint": "",
+        "icon": "icons/magic/movement/trail-streak-impact-blue.webp"
+      }
+    ],
+    "identifier": "githyanki"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Githyanki.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "IlWmdsrFnO4OwEgR",
+  "_stats": {
+    "compendiumSource": "Item.EDnMhA7FL8F5kzGh",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740703501025,
+    "modifiedTime": 1740781198980,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!Jo0c8DeITGoQnI4u"
+}

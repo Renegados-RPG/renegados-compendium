@@ -1,0 +1,119 @@
+{
+  "_id": "FZ0JqCu0sVs3yamP",
+  "name": "Twilight Domain",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.</p><p>Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Twilight Deities\"><caption>Twilight Deities</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Example Deity</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Pantheon</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Boldrei|Eberron]</td><td class=\"rd__th ve-col-6 ve-text-center \">Eberron</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Celestian|Greyhawk]</td><td class=\"rd__th ve-col-6 ve-text-center \">Greyhawk</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Dol Arrah|Eberron]</td><td class=\"rd__th ve-col-6 ve-text-center \">Eberron</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Helm]</td><td class=\"rd__th ve-col-6 ve-text-center \">Forgotten Realms</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Ilmater]</td><td class=\"rd__th ve-col-6 ve-text-center \">Forgotten Realms</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Mishakal|Dragonlance]</td><td class=\"rd__th ve-col-6 ve-text-center \">Dragonlance</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Selûne]</td><td class=\"rd__th ve-col-6 ve-text-center \">Forgotten Realms</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Yondalla|Nonhuman]</td><td class=\"rd__th ve-col-6 ve-text-center \">Halfling</td></tr></tbody></table><div data-roll-name-ancestor=\"Domain Spells\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Domain Spells</span></h3><p><em>1st-level Twilight Domain feature</em></p><p>You gain domain spells at the cleric levels listed in the Twilight Domain Spells table. See the Divine Domain class feature for how domain spells work.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Twilight Domain Spells\"><caption>Twilight Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.onHEQLH7lIubheYx], @UUID[Compendium.renegados-compendium.magias.Item.xiVu2QFfxIV6ivaY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.6hIyHaEe6Wb5219F], @UUID[Compendium.renegados-compendium.magias.Item.Gj4KE8XiRjazzBoN]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.HL4epVq5HbK5jVH6], @UUID[Compendium.renegados-compendium.magias.Item.i7rZweK7Wk8ZoVSa]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.MXTsNyYdbqNmzjY0], @UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.x5MXoEIJqmKX3JMv], @UUID[Compendium.renegados-compendium.magias.Item.ejB2hb9rVR9hryLZ]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Bonus Proficiencies</span></h3><p><em>1st-level Twilight Domain feature</em></p><p>You gain proficiency with martial weapons and heavy armor.</p></div><div data-roll-name-ancestor=\"Eyes of Night\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"></h3></div></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 1 (Twilight)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "9TLUw366JEqFuhnp": {
+        "_id": "9TLUw366JEqFuhnp",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "twilight-domain",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/environment/settlement/watchtower-moonlit-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "TtJ6dSOjvETcJJye",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740761085815,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!FZ0JqCu0sVs3yamP"
+}

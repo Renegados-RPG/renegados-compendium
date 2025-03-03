@@ -1,0 +1,204 @@
+{
+  "_id": "KRVNOqiLi0Jt1jDI",
+  "name": "Dwarf (Mountain)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose any two abilities +2</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>7.5 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Age.</strong></span> Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size.</strong></span> Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.</p></div><div data-roll-name-ancestor=\"Speed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Speed.</strong></span> Your speed is not reduced by wearing heavy armor.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p></div><div data-roll-name-ancestor=\"Dwarven Resilience\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Dwarven Resilience.</strong></span> You have advantage on saving throws against poison, and you have resistance against poison damage.</p></div><div data-roll-name-ancestor=\"Dwarven Combat Training\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Dwarven Combat Training.</strong></span> You have proficiency with the @item[battleaxe|phb], @item[handaxe|phb], @item[light hammer|phb], and @item[warhammer|phb].</p></div><div data-roll-name-ancestor=\"Tool Proficiency\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Tool Proficiency.</strong></span> You gain proficiency with the artisan's tools of your choice: @item[Smith's tools|phb], @item[brewer's supplies|phb], or @item[mason's tools|phb].</p></div><div data-roll-name-ancestor=\"Stonecunning\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Stonecunning.</strong></span> Whenever you make an Intelligence (&amp;Reference[skill=History]) check related to the origin of stonework, you are considered proficient in the &amp;Reference[skill=History] skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.</p></div><div data-roll-name-ancestor=\"Dwarven Armor Training\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Dwarven Armor Training.</strong></span> You have proficiency with light and medium armor.</p></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerun, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.</p></div></div><hr class=\"rd__hr rd__hr--section\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs-these common threads unite all dwarves.</p><div data-roll-name-ancestor=\"Short and Stout\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner\">Short and Stout</span></h3><p>Bold and hardy, dwarves are known as skilled warriors, miners, and workers of stone and metal. Though they stand well under 5 feet tall, dwarves are so broad and compact that they can weigh as much as a human standing nearly two feet taller. Their courage and endurance are also easily a match for any of the larger folk.</p><p>Dwarven skin ranges from deep brown to a paler hue tinged with red, but the most common shades are light brown or deep tan, like certain tones of earth.</p><p>Their hair, worn long but in simple styles, is usually black, gray, or brown, though paler dwarves often have red hair. Male dwarves value their beards highly and groom them carefully.</p></div><div data-roll-name-ancestor=\"Long Memory, Long Grudges\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner\">Long Memory, Long Grudges</span></h3><p>Dwarves can live to be more than 400 years old, so the oldest living dwarves often remember a very different world. For example, some of the oldest dwarves living in Citadel Felbarr (in the world of the Forgotten Realms) can recall the day, more than three centuries ago, when orcs conquered the fortress and drove them into an exile that lasted over 250 years. This longevity grants them a perspective on the world that shorter-lived races such as humans and halflings lack.</p><p>Dwarves are solid and enduring like the mountains they love, weathering the passage of centuries with stoic endurance and little change. They respect the traditions of their clans, tracing their ancestry back to the founding of their most ancient strongholds in the youth of the world, and don't abandon those traditions lightly. Part of those traditions is devotion to the gods of the dwarves, who uphold the dwarven ideals of industrious labor, skill in battle, and devotion to the forge.</p><p>Individual dwarves are determined and loyal, true to their word and decisive in action, sometimes to the point of stubbornness. Many dwarves have a strong sense of justice, and they are slow to forget wrongs they have suffered. A wrong done to one dwarf is a wrong done to the dwarf's entire clan, so what begins as one dwarf's hunt for vengeance can become a full-blown clan feud.</p></div><div data-roll-name-ancestor=\"Clans and Kingdoms\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"13\"><span class=\"entry-title-inner\">Clans and Kingdoms</span></h3><p>Dwarven kingdoms stretch deep beneath the mountains where the dwarves mine gems and precious metals and forge items of wonder. They love the beauty and artistry of precious metals and fine jewelry, and in some dwarves this love festers into avarice. Whatever wealth they can't find in their mountains, they gain through trade. They dislike boats, so enterprising humans and halflings frequently handle trade in dwarven goods along water routes. Trustworthy members of other races are welcome in dwarf settlements, though some areas are off limits even to them.</p><p>The chief unit of dwarven society is the clan, and dwarves highly value social standing. Even dwarves who live far from their own kingdoms cherish their clan identities and affiliations, recognize related dwarves, and invoke their ancestors' names in oaths and curses. To be clanless is the worst fate that can befall a dwarf.</p><p>Dwarves in other lands are typically artisans, especially weaponsmiths, armorers, and jewelers. Some become mercenaries or bodyguards, highly sought after for their courage and loyalty.</p></div><div data-roll-name-ancestor=\"Gods, Gold, and Clan\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"14\"><span class=\"entry-title-inner\">Gods, Gold, and Clan</span></h3><p>Dwarves who take up the adventuring life might be motivated by a desire for treasure-for its own sake, for a specific purpose, or even out of an altruistic desire to help others. Other dwarves are driven by the command or inspiration of a deity, a direct calling or simply a desire to bring glory to one of the dwarf gods. Clan and ancestry are also important motivators. A dwarf might seek to restore a clan's lost honor, avenge an ancient wrong the clan suffered, or earn a new place within the clan after having been exiled. Or a dwarf might search for the axe wielded by a mighty ancestor, lost on the field of battle centuries ago.</p></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Slow to Trust\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"15\">Slow to Trust</span></h4><p>Dwarves get along passably well with most other races. \"The difference between an acquaintance and a friend is about a hundred years,\" is a dwarf saying that might be hyperbole, but certainly points to how difficult it can be for a member of a short-lived race like humans to earn a dwarf's trust.</p><div data-roll-name-ancestor=\"Elves\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Elves.</span> \"It's not wise to depend on the elves. No telling what an elf will do next; when the hammer meets the orc's head, they're as apt to start singing as to pull out a sword. They're flighty and frivolous. Two things to be said for them, though: They don't have many smiths, but the ones they have do very fine work. And when orcs or goblins come streaming down out of the mountains, an elf's good to have at your back. Not as good as a dwarf, maybe, but no doubt they hate the orcs as much as we do.\"</p></div><div data-roll-name-ancestor=\"Halflings\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Halflings.</span> \"Sure, they're pleasant folk. But show me a halfling hero. An empire, a triumphant army. Even a treasure for the ages made by halfling hands. Nothing. How can you take them seriously?\"</p></div><div data-roll-name-ancestor=\"Humans\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Humans.</span> \"You take the time to get to know a human, and by then the human's on her deathbed. If you're lucky, she's got kin-a daughter or granddaughter, maybe-who's got hands and heart as good as hers. That's when you can make a human friend. And watch them go!. They set their hearts on something, they'll get it whether it's a dragon's hoard or an empire's throne. You have to admire that kind of dedication, even if it gets them in trouble more often than not.\"</p></div></div><div data-roll-name-ancestor=\"Dwarf Names\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"19\"><span class=\"entry-title-inner\">Dwarf Names</span></h3><p>A dwarf's name is granted by a clan elder, in accordance with tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf's name belongs to the clan, not to the individual.</p><p>A dwarf who misuses or brings shame to a clan name is stripped of the name and forbidden by law to use any dwarven name in its place.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Male Names:\"><span class=\"bold rd__list-item-name\">Male Names:</span> Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Female Names:\"><span class=\"bold rd__list-item-name\">Female Names:</span> Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Clan Names:\"><span class=\"bold rd__list-item-name\">Clan Names:</span> Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart</p></li></ul></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Duergar\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"20\">Duergar</span></h4><p>In cities deep in the Underdark live the duergar, or gray dwarves. These vicious, stealthy slave traders raid the surface world for captives, then sell their prey to the other races of the Underdark. They have innate magical abilities to become invisible and to temporarily grow to giant size.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "20",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 7.5,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "dwarf",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "B5IkCZjAb3csRqhi",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 4,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "05Eturqdp4hzW98a",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "CsJpOecmBVEHg7va",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["dr:poison"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Dwarven Resilience",
+        "hint": ""
+      },
+      {
+        "_id": "vkW2xmjkSnqpRe4G",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["weapon:sim:handaxe", "weapon:sim:lighthammer", "weapon:mar:battleaxe", "weapon:mar:warhammer"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Dwarven Combat Training",
+        "hint": ""
+      },
+      {
+        "_id": "LSk1cTBCE4aBidTl",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["tool:art:brewer", "tool:art:mason", "tool:art:smith"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "v6c4VgqpjTq298GX",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.P8pnVYVf7teMtPr7",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.40EGgCCloAfqfQbT",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      },
+      {
+        "_id": "6d5g9NC3YG1vzbfL",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["languages:standard:common", "languages:standard:dwarvish"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "rEszcnTFeYaobwpu",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["armor:lgt", "armor:med"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Dwarven Armor Training",
+        "hint": ""
+      }
+    ],
+    "identifier": "dwarf-mountain"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/PHB/Dwarf.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "SckcBujvTFpWZ4dh",
+  "_stats": {
+    "compendiumSource": "Item.Mpc2LopWb7MydGya",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740780069045,
+    "modifiedTime": 1740782888234,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!KRVNOqiLi0Jt1jDI"
+}

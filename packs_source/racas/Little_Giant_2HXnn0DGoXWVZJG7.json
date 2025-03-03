@@ -1,0 +1,56 @@
+{
+  "name": "Little Giant",
+  "type": "feat",
+  "_id": "2HXnn0DGoXWVZJG7",
+  "img": "icons/skills/melee/unarmed-punch-fist-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Little Giant\" class=\"rd__b  rd__b--3\"><p>You have proficiency in the &amp;Reference[skill=Athletics] skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "little-giant",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "fIhQQRaI9Dk9tF0r",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.DPTjVLN8hkJnqJ0g",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740795365137,
+    "modifiedTime": 1740795380918,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!2HXnn0DGoXWVZJG7"
+}

@@ -1,0 +1,168 @@
+{
+  "_id": "jzWjqiveOoSTgznM",
+  "name": "Twilight Domain",
+  "type": "subclass",
+  "system": {
+    "identifier": "twilight-domain",
+    "classIdentifier": "cleric",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Twilight Domain\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Twilight Domain</span></h2><p>The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.</p><p>Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Twilight Deities\"><caption>Twilight Deities</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Example Deity</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Pantheon</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Boldrei|Eberron]</td><td class=\"rd__th ve-col-6 ve-text-center \">Eberron</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Celestian|Greyhawk]</td><td class=\"rd__th ve-col-6 ve-text-center \">Greyhawk</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Dol Arrah|Eberron]</td><td class=\"rd__th ve-col-6 ve-text-center \">Eberron</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Helm]</td><td class=\"rd__th ve-col-6 ve-text-center \">Forgotten Realms</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Ilmater]</td><td class=\"rd__th ve-col-6 ve-text-center \">Forgotten Realms</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Mishakal|Dragonlance]</td><td class=\"rd__th ve-col-6 ve-text-center \">Dragonlance</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Selûne]</td><td class=\"rd__th ve-col-6 ve-text-center \">Forgotten Realms</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">@deity[Yondalla|Nonhuman]</td><td class=\"rd__th ve-col-6 ve-text-center \">Halfling</td></tr></tbody></table><div data-roll-name-ancestor=\"Domain Spells\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner\">Domain Spells</span></h3><p><em>1st-level Twilight Domain feature</em></p><p>You gain domain spells at the cleric levels listed in the Twilight Domain Spells table. See the Divine Domain class feature for how domain spells work.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Twilight Domain Spells\"><caption>Twilight Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.onHEQLH7lIubheYx], @UUID[Compendium.renegados-compendium.magias.Item.xiVu2QFfxIV6ivaY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.6hIyHaEe6Wb5219F], @UUID[Compendium.renegados-compendium.magias.Item.Gj4KE8XiRjazzBoN]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.HL4epVq5HbK5jVH6], @UUID[Compendium.renegados-compendium.magias.Item.i7rZweK7Wk8ZoVSa]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.MXTsNyYdbqNmzjY0], @UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.x5MXoEIJqmKX3JMv], @UUID[Compendium.renegados-compendium.magias.Item.ejB2hb9rVR9hryLZ]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 1: Bonus Proficiencies\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 1: Bonus Proficiencies</span></h3><p><em>1st-level Twilight Domain feature</em></p><p>You gain proficiency with martial weapons and heavy armor.</p></div><div data-roll-name-ancestor=\"Level 1: Eyes of Night\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 1: Eyes of Night</span></h3><p><em>1st-level Twilight Domain feature</em></p><p>You can see through the deepest gloom. You have &amp;Reference[rule=darkvision] out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.</p><p>As an action, you can magically share the &amp;Reference[rule=darkvision] of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared &amp;Reference[rule=darkvision] lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.</p></div><div data-roll-name-ancestor=\"Level 1: Vigilant Blessing\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 1: Vigilant Blessing</span></h3><p><em>1st-level Twilight Domain feature</em></p><p>The night has taught you to be vigilant. As an action, you give one creature you touch (including possibly yourself) advantage on the next initiative roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 2: Channel Divinity: Twilight Sanctuary\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 2: Channel Divinity: Twilight Sanctuary</span></h3><p><em>2nd-level Twilight Domain feature</em></p><p>You can use your Channel Divinity to refresh your allies with soothing twilight.</p><p>As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are &amp;Reference[condition=incapacitated] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">You grant it temporary hit points equal to [[/r 1d6]] plus your cleric level.</li><li class=\"rd__li \">You end one effect on it causing it to be &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened].</li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Steps of Night\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 6: Steps of Night</span></h3><p><em>6th-level Twilight Domain feature</em></p><p>You can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Divine Strike\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 8: Divine Strike</span></h3><p><em>8th-level Twilight Domain feature</em></p><p>You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra [[/damage 1d8 type=radiant]] damage. When you reach 14th level, the extra damage increases to [[/damage 2d8]].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Blessed Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"13\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 8: Blessed Strikes</span></h3><p><em>8th-level cleric @variantrule[optional class features|tce|optional feature], which replaces the Divine Strike feature</em></p><p>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [[/damage 1d8 type=radiant]] damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Twilight Shroud\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"14\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p34\">Level 17: Twilight Shroud</span></h3><p><em>17th-level Twilight Domain feature</em></p><p>The twilight that you summon offers a protective embrace: you and your allies have &amp;Reference[rule=halfcover]{half cover} while in the sphere created by your Twilight Sanctuary.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "LUd4ymXR8u9h5hPK",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["weapon:mar", "armor:hvy"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "Bonus Proficiencies",
+        "hint": ""
+      },
+      {
+        "_id": "Eq2LRED94i0CBA4d",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FZ0JqCu0sVs3yamP"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.j5X40wg4PX6ir2zt"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.hfy3MCwiRa2aXiPP"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Kx2dLofwA8wkoAB9"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Feature",
+        "hint": "",
+        "_id": "2Q7dnP3LmtxALodc"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.EiJb2CSbMIBVQvQ2",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Feature",
+        "hint": "",
+        "_id": "JSqKIRPTbgct1hYe"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pxTf8I9mfWxmDuEu"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7V2Ogv46f3DQzQjA"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Feature",
+        "hint": "",
+        "_id": "5IEXlUqz0EJ8zLU1"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Z6jVoDUcgGeYA0C9",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Feature",
+        "hint": "",
+        "_id": "klNlcLZazBgKkXbY"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/environment/settlement/watchtower-moonlit-blue.webp",
+  "folder": "Urx2eYyUy28giX4D",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707154864,
+    "modifiedTime": 1740761326133,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!jzWjqiveOoSTgznM"
+}

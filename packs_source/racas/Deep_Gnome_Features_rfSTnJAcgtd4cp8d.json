@@ -1,0 +1,22 @@
+{
+  "name": "Deep Gnome Features",
+  "sorting": "a",
+  "folder": "vBP4bMxOw9yXOfHG",
+  "type": "Item",
+  "_id": "rfSTnJAcgtd4cp8d",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!rfSTnJAcgtd4cp8d"
+}

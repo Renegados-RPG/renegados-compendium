@@ -1,0 +1,60 @@
+{
+  "_id": "o5lpf7AK2bmpCB9Q",
+  "name": "Draconic Bloodline",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "102",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.</p><div data-roll-name-ancestor=\"Dragon Ancestor\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Dragon Ancestor</span></h3> <p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Draconic Ancestry\"><caption>Draconic Ancestry</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragon</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Damage Type</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Black</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Blue</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Brass</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Bronze</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Copper</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Gold</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Green</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:poison=1,flstclass:sorcerer=1\">Poison</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Red</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Silver</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">White</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr></tbody></table><p>You can speak, read, and write @language[Draconic]. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p></div><div data-roll-name-ancestor=\"Draconic Resilience\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Draconic Resilience</span></h3> <p>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</p><p>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 1 (Draconic)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "draconic-bloodline",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "JHTI90YqUUz4nCy1",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740766819979,
+    "modifiedTime": 1740794976465,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!o5lpf7AK2bmpCB9Q"
+}

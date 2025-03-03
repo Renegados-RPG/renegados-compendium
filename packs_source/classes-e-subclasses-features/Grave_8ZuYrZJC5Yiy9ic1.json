@@ -1,0 +1,22 @@
+{
+  "name": "Grave",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "yykRMfmKEESCS1ge",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": 1740755294132,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "8ZuYrZJC5Yiy9ic1",
+  "_key": "!folders!8ZuYrZJC5Yiy9ic1"
+}

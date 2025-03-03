@@ -1,0 +1,189 @@
+{
+  "_id": "Xx0brm9rofRn9UyA",
+  "name": "Life Domain",
+  "type": "subclass",
+  "system": {
+    "identifier": "life-domain",
+    "classIdentifier": "cleric",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p>The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as <a href=\"https://5e.tools/deities.html#chauntea_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"chauntea_forgotten%20realms_phb\">Chauntea</a>, <a href=\"https://5e.tools/deities.html#arawai_eberron_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"arawai_eberron_phb\">Arawai</a>, and <a href=\"https://5e.tools/deities.html#demeter_greek_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"demeter_greek_phb\">Demeter</a>), sun gods (such as <a href=\"https://5e.tools/deities.html#lathander_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"lathander_forgotten%20realms_phb\">Lathander</a>, <a href=\"https://5e.tools/deities.html#pelor_greyhawk_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"pelor_greyhawk_phb\">Pelor</a>, and <a href=\"https://5e.tools/deities.html#re-horakhty_egyptian_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"re-horakhty_egyptian_phb\">Re-Horakhty</a>), gods of healing or endurance (such as <a href=\"https://5e.tools/deities.html#ilmater_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"ilmater_forgotten%20realms_phb\">Ilmater</a>, <a href=\"https://5e.tools/deities.html#mishakal_dragonlance_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"mishakal_dragonlance_phb\">Mishakal</a>, <a href=\"https://5e.tools/deities.html#apollo_greek_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"apollo_greek_phb\">Apollo</a>, and <a href=\"https://5e.tools/deities.html#diancecht_celtic_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"diancecht_celtic_phb\">Diancecht</a>), and gods of home and community (such as <a href=\"https://5e.tools/deities.html#hestia_greek_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"hestia_greek_phb\">Hestia</a>, <a href=\"https://5e.tools/deities.html#hathor_egyptian_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"hathor_egyptian_phb\">Hathor</a>, and <a href=\"https://5e.tools/deities.html#boldrei_eberron_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"boldrei_eberron_phb\">Boldrei</a>).</p><div class=\"rd__b  rd__b--1\"><p>At each indicated cleric level, you add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Life Domain Spells\"><caption>Life Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#bless_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"bless_phb\" data-vet-is-allow-redirect=\"true\">bless</a>, <a href=\"https://5e.tools/spells.html#cure%20wounds_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"cure%20wounds_phb\" data-vet-is-allow-redirect=\"true\">cure wounds</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#lesser%20restoration_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"lesser%20restoration_phb\" data-vet-is-allow-redirect=\"true\">lesser restoration</a>, <a href=\"https://5e.tools/spells.html#spiritual%20weapon_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"spiritual%20weapon_phb\" data-vet-is-allow-redirect=\"true\">spiritual weapon</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#beacon%20of%20hope_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"beacon%20of%20hope_phb\" data-vet-is-allow-redirect=\"true\">beacon of hope</a>, <a href=\"https://5e.tools/spells.html#revivify_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"revivify_phb\" data-vet-is-allow-redirect=\"true\">revivify</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#death%20ward_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"death%20ward_phb\" data-vet-is-allow-redirect=\"true\">death ward</a>, <a href=\"https://5e.tools/spells.html#guardian%20of%20faith_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"guardian%20of%20faith_phb\" data-vet-is-allow-redirect=\"true\">guardian of faith</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#mass%20cure%20wounds_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"mass%20cure%20wounds_phb\" data-vet-is-allow-redirect=\"true\">mass cure wounds</a>, <a href=\"https://5e.tools/spells.html#raise%20dead_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"raise%20dead_phb\" data-vet-is-allow-redirect=\"true\">raise dead</a></td></tr></tbody></table><div data-roll-name-ancestor=\"Bonus Proficiency\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Bonus Proficiency</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 60\">p60</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>When you choose this domain at 1st level, you gain proficiency with heavy armor.</p></div><div data-roll-name-ancestor=\"Disciple of Life\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Disciple of Life</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 60\">p60</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Life Domain\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Life Domain</span></h2><p>The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as @deity[Chauntea], @deity[Arawai|Eberron], and @deity[Demeter|Greek]), sun gods (such as @deity[Lathander], @deity[Pelor|Greyhawk], and @deity[Re-Horakhty|Egyptian]), gods of healing or endurance (such as @deity[Ilmater], @deity[Mishakal|Dragonlance], @deity[Apollo|Greek], and @deity[Diancecht|Celtic]), and gods of home and community (such as @deity[Hestia|Greek], @deity[Hathor|Egyptian], and @deity[Boldrei|Eberron]).</p><p>At each indicated cleric level, you add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Life Domain Spells\"><caption>Life Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.NEGMkKAxBPdpflgW], @UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.bc0gULngyESb3CEo], @UUID[Compendium.renegados-compendium.magias.Item.uZY9ONnxfqjBH9sx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.UVOpZjRDUBCZSWWr], @UUID[Compendium.renegados-compendium.magias.Item.d1r1XaTWxmNkqP1Q]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.52bBpxkRUEWctfzt], @UUID[Compendium.renegados-compendium.magias.Item.kLtXK4xav3C20iHc]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.YVhoQSeBV84mkRiP], @UUID[Compendium.renegados-compendium.magias.Item.VlLtL2TttzBX5UPi]</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 1: Bonus Proficiency\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Level 1: Bonus Proficiency</span></h3><p>When you choose this domain at 1st level, you gain proficiency with heavy armor.</p></div><div data-roll-name-ancestor=\"Level 1: Disciple of Life\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Level 1: Disciple of Life</span></h3><p>Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 2: Channel Divinity: Preserve Life\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Level 2: Channel Divinity: Preserve Life</span></h3><p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Blessed Healer\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Level 6: Blessed Healer</span></h3><p>Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Divine Strike\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Level 8: Divine Strike</span></h3><p>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra [[/damage 1d8 type=radiant]] damage to the target. When you reach 14th level, the extra damage increases to [[/damage 2d8]].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Blessed Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p30\">Level 8: Blessed Strikes</span></h3><p><em>8th-level cleric @variantrule[optional class features|tce|optional feature], which replaces the Divine Strike feature</em></p><p>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [[/damage 1d8 type=radiant]] damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Supreme Healing\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Level 17: Supreme Healing</span></h3><p>Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring [[/r 2d6]] hit points to a creature, you restore 12.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "60",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "RYU9NFMQarGlfW23",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "divine-strike",
+          "type": "dice",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "8": {
+              "number": 1,
+              "faces": 8,
+              "modifiers": []
+            },
+            "14": {
+              "number": 2,
+              "faces": 8,
+              "modifiers": []
+            }
+          }
+        },
+        "value": {},
+        "title": "Divine Strike Damage"
+      },
+      {
+        "_id": "c0P8rhvpdEJz1hoe",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.rVSVudPHOL9zlZjA",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.rXUzVYuHeUFUP142",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "DbI7MXvGC61rxbrs",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["armor:hvy"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.6IRltSoRPuzMzqiY"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Feature",
+        "hint": "",
+        "_id": "aXIGmoEnhfj1pdJZ"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.uLSYczMorXU7SWxd",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Feature",
+        "hint": "",
+        "_id": "6qmAaSwZYI92whCF"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.6fe88GilKJc9OqqE"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.z7heF8pp5U6jVxTX"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Feature",
+        "hint": "",
+        "_id": "amPd3Z5N4JPMJkiM"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.397nK4bvYStaYhen"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Feature",
+        "hint": "",
+        "_id": "Y5fxVjcILoY1VCKv"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/life/cross-yellow-green.webp",
+  "folder": "Urx2eYyUy28giX4D",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707154864,
+    "modifiedTime": 1740752680350,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!Xx0brm9rofRn9UyA"
+}

@@ -1,0 +1,208 @@
+{
+  "_id": "y9QQySfg2WDyO3vU",
+  "name": "Githzerai",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Githzerai Psionics\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Githzerai Psionics.</span> You know the @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] cantrip, and the hand is &amp;Reference[condition=invisible] when you cast the cantrip with this trait.</p><p>Starting at 3rd level, you can cast the @UUID[Compendium.renegados-compendium.magias.Item.LUKeOMicRzFXa2wr] spell with this trait. Starting at 5th level, you can also cast the @UUID[Compendium.renegados-compendium.magias.Item.N1BFBDBJaFC5TD17] spell with it. Once you cast @UUID[Compendium.renegados-compendium.magias.Item.LUKeOMicRzFXa2wr] or @UUID[Compendium.renegados-compendium.magias.Item.N1BFBDBJaFC5TD17] spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.</p></div><div data-roll-name-ancestor=\"Mental Discipline\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Mental Discipline.</span> Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] and &amp;Reference[condition=frightened] conditions on yourself.</p></div><div data-roll-name-ancestor=\"Psychic Resilience\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Psychic Resilience.</span> You have resistance to psychic damage.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Githzerai migrated to the Everchanging Chaos of Limbo after the ancient schism that split their ancestors from their cousins, githyanki. Limbo is a roiling maelstrom of matter and energy, collapsing and reforming without purpose or direction, until a creature exerts deliberate will to stabilize it. Through their potent psionic power, githzerai carved a home for themselves amid the chaos. As the ages passed, githzerai explorers ranged out to other planes and worlds of the multiverse.</p><p>Githzerai are generally slender, with speckled skin in shades of yellow, green, or brown. Eons of cultivating their mental powers within the endless chaos of Limbo have imbued githzerai with the ability to shape psionic energy to protect themselves and probe minds.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "19",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "githzerai",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "2Z4cfsMASu8qTsql",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "bZ8SJM6l3oMhUxgw",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "hh867JPJURyenS5S",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "VFCf38jwxIT6Kp3L",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.0VyFZWCPVFvibDfa"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.O5DxVhorVkLnCcRA"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.Utk1OQRwYkMkFRD3"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "HyIeBnoMG8Fuv8IC",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.z1mx84ONwkXKUZd7"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Githzerai Psionics",
+        "hint": "",
+        "icon": "icons/magic/symbols/rune-sigil-horned-white-purple.webp"
+      },
+      {
+        "_id": "SdpZKRSAVL7QMrYH",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Githzerai Psionics",
+        "hint": "",
+        "icon": "icons/magic/symbols/triangle-glow-purple.webp"
+      }
+    ],
+    "identifier": "githzerai"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Githzerai.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "CWPAlE4WzyGQOC3i",
+  "_stats": {
+    "compendiumSource": "Item.igZESuPNhfniLHsh",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740771147788,
+    "modifiedTime": 1740781213603,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!y9QQySfg2WDyO3vU"
+}

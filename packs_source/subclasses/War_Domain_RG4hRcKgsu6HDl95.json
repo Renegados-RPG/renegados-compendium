@@ -1,0 +1,164 @@
+{
+  "_id": "RG4hRcKgsu6HDl95",
+  "name": "War Domain",
+  "type": "subclass",
+  "system": {
+    "identifier": "war-domain",
+    "classIdentifier": "cleric",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as <a href=\"https://5e.tools/deities.html#torm_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"torm_forgotten%20realms_phb\">Torm</a>, <a href=\"https://5e.tools/deities.html#heironeous_greyhawk_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"heironeous_greyhawk_phb\">Heironeous</a>, and <a href=\"https://5e.tools/deities.html#kiri-jolith_dragonlance_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"kiri-jolith_dragonlance_phb\">Kiri-Jolith</a>) as well as gods of destruction and pillage (such as <a href=\"https://5e.tools/deities.html#erythnul_greyhawk_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"erythnul_greyhawk_phb\">Erythnul</a>, <a href=\"https://5e.tools/deities.html#the%20fury_eberron_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"the%20fury_eberron_phb\">the Fury</a>, <a href=\"https://5e.tools/deities.html#gruumsh_nonhuman_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"gruumsh_nonhuman_phb\">Gruumsh</a>, and <a href=\"https://5e.tools/deities.html#ares_greek_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"ares_greek_phb\">Ares</a>) and gods of conquest and domination (such as <a href=\"https://5e.tools/deities.html#bane_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"bane_forgotten%20realms_phb\">Bane</a>, <a href=\"https://5e.tools/deities.html#hextor_greyhawk_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"hextor_greyhawk_phb\">Hextor</a>, and <a href=\"https://5e.tools/deities.html#maglubiyet_nonhuman_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"maglubiyet_nonhuman_phb\">Maglubiyet</a>). Other war gods (such as <a href=\"https://5e.tools/deities.html#tempus_forgotten%20realms_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"tempus_forgotten%20realms_phb\">Tempus</a>, <a href=\"https://5e.tools/deities.html#nike_greek_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"nike_greek_phb\">Nike</a>, and <a href=\"https://5e.tools/deities.html#nuada_celtic_phb\" data-vet-page=\"deities.html\" data-vet-source=\"PHB\" data-vet-hash=\"nuada_celtic_phb\">Nuada</a>) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.</p><div class=\"rd__b  rd__b--1\"><p>At each indicated cleric level, add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"War Domain Spells\"><caption>War Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#divine%20favor_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"divine%20favor_phb\" data-vet-is-allow-redirect=\"true\">divine favor</a>, <a href=\"https://5e.tools/spells.html#shield%20of%20faith_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"shield%20of%20faith_phb\" data-vet-is-allow-redirect=\"true\">shield of faith</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#magic%20weapon_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"magic%20weapon_phb\" data-vet-is-allow-redirect=\"true\">magic weapon</a>, <a href=\"https://5e.tools/spells.html#spiritual%20weapon_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"spiritual%20weapon_phb\" data-vet-is-allow-redirect=\"true\">spiritual weapon</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#crusader's%20mantle_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"crusader's%20mantle_phb\" data-vet-is-allow-redirect=\"true\">crusader's mantle</a>, <a href=\"https://5e.tools/spells.html#spirit%20guardians_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"spirit%20guardians_phb\" data-vet-is-allow-redirect=\"true\">spirit guardians</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#freedom%20of%20movement_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"freedom%20of%20movement_phb\" data-vet-is-allow-redirect=\"true\">freedom of movement</a>, <a href=\"https://5e.tools/spells.html#stoneskin_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"stoneskin_phb\" data-vet-is-allow-redirect=\"true\">stoneskin</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#flame%20strike_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"flame%20strike_phb\" data-vet-is-allow-redirect=\"true\">flame strike</a>, <a href=\"https://5e.tools/spells.html#hold%20monster_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hold%20monster_phb\" data-vet-is-allow-redirect=\"true\">hold monster</a></td></tr></tbody></table><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Bonus Proficiencies</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 63\">p63</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 1st level, you gain proficiency with martial weapons and heavy armor.</p></div><div data-roll-name-ancestor=\"War Priest\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">War Priest</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 63\">p63</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the <a href=\"https://5e.tools/actions.html#attack_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"attack_phb\" data-vet-is-allow-redirect=\"true\">Attack</a> action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"War Domain\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">War Domain</span></h2><p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as @deity[Torm], @deity[Heironeous|Greyhawk], and @deity[Kiri-Jolith|Dragonlance]) as well as gods of destruction and pillage (such as @deity[Erythnul|Greyhawk], @deity[the Fury|Eberron], @deity[Gruumsh|Nonhuman], and @deity[Ares|Greek]) and gods of conquest and domination (such as @deity[Bane], @deity[Hextor|Greyhawk], and @deity[Maglubiyet|Nonhuman]). Other war gods (such as @deity[Tempus], @deity[Nike|Greek], and @deity[Nuada|Celtic]) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.</p><p>At each indicated cleric level, add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"War Domain Spells\"><caption>War Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.GSEiPhlJDYcUWKKs], @UUID[Compendium.renegados-compendium.magias.Item.4125VDnzVJDlwM8y]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DGin0pShUvQVZU8h], @UUID[Compendium.renegados-compendium.magias.Item.uZY9ONnxfqjBH9sx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.tjf2EVB7t4hf959I], @UUID[Compendium.renegados-compendium.magias.Item.2amhiyHb4TSbDA10]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy], @UUID[Compendium.renegados-compendium.magias.Item.5FDreatLWrKMlwrx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX], @UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z]</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 1: Bonus Proficiencies\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Level 1: Bonus Proficiencies</span></h3><p>At 1st level, you gain proficiency with martial weapons and heavy armor.</p></div><div data-roll-name-ancestor=\"Level 1: War Priest\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Level 1: War Priest</span></h3><p>From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the @action[Attack] action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 2: Channel Divinity: Guided Strike\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Level 2: Channel Divinity: Guided Strike</span></h3><p>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Channel Divinity: War God's Blessing\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Level 6: Channel Divinity: War God's Blessing</span></h3><p>At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Divine Strike\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Level 8: Divine Strike</span></h3><p>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra [[/damage 1d8]] damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to [[/damage 2d8]].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Blessed Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p30\">Level 8: Blessed Strikes</span></h3><p><em>8th-level cleric @variantrule[optional class features|tce|optional feature], which replaces the Divine Strike feature</em></p><p>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [[/damage 1d8 type=radiant]] damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Avatar of Battle\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Level 17: Avatar of Battle</span></h3><p>At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "63",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "g2ywV0rCb7A63rFo",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.RCCy7PBcziGet4Cx"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VeajoPFRjnyWE5B0"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "YPBsFYhggKoW5TBi",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["armor:hvy", "weapon:mar"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 1,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.hLpRldk4U5pQwWVb",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Feature",
+        "hint": "",
+        "_id": "nLkrQAqZB3fzTVRp"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.y8ZvF2KudP0mgwe7",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Feature",
+        "hint": "",
+        "_id": "0fbeHhR6GZ00UsUS"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VZxmAc8ID1hTSK3O"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.NzUvVeSB5xhIbpM6"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Feature",
+        "hint": "",
+        "_id": "FzAgXH3zwxxeFSvN"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.DxyZuAi825X1sMRk",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Feature",
+        "hint": "",
+        "_id": "bSsFBbFhPHRsDFRE"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/weapons/axes/axe-double-white-red.webp",
+  "folder": "Urx2eYyUy28giX4D",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707154864,
+    "modifiedTime": 1740761702944,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!RG4hRcKgsu6HDl95"
+}

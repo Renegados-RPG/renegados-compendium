@@ -1,0 +1,22 @@
+{
+  "name": "Eldritch Invocations",
+  "sorting": "a",
+  "folder": "VS5LumCkH9tui1H7",
+  "type": "Item",
+  "_id": "gTeiHzLTxZ0Ebpj3",
+  "description": "",
+  "sort": 100000,
+  "color": "#862eb2",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796402732,
+    "modifiedTime": 1740796457812,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_key": "!folders!gTeiHzLTxZ0Ebpj3"
+}

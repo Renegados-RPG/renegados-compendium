@@ -1,0 +1,214 @@
+{
+  "_id": "NwHCO14weG57px3j",
+  "name": "Dhampir",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>10.5 m, climb equal to your walking speed</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size.</strong></span> You are Medium or Small. You choose the size when you gain this lineage.</p></div><div data-roll-name-ancestor=\"Ancestral Legacy\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Ancestral Legacy.</strong></span> If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.</p><p>If you don't keep any of those elements or you choose this lineage at character creation, you gain proficiency in two skills of your choice.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.</p></div><div data-roll-name-ancestor=\"Deathless Nature\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Deathless Nature.</strong></span> You don't need to breathe.</p></div><div data-roll-name-ancestor=\"Spider Climb\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Spider Climb.</strong></span> You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.</p></div><div data-roll-name-ancestor=\"Vampiric Bite\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Vampiric Bite.</strong></span> Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals [[/damage 1d4 type=piercing]] damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.</p><p>When you attack with this bite and hit a creature that isn't a Construct or an Undead, you can empower yourself in one of the following ways of your choice:</p><ul class=\"rd__list\"><li class=\"rd__li \">You regain hit points equal to the piercing damage dealt by the bite.</li><li class=\"rd__li \">You gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite</li></ul><p>You can empower yourself with this bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, &amp;Reference[rule=darkvision], and a life-draining bite.</p><p>With unique insights into the nature of the undead, many dhampirs become adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who'd tempt their hunger.</p><div data-roll-name-ancestor=\"Dhampir Hungers\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"8\"><span class=\"entry-title-inner\">Dhampir Hungers</span></h2><p>Every dhampir knows a thirst slaked only by the living. Those who overindulge their thirst risk losing control and forever viewing others as prey. Those who resist might find exceptional ways of controlling their urges or suppress them through constant, molar-grinding restraint. In any case, temptation haunts dhampirs, and circumstances conspire to give them endless reasons to indulge.</p><p>While many dhampirs thirst for blood, your character might otherwise gain sustenance from the living. Roll on or choose an option from the Dhampir Hungers table to determine what tempts your character to feed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Dhampir Hungers\"><caption>Dhampir Hungers</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Hunger</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Blood</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Flesh or raw meat</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Cerebral spinal fluid</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Psychic energy</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Dreams</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Life energy</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Dhampir Origins\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"9\"><span class=\"entry-title-inner\">Dhampir Origins</span></h2><p>Dhampirs often arise from encounters with vampires, but all manner of macabre bargains, necromantic influences, and encounters with mysterious immortals might have transformed your character. The Dhampir Origins table provides suggestions for how your character gained their lineage.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Dhampir Origins\"><caption>Dhampir Origins</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Origin</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">You are the reincarnation of an ancestor who was a vampiric tyrant.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Your pact with a predatory deity, fiend, fey, or spirit causes you to share their hunger.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">You survived being attacked by a vampire but were forever changed.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">A parasite lives inside you. You indulge its hunger.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Tragedy interrupted your transformation into an immortal.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">You are a diminished form of an otherworldly being. Slaking your hunger hastens your renewal.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">One of your parents was a vampire.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">A radical experiment changed your body, making you reliant on others for vital fluids.</td></tr></tbody></table></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "16",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": 10.5,
+      "fly": null,
+      "swim": null,
+      "walk": 10.5,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "dhampir",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "WCDQ5NcFiS4WGgwu",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "GxVLi8up6awOATZR",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm", "med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "ohjveRQYuJ0jkbUV",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "Kt5SDRtKUBGnBmXe",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.CVXMPWvk2s7CoRKi",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.g0Jpc2ZgNMrVHGR5",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.8HDtnLZt41oMF3yW",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "b8eqsVKJ0l8bK6b1",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Ancestral Legacy",
+        "hint": ""
+      }
+    ],
+    "identifier": "dhampir"
+  },
+  "effects": [
+    {
+      "_id": "gYtYvridWFhir7EL",
+      "name": "Climb Speed",
+      "changes": [
+        {
+          "key": "system.attributes.movement.climb",
+          "mode": 5,
+          "value": "@attributes.movement.walk",
+          "priority": 4
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "climb-speed"
+        }
+      },
+      "img": "modules/plutonium/media/icon/family-tree.svg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!NwHCO14weG57px3j.gYtYvridWFhir7EL"
+    }
+  ],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/VRGR/Dhampir.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "L1Xxqa5eB2xhn0xW",
+  "_stats": {
+    "compendiumSource": "Item.94TYW4710sE97cO9",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740620505690,
+    "modifiedTime": 1740777805106,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!NwHCO14weG57px3j"
+}
