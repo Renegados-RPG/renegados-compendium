@@ -7,129 +7,129 @@
       "description": "<p>O Campeão arquetípico se concentra no desenvolvimento do poder físico bruto, aprimorado para a perfeição mortal. Aqueles que se modelam nesse arquétipo combinam treinamento rigoroso com excelência física para desferir golpes devastadores.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         },
         "Additional Fighting Style": {
-          "title": "Additional Fighting Style",
-          "hint": "Choose a second option from the Fighting Style class feature."
+          "title": "Estilo de Luta Adicional",
+          "hint": "Escolha uma segunda opção da característica de classe Estilo de Luta."
         }
       }
     },
     "Circle of the Land": {
-      "name": "Circle of the Land",
-      "description": "<p>The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.</p>",
+      "name": "Círculo da Terra",
+      "description": "<p>O Círculo da Terra é composto por místicos e sábios que protegem o conhecimento e os ritos ancestrais por meio de uma vasta tradição oral. Esses druidas se reúnem dentro de círculos sagrados de árvores ou pedras erguidas para sussurrar segredos primordiais em Druidico. Os membros mais sábios do círculo presidem como os principais sacerdotes de comunidades que seguem a Fé Antiga e servem como conselheiros para os governantes dessas pessoas. Como membro desse círculo, sua magia é influenciada pela terra onde você foi iniciado nos ritos misteriosos do círculo.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "College of Lore": {
-      "name": "College of Lore",
-      "description": "<p>Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.</p>\n<p>The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.</p>\n<p>The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.</p>",
+      "name": "Colégio do Conhecimento",
+      "description": "<p>Os bardos do Colégio do Conhecimento sabem algo sobre a maioria das coisas, coletando pedaços de conhecimento de fontes tão diversas quanto tomos acadêmicos e contos camponeses. Seja cantando baladas folclóricas em tavernas ou composições elaboradas em cortes reais, esses bardos usam seus dons para manter o público fascinado. Quando os aplausos diminuem, os membros da audiência podem se ver questionando tudo o que consideram verdadeiro, desde sua fé no sacerdócio do templo local até sua lealdade ao rei.</p>\n<p>A lealdade desses bardos está na busca pela beleza e pela verdade, não na fidelidade a um monarca ou em seguir os princípios de uma divindade. Um nobre que mantém um bardo como arauto ou conselheiro sabe que o bardo prefere ser honesto do que político.</p>\n<p>Os membros do colégio se reúnem em bibliotecas e, às vezes, em faculdades de verdade, completas com salas de aula e dormitórios, para compartilhar sua tradição uns com os outros. Eles também se reúnem em festivais ou assuntos de estado, onde podem expor corrupção, desvendar mentiras e zombar de figuras de autoridade presunçosas.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         },
         "Additional Magical Secrets": {
-          "title": "Additional Magical Secrets",
-          "hint": "Learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip."
+          "title": "Segredos Mágicos Adicionais",
+          "hint": "Aprenda duas magias de sua escolha de qualquer classe. Uma magia que você escolher deve ser de um nível que você pode conjurar, conforme indicado na tabela do Bardo, ou um truque."
         }
       }
     },
     "Draconic Bloodline": {
-      "name": "Draconic Bloodline",
-      "description": "<p>Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.</p>",
+      "name": "Linhagem Dracônica",
+      "description": "<p>Sua magia inata vem da magia dracônica que foi misturada ao seu sangue ou ao de seus ancestrais. Na maioria das vezes, os feiticeiros com essa origem traçam sua descendência de volta a um poderoso feiticeiro da antiguidade que fez um acordo com um dragão ou que pode até ter reivindicado um dragão como pai. Algumas dessas linhagens são bem estabelecidas no mundo, mas a maioria é obscura. Qualquer feiticeiro pode ser o primeiro de uma nova linhagem, como resultado de um pacto ou alguma outra circunstância excepcional.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "Hunter": {
-      "name": "Hunter",
-      "description": "<p>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</p>",
+      "name": "Caçador",
+      "description": "<p>Emular o arquétipo Caçador significa aceitar o seu lugar como um baluarte entre a civilização e os terrores da natureza selvagem. Ao trilhar o caminho do Caçador, você aprende técnicas especializadas para combater as ameaças que enfrenta, desde ogros em fúria e hordas de orcs até gigantes imponentes e dragões aterrorizantes.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         },
         "Hunter's Prey": {
-          "title": "Hunter's Prey"
+          "title": "Presa do Caçador"
         },
         "Defensive Tactics": {
-          "title": "Defensive Tactics"
+          "title": "Táticas Defensivas"
         },
         "Multiattack": {
-          "title": "Multiattack"
+          "title": "Ataque Múltiplo"
         },
         "Superior Hunter's Defense": {
-          "title": "Superior Hunter's Defense"
+          "title": "Defesa Superior do Caçador"
         }
       }
     },
     "Life Domain": {
-      "name": "Life Domain",
-      "description": "<p>The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-­evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-­Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).</p><table><caption>Life Domain Spells</caption><thead><tr><td>Cleric Level</td><td>Spells</td></tr></thead><tbody><tr><td>1st</td><td>@UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{Bless}, @UUID[Compendium.dnd5e.spells.Item.uUWb1wZgtMou0TVP]{Cure Wounds}</td></tr><tr><td>3rd</td><td>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Lesser Restoration}, @UUID[Compendium.dnd5e.spells.Item.JbxsYXxSOTZbf9I0]{Spiritual Weapon}</td></tr><tr><td>5th</td><td>@UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Beacon of Hope}, @UUID[Compendium.dnd5e.spells.Item.LmRHHMtplpxr9fX6]{Revivify}</td></tr><tr><td>7th</td><td>@UUID[Compendium.dnd5e.spells.Item.VtCXMdyM6mAdIJZb]{Death Ward}, @UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Guardian of Faith}</td></tr><tr><td>9th</td><td>@UUID[Compendium.dnd5e.spells.Item.Pyzmm8R7rVsNAPsd]{Mass Cure Wounds}, @UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{Raise Dead}</td></tr></tbody></table>",
+      "name": "Domínio da Vida",
+      "description": "<p>O domínio da Vida foca na energia positiva vibrante — uma das forças fundamentais do universo — que sustenta toda a vida. Os deuses da vida promovem a vitalidade e a saúde por meio da cura dos doentes e feridos, cuidando dos necessitados e afastando as forças da morte e da não-morte. Quase qualquer divindade não maligna pode reivindicar influência sobre este domínio, particularmente divindades agrícolas (como Chauntea, Arawai e Deméter), deuses do sol (como Lathander, Pelor e Re-Horakhty), deuses da cura ou resistência (como Ilmater, Mishakal, Apolo e Diancecht) e deuses do lar e da comunidade (como Héstia, Hathor e Boldrei).</p><table><caption>Magias do Domínio da Vida</caption><thead><tr><td>Nível do Clérigo</td><td>Magias</td></tr></thead><tbody><tr><td>1º</td><td>@UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{Benção}, @UUID[Compendium.dnd5e.spells.Item.uUWb1wZgtMou0TVP]{Cura Ferimentos}</td></tr><tr><td>3º</td><td>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Restauração Menor}, @UUID[Compendium.dnd5e.spells.Item.JbxsYXxSOTZbf9I0]{Arma Espiritual}</td></tr><tr><td>5º</td><td>@UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Farol da Esperança}, @UUID[Compendium.dnd5e.spells.Item.LmRHHMtplpxr9fX6]{Revivificar}</td></tr><tr><td>7º</td><td>@UUID[Compendium.dnd5e.spells.Item.VtCXMdyM6mAdIJZb]{Proteção contra a Morte}, @UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Guardião da Fé}</td></tr><tr><td>9º</td><td>@UUID[Compendium.dnd5e.spells.Item.Pyzmm8R7rVsNAPsd]{Curar Ferimentos em Massa}, @UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{Reviver os Morto}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         },
         "Divine Strike Damage": {
-          "title": "Divine Strike Damage"
+          "title": "Dano do Ataque Divino"
         }
       }
     },
     "Oath of Devotion": {
-      "name": "Oath of Devotion",
-      "description": "<p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms. </p><h4>Tenets of Devotion</h4><p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><p><strong>Honesty.</strong> Don't lie or cheat. Let your word be your promise.</p><p><strong>Courage.</strong> Never fear to act, though caution is wise.</p><p><strong>Compassion.</strong> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p><p><strong>Honor.</strong> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p><p><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h4>Oath Spells</h4><p>You gain oath spells at the paladin levels listed.</p><table><caption>Oath of Devotion Spells</caption><thead><tr><td>Paladin Level</td><td>Spells</td></tr></thead><tbody><tr><td>3rd</td><td>@UUID[Compendium.dnd5e.spells.Item.xmDBqZhRVrtLP8h2]{Protection from Evil and Good}, @UUID[Compendium.dnd5e.spells.Item.gvdA9nPuWLck4tBl]{Sanctuary}</td></tr><tr><td>5th</td><td>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Lesser Restoration}, @UUID[Compendium.dnd5e.spells.Item.CylBa7jR8DSbo8Z3]{Zone of Truth}</td></tr><tr><td>9th</td><td>@UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Beacon of Hope}, @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{Dispel Magic}</td></tr><tr><td>13th</td><td>@UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Freedom of Movement}, @UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Guardian of Faith}</td></tr><tr><td>17th</td><td>@UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{Commune}, @UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Flame Strike}</td></tr></tbody></table>",
+      "name": "Juramento da Devoção",
+      "description": "<p>O Juramento da Devoção vincula um paladino aos ideais mais elevados de justiça, virtude e ordem. Às vezes chamados de cavaleiros, cavaleiros brancos ou guerreiros sagrados, esses paladinos atendem ao ideal do cavaleiro de armadura brilhante, agindo com honra em busca da justiça e do bem maior. Eles se mantêm nos mais altos padrões de conduta, e alguns, para o bem ou para o mal, mantêm o resto do mundo nos mesmos padrões. Muitos que juram este juramento são devotos a deuses da lei e do bem e usam os preceitos de seus deuses como medida de sua devoção. Eles consideram os anjos - os servos perfeitos do bem - como seus ideais e incorporam imagens de asas angelicais em seus capacetes ou brasões. </p><h4>Princípios da Devoção</h4><p>Embora as palavras exatas e os preceitos do Juramento da Devoção variem, os paladinos deste juramento compartilham estes preceitos.</p><p><strong>Honestidade.</strong> Não minta ou trapaceie. Que sua palavra seja sua promessa.</p><p><strong>Coragem.</strong> Nunca tenha medo de agir, embora a cautela seja sábia.</p><p><strong>Compaixão.</strong> Ajude os outros, proteja os fracos e puna aqueles que os ameaçam. Mostre misericórdia a seus inimigos, mas tempere-a com sabedoria.</p><p><strong>Honra.</strong> Trate os outros com justiça e deixe suas ações honrosas serem um exemplo para eles. Faça o máximo de bem possível enquanto causa o mínimo de mal.</p><p><strong>Dever.</strong> Seja responsável por suas ações e suas consequências, proteja aqueles confiados aos seus cuidados e obedeça àqueles que têm autoridade justa sobre você.</p><h4>Magias do Juramento</h4><p>Você ganha magias de juramento nos níveis de paladino listados.</p><table><caption>Magias do Juramento da Devoção</caption><thead><tr><td>Nível de Paladino</td><td>Magias</td></tr></thead><tbody><tr><td>3º</td><td>@UUID[Compendium.dnd5e.spells.Item.xmDBqZhRVrtLP8h2]{Proteção contra o Mal e o Bem}, @UUID[Compendium.dnd5e.spells.Item.gvdA9nPuWLck4tBl]{Santuário}</td></tr><tr><td>5º</td><td>@UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{Restauração Menor}, @UUID[Compendium.dnd5e.spells.Item.CylBa7jR8DSbo8Z3]{Zona da Verdade}</td></tr><tr><td>9º</td><td>@UUID[Compendium.dnd5e.spells.Item.ZU9d6woBdUP8pIPt]{Farol da Esperança}, @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{Dissipar Magia}</td></tr><tr><td>13º</td><td>@UUID[Compendium.dnd5e.spells.Item.da0a1t2FqaTjRZGT]{Liberdade de Movimento}, @UUID[Compendium.dnd5e.spells.Item.TgHsuhNasPbhu8MO]{Guardião da Fé}</td></tr><tr><td>17º</td><td>@UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{Comunhãor}, @UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Golpe de Chamas}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "Path of the Berserker": {
-      "name": "Path of the Berserker",
-      "description": "<p>For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.</p>",
+      "name": "Caminho do Furioso",
+      "description": "<p>Para alguns bárbaros, a fúria é um meio para um fim - esse fim sendo a violência. O Caminho do Furioso é um caminho de fúria desenfreada, escorregadio de sangue. Ao entrar na fúria do caminho do furioso, você se emociona no caos da batalha, sem se importar com sua própria saúde ou bem-estar.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "School of Evocation": {
-      "name": "School of Evocation",
-      "description": "<p>You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.</p>",
+      "name": "Escola de Evocação",
+      "description": "<p>Você concentra seus estudos em magia que cria poderosos efeitos elementais, como frio intenso, chamas escaldantes, trovões estrondosos, raios crepitantes e ácido corrosivo. Alguns evocadores encontram emprego nas forças militares, servindo como artilharia para destruir exércitos inimigos de longe. Outros usam seu poder espetacular para proteger os fracos, enquanto alguns buscam seu próprio lucro como bandidos, aventureiros ou aspirantes a tiranos.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "The Fiend": {
-      "name": "The Fiend",
-      "description": "<p>You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.</p><h4>Expanded Spell List</h4><p>The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table><caption>Fiend Expanded Spells</caption><thead><tr><td>Spell Level</td><td>Spells</td></tr></thead><tbody><tr><td>1st</td><td>@UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Burning Hands}, @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Command}</td></tr><tr><td>2nd</td><td>@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{Blindness/Deafness}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Scorching Ray}</td></tr><tr><td>3rd</td><td>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Fireball}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Stinking Cloud}</td></tr><tr><td>4th</td><td>@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{Fire Shield}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Wall of Fire}</td></tr><tr><td>5th</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Flame Strike}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Hallow}</td></tr></tbody></table>",
+      "name": "O Corruptor",
+      "description": "<p>Você fez um pacto com um corruptor dos planos inferiores da existência, um ser cujos objetivos são malignos, mesmo que você se esforce contra esses objetivos. Tais seres desejam a corrupção ou destruição de todas as coisas, incluindo você no fim. Corruptores poderosos o suficiente para forjar um pacto incluem senhores demônios como Demogorgon, Orcus, Fraz'Urb-luu e Baphomet; arquidiabos como Asmodeus, Dispater, Mephistopheles e Belial; demônios do inferno e balores que são especialmente poderosos; e ultroloths e outros senhores dos yugoloths.</p><h4>Lista de Magias Expandida</h4><p>O Corruptor permite que você escolha em uma lista expandida de magias quando você aprende uma magia de bruxo. As seguintes magias são adicionadas à lista de magias de bruxo para você.</p><table><caption>Magias Expandidas do Corruptor</caption><thead><tr><td>Nível de Magia</td><td>Magias</td></tr></thead><tbody><tr><td>1º</td><td>@UUID[Compendium.dnd5e.spells.Item.5SuJewoa1CRWaj1F]{Mãos Ardientes}, @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{Comando}</td></tr><tr><td>2º</td><td>@UUID[Compendium.dnd5e.spells.Item.zwGsAv6kmwzYGhh3]{Cegueira/Surdez}, @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Raio Abrasador}</td></tr><tr><td>3º</td><td>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Bola de Fogo}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{Nuvem Fétida}</td></tr><tr><td>4º</td><td>@UUID[Compendium.dnd5e.spells.Item.avD5XUtkBPQQR97c]{Escudo de Fogo}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{Muro de Fogo}</td></tr><tr><td>5º</td><td>@UUID[Compendium.dnd5e.spells.Item.5e1xTohkzqFqbYH4]{Golpe de Chama}, @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{Consagrar}</td></tr></tbody></table>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "Thief": {
-      "name": "Thief",
-      "description": "<p>You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.</p>",
+      "name": "Ladrão",
+      "description": "<p>Você aprimora suas habilidades nas artes do furto. Ladrões, bandidos, batedores de carteira e outros criminosos normalmente seguem esse arquétipo, mas também o fazem os pícaros que preferem se considerar como caçadores de tesouros profissionais, exploradores, escavadores e investigadores. Além de melhorar sua agilidade e furtividade, você aprende habilidades úteis para explorar ruínas antigas, ler idiomas desconhecidos e usar itens mágicos que normalmente não poderia usar.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     },
     "Way of the Open Hand": {
-      "name": "Way of the Open Hand",
-      "description": "<p>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</p>",
+      "name": "Caminho da Mão Aberta",
+      "description": "<p>Os monges do Caminho da Mão Aberta são os mestres absolutos do combate com artes marciais, quer se utilizem de armas ou não. Eles aprendem técnicas para empurrar e derrubar seus oponentes, manipular o ki para curar o dano causado em seus próprios corpos, e praticam a meditação avançada, capaz de protegê-los do perigo.</p>",
       "advancement": {
         "Features": {
-          "title": "Features"
+          "title": "Características"
         }
       }
     }
