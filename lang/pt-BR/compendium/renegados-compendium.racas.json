@@ -10,16 +10,16 @@
       "converter": "advancement"
     },
     "effects": {
-      "path": "effects",
-      "converter": "effects"
+      "path": "efeitos",
+      "converter": "efeitos"
     },
     "activities": {
       "path": "system.activities",
-      "converter": "activities"
+      "converter": "atividades"
     },
     "movement": {
       "path": "system.movement",
-      "converter": "movement"
+      "converter": "movimento"
     },
     "rangeActivities": {
       "path": "sistema.atividades",
@@ -29,7 +29,7 @@
   "folders": {
     "Bugbear": "Bugbear",
     "Gnome Features": "Características do Gnomo",
-    "Bugbear Features": "Bugbear Features",
+    "Bugbear Features": "Características do Bugbear",
     "Dhampir Features": "Características de Dhampir",
     "Kobold": "Kobold",
     "Githzerai": "Githzerai",
@@ -39,13 +39,13 @@
     "Gnome": "Gnomo",
     "Dhampir": "Dhampir",
     "Giff": "Giff",
-    "Autognome Features": "Autognome Features",
+    "Autognome Features": "Características do Autognomo",
     "Centaur Features": "Características do Centauro",
     "Changeling": "Alteração",
     "Dwarf": "Anão",
     "Yuan-Ti": "Yuan-Ti",
     "Giff Features": "Características do Giff",
-    "Autognome": "Autognome",
+    "Autognome": "Autognomo",
     "Goblin Features": "Características do Goblin",
     "Goblin": "Goblin",
     "Elf Features": "Características do Elfo",
@@ -61,7 +61,7 @@
     "Duergar": "Duergar",
     "Dwarf Features": "Características do Anão",
     "Goliath": "Golias",
-    "Kobold Features": "Kobold Features",
+    "Kobold Features": "Características do Kobold",
     "Yuan-Ti Features": "Recursos de Yuan-Ti",
     "Elf": "Elfo",
     "Aasimar": "Aasimar",
@@ -70,7 +70,7 @@
     "Centaur": "Centauro",
     "Genasi Features": "Recursos do Genasi",
     "Deep Gnome": "Gnomo Profundo",
-    "Assimar Features": "Assimar Features"
+    "Assimar Features": "Características do Assimar"
   },
   "entries": {
     "Aasimar": {
@@ -78,10 +78,10 @@
       "description": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>30 ft.</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size.</strong></span> You are Medium or Small. You choose the size when you select this race.</p></div><div data-roll-name-ancestor=\"Celestial Resistance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Celestial Resistance.</strong></span> You have resistance to necrotic damage and radiant damage.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Healing Hands\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Healing Hands.</strong></span> As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can't use it again until you finish a long rest.</p></div><div data-roll-name-ancestor=\"Light Bearer\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Light Bearer.</strong></span> You know the @UUID[Compendium.renegados-compendium.magias.Item.Er9lqCVyk6dPcWqC] cantrip. Charisma is your spellcasting ability for it.</p></div><div data-roll-name-ancestor=\"Celestial Revelation\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Celestial Revelation.</strong></span> When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can't use it again until you finish a long rest.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Necrotic Shroud\"><span class=\"bold rd__list-item-name\">Necrotic Shroud.</span> Your eyes briefly become pools of darkness, and ghostly, flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you that can see you must succeed on a Charisma saving throw (DC <span class=\"rd__dc\">8</span> + your proficiency bonus + your Charisma modifier) or become &amp;Reference[condition=frightened] of you until the end of your next turn. Until the transformation ends, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Radiant Consumption\"><span class=\"bold rd__list-item-name\">Radiant Consumption.</span> Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes radiant damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Radiant Soul\"><span class=\"bold rd__list-item-name\">Radiant Soul.</span> Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your proficiency bonus.</p></li></ul></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Whether descended from a celestial being or infused with heavenly power, aasimar are mortals who carry a spark of the Upper Planes within their souls. They can fan that spark to bring light, ease wounds, and unleash the fury of the heavens.</p><p>Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and often have features that hint at their celestial heritage. These often begin subtle and become more obvious when the aasimar gains the ability to reveal their full celestial nature. The Aasimar Celestial Features table has examples you can choose or use as inspiration to create your own.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Aasimar Celestial Features\"><caption>Aasimar Celestial Features</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Celestial Feature</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">A dusting of metallic, white, or charcoal freckles</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Metallic, luminous, or dark eyes</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Starkly colored hair</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">An unusual hue tinting your shadow</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">A ghostly halo crowning your head</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">Rainbows gleaming on your skin</td></tr></tbody></table></div>",
       "advancement": {
         "Feature": {
-          "title": "Feature"
+          "title": "Característica"
         },
         "Celestial Revelation": {
-          "title": "Celestial Revelation"
+          "title": "Revelação Celestial"
         }
       }
     },
@@ -108,11 +108,11 @@
       "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Amphibious\" class=\"rd__b  rd__b--3\"><p>Você respira ar e água.</p></div></div></div>"
     },
     "Armored Casing": {
-      "name": "Armored Casing",
-      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Armored Casing\" class=\"rd__b  rd__b--3\"><p>You are encased in thin metal or some other durable material. While you aren't wearing armor, your base Armor Class is 13 + your Dexterity modifier.</p></div></div></div>",
+      "name": "Revestimento Blindado",
+      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Armored Casing\" class=\"rd__b  rd__b--3\"><p>Você está envolto em metal fino ou algum outro material durável. Embora você não esteja usando armadura, sua Classe de Armadura base é 13 + seu modificador de Destreza.</p></div></div></div>",
       "effects": {
         "Armored Casing": {
-          "name": "Armored Casing"
+          "name": "Revestimento Blindado"
         }
       }
     },
@@ -129,15 +129,15 @@
       "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Spark\" class=\"rd__b  rd__b--3\"><p>Sua conexão psíquica com o Plano Astral lhe permite acessar misticamente uma faísca de poder divino, que você pode canalizar através de suas armas. Quando você acerta um alvo com uma <a href=\"https://5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">arma simples ou marcial</a>, você pode fazer o alvo receber dano de força extra igual ao seu bônus de proficiência.</p><p>Você pode usar esse traço um número de vezes igual ao seu bônus de proficiência, mas você pode usá-lo no máximo uma vez por turno. Você recupera todos os usos gastos quando termina um descanso longo.</p></div></div></div>"
     },
     "Astral Trance": {
-      "name": "Astral Trance",
-      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Trance\" class=\"rd__b  rd__b--3\"><p>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious.</p><p>Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the <a href=\"https://5e.tools/book.html#PHB\">Player's Handbook</a>. You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.</p></div></div></div>"
+      "name": "Transe Astral",
+      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Trance\" class=\"rd__b  rd__b--3\"><p>Você não precisa dormir, e magia não pode fazê-lo dormir. Você pode terminar um descanso longo em 4 horas se passar essas horas em uma meditação semelhante a um transe, durante o qual você permanece consciente.</p><p>Sempre que você termina esse transe, você ganha proficiência em uma habilidade de sua escolha e com uma arma ou ferramenta de sua escolha, selecionada do <a href=\"https://5e.tools/book.html#PHB\">Manual do Jogador</a>. Você adquire misticamente essas proficiências retirando-as da memória élfica compartilhada e das experiências de entidades no Plano Astral, e você as retém até que termine seu próximo descanso longo.</p></div></div></div>"
     },
     "Autognome": {
-      "name": "Autognome",
+      "name": "Autognomo",
       "description": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Atributos</p></th><th class=\"ve-col-4 ve-text-center\"><p>Tamanho</p></th><th class=\"ve-col-4 ve-text-center\"><p>Velocidade</p></th></tr><tr><td class=\"ve-text-center\"><p>Escolha uma das opções: (a) Escolha qualquer +2; escolha qualquer outro +1 (b) Escolha três +1 diferentes</p></td><td class=\"ve-text-center\"><p>Pequeno</p></td><td class=\"ve-text-center\"><p>9 metros.</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Tipo de Criatura.</strong></span> Você é um Construto.</p></div><div data-roll-name-ancestor=\"Armored Casing\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Armadura.</strong></span> Você é revestido em metal fino ou algum outro material durável. Enquanto você não está usando armadura, sua Classe de Armadura base é 13 + seu modificador de Destreza.</p></div><div data-roll-name-ancestor=\"Built for Success\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Construído para o Sucesso.</strong></span> Você pode adicionar um [[/r d4]] a um ataque, teste de habilidade ou teste de Salvaguarda que você fizer, e pode fazê-lo após ver o lançamento do [[/r d20]] mas antes que os efeitos do lançamento sejam resolvidos. Você pode usar esse traço um número de vezes igual ao seu bônus de proficiência, e recupera todos os usos gastos quando termina um descanso longo.</p></div><div data-roll-name-ancestor=\"Healing Machine\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Máquina Curativa.</strong></span> Se a magia @UUID[Compendium.renegados-compendium.magias.Item.8V0LruVLAmftbijd] for lançada em você, você pode gastar um Dado de Vida, rolá-lo e recuperar um número de pontos de vida igual ao lançamento mais seu modificador de Constituição (mínimo de 1 ponto de vida).</p><p>Além disso, seu criador o projetou para se beneficiar de várias magias que preservam a vida, mas que normalmente não afetam Construtos: @UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2], @UUID[Compendium.renegados-compendium.magias.Item.yAtKkow5KK0q6EGi], @UUID[Compendium.renegados-compendium.magias.Item.YVhoQSeBV84mkRiP], @UUID[Compendium.renegados-compendium.magias.Item.U0SCH3Fzm8B6LA7G], e @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2].</p></div><div data-roll-name-ancestor=\"Mechanical Nature\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Natureza Mecânica.</strong></span> Você tem resistência a dano de veneno e imunidade a doenças, e você tem vantagem em testes de salvaguarda contra ser &amp;Reference[condition=paralyzed] ou &amp;Reference[condition=poisoned]. Você não precisa comer, beber ou respirar.</p></div><div data-roll-name-ancestor=\"Sentry's Rest\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Descanso do Sentinela.</strong></span> Quando você faz um descanso longo, você passa pelo menos 6 horas em um estado inativo, imóvel, em vez de dormir. Nesse estado, você parece inerte, mas permanece consciente.</p></div><div data-roll-name-ancestor=\"Specialized Design\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Design Especializado.</strong></span> Você ganha duas proficiências em ferramentas de sua escolha, selecionadas do <a href=\"https://5e.tools/book.html#PHB\">Manual do Jogador</a>.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Linguagens.</strong></span> Você pode falar, ler e escrever Comum e outra linguagem que você e seu Mestre escolham como apropriada para seu personagem.</p></div></div><hr class=\"hr-1\" /><p>Autognomos são seres mecânicos construídos por gnomos da rocha. Às vezes, devido a um mau funcionamento ou uma circunstância única, um autognomo se separa de seu criador e parte por conta própria.</p><p>Um autognomo se assemelha a seu criador, e a maioria dos autognomos é programada para falar e entender Gnômico. Os componentes internos usados na fabricação de um autognomo podem variar muito; um autognomo pode ter um coração real batendo em sua cavidade torácica, enquanto outro pode ser alimentado por poeira de estrelas ou intrincadas engrenagens de relojoaria.</p><p>Role na tabela de História de Autognomo ou escolha uma entrada que você goste para identificar qual evento o colocou no caminho da aventura. Se nada na tabela lhe agradar, trabalhe com seu Mestre para criar uma história de origem para seu personagem.</p><p>Assim como os gnomos, os autognomos podem viver por séculos, normalmente até 500 anos.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Autognome History\"><caption>História de Autognomo</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">História</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Seu criador lhe deu autonomia e o incentivou a seguir seus sonhos.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Seu criador morreu, deixando você para se defender sozinho.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Um erro fez você esquecer sua programação original. Você não se lembra de quem o fez ou de onde veio.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Você não gostou de como estava sendo tratado por seu criador, então fugiu de casa.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Você foi construído para completar uma missão especial.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Você se sentiu preso ao papel para o qual foi construído e abandonou seu criador, determinado a encontrar um propósito maior.</td></tr></tbody></table></div>",
       "advancement": {
         "Specialized Design": {
-          "title": "Specialized Design"
+          "title": "Design especializado"
         }
       }
     },
