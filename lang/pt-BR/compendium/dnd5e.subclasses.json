@@ -3,8 +3,8 @@
   "folders": {},
   "entries": {
     "Champion": {
-      "name": "Champion",
-      "description": "<p>The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.</p>",
+      "name": "Campeão",
+      "description": "<p>O Campeão arquetípico se concentra no desenvolvimento do poder físico bruto, aprimorado para a perfeição mortal. Aqueles que se modelam nesse arquétipo combinam treinamento rigoroso com excelência física para desferir golpes devastadores.</p>",
       "advancement": {
         "Features": {
           "title": "Features"
