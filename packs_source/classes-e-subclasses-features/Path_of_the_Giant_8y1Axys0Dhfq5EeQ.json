@@ -1,0 +1,60 @@
+{
+  "_id": "8y1Axys0Dhfq5EeQ",
+  "name": "Path of the Giant",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "BGG",
+      "page": "11",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Barbarians who walk the Path of the Giant draw strength from the same primal forces as giants. As they rage, these barbarians surge with elemental power and grow in size, taking on forms that evoke the glory of giants. Some barbarians look like oversized versions of themselves, perhaps with a hint of elemental energy flaring in their eyes and around their weapons. Others transform more dramatically, taking on the appearance of an actual giant or a form similar to an Elemental, wreathed in fire, frost, or lightning.</p><div data-roll-name-ancestor=\"Giant Power\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p11\">Giant Power</span></h3> <p><i>3rd-Level Path of the Giant Feature</i></p><p>When you choose this path, you learn to speak, read, and write Giant or one other language of your choice if you already know Giant. Additionally, you learn a cantrip of your choice: either @UUID[Compendium.renegados-compendium.magias.Item.gXM0JdJyk40MLf7t] or @UUID[Compendium.renegados-compendium.magias.Item.dCVxh5iGFt5STqlC]. Wisdom is your spellcasting ability for this spell.</p></div><div data-roll-name-ancestor=\"Giant's Havoc\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p11\">Giant's Havoc</span></h3> <p><i>3rd-Level Path of the Giant Feature</i></p><p>Your rages pull strength from the primal might of giants, transforming you into a hulking force of destruction. While raging, you gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Crushing Throw\"><span class=\"bold rd__list-item-name\">Crushing Throw.</span> When you make a successful ranged attack with a thrown weapon using Strength, you can add your Rage Damage bonus to the attack's damage roll.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Giant Stature\"><span class=\"bold rd__list-item-name\">Giant Stature.</span> Your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change.</p></li></ul></div></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3 (Giant)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "path-of-the-giant",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "kniJGxgJgfTzAM9Y",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740696634811,
+    "modifiedTime": 1740696634811,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!8y1Axys0Dhfq5EeQ"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Divine Soul",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "1sBsd6xbHuyG1k8J",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "SoiO46dtyabKUPtq",
+  "_key": "!folders!SoiO46dtyabKUPtq"
+}

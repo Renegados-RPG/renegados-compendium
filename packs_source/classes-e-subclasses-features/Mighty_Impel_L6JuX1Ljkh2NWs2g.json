@@ -1,0 +1,115 @@
+{
+  "_id": "L6JuX1Ljkh2NWs2g",
+  "name": "Mighty Impel",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "BGG",
+      "page": "12",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-Level Path of the Giant Feature</i></p><p>Your connection to giant strength allows you to hurl both allies and enemies on the battlefield. As a bonus action while raging, you can choose one Medium or smaller creature within your reach and move it to an unoccupied space you can see within 30 feet of yourself. An unwilling creature must succeed on a Strength saving throw (DC equals 8 + your proficiency bonus + your Strength modifier) to avoid the effect.</p><p>If, at the end of this movement, the thrown creature isn't on a surface or liquid that can support it, the creature falls, taking damage as normal and landing &amp;Reference[condition=prone].</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 10 (Giant)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "JbFh7L7FNfwNFh0g": {
+        "_id": "JbFh7L7FNfwNFh0g",
+        "type": "save",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "9",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "initial"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "mighty-impel",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "kniJGxgJgfTzAM9Y",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740696634811,
+    "modifiedTime": 1740696634811,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!L6JuX1Ljkh2NWs2g"
+}

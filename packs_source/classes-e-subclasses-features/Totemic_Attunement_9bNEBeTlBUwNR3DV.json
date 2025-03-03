@@ -1,0 +1,128 @@
+{
+  "_id": "9bNEBeTlBUwNR3DV",
+  "name": "Totemic Attunement",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Bear\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p50\">Bear</span></h3> <p>While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be &amp;Reference[condition=frightened].</p></div><div data-roll-name-ancestor=\"Eagle\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p50\">Eagle</span></h3> <p>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</p></div><div data-roll-name-ancestor=\"Elk\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p122\">Elk</span></h3> <p>While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC <span class=\"rd__dc\">8</span> + your Strength bonus + your proficiency bonus) or be knocked &amp;Reference[condition=prone] and take bludgeoning damage equal to [[/damage 1d12]] + your Strength modifier.</p></div><div data-roll-name-ancestor=\"Tiger\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p122\">Tiger</span></h3> <p>While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</p></div><div data-roll-name-ancestor=\"Wolf\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p50\">Wolf</span></h3> <p>While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature &amp;Reference[condition=prone] when you hit it with melee weapon attack.</p></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 14 (Totem Warrior)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "mANOXR8bLc0fBXO7": {
+        "_id": "mANOXR8bLc0fBXO7",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 12,
+              "bonus": "@abilities.str.mod",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "totemic-attunement",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/weapons/wands/wand-totem.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "bbF08UFMuHekkCDk",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740696634811,
+    "modifiedTime": 1740696634811,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!9bNEBeTlBUwNR3DV"
+}

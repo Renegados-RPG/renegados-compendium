@@ -1,0 +1,106 @@
+{
+  "name": "Psychic Resilience",
+  "type": "feat",
+  "_id": "dMnolNmJaiGBcW94",
+  "img": "icons/magic/symbols/circled-gem-pink.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Psychic Resilience\" class=\"rd__b  rd__b--3\"><p>You have resistance to psychic damage</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Psychic Resilience",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "origin": "Item.PRzWDBptQXChu809",
+      "_id": "xyZKPvK6N0hqbZub",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "psychic",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!dMnolNmJaiGBcW94.xyZKPvK6N0hqbZub"
+    }
+  ],
+  "folder": "YJH5D4s2rvbHSurW",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.PRzWDBptQXChu809",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740703841383,
+    "modifiedTime": 1740703841516,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!dMnolNmJaiGBcW94"
+}

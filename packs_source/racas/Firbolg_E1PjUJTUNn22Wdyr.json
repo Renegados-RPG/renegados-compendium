@@ -1,0 +1,161 @@
+{
+  "_id": "E1PjUJTUNn22Wdyr",
+  "name": "Firbolg",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Firbolg Magic\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Firbolg Magic.</strong></span> You can cast @UUID[Compendium.renegados-compendium.magias.Item.7pKlr3nWnAkMV3iF]{Detect Magic}and@UUID[Compendium.renegados-compendium.magias.Item.IWodopwLQ2Zy8uga]{Disguise Self} spells with this trait. When you use this version of @UUID[Compendium.renegados-compendium.magias.Item.IWodopwLQ2Zy8uga]{Disguise Self}, you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</p></div><div data-roll-name-ancestor=\"Hidden Step\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Hidden Step.</strong></span> As a bonus action, you can magically turn &amp;Reference[condition=invisible] until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Powerful Build\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Powerful Build.</strong></span> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p></div><div data-roll-name-ancestor=\"Speech of Beast and Leaf\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Speech of Beast and Leaf.</strong></span> You have the ability to communicate in a limited manner with Beasts, Plants, and vegetation. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs' souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.</p><p>A firbolg's magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna.</p><p>Firbolgs can live up to 500 years.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "15",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "firbolg",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "sxb175mvMny5MREb",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "XjVbmokjg2HNnIui",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "EnQ1PTFo3zAzEl8V",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "NHoB7luzXJpnDN6T",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.8pK0Mqu0oFEnucjm",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.Yml5mZYFKYfRzGYK",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.2UATZRCodyVp3zPn",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.IWodopwLQ2Zy8uga",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7pKlr3nWnAkMV3iF",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "identifier": "firbolg"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Firbolg.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "XeFSPvsxJy7TO7MF",
+  "_stats": {
+    "compendiumSource": "Item.U0szf68LH0EKFxC6",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740784344118,
+    "modifiedTime": 1740784344180,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!E1PjUJTUNn22Wdyr"
+}

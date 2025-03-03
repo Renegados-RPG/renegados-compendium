@@ -1,0 +1,175 @@
+{
+  "_id": "3rRlJZxcQrk8S1Io",
+  "name": "Goliath",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Little Giant\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Little Giant.</strong></span> You have proficiency in the &amp;Reference[skill=Athletics] skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.</p></div><div data-roll-name-ancestor=\"Mountain Born\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Mountain Born.</strong></span> You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you've never been to one. This includes elevations above 20,000 feet.</p></div><div data-roll-name-ancestor=\"Stone's Endurance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Stone's Endurance.</strong></span> You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a [[/r d12]]. Add your Constitution modifier to the number rolled and reduce the damage by that total.</p><p>You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>The first goliaths lived on the highest mountain peaks—far above the tree line, where the air is thin and frigid winds howl. Distantly related to giants and infused with the supernatural essence of their ancestors' mountainous home, goliaths stand between 7 and 8 feet tall and have a wide array of skin tones resembling different types of stone.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "21",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "goliath",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "b6ITyKebRf0k85Pn",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "OWcBxHJGs5mxzmlS",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "Z35glJ0OccLKNnmL",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "dl0ldlSGBQIzNq7X",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:ath"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Little Giant",
+        "hint": ""
+      },
+      {
+        "_id": "Yut1D3csjEGkZK3Z",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.2HXnn0DGoXWVZJG7",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.fQZkfP9wG2s8txSa",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.ixGzRzQ7cJ2FDL3k",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      },
+      {
+        "_id": "aRUz4vbifxkSjNQi",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["dr:cold"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Mountain Born",
+        "hint": ""
+      }
+    ],
+    "identifier": "goliath"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Goliath.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "iCmzmppZl3qpXDyu",
+  "_stats": {
+    "compendiumSource": "Item.pbaAkTndjnCUmnDa",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740795622230,
+    "modifiedTime": 1740795622284,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!3rRlJZxcQrk8S1Io"
+}

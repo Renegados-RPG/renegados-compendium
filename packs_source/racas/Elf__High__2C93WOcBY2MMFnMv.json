@@ -1,0 +1,288 @@
+{
+  "name": "Elf (High)",
+  "type": "race",
+  "img": "icons/commodities/treasure/statue-gold-laurel-wreath.webp",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Age.</strong></span> Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size.</strong></span> Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p></div><div data-roll-name-ancestor=\"Keen Senses\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Keen Senses.</strong></span> You have proficiency in the &amp;Reference[skill=Perception] skill.</p></div><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Fey Ancestry.</strong></span> You have advantage on saving throws against being &amp;Reference[condition=charmed], and magic can't put you to sleep.</p></div><div data-roll-name-ancestor=\"Trance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Trance.</strong></span> Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p><p><em class=\"ve-muted\">If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.</em></p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p></div><div data-roll-name-ancestor=\"Elf Weapon Training\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Elf Weapon Training.</strong></span> You have proficiency with the @item[longsword|phb], @item[shortsword|phb], @item[shortbow|phb], and @item[longbow|phb].</p></div><div data-roll-name-ancestor=\"Cantrip\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Cantrip</strong>.</span> You know one <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:wizard=1\">cantrip of your choice from the wizard spell list</a>. Intelligence is your spellcasting ability for it.</p></div><div data-roll-name-ancestor=\"Extra Language\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Extra Language.</strong></span> You can speak, read, and write one extra language of your choosing.</p></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&amp;D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk, the Qualinesti of Dragonlance, and the moon elves of the Forgotten Realms) are more common and more friendly, and often encountered among humans and other races.</p><p>The sun elves of Faerun (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue. They often have hair of silver-white, black, or blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold.</p></div></div><hr class=\"rd__hr rd__hr--section\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.</p><div data-roll-name-ancestor=\"Slender and Graceful\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner\">Slender and Graceful</span></h3><p>With their unearthly grace and fine features, elves appear hauntingly beautiful to humans and members of many other races. They are slightly shorter than humans on average, ranging from well under 5 feet tall to just over 6 feet. They are more slender than humans, weighing only 100 to 145 pounds. Males and females are about the same height, and males are only marginally heavier than females.</p><p>Elves' coloration encompasses the normal human range and also includes skin in shades of copper, bronze, and almost bluish-white, hair of green or blue, and eyes like pools of liquid gold or silver. Elves have no facial and little body hair. They favor elegant clothing in bright colors, and they enjoy simple yet lovely jewelry.</p></div><div data-roll-name-ancestor=\"A Timeless Perspective\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner\">A Timeless Perspective</span></h3><p>Elves can live well over 700 years, giving them a broad perspective on events that might trouble the shorter-lived races more deeply. They are more often amused than excited, and more likely to be curious than greedy. They tend to remain aloof and unfazed by petty happenstance. When pursuing a goal, however, whether adventuring on a mission or learning a new skill or art, elves can be focused and relentless. They are slow to make friends and enemies, and even slower to forget them. They reply to petty insults with disdain and to serious insults with vengeance.</p><p>Like the branches of a young tree, elves are flexible in the face of danger. They trust in diplomacy and compromise to resolve differences before they escalate to violence. They have been known to retreat from intrusions into their woodland homes, confident that they can simply wait the invaders out. But when the need arises, elves reveal a stern martial side, demonstrating skill with sword, bow, and strategy.</p></div><div data-roll-name-ancestor=\"Hidden Woodland and Realms\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"13\"><span class=\"entry-title-inner\">Hidden Woodland and Realms</span></h3><p>Most elves dwell in small forest villages hidden among the trees. Elves hunt game, gather food, and grow vegetables, and their skill and magic allow them to support themselves without the need for clearing and plowing land. They are talented artisans, crafting finely worked clothes and art objects. Their contact with outsiders is usually limited, though a few elves make a good living by trading crafted items for metals (which they have no interest in mining).</p><p>Elves encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of elf instructors to teach swordplay or magic to their children.</p></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Haughty but Gracious\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"14\">Haughty but Gracious</span></h4><p>Although they can be haughty, elves are generally gracious - even to those who fall short of their high expectations - which is most non-elves. Still, they can find good in just about anyone.</p><div data-roll-name-ancestor=\"Dwarves\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Dwarves.</span> \"Dwarves are dull, clumsy oafs. But what they lack in humor, sophistication, and manners, they make up in valor. And I must admit, their best smiths produce art that approaches elven quality.\"</p></div><div data-roll-name-ancestor=\"Halflings\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Halflings.</span> \"Halflings are people of simple pleasures, and that is not a quality to scorn. They're a good folk, they care for each other and tend their gardens, and they have proven themselves tougher than they seem when the need arises.\"</p></div><div data-roll-name-ancestor=\"Humans\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Humans.</span> \"All that haste, their ambitions and drive to accomplish something before their brief lives pass away - human endeavors seem so futile sometimes. But then you look at what they have accomplished, and you have to appreciate their achievements. If only they could slow down and learn some refinement.\"</p></div></div><div data-roll-name-ancestor=\"Exploration and Adventure\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"18\"><span class=\"entry-title-inner\">Exploration and Adventure</span></h3><p>Elves take up adventuring out of wanderlust. Since they are so long-lived, they can enjoy centuries of exploration and discovery. They dislike the pace of human society, which is regimented from day to day but constantly changing over decades, so they find careers that let them travel freely and set their own pace. Elves also enjoy exercising their martial prowess or gaining greater magical power, and adventuring allows them to do so. Some might join with rebels fighting against oppression, and others might become champions of moral causes.</p></div><div data-roll-name-ancestor=\"Elf Names\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"19\"><span class=\"entry-title-inner\">Elf Names</span></h3><p>Elves are considered children until they declare themselves adults, some time after the hundredth birthday, and before this period they are called by child names.</p><p>On declaring adulthood, an elf selects an adult name, although those who knew him or her as a youngster might continue to use the child name. Each elf's adult name is a unique creation, though it might reflect the names of respected individuals or other family members. Little distinction exists between male names and female names; the groupings here reflect only general tendencies. In addition, every elf bears a family name, typically a combination of other Elvish words. Some elves traveling among humans translate their family names into Common, but others retain the Elvish version.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Child Names:\"><span class=\"bold rd__list-item-name\">Child Names:</span> Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Male Adult Names:\"><span class=\"bold rd__list-item-name\">Male Adult Names:</span> Adran, Aelar, Aramil, Arannis, Aust, Beiro, Berrian, Carric, Enialis, Erdan, Erevan, Galinndan, Hadarai, Heian, Himo, Immeral, Ivellios, Laucian, Mindartis, Paelias, Peren, Quarion, Riardon, Rolen, Soveliss, Thamior, Tharivol, Theren, Varis</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Female Adult Names:\"><span class=\"bold rd__list-item-name\">Female Adult Names:</span> Adrie, Althaea, Anastrianna, Andraste, Antinua, Bethrynna, Birel, Caelynn, Drusilia, Enna, Felosial, Ielenia, Jelenneth, Keyleth, Leshanna, Lia, Meriele, Mialee, Naivara, Quelenna, Quillathe, Sariel, Shanairra, Shava, Silaqui, Theirastra, Thia, Vadania, Valanthe, Xanaphia</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Family Names (Common Translations):\"><span class=\"bold rd__list-item-name\">Family Names (Common Translations):</span> Amakiir (Gemflower), Amastacia (Starflower), Galanodel (Moonwhisper), Holimion (Diamonddew), Ilphelkiir (Gemblossom), Liadon (Silverfrond), Meliamne (Oakenheel), Nailo (Nightbreeze), Siannodel (Moonbrook), Xiloscient (Goldpetal)</p></li></ul></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "identifier": "high-elf",
+    "advancement": [
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.fJBX0ZWNvpNDRE3A",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.AieYMVUU0EkgFXQH",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Grant Items",
+        "_id": "9SgUOZ9mjqyA8Q2d"
+      },
+      {
+        "_id": "l1Pw82BvhrSkYiyF",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "allowDrops": true,
+          "type": "spell",
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.2tnvKD2Qy3NkGllF"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.0x9IlXZhrPcoZ9n9"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.WKc3pviCxsaWGqpe"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.9TFdlhoeXCgLw8fE"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7mBrrb06OZbeGCkN"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.UYCTsaIkEb4VNHGH"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.Mv7As8uQMMx1FsyU"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.MBP9fxZGPtG1Urjw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.naK1Orjdev6Yyn1R"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.fuxuLZNaLeCe1qWM"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.KLWGjZ3svpAY6mfs"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.LjcVLZFYVTde3B3P"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.IFH69Z26eqa6jJPk"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.Er9lqCVyk6dPcWqC"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.yA9ymDlR6IuPw3hH"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.8V0LruVLAmftbijd"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7EyerZUh1sokOspw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.7AfO3ibGO0Pewcfk"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.H0rSowwQhSqNK8bm"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.dxDTEExJ3DRwC1Wr"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.W2XCjb7Sl4yNfSW4"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.GEorq7yxqGkqL4Nz"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.uL38dnSKNLVBSpKd"
+            }
+          ],
+          "spell": {
+            "ability": ["int"],
+            "preparation": "innate",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          },
+          "restriction": {
+            "type": "",
+            "subtype": "",
+            "level": "0"
+          }
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Cantrip",
+        "hint": "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+      },
+      {
+        "_id": "Z9hvZFkWUNvowbQX",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "eqSwyWvm0gYgBzJJ",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 1,
+        "title": "",
+        "hint": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+      },
+      {
+        "_id": "eAv9eLr0ackU7WO2",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["skills:prc"],
+          "choices": []
+        },
+        "level": 0,
+        "title": "Keen Senses",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "vNyszlmxQeXRjYIH",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["languages:standard:common", "languages:standard:elvish"],
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ]
+        },
+        "level": 0,
+        "title": "",
+        "value": {
+          "chosen": []
+        },
+        "hint": ""
+      },
+      {
+        "_id": "ZwJOJ5Ywagq7rWNI",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["weapon:sim:shortbow", "weapon:mar:longbow", "weapon:mar:longsword", "weapon:mar:shortsword"],
+          "choices": []
+        },
+        "level": 0,
+        "title": "Elf Weapon Training",
+        "value": {
+          "chosen": []
+        }
+      }
+    ],
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": "m",
+      "special": ""
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "elf",
+      "custom": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.races.Item.A69KxdH1renVPrQV",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796305878,
+    "modifiedTime": 1740796339123,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "folder": "oCN87YXIAEEEE4G8",
+  "_id": "2C93WOcBY2MMFnMv",
+  "sort": 300000,
+  "_key": "!items!2C93WOcBY2MMFnMv"
+}

@@ -1,0 +1,161 @@
+{
+  "_id": "dP7yRlHIhtDQTuwC",
+  "name": "Thorn Whip",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "282",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes [[/damage 1d6 type=piercing]] damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.</p><p>This spell's damage increases by [[/damage 1d6]] when you reach 5th level ([[/damage 2d6]]), 11th level ([[/damage 3d6]]), and 17th level ([[/damage 4d6]]).</p></div>",
+      "chat": ""
+    },
+    "level": 0,
+    "school": "trs",
+    "properties": ["vocal", "somatic", "material"],
+    "materials": {
+      "value": "the stem of a plant with thorns",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": ""
+      },
+      "affects": {
+        "count": "1",
+        "type": "creature",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "9",
+      "units": "m"
+    },
+    "activation": {
+      "type": "action",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "0",
+      "units": "inst"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "always",
+      "prepared": true
+    },
+    "activities": {
+      "mcGG7vEay15ekjnQ": {
+        "_id": "mcGG7vEay15ekjnQ",
+        "type": "attack",
+        "name": "",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "attack": {
+          "critical": {
+            "threshold": null
+          },
+          "flat": false,
+          "type": {
+            "value": "melee"
+          }
+        },
+        "damage": {
+          "critical": {},
+          "includeBase": true,
+          "parts": [
+            {
+              "types": ["piercing"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "whole",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "thorn-whip"
+  },
+  "img": "icons/magic/nature/vines-thorned-glow-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "5sfnKjibpomY4yAH",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740609587365,
+    "modifiedTime": 1740609587365,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!dP7yRlHIhtDQTuwC"
+}

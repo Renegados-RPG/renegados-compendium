@@ -1,0 +1,166 @@
+{
+  "_id": "x46A5lzU8HrhQlwd",
+  "name": "Centaur",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>12 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Creature Type.</strong></span> You are a Fey.</p></div><div data-roll-name-ancestor=\"Charge\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Charge.</strong></span> If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves.</p></div><div data-roll-name-ancestor=\"Equine Build\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Equine Build.</strong></span> You count as one size larger when determining your carrying capacity and the weight you can push or drag.</p><p>In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet instead of the normal 1 extra foot.</p></div><div data-roll-name-ancestor=\"Hooves\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Hooves.</strong></span> You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals [[/damage 1d6]] + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.</p></div><div data-roll-name-ancestor=\"Natural Affinity\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Natural Affinity.</strong></span> Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: &amp;Reference[skill=AnimalHandling]{Animal Handling}, &amp;Reference[skill=Medicine], &amp;Reference[skill=Nature], or &amp;Reference[skill=Survival].</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "9",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 12,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "fey",
+      "subtype": "centaur",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "YRDCYe5nP5FZoonx",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "dwlzwEEdk6RkKTbW",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "xaDrjKHfmdtM2AKa",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "uUNlVzxMK6LRTINF",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.CUOQH618HogquXDK",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.dw8366JoW4d5IL6t",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.ePFRQijJeLJ6Q08K",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "RtE5yk2DTl0KeQiR",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["skills:ani", "skills:med", "skills:nat", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "identifier": "centaur"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Centaur.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "tIv7LCm4akT2DCpr",
+  "_stats": {
+    "compendiumSource": "Item.BJRsM88Mr03MfsJJ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740617884720,
+    "modifiedTime": 1740677182079,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!x46A5lzU8HrhQlwd"
+}

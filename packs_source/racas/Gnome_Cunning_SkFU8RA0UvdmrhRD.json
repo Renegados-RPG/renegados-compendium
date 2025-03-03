@@ -1,0 +1,60 @@
+{
+  "name": "Gnome Cunning",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "race",
+      "subtype": ""
+    },
+    "requirements": "Gnome",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "gnome-cunning",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+  "effects": [],
+  "folder": "3FBCIx5g2FToV6KD",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.races.Item.EHhr9umJ5kxJFCQH",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740794620636,
+    "modifiedTime": 1740794620691,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "SkFU8RA0UvdmrhRD",
+  "sort": 100000,
+  "_key": "!items!SkFU8RA0UvdmrhRD"
+}

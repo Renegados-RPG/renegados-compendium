@@ -1,0 +1,162 @@
+{
+  "_id": "NENY1U8mYX5lQkFo",
+  "name": "Hound of Ill Omen",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a @creature[hound of ill omen|XGE] to target one creature you can see within 120 feet of you. The hound uses the @creature[dire wolf]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:</p><ul class=\"rd__list\"><li class=\"rd__li \">The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.</li><li class=\"rd__li \">It appears with a number of temporary hit points equal to half your sorcerer level.</li><li class=\"rd__li \">It can move through other creatures and objects as if they were &amp;Reference[rule=difficultterrain]{difficult terrain}. The hound takes 5 force damage if it ends its turn inside an object.</li><li class=\"rd__li \">At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.</li></ul><p>The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound can make opportunity attacks, but only against its target. Additionally, while the hound is within 5 feet of the target, the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 6 (Shadow)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "BpGR5QhEMDrioEgP": {
+        "_id": "BpGR5QhEMDrioEgP",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "36",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      },
+      "dnd5eactivity000": {
+        "type": "utility",
+        "target": {
+          "affects": {
+            "count": "1",
+            "type": "creature",
+            "choice": false
+          },
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "override": false,
+          "prompt": true
+        },
+        "_id": "dnd5eactivity000",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "hound-of-ill-omen",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "rNsUjTondnzks3qk",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740766819979,
+    "modifiedTime": 1740766819979,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!NENY1U8mYX5lQkFo"
+}

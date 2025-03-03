@@ -1,0 +1,199 @@
+{
+  "_id": "mjxL5UnfClZDSvnE",
+  "name": "Arcane Jolt",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "18",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:</p><ul class=\"rd__list\"><li class=\"rd__li \">The target takes an extra [[/damage 2d6 type=force]] damage.</li><li class=\"rd__li \">Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring [[/r 2d6]] hit points to it.</li></ul><p>You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 9 (Battle Smith)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "XVDPjvS6GrgNS6aM": {
+        "_id": "XVDPjvS6GrgNS6aM",
+        "type": "damage",
+        "name": "Damage: 2d6 Force Damage",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 2,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "1HjDdvyRPGiVERbw": {
+        "_id": "1HjDdvyRPGiVERbw",
+        "type": "heal",
+        "name": "Heal",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "number": 2,
+          "denomination": 6,
+          "bonus": "",
+          "scaling": {
+            "mode": "",
+            "number": 1
+          },
+          "custom": {
+            "enabled": false
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "arcane-jolt",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "1mNvUazlW3jdMC3C",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740074341403,
+    "modifiedTime": 1740074769789,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 100000,
+  "_key": "!items!mjxL5UnfClZDSvnE"
+}

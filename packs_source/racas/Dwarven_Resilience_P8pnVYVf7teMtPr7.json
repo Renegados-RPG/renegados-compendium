@@ -1,0 +1,60 @@
+{
+  "name": "Dwarven Resilience",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on saving throws against poison, and you have resistance against poison damage.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "race",
+      "subtype": ""
+    },
+    "requirements": "Dwarf",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "dwarven-resilience",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/creatures/abilities/stinger-poison-green.webp",
+  "effects": [],
+  "folder": "hZxSUV5HfjChchN0",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.races.Item.ufysTkqet2Ctmtyi",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740779833501,
+    "modifiedTime": 1740779833553,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "P8pnVYVf7teMtPr7",
+  "sort": 100000,
+  "_key": "!items!P8pnVYVf7teMtPr7"
+}

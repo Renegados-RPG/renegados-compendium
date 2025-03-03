@@ -1,0 +1,130 @@
+{
+  "_id": "I18GamaeJ19OYJcE",
+  "name": "Shadow Magic",
+  "type": "subclass",
+  "system": {
+    "identifier": "shadow-magic",
+    "classIdentifier": "sorcerer",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div class=\"rd__b  rd__b--1\"><p>You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.</p><p>The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Shadow Sorcerer Quirks\"><caption>Shadow Sorcerer Quirks</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\"><span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d6</span></th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Quirk</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">You are always icy cold to the touch.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">When you are asleep, you don't appear to breathe (though you must still breathe to survive).</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">You barely bleed, even when badly injured.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Your heart beats once per minute. This event sometimes surprises you.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">You have trouble remembering that living creatures and corpses should be treated differently.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">You blinked. Once. Last week.</td></tr></tbody></table><div data-roll-name-ancestor=\"Eyes of the Dark\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Eyes of the Dark</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 50\">p50</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 1st level, you have <span class=\"help help--hover\" data-vet-page=\"sense\" data-vet-source=\"PHB\" data-vet-hash=\"darkvision_phb\" data-vet-is-faux-page=\"true\" data-vet-is-allow-redirect=\"true\">darkvision</span> with a range of 120 feet.</p><p>When you reach 3rd level in this class, you learn the <a href=\"https://5e.tools/spells.html#darkness_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"darkness_phb\" data-vet-is-allow-redirect=\"true\">darkness</a> spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the <a href=\"https://5e.tools/spells.html#darkness_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"darkness_phb\" data-vet-is-allow-redirect=\"true\">darkness</a> created by the spell.</p></div><div data-roll-name-ancestor=\"Strength of the Grave\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Strength of the Grave</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 50\">p50</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC <span class=\"rd__dc\">5</span> + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.</p><p>After the saving throw succeeds, you can't use this feature again until you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Shadow Magic\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Shadow Magic</span></h2><p>You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.</p><p>The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Shadow Sorcerer Quirks\"><caption>Shadow Sorcerer Quirks</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Quirk</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">You are always icy cold to the touch.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">When you are asleep, you don't appear to breathe (though you must still breathe to survive).</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">You barely bleed, even when badly injured.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Your heart beats once per minute. This event sometimes surprises you.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">You have trouble remembering that living creatures and corpses should be treated differently.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">You blinked. Once. Last week.</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 1: Eyes of the Dark\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 1: Eyes of the Dark</span></h3><p>Starting at 1st level, you have &amp;Reference[rule=darkvision] with a range of 120 feet.</p><p>When you reach 3rd level in this class, you learn the @UUID[Compendium.renegados-compendium.magias.Item.lALNrBclVabr7b7r] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the @UUID[Compendium.renegados-compendium.magias.Item.lALNrBclVabr7b7r] created by the spell.</p></div><div data-roll-name-ancestor=\"Level 1: Strength of the Grave\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 1: Strength of the Grave</span></h3><p>Starting at 1st level, your existence in a twilight state between life and death makes you difficult to defeat. When damage reduces you to 0 hit points, you can make a Charisma saving throw (DC <span class=\"rd__dc\">5</span> + the damage taken). On a success, you instead drop to 1 hit point. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit.</p><p>After the saving throw succeeds, you can't use this feature again until you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Hound of Ill Omen\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 6: Hound of Ill Omen</span></h3><p>At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a @creature[hound of ill omen|XGE] to target one creature you can see within 120 feet of you. The hound uses the @creature[dire wolf]'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:</p><ul class=\"rd__list\"><li class=\"rd__li \">The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.</li><li class=\"rd__li \">It appears with a number of temporary hit points equal to half your sorcerer level.</li><li class=\"rd__li \">It can move through other creatures and objects as if they were &amp;Reference[rule=difficultterrain]{difficult terrain}. The hound takes 5 force damage if it ends its turn inside an object.</li><li class=\"rd__li \">At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.</li></ul><p>The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound can make opportunity attacks, but only against its target. Additionally, while the hound is within 5 feet of the target, the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Shadow Walk\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 14: Shadow Walk</span></h3><p>At 14th level, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can magically teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 18: Umbral Form\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 18: Umbral Form</span></h3><p>Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were &amp;Reference[rule=difficultterrain]{difficult terrain}. You take 5 force damage if you end your turn inside an object.</p><p>You remain in this form for 1 minute. It ends early if you are &amp;Reference[condition=incapacitated], if you die, or if you dismiss it as a bonus action.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "czxC63ow87OVp6dq",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ZnIOp7dBAjt7jsZM",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kXo7d3ypYAhscTwo",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ujUT08tr4oofh3mw",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.NENY1U8mYX5lQkFo",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "ZVTMgrwypmVQ9QLj"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jN7u8vxK4zkrkacU",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "pGGZf5xVBkn0iPn1"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.I1E60pdAXijFcRgU",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features",
+        "hint": "",
+        "_id": "slNPadwl3zYa9l6G"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/control/fear-fright-shadow-monster-red.webp",
+  "folder": "cIZ4YYVhvl2dIYHy",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740791821844,
+    "modifiedTime": 1740795386054,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!I18GamaeJ19OYJcE"
+}

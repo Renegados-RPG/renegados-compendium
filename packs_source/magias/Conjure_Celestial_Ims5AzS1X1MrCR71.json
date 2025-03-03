@@ -1,0 +1,169 @@
+{
+  "_id": "Ims5AzS1X1MrCR71",
+  "name": "Conjure Celestial",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "225",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You summon a <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;4,flsttype:celestial=1,flstmiscellaneous:swarm=2\">celestial of challenge rating 4 or lower</a>, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.</p><p>The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.</p><p>The DM has @creature[couatl||the celestial]'s statistics.</p></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"At Higher Levels\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">At Higher Levels.</span></span> When you cast this spell using a 9th-level spell slot, you summon a <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;5,flsttype:celestial=1,flstmiscellaneous:swarm=2\">celestial of challenge rating 5 or lower</a>.</p></div></div>",
+      "chat": ""
+    },
+    "level": 7,
+    "school": "con",
+    "properties": ["vocal", "somatic", "concentration"],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "contiguous": false,
+        "units": "any"
+      },
+      "affects": {
+        "type": "space",
+        "choice": false
+      }
+    },
+    "range": {
+      "value": "27",
+      "units": "m"
+    },
+    "activation": {
+      "type": "minute",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "summon",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "range": {
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "bonuses": {
+          "ac": "",
+          "hd": "",
+          "hp": "",
+          "attackDamage": "",
+          "saveDamage": "",
+          "healing": ""
+        },
+        "creatureSizes": [],
+        "creatureTypes": [],
+        "match": {
+          "attacks": false,
+          "proficiency": false,
+          "saves": false
+        },
+        "profiles": [
+          {
+            "count": "1",
+            "cr": "@item.level - 3",
+            "name": "",
+            "_id": "4exNRoIOFTvFrefI",
+            "uuid": "",
+            "level": {
+              "min": null,
+              "max": null
+            },
+            "types": ["celestial"]
+          }
+        ],
+        "summon": {
+          "identifier": "",
+          "mode": "cr",
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0,
+        "effects": []
+      }
+    },
+    "identifier": "conjure-celestial"
+  },
+  "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [],
+  "folder": "jlzt5grwuPkCnFGY",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740609448769,
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!Ims5AzS1X1MrCR71"
+}

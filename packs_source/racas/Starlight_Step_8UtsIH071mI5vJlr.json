@@ -1,0 +1,61 @@
+{
+  "name": "Starlight Step",
+  "type": "feat",
+  "_id": "8UtsIH071mI5vJlr",
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "@prof"
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Starlight Step\" class=\"rd__b  rd__b--3\"><p>As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": ["mgc"],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "XBcHxl9H8Jtd8jzt",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.Qz9lnwG7ZRZ2C1KE",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740445659610,
+    "modifiedTime": 1740794550611,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!8UtsIH071mI5vJlr"
+}

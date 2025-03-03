@@ -1,0 +1,56 @@
+{
+  "name": "Deathless Nature",
+  "type": "feat",
+  "_id": "CVXMPWvk2s7CoRKi",
+  "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Deathless Nature\" class=\"rd__b  rd__b--3\"><p>You don't need to breathe.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "deathless-nature",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "6Amc3hMovN6bKAGL",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.drpmP7T1RHz3Vdne",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740620198461,
+    "modifiedTime": 1740620198508,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!CVXMPWvk2s7CoRKi"
+}

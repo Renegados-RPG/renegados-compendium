@@ -1,0 +1,133 @@
+{
+  "name": "Stone's Endurance",
+  "type": "feat",
+  "_id": "ixGzRzQ7cJ2FDL3k",
+  "img": "icons/magic/earth/strike-fist-stone-light.webp",
+  "system": {
+    "activities": {
+      "woI98TlPpVYryqNj": {
+        "type": "utility",
+        "_id": "woI98TlPpVYryqNj",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": "",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "1d12 + @abilities.con.mod",
+          "name": ""
+        },
+        "name": ""
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "@prof"
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Stone's Endurance\" class=\"rd__b  rd__b--3\"><p>You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a [[/r d12]]. Add your Constitution modifier to the number rolled and reduce the damage by that total.</p><p>You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "little-giant",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "fIhQQRaI9Dk9tF0r",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.DPTjVLN8hkJnqJ0g",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740795611996,
+    "modifiedTime": 1740795612054,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!ixGzRzQ7cJ2FDL3k"
+}

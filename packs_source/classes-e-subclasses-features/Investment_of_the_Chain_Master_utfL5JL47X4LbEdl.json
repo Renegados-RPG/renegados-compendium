@@ -1,0 +1,107 @@
+{
+  "_id": "utfL5JL47X4LbEdl",
+  "name": "Investment of the Chain Master",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "71",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: Pact of the Chain</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When you cast @UUID[Compendium.renegados-compendium.magias.Item.KPmL9LiJ0dfpThSj], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.</li><li class=\"rd__li \">As a bonus action, you can command the familiar to take the @action[Attack] action.</li><li class=\"rd__li \">The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.</li><li class=\"rd__li \">If the familiar forces a creature to make a saving throw, it uses your spell save DC.</li><li class=\"rd__li \">When the familiar takes damage, you can use your reaction to grant it resistance against that damage.</li></ul></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "Pact of the Chain",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "eldritchInvocation"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "Ir4hE25wiulTUqhM": {
+        "_id": "Ir4hE25wiulTUqhM",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "investment-of-the-chain-master",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/control/debuff-chains-orb-movement-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "gTeiHzLTxZ0Ebpj3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796435767,
+    "modifiedTime": 1740796435767,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!utfL5JL47X4LbEdl"
+}

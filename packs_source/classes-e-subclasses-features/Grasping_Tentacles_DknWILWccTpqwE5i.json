@@ -1,0 +1,65 @@
+{
+  "_id": "DknWILWccTpqwE5i",
+  "name": "Grasping Tentacles",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "72",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level Fathomless feature</i></p><p>You learn the spell @UUID[Compendium.renegados-compendium.magias.Item.FdpX0wMk2o8DEZm4]. It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.</p><p>Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your @status[concentration] on this spell.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 10 (Fathomless)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "grasping-tentacles",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "54Sz0cgAezIzhMvm",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796152369,
+    "modifiedTime": 1740796152369,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!DknWILWccTpqwE5i"
+}

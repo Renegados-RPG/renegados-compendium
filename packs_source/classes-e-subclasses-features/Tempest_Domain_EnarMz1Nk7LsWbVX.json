@@ -1,0 +1,141 @@
+{
+  "_id": "EnarMz1Nk7LsWbVX",
+  "name": "Tempest Domain",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "62",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Gods whose portfolios include the Tempest domain—including @deity[Talos], @deity[Umberlee], @deity[Kord|Greyhawk], @deity[Zeboim|Dragonlance], @deity[the Devourer|Eberron], @deity[Zeus|Greek], and @deity[Thor|Norse]—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><p>At each indicated cleric level, you add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Tempest Domain Spells\"><caption>Tempest Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.cE2CzvJbuIzgH913], @UUID[Compendium.renegados-compendium.magias.Item.eblKmCn9x7A9n3IM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.4mwMeYMmmaGE9nqk], @UUID[Compendium.renegados-compendium.magias.Item.sFwnTTVcEb0dY5By]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ryT4r1jmsCDsv7lr], @UUID[Compendium.renegados-compendium.magias.Item.WMLFxFqcE9rHJrop]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.rhv5Xc3Fofp7JLf9], @UUID[Compendium.renegados-compendium.magias.Item.CJCgztZM5tlA3HlJ]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.QH4aPCtQcUBlFAN8], @UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY]</td></tr></tbody></table><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p62\">Bonus Proficiencies</span></h3><p>At 1st level, you gain proficiency with martial weapons and heavy armor.</p></div><div data-roll-name-ancestor=\"Wrath of the Storm\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"></h3></div></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 1 (Tempest)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "13uVAHe9gMC0j3Rl": {
+        "_id": "13uVAHe9gMC0j3Rl",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "When a creature within 5 feet of you that you can see hits you with an attack, you can use",
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["dex"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["lightning", "thunder"],
+              "number": 2,
+              "denomination": 8,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "tempest-domain",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/lightning/bolt-cloud-sky-white.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "4R9HFJb74oxV8bX7",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740755857275,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!EnarMz1Nk7LsWbVX"
+}

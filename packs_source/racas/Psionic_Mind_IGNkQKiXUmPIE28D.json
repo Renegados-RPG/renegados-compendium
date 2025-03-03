@@ -1,0 +1,56 @@
+{
+  "name": "Psionic Mind",
+  "type": "feat",
+  "_id": "IGNkQKiXUmPIE28D",
+  "img": "icons/skills/social/diplomacy-peace-alliance.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Psionic Mind\" class=\"rd__b  rd__b--3\"><p>You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "psionic-mind",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "f95UttTddRdwRAZh",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.n0tJLz1U6pMZWO6P",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740622120713,
+    "modifiedTime": 1740622189484,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!IGNkQKiXUmPIE28D"
+}

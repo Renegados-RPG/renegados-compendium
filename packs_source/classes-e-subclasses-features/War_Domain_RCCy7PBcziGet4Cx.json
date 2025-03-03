@@ -1,0 +1,119 @@
+{
+  "_id": "RCCy7PBcziGet4Cx",
+  "name": "War Domain",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "63",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as @deity[Torm], @deity[Heironeous|Greyhawk], and @deity[Kiri-Jolith|Dragonlance]) as well as gods of destruction and pillage (such as @deity[Erythnul|Greyhawk], @deity[the Fury|Eberron], @deity[Gruumsh|Nonhuman], and @deity[Ares|Greek]) and gods of conquest and domination (such as @deity[Bane], @deity[Hextor|Greyhawk], and @deity[Maglubiyet|Nonhuman]). Other war gods (such as @deity[Tempus], @deity[Nike|Greek], and @deity[Nuada|Celtic]) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.</p><p>At each indicated cleric level, add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"War Domain Spells\"><caption>War Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.GSEiPhlJDYcUWKKs], @UUID[Compendium.renegados-compendium.magias.Item.4125VDnzVJDlwM8y]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DGin0pShUvQVZU8h], @UUID[Compendium.renegados-compendium.magias.Item.uZY9ONnxfqjBH9sx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.tjf2EVB7t4hf959I], @UUID[Compendium.renegados-compendium.magias.Item.2amhiyHb4TSbDA10]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy], @UUID[Compendium.renegados-compendium.magias.Item.5FDreatLWrKMlwrx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX], @UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z]</td></tr></tbody></table><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">Bonus Proficiencies</span></h3> <p>At 1st level, you gain proficiency with martial weapons and heavy armor.</p></div><div data-roll-name-ancestor=\"War Priest\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p63\">War Priest</span></h3> <p>From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the @action[Attack] action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 1 (War)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "uF6wqXg7YbeyRMt2": {
+        "_id": "uF6wqXg7YbeyRMt2",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "war-domain",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/weapons/axes/axe-double-white-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Ep0IT1dbVaUmt8Nl",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740761459574,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!RCCy7PBcziGet4Cx"
+}

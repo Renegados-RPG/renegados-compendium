@@ -1,0 +1,60 @@
+{
+  "_id": "s201EKrtCIl1FYWw",
+  "name": "Order Domain",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "31",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include @deity[Bane], @deity[Tyr], @deity[Majere|Dragonlance], @deity[Erathis|Dawn War|DMG], @deity[Pholtus|Greyhawk], @deity[Wee Jas|Greyhawk], @deity[Aureon|Eberron], @deity[Maglubiyet|Nonhuman], @deity[Nuada|Celtic], @deity[Athena|Greek], @deity[Anubis|Egyptian], @deity[Forseti|Norse], and @deity[Asmodeus|Dawn War|DMG].</p><p>The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.</p><p>Law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.</p><p>At each indicated cleric level, you add the listed spells to your spells prepared.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Order Domain Spells\"><caption>Order Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.059ykAUf9mtHLUqZ], @UUID[Compendium.renegados-compendium.magias.Item.wEHJRD0sxYCGy1u0]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd], @UUID[Compendium.renegados-compendium.magias.Item.JzPRSOWP4QCgwcSg]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.U0SCH3Fzm8B6LA7G], @UUID[Compendium.renegados-compendium.magias.Item.Jy9EsDCVMM8fwfyX]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.lzRsEE9PbJNKZnRA], @UUID[Compendium.renegados-compendium.magias.Item.0oIH0CNdwmRNBqZX]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.em2lgcx5wQyfiHIM], @UUID[Compendium.renegados-compendium.magias.Item.3WZ3Tq2PoYmP6m7R]</td></tr></tbody></table><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p31\">Bonus Proficiencies</span></h3><p>When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the &amp;Reference[skill=Intimidation] or &amp;Reference[skill=Persuasion] skill (your choice).</p></div><div data-roll-name-ancestor=\"Voice of Authority\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"></h3></div></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 1 (Order)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "order-domain",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/sundries/scrolls/scroll-writing-orange-black.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Yt8uwNV36bFwFRxr",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740753916923,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!s201EKrtCIl1FYWw"
+}

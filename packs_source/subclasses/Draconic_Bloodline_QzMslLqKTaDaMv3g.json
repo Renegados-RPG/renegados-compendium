@@ -1,0 +1,130 @@
+{
+  "_id": "QzMslLqKTaDaMv3g",
+  "name": "Draconic Bloodline",
+  "type": "subclass",
+  "system": {
+    "identifier": "draconic-bloodline",
+    "classIdentifier": "sorcerer",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div class=\"rd__b  rd__b--1\"><p>Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.</p><div data-roll-name-ancestor=\"Dragon Ancestor\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Dragon Ancestor</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 102\">p102</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Draconic Ancestry\"><caption>Draconic Ancestry</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragon</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Damage Type</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Black</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Blue</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Brass</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Bronze</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Copper</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Gold</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Green</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:poison=1,flstclass:sorcerer=1\">Poison</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Red</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Silver</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">White</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr></tbody></table><p>You can speak, read, and write <a href=\"https://5e.tools/languages.html#draconic_phb\" data-vet-page=\"languages.html\" data-vet-source=\"PHB\" data-vet-hash=\"draconic_phb\" data-vet-is-allow-redirect=\"true\">Draconic</a>. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p></div><div data-roll-name-ancestor=\"Draconic Resilience\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Draconic Resilience</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 102\">p102</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</p><p>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Draconic Bloodline\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Draconic Bloodline</span></h2><p>Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.</p><div data-roll-name-ancestor=\"Level 1: Dragon Ancestor\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Level 1: Dragon Ancestor</span></h3><p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Draconic Ancestry\"><caption>Draconic Ancestry</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragon</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Damage Type</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Black</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Blue</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Brass</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Bronze</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Copper</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Gold</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Green</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:poison=1,flstclass:sorcerer=1\">Poison</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Red</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Silver</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">White</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr></tbody></table><p>You can speak, read, and write @language[Draconic]. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p></div><div data-roll-name-ancestor=\"Level 1: Draconic Resilience\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Level 1: Draconic Resilience</span></h3><p>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</p><p>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Elemental Affinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Level 6: Elemental Affinity</span></h3><p>Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Dragon Wings\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Level 14: Dragon Wings</span></h3><p>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.</p><p>You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 18: Draconic Presence\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Level 18: Draconic Presence</span></h3><p>Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or &amp;Reference[condition=frightened]. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your @status[concentration] (as if you were casting a @status[concentration] spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be &amp;Reference[condition=charmed] (if you chose awe) or &amp;Reference[condition=frightened] (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "102",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "Iw6kIHAVpJNPN9HH",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.o5lpf7AK2bmpCB9Q",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3CrMqyky6rRYbTmP",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kaoJjBJ6enyUjN7n",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.AFo87xovPPXZv2Mm",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "ygj4IRyot0tU1TZH"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.D97S29jP8lUPeQDQ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "rb7pdBVM8fGYwoQx"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Rb47cIVknyvUTEpJ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features",
+        "hint": "",
+        "_id": "o2CNzJpShCSqvLkn"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "folder": "cIZ4YYVhvl2dIYHy",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740791821844,
+    "modifiedTime": 1740795141032,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!QzMslLqKTaDaMv3g"
+}

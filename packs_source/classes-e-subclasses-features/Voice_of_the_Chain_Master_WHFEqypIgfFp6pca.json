@@ -1,0 +1,60 @@
+{
+  "_id": "WHFEqypIgfFp6pca",
+  "name": "Voice of the Chain Master",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: Pact of the Chain</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "111",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": "eldritchInvocation"
+    },
+    "requirements": "Pact of the Chain",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "voice-of-the-chain-master",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "gTeiHzLTxZ0Ebpj3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796435767,
+    "modifiedTime": 1740796435767,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!WHFEqypIgfFp6pca"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "3CrMqyky6rRYbTmP",
+  "name": "Dragon Ancestor",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Draconic Ancestry\"><caption>Draconic Ancestry</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragon</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Damage Type</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Black</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Blue</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Brass</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Bronze</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:lightning=1,flstclass:sorcerer=1\">Lightning</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Copper</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:acid=1,flstclass:sorcerer=1\">Acid</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Gold</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Green</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:poison=1,flstclass:sorcerer=1\">Poison</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Red</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:fire=1,flstclass:sorcerer=1\">Fire</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Silver</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">White</td><td class=\"rd__th ve-col-6 ve-text-center \"><a href=\"https://5e.tools/spells.html#blankhash,flstdamage%20type:cold=1,flstclass:sorcerer=1\">Cold</a></td></tr></tbody></table><p>You can speak, read, and write @language[Draconic]. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "102",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Draconic Bloodline 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "dragon-ancestor",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+  "folder": "JHTI90YqUUz4nCy1",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740766819979,
+    "modifiedTime": 1740766819979,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!3CrMqyky6rRYbTmP"
+}

@@ -1,0 +1,170 @@
+{
+  "_id": "J2qVTEZOADbljrfq",
+  "name": "Grave Domain",
+  "type": "subclass",
+  "system": {
+    "identifier": "grave-domain",
+    "classIdentifier": "cleric",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Grave Domain\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Grave Domain</span></h2><p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include @deity[Kelemvor], @deity[Wee Jas|Greyhawk], the ancestral spirits of @deity[the Undying Court|Eberron], @deity[Hades|Greek], @deity[Anubis|Egyptian], and @deity[Osiris|Egyptian]. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Grave Domain Spells\"><caption>Grave Domain Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Cleric Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DInqnI65JCzaQ7f9], @UUID[Compendium.renegados-compendium.magias.Item.OoyAwPmZZayeaLRR]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.khdRofOAAY0hCY3m], @UUID[Compendium.renegados-compendium.magias.Item.Uj3q2Hr48Wum04sT]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.d1r1XaTWxmNkqP1Q], @UUID[Compendium.renegados-compendium.magias.Item.d4DYNAzTAWizVKAd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.UV4GyphtilEUf377], @UUID[Compendium.renegados-compendium.magias.Item.52bBpxkRUEWctfzt]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.zwC8facBpZbEC2cz], @UUID[Compendium.renegados-compendium.magias.Item.VlLtL2TttzBX5UPi]</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 1: Circle of Mortality\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Level 1: Circle of Mortality</span></h3><p>At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.</p><p>In addition, you learn the @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.</p></div><div data-roll-name-ancestor=\"Level 1: Eyes of the Grave\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Level 1: Eyes of the Grave</span></h3><p>At 1st level, you gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind &amp;Reference[rule=totalcover]{total cover} and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 2: Channel Divinity: Path to the Grave\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Level 2: Channel Divinity: Path to the Grave</span></h3><p>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</p><p>As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Sentinel at Death's Door\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Level 6: Sentinel at Death's Door</span></h3><p>At 6th level, you gain the ability to impede death's progress. As a reaction when you or a creature you can see within 30 feet of you suffers a critical hit, you can turn that hit into a normal hit. Any effects triggered by a critical hit are canceled.</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Potent Spellcasting\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Level 8: Potent Spellcasting</span></h3><p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 8: Blessed Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p30\">Level 8: Blessed Strikes</span></h3><p><em>8th-level cleric @variantrule[optional class features|tce|optional feature], which replaces the Potent Spellcasting feature</em></p><p>You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal [[/damage 1d8 type=radiant]] damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Keeper of Souls\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Level 17: Keeper of Souls</span></h3><p>Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't &amp;Reference[condition=incapacitated]. Once you use it, you can't do so again until the start of your next turn.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "19",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "kz2XeTGrHMX9Bwy4",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.69dvT07bDempbhsB",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Afoj7WlaNupNXZuD",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.UeTvcA3n8mD17iax",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "bZF8H39rUsMBUa2H",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Circle of Mortality",
+        "hint": ""
+      },
+      {
+        "_id": "Sc9mnbSqrjWbOzaB",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.tDqg2ObAXsE2Dkvy"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.spRxTMsHt34LNRyb"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Feature",
+        "hint": "",
+        "_id": "Gt4OhRKeaKvYyEvj"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kXe4PpmY90P3usAK"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Kmrz2OaMEOMnKTWx"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 8,
+        "title": "Feature",
+        "hint": "",
+        "_id": "xBTHFZGjZWaq8AaF"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.0M6qEjGPOg5shCjb",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Feature",
+        "hint": "",
+        "_id": "7tpVppPzf4SRRAdu"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+  "folder": "Urx2eYyUy28giX4D",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707154864,
+    "modifiedTime": 1740751970533,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!J2qVTEZOADbljrfq"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wild Magic",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 900000,
+  "sorting": "a",
+  "folder": "EZKLByyNnfexRGJh",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740696634567,
+    "modifiedTime": 1740696673198,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "5nb4JzvlJDP9ts0y",
+  "_key": "!folders!5nb4JzvlJDP9ts0y"
+}

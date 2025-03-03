@@ -1,0 +1,22 @@
+{
+  "name": "Order",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "yykRMfmKEESCS1ge",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": 1740755274570,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "Yt8uwNV36bFwFRxr",
+  "_key": "!folders!Yt8uwNV36bFwFRxr"
+}

@@ -1,0 +1,121 @@
+{
+  "_id": "5GN1JPXGYc9epB76",
+  "name": "The Celestial",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "54",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.</p><p>Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world.</p><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Expanded Spell List</span></h3> <p>The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Celestial Expanded Spells\"><caption>Celestial Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2], @UUID[Compendium.renegados-compendium.magias.Item.NXkqzlAbLPC4ikPt]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.g3uf6SyGXp0e3tRB], @UUID[Compendium.renegados-compendium.magias.Item.bc0gULngyESb3CEo]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ha0l9N35ICYHC0q4], @UUID[Compendium.renegados-compendium.magias.Item.d1r1XaTWxmNkqP1Q]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.kLtXK4xav3C20iHc], @UUID[Compendium.renegados-compendium.magias.Item.VLVLp92QAZm5LMZF]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX], @UUID[Compendium.renegados-compendium.magias.Item.4E8gIdRL0xsnr0SG]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Bonus Cantrips\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p54\">Bonus Cantrips</span></h3> <p>At 1st level, you learn the @UUID[Compendium.renegados-compendium.magias.Item.C6cH4uz7lVDZ3qEQ] and @UUID[Compendium.renegados-compendium.magias.Item.Er9lqCVyk6dPcWqC] cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.</p></div><div data-roll-name-ancestor=\"Healing Light\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p54\">Healing Light</span></h3> <p>At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of [[/r d6]]s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.</p><p>As a bonus action, you can heal one creature you can see within 60 feet of you, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.</p><p>Your pool regains all expended dice when you finish a long rest.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 3 (Celestial)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "nfASE6t4Ymzg9PCs": {
+        "_id": "nfASE6t4Ymzg9PCs",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "18",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "the-celestial",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "A7YnaOsxfqmRob27",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796152369,
+    "modifiedTime": 1740796152369,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!5GN1JPXGYc9epB76"
+}

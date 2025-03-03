@@ -1,0 +1,119 @@
+{
+  "_id": "UeTvcA3n8mD17iax",
+  "name": "Eyes of the Grave",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "19",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p19\">Eyes of the Grave</span></h3><div data-roll-name-ancestor=\"Eyes of the Grave\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><p>At 1st level, you gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind &amp;Reference[rule=totalcover]{total cover} and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 3 (Grave)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "GYc2kAFW9iLPgCHZ": {
+        "_id": "GYc2kAFW9iLPgCHZ",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "grave-domain",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/perception/eye-slit-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "8ZuYrZJC5Yiy9ic1",
+  "_stats": {
+    "compendiumSource": "Item.Afoj7WlaNupNXZuD",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740751682803,
+    "modifiedTime": 1740751763088,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 300000,
+  "_key": "!items!UeTvcA3n8mD17iax"
+}

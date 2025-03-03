@@ -1,0 +1,106 @@
+{
+  "name": "Mechanical Nature",
+  "type": "feat",
+  "_id": "YgF2qbo9q4SDT8ht",
+  "img": "icons/commodities/metal/clasp-skull-jeweled-red.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Mechanical Nature\" class=\"rd__b  rd__b--3\"><p>You have resistance to poison damage and immunity to disease, and you have advantage on saving throws against being &amp;Reference[condition=paralyzed] or &amp;Reference[condition=poisoned]. You don't need to eat, drink, or breathe.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Mechanical Nature",
+      "img": "icons/commodities/metal/clasp-skull-jeweled-red.webp",
+      "origin": "Item.WdVREpYegyxWT0V9",
+      "_id": "yAa5H3gdVfadAW7P",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "poison",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!YgF2qbo9q4SDT8ht.yAa5H3gdVfadAW7P"
+    }
+  ],
+  "folder": "NxeGlNpsY4aeI6ff",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.WdVREpYegyxWT0V9",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740447708019,
+    "modifiedTime": 1740447708064,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!YgF2qbo9q4SDT8ht"
+}

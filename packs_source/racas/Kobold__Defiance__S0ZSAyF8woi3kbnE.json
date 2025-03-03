@@ -1,0 +1,141 @@
+{
+  "_id": "S0ZSAyF8woi3kbnE",
+  "name": "Kobold (Defiance)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small</p></td><td class=\"ve-text-center\"><p>30 ft.</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Draconic Cry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Draconic Cry.</strong></span> As a bonus action, you let out a cry at your enemies within 10 feet of you. Until the start of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Kobold Legacy\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Kobold Legacy.</strong></span> Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Defiance\"><span class=\"bold rd__list-item-name\">Defiance.</span> You have advantage on saving throws to avoid or end the &amp;Reference[condition=frightened] condition on yourself.</p></li></ul></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Some of the smallest draconic creatures in the multiverse, kobolds display their draconic ancestry in the glint of their scales and in their roars. Legends tell of the first kobolds emerging from the Underdark near the lairs of the earliest dragons. In some lands, kobolds serve chromatic or metallic dragons—even worshiping them as divine beings. In other places, kobolds know too well how dangerous those dragons can be and help others defend against draconic destruction.</p><p>Whatever their relationship to dragons, kobold scales tend to be rust colored, although the occasional kobold sports a scale color more akin to that of a chromatic or a metallic dragon. A kobold's cry can express a range of emotion: anger, resolve, elation, fear, and more. Regardless of the emotion expressed, their cry resonates with draconic power.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "25",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "kobold",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "2RWXKrOh8L6cAdRX",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "UM8Oa6WsoXfOT2RQ",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm"]
+        },
+        "value": {
+          "size": "sm"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "bYk9B7hjgJm74WUu",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Languages",
+        "hint": ""
+      },
+      {
+        "_id": "gm5VpHhhsO0Jg9TB",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.pchqoahd0rcoQI6f",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.gkiO1ojlPqRdXT1V",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "identifier": "kobold-def"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Kobold.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "ASWShpWrXtj0Vb8q",
+  "_stats": {
+    "compendiumSource": "Item.b3atCLSsRGvLc5zN",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740459485973,
+    "modifiedTime": 1740677271423,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!S0ZSAyF8woi3kbnE"
+}

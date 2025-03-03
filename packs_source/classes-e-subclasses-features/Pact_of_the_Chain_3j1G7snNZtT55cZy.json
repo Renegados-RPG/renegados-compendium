@@ -1,0 +1,60 @@
+{
+  "_id": "3j1G7snNZtT55cZy",
+  "name": "Pact of the Chain",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn the @UUID[Compendium.renegados-compendium.magias.Item.KPmL9LiJ0dfpThSj] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</p><p>When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: @creature[imp], @creature[pseudodragon], @creature[quasit], or @creature[sprite].</p><p>Additionally, when you take the @action[Attack] action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "107",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": "pact"
+    },
+    "requirements": "",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "pact-of-the-chain",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Xqd9s7TFtb45wghS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740885528449,
+    "modifiedTime": 1740885528449,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!3j1G7snNZtT55cZy"
+}

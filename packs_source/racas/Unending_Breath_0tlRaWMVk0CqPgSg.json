@@ -1,0 +1,56 @@
+{
+  "name": "Unending Breath",
+  "type": "feat",
+  "_id": "0tlRaWMVk0CqPgSg",
+  "img": "icons/magic/air/air-wave-gust-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Unending Breath\" class=\"rd__b  rd__b--3\"><p>You can hold your breath indefinitely while you're not &amp;Reference[condition=incapacitated].</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "uyPTXAb7Ct1pavDw",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.rLSDJ3oYeKl1ZC7c",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740692614449,
+    "modifiedTime": 1740692614571,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!0tlRaWMVk0CqPgSg"
+}

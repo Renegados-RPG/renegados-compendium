@@ -1,16 +1,14 @@
-import { extractPack, compilePack } from "@foundryvtt/foundryvtt-cli";
+import { extractPack } from "@foundryvtt/foundryvtt-cli";
 import { readdirSync, readFileSync, writeFileSync } from "fs";
-import { join, dirname } from "path";
+import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { PACKS } from "./constants.js";
+import * as prettier from "prettier";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-console.log(__dirname, __filename);
-
-const packs = ["classes", "classes-e-subclasses-features", "magias", "racas", "subclasses"];
-
-const clearFlags = (filePath) => {
+const clearFlags = async (filePath) => {
   const data = JSON.parse(readFileSync(filePath, "utf8"));
 
   if (data.flags.plutonium) {
@@ -18,7 +16,23 @@ const clearFlags = (filePath) => {
     delete data.flags.plutonium;
   }
 
-  writeFileSync(filePath, JSON.stringify(data, null, 2));
+  try {
+    writeFileSync(
+      filePath,
+      await prettier.format(JSON.stringify(data), {
+        parser: "json-stringify",
+        printWidth: 120,
+        tabWidth: 2,
+        useTabs: false,
+        singleQuote: false,
+        trailingComma: "all",
+        arrowParens: "always",
+        endOfLine: "crlf",
+      }),
+    );
+  } catch (err) {
+    console.error("Error writing file", filePath, err);
+  }
 };
 
 const clearFlagsInFolder = (folderPath) => {
@@ -29,13 +43,13 @@ const clearFlagsInFolder = (folderPath) => {
 };
 
 const execute = async () => {
-  for (const pack of packs) {
+  for (const pack of PACKS) {
     console.log("Clearing flags in", pack);
     const packPath = join(__dirname, "packs", pack);
-    const destPath = join(__dirname, "packs", pack, "_source");
-    await extractPack(packPath, destPath);
-    clearFlagsInFolder(destPath);
-    await compilePack(destPath, packPath);
+    const sourcesPath = join(__dirname, "packs_source", pack);
+    await extractPack(packPath, sourcesPath);
+    clearFlagsInFolder(sourcesPath);
+    console.log("Cleared flags in", pack);
   }
 };
 

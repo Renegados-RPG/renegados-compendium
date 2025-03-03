@@ -1,0 +1,129 @@
+{
+  "_id": "kXuSefWkJYd6b6AT",
+  "name": "Defy Death",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "139",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to [[/r 1d8]] + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2].</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 6 (Undying)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "vWo69pTlwNtLPhbr": {
+        "_id": "vWo69pTlwNtLPhbr",
+        "type": "heal",
+        "name": "",
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "number": 1,
+          "denomination": 8,
+          "bonus": "@abilities.con.mod",
+          "scaling": {
+            "mode": "",
+            "number": 1
+          },
+          "custom": {
+            "enabled": false
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "defy-death",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "jX6tn4dyYyE4eUPx",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796152369,
+    "modifiedTime": 1740796152369,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!kXuSefWkJYd6b6AT"
+}

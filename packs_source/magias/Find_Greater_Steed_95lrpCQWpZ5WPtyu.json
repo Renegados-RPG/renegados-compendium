@@ -1,0 +1,151 @@
+{
+  "_id": "95lrpCQWpZ5WPtyu",
+  "name": "Find Greater Steed",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "156",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a @creature[griffon], a @creature[pegasus], a @creature[peryton], a @creature[dire wolf], a @creature[rhinoceros], or a @creature[saber-toothed tiger]. The creature has the statistics provided in the Monster Manual for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.</p><p>You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.</p><p>The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.</p><p>You can't have more than one mount bonded by this spell or @spell[find steed] at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently.</p><p>Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.</p><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Dragonnel Steeds\" data-source=\"FTD\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"1\"><h4 class=\"entry-title-inner\">Dragonnel Steeds</h4><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link rd__title-link--inset\"><span class=\"help-subtle\" title=\"Fizban’s Treasury of Dragons\">FTD</span> <span title=\"Page 190\">p190</span></span></span></span><p>With the DM's permission, a paladin can summon a spirit in the form of a @creature[dragonnel|ftd] using the find greater steed spell, which appears in <i>Xanathar's Guide to Everything</i>.</p></div></div>",
+      "chat": ""
+    },
+    "level": 4,
+    "school": "con",
+    "properties": ["vocal", "somatic"],
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "count": "",
+        "contiguous": false,
+        "type": "",
+        "size": "",
+        "width": "",
+        "height": "",
+        "units": ""
+      },
+      "affects": {
+        "count": "",
+        "type": "creature",
+        "choice": false,
+        "special": ""
+      }
+    },
+    "range": {
+      "value": "9",
+      "units": "m"
+    },
+    "activation": {
+      "type": "minute",
+      "value": 10,
+      "condition": ""
+    },
+    "duration": {
+      "value": "0",
+      "units": "inst"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "0lpJ4CshO6QMfvNR": {
+        "_id": "0lpJ4CshO6QMfvNR",
+        "type": "summon",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0,
+        "bonuses": {},
+        "creatureSizes": [],
+        "creatureTypes": [],
+        "match": {
+          "attacks": false,
+          "proficiency": false,
+          "saves": false
+        },
+        "profiles": [],
+        "summon": {
+          "prompt": true
+        }
+      }
+    },
+    "identifier": "find-greater-steed"
+  },
+  "img": "icons/magic/fire/elemental-creature-horse.webp",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [],
+  "folder": "LSOixp64odLrO3HH",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740591310753,
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bzRFRwzAgwZeJ3Yf": 3
+  },
+  "_key": "!items!95lrpCQWpZ5WPtyu"
+}

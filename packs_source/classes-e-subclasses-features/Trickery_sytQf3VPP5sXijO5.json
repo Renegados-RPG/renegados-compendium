@@ -1,0 +1,22 @@
+{
+  "name": "Trickery",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "yykRMfmKEESCS1ge",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "sytQf3VPP5sXijO5",
+  "_key": "!folders!sytQf3VPP5sXijO5"
+}

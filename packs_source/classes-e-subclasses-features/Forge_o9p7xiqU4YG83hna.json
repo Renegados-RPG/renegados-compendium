@@ -1,0 +1,22 @@
+{
+  "name": "Forge",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "yykRMfmKEESCS1ge",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": 1740755297086,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "o9p7xiqU4YG83hna",
+  "_key": "!folders!o9p7xiqU4YG83hna"
+}

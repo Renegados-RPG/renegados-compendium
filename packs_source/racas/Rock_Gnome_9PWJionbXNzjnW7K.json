@@ -1,0 +1,165 @@
+{
+  "name": "Rock Gnome",
+  "type": "race",
+  "img": "icons/environment/wilderness/terrain-rocks-brown.webp",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p><span style=\"font-family:'Roboto Condensed', sans-serif\">Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</span></p></td><td class=\"ve-text-center\"><p>Small</p></td><td class=\"ve-text-center\"><p>7.5 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Age.</strong></span> Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size.</strong></span> Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p></div><div data-roll-name-ancestor=\"Gnome Cunning\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Gnome Cunning.</strong></span> You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.</p></div><div data-roll-name-ancestor=\"Artificer's Lore\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Artificer's Lore.</strong></span> Whenever you make an Intelligence (&amp;Reference[skill=History]) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</p></div><div data-roll-name-ancestor=\"Tinker\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Tinker.</strong></span> You have proficiency with artisan's tools (@item[tinker's tools|phb]). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.</p><p>When you create a device, choose one of the following options:</p><div data-roll-name-ancestor=\"Clockwork Toy\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Clockwork Toy.</span> This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.</p></div><div data-roll-name-ancestor=\"Fire Starter\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Fire Starter.</span> The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.</p></div><div data-roll-name-ancestor=\"Music Box\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Music Box.</span> When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.</p></div></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&amp;D are rock gnomes, including the tinker gnomes of the Dragonlance setting.</p></div></div><hr class=\"rd__hr rd__hr--section\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.</p><div data-roll-name-ancestor=\"Vibrant Expression\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner\">Vibrant Expression</span></h3><p>A gnome's energy and enthusiasm for living shines through every inch his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome's insatiable interest in everything around.</p><p>A gnome's personality is writ large in his or her appearance. A male gnome's beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome's clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.</p></div><div data-roll-name-ancestor=\"Delighted Dedication\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner\">Delighted Dedication</span></h3><p>As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can't get in enough of the things they want to do and see.</p><p>Gnomes speak as if they can't get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.</p><p>Though gnomes love jokes of all kinds, particularly puns and pranks, they're just as dedicated to the more serious tasks they undertake. Many gnomes are skilled engineers, alchemists, tinkerers, and inventors. They're willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.</p></div><div data-roll-name-ancestor=\"Bright Burrows\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"13\"><span class=\"entry-title-inner\">Bright Burrows</span></h3><p>Gnomes makes their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface where ever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.</p><p>Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkerers. Some human families retained gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life.</p></div><div data-roll-name-ancestor=\"Gnome Names\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"14\"><span class=\"entry-title-inner\">Gnome Names</span></h3><p>Gnomes love names, and most have half a dozen or so. A gnome's mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are truly new inventions. When dealing with humans and others who are \"Stuffy\" about names, a gnome learns to use no more than three names; A personal name, a clan name, and a nickname, choosing the one in each category that's the most fun to say.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Male Names:\"><span class=\"bold rd__list-item-name\">Male Names:</span> Alston, Alvyn, Boddynock, Brocc, Ettrgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle. Orryn, Roondar, Seebo, Warryn, Wrenn, Zook</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Female Names:\"><span class=\"bold rd__list-item-name\">Female Names:</span> Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Clan Names:\"><span class=\"bold rd__list-item-name\">Clan Names:</span> Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningcl, Raulnor, Seheppen, Timbers, Turen</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Nicknames:\"><span class=\"bold rd__list-item-name\">Nicknames:</span> Aleslosh, Aslthearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nina, Oneshoe, Pock, Sparklegem, Scumbleduck</p></li></ul></div><div data-roll-name-ancestor=\"Seeing The World\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"15\"><span class=\"entry-title-inner\">Seeing The World</span></h3><p>Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as s quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.</p></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Deep Gnomes\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"16\">Deep Gnomes</span></h4><p>A third sub race of gnomes, the deep gnomes (or svirfneblin) live in small communities scattered in the Underdark. Unlike the duergar and the drow, svirfneblin are as good as their surface cousins. However, their humor and enthusiasm are dampened by their oppressive environment, and their inventive expertise is directed mostly toward stonework.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "identifier": "rock-gnome",
+    "advancement": [
+      {
+        "_id": "oHASjkY2yexn8nAv",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.SkFU8RA0UvdmrhRD",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.Dfs2hbkrQY9msFMz",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.aQhffFn3LsQOIYsB",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "Z9hvZFkWUNvowbQX",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "1qwH1s1GrEC8T8Qp",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 1,
+        "title": "",
+        "hint": "Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small."
+      },
+      {
+        "_id": "lQjgBd250F2JZeo2",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["languages:standard:common", "languages:standard:gnomish"],
+          "choices": []
+        },
+        "level": 0,
+        "title": "",
+        "icon": null,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "3iZH8gdahsVwLPbQ",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["tool:art:tinker"],
+          "choices": []
+        },
+        "level": 0,
+        "title": "Tinker",
+        "icon": null,
+        "value": {
+          "chosen": []
+        }
+      }
+    ],
+    "movement": {
+      "walk": 7.5,
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "units": "m",
+      "hover": false
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": "m",
+      "special": ""
+    },
+    "type": {
+      "subtype": "gnome",
+      "value": "humanoid",
+      "custom": ""
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.races.Item.TZtarkKs6cgGD7z2",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740794944466,
+    "modifiedTime": 1740795263549,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "folder": "JtmiCO3PKm3J1IvM",
+  "_id": "9PWJionbXNzjnW7K",
+  "sort": 200000,
+  "_key": "!items!9PWJionbXNzjnW7K"
+}

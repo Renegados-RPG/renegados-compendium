@@ -1,0 +1,211 @@
+{
+  "name": "Dragonborn (Metallic)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Metallic Ancestry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Metallic Ancestry.</strong></span> You have a metallic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Metallic Ancestry table. This determines the damage type for your other traits, as shown in the table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Metallic Ancestry\"><caption>Metallic Ancestry</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragon</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Damage Type</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Brass</td><td class=\"rd__th ve-col-6 ve-text-center \">Fire</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Bronze</td><td class=\"rd__th ve-col-6 ve-text-center \">Lightning</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Copper</td><td class=\"rd__th ve-col-6 ve-text-center \">Acid</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Gold</td><td class=\"rd__th ve-col-6 ve-text-center \">Fire</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Silver</td><td class=\"rd__th ve-col-6 ve-text-center \">Cold</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Breath Weapon\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Breath Weapon.</strong></span> When you take the @action[Attack] action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes [[/damage 1d10]] damage of the type associated with your Metallic Ancestry. On a successful save, it takes half as much damage. This damage increases by [[/damage 1d10]] when you reach 5th level ([[/damage 2d10]]), 11th level ([[/damage 3d10]]), and 17th level ([[/damage 4d10]]).</p><p>You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Draconic Resistance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Draconic Resistance.</strong></span> You have resistance to the damage type associated with your Metallic Ancestry.</p></div><div data-roll-name-ancestor=\"Metallic Breath Weapon\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Metallic Breath Weapon.</strong></span> At 5th level, you gain a second breath weapon. When you take the @action[Attack] action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Enervating Breath\"><span class=\"bold rd__list-item-name\">Enervating Breath.</span> Each creature in the cone must succeed on a Constitution saving throw or become &amp;Reference[condition=incapacitated] until the start of your next turn.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Repulsion Breath\"><span class=\"bold rd__list-item-name\">Repulsion Breath.</span> Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked &amp;Reference[condition=prone].</p></li></ul><p>Once you use your Metallic Breath Weapon, you can't do so again until you finish a long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Dragonborn with metallic ancestry lay claim to the tenacity of metallic dragons—brass, bronze, copper, gold, and silver—whose hues glint in their scales. Theirs is the fire of hearth and forge, the cold of high mountain air, the spark of inspiration, and the scouring touch of acid that purifies.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "FTD",
+      "page": "10",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "dragonborn",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "luBPOcab8JE0J3fD",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "m3T1rb0Bd2hwFvhR",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "hxr3xRfwponyI8bG",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.osnQOoN6oGIxL7tu"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.wpuKUNxUBdLD20uW"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.qlqx6nk0Zosrhf1k"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.pZmk62d24nf8B6Mq"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.EgPBO7A6yfLMFWLE"
+            }
+          ],
+          "spell": null,
+          "type": "feat",
+          "restriction": {
+            "type": "race"
+          }
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Chromatic Ancestry",
+        "hint": ""
+      },
+      {
+        "_id": "Q2vjHACxIHQEwZ2d",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "dice",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "0": {
+              "number": 1,
+              "faces": 10,
+              "modifiers": []
+            },
+            "5": {
+              "number": 2,
+              "faces": 10,
+              "modifiers": []
+            },
+            "11": {
+              "number": 3,
+              "faces": 10,
+              "modifiers": []
+            },
+            "17": {
+              "number": 4,
+              "faces": 10,
+              "modifiers": []
+            }
+          }
+        },
+        "value": {},
+        "title": "Breath Weapon",
+        "hint": ""
+      },
+      {
+        "_id": "sTXRpt6POvzqzYRr",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.IGNkQKiXUmPIE28D",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "hint": ""
+      },
+      {
+        "_id": "CpFBOEXdnfVqPdl9",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.UWaSuKo8PwGLaYUm",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Feature",
+        "hint": ""
+      }
+    ],
+    "identifier": "dragonborn-metallic"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/FTD/Metallic%20Dragonborn.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "HY5rKcNzCXzaJKUm",
+  "_stats": {
+    "compendiumSource": "Compendium.renegados-compendium.racas.Item.EgjK9cep3qDGu1Se",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740628422482,
+    "modifiedTime": 1740677251697,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "mfwFKTgGUfaOpt01",
+  "sort": -100000,
+  "_key": "!items!mfwFKTgGUfaOpt01"
+}
