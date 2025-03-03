@@ -184,25 +184,25 @@
     },
     "Bugbear": {
       "name": "Bugbear",
-      "description": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>30 ft.</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Creature Type.</strong></span> You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Fey Ancestry.</strong></span> You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] condition on yourself.</p></div><div data-roll-name-ancestor=\"Long-Limbed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Long-Limbed.</strong></span> When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.</p></div><div data-roll-name-ancestor=\"Powerful Build\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Powerful Build.</strong></span> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p></div><div data-roll-name-ancestor=\"Sneaky\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Sneaky.</strong></span> You are proficient in the &amp;Reference[skill=Stealth] skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.</p></div><div data-roll-name-ancestor=\"Surprise Attack\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Surprise Attack.</strong></span> If you hit a creature with an attack roll, the creature takes an extra [[/damage 2d6]] damage if it hasn't taken a turn yet in the current combat.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Neither bugs nor bears, bugbears are the hulking cousins of goblins and hobgoblins. With roots in the Feywild, early bugbears resided in hidden places, in hard-to-reach and shadowed spaces. Long ago and from out of the corner of your eye, they came to the Material Plane, urged to spread throughout the multiverse by the conquering god Maglubiyet. Centuries later, they still bear a fey gift for lurking just out of sight, and many of them have sneaked away from that god's influence.</p><p>They are long of limb and covered in coarse hair, with wedge-shaped ears and pointed teeth. Despite their formidable build, bugbears are quiet skulkers, thanks to a fey magic that allows them to hide in spaces seemingly too small for them.</p></div>",
+      "description": "<table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Pontuações de Habilidade</p></th><th class=\"ve-col-4 ve-text-center\"><p>Tamanho</p></th><th class=\"ve-col-4 ve-text-center\"><p>Velocidade</p></th></tr><tr><td class=\"ve-text-center\"><p>Escolha um dos seguintes: (a) Escolha qualquer +2; escolha qualquer outro +1 (b) Escolha três +1 diferentes</p></td><td class=\"ve-text-center\"><p>Médio</p></td><td class=\"ve-text-center\"><p>9 m.</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Tipo de Criatura</strong></span>Você é um Humanoide. Você também é considerado um goblinóide para qualquer pré-requisito ou efeito que exija que você seja um goblinóide.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Visão no Escuro.</strong></span>Você pode ver na penumbra a 18 metros de você como se fosse luz brilhante e na escuridão como se fosse luz fraca. Você discerne cores nessa escuridão apenas como tons de cinza.</p></div><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Ancestralidade Feérica.</strong></span>Você tem vantagem em testes de resistência que faz para evitar ou encerrar a condição &amp;Reference[condition=encantado] em si mesmo.</p></div><div data-roll-name-ancestor=\"Long-Limbed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Membros longos.</strong></span>Quando você faz um ataque corpo a corpo no seu turno, seu alcance para ele é 1,5 m maior que o normal.</p></div><div data-roll-name-ancestor=\"Powerful Build\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Construção poderosa.</strong></span></strong></span>Você conta como um tamanho maior ao determinar sua capacidade de carga e o peso que você pode empurrar, arrastar ou levantar.</p></div><div data-roll-name-ancestor=\"Sneaky\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Furtivo.</strong></span>Você é proficiente na habilidade &amp;Reference[skill=Furtividade]. Além disso, sem apertar, você pode se mover e parar em um espaço grande o suficiente para uma criatura Pequena.</p></div><div data-roll-name-ancestor=\"Surprise Attack\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Ataque Surpresa.</strong></span>Se você atingir uma criatura com uma jogada de ataque, a criatura sofre um dano extra de [[/damage 2d6]] se ela ainda não tiver participado de um turno no combate atual.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Idiomas.</strong></span>Você pode falar, ler e escrever em Comum e em outro idioma que você e seu Mestre concordem ser apropriado para seu personagem.</p></div></div><hr class=\"hr-1\" /><p>Nem insetos nem ursos, os bugbears são os primos corpulentos dos goblins e hobgoblins. Com raízes na Feywild, os primeiros bugbears residiam em lugares escondidos, em espaços difíceis de alcançar e sombreados. Há muito tempo e com o canto do olho, eles chegaram ao Plano Material, instados a se espalhar pelo multiverso pelo deus conquistador Maglubiyet. Séculos depois, eles ainda carregam o dom feérico de espreitar fora da vista, e muitos deles escaparam da influência daquele deus.</p><p>Eles têm membros longos e são cobertos por pelos grossos, com orelhas em formato de cunha e dentes pontudos. Apesar de sua constituição formidável, os bugbears são furtivos silenciosos, graças a uma magia feérica que lhes permite se esconder em espaços aparentemente pequenos demais para eles.</p></div>",
       "advancement": {
         "Feature": {
-          "title": "Feature"
+          "title": "Característica"
         },
         "Sneaky": {
-          "title": "Sneaky"
+          "title": "Furtivo"
         },
         "Languages": {
-          "title": "Languages"
+          "title": "Idiomas"
         }
       }
     },
     "Built for Success": {
-      "name": "Built for Success",
+      "name": "Construído para o Sucesso",
       "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Built for Success\" class=\"rd__b  rd__b--3\"><p>Você pode adicionar um [[/r d4]] a um ataque, teste de habilidade ou teste de Salvaguarda que você fizer, e pode fazê-lo após ver o lançamento do [[/r d20]] mas antes que os efeitos do lançamento sejam resolvidos. Você pode usar esse traço um número de vezes igual ao seu bônus de proficiência, e recupera todos os usos gastos quando termina um descanso longo.</p></div></div></div>",
       "activities": {
         "Built for Success": {
-          "name": "Built for Success"
+          "name": "Construído para o Sucesso"
         }
       }
     },
@@ -216,11 +216,11 @@
       }
     },
     "Celestial Resistance": {
-      "name": "Celestial Resistance",
-      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Celestial Resistance\" class=\"rd__b  rd__b--3\"><p>You have resistance to necrotic damage and radiant damage.</p></div></div></div>",
+      "name": "Resistência Celestial",
+      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Celestial Resistance\" class=\"rd__b  rd__b--3\"><p>Você tem resistência a dano necrótico e dano radiante.</p></div></div></div>",
       "effects": {
         "Celestial Resistance": {
-          "name": "Celestial Resistance"
+          "name": "Resistência Celestial"
         }
       }
     },
@@ -288,8 +288,8 @@
       }
     },
     "Defiance": {
-      "name": "Defiance",
-      "description": "<ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Defiance\">You have advantage on saving throws to avoid or end the &amp;Reference[condition=frightened] condition on yourself.</p></li></ul>"
+      "name": "Desafiante",
+      "description": "<ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Defiance\">Você tem vantagem em testes de salvaguarda para evitar ou acabar com a condição de &amp;Reference[condition=assustado] em si mesmo.</p></li></ul>"
     },
     "Dhampir": {
       "name": "Dhampir",
@@ -309,8 +309,8 @@
       }
     },
     "Draconic Cry": {
-      "name": "Draconic Cry",
-      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Draconic Cry\" class=\"rd__b  rd__b--3\"><p>As a bonus action, you let out a cry at your enemies within 10 feet of you. Until the start of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear you. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div>"
+      "name": "Grito Dracônico",
+      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Draconic Cry\" class=\"rd__b  rd__b--3\"><p>Como uma ação bônus, você solta um grito em seus inimigos a 3 metros de você. Até o início do seu próximo turno, você e seus aliados têm vantagem em jogadas de ataque contra qualquer um desses inimigos que puderem ouvi-lo. Você pode usar essa característica um número de vezes igual ao seu bônus de proficiência, e você recupera todos os usos gastos quando termina um descanso longo.</p></div></div></div>"
     },
     "Dragonborn (Chromatic)": {
       "name": "Dragonborn (Chromático)",
