@@ -166,6 +166,8 @@ export class Converters {
         reach: conversion.converter(range.reach),
         units: conversion.units,
       });
+    } else {
+      console.warn(`Range units: '${range.units}' not implemented !`);
     }
 
     return range;
@@ -194,6 +196,8 @@ export class Converters {
           count: conversion.converter(target.affects.count),
         },
       });
+    } else {
+      console.warn(`Target units: '${target.template.units}' not implemented !`);
     }
 
     return target;
@@ -201,25 +205,37 @@ export class Converters {
 
   static senses(senses) {
     const conversion = Converters.conversionInfo[senses.units ?? "ft"];
-    return foundry.utils.mergeObject(senses, {
-      darkvision: conversion.converter(senses.darkvision),
-      blindsight: conversion.converter(senses.blindsight),
-      tremorsense: conversion.converter(senses.tremorsense),
-      truesight: conversion.converter(senses.truesight),
-      units: conversion.units,
-    });
+    if (conversion) {
+      return foundry.utils.mergeObject(senses, {
+        darkvision: conversion.converter(senses.darkvision),
+        blindsight: conversion.converter(senses.blindsight),
+        tremorsense: conversion.converter(senses.tremorsense),
+        truesight: conversion.converter(senses.truesight),
+        units: conversion.units,
+      });
+    } else {
+      console.warn(`Senses units: '${senses.units}' not implemented !`);
+    }
+
+    return senses;
   }
 
   static movement(movement) {
     const conversion = Converters.conversionInfo[movement.units ?? "ft"];
-    return foundry.utils.mergeObject(movement, {
-      burrow: conversion.converter(movement.burrow),
-      climb: conversion.converter(movement.climb),
-      swim: conversion.converter(movement.swim),
-      walk: conversion.converter(movement.walk),
-      fly: conversion.converter(movement.fly),
-      units: conversion.units,
-    });
+    if (conversion) {
+      return foundry.utils.mergeObject(movement, {
+        burrow: conversion.converter(movement.burrow),
+        climb: conversion.converter(movement.climb),
+        swim: conversion.converter(movement.swim),
+        walk: conversion.converter(movement.walk),
+        fly: conversion.converter(movement.fly),
+        units: conversion.units,
+      });
+    } else {
+      console.warn(`Movement units: '${movement.units}' not implemented !`);
+    }
+
+    return movement;
   }
 
   static rangeActivities(activities) {
