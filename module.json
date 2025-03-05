@@ -113,9 +113,16 @@
       "path": "packs/magias",
       "type": "Item",
       "system": "dnd5e",
+      "sorting": "m",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      },
+      "flags": {
+        "dnd5e": {
+          "sorting": "m",
+          "types": ["spell"]
+        }
       }
     },
     {
@@ -160,7 +167,18 @@
     "dnd5e": {
       "sourceBooks": {
         "DRS 5.1": "SOURCE.BOOK.SRD"
-      }
+      },
+      "spellLists": [
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.WaRbxzdiT0iinxrW",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.71AC3tfFYodtTkZh",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.VTvmsQclqG6Ob1ll",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.QOFAjrGzSRwAQmF6",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.fJnE4sSMEAfZNlZy",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.qkhFM3KLrYY4WD4b",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.AU7P5SPQXG2QF4Gg",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.b3Fl2FfKw5nvzfsm",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.mET4LCxpAu8gyQY2"
+      ]
     }
   },
   "url": "#{URL}#",

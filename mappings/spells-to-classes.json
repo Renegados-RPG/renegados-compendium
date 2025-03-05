@@ -1,0 +1,1910 @@
+[
+  {
+    "Name": "Abi-Dalzim's Horrid Wilting",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Absorb Elements",
+    "Classes": "Artificer, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Acid Splash",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Aganazzar's Scorcher",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Aid",
+    "Classes": "Artificer, Cleric, Paladin"
+  },
+  {
+    "Name": "Alarm",
+    "Classes": "Artificer, Ranger, Wizard"
+  },
+  {
+    "Name": "Alter Self",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Animal Friendship",
+    "Classes": "Bard, Druid, Ranger"
+  },
+  {
+    "Name": "Animal Messenger",
+    "Classes": "Bard, Druid, Ranger"
+  },
+  {
+    "Name": "Animal Shapes",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Animate Dead",
+    "Classes": "Cleric, Wizard"
+  },
+  {
+    "Name": "Animate Objects",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Antilife Shell",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Antimagic Field",
+    "Classes": "Cleric, Wizard"
+  },
+  {
+    "Name": "Antipathy/Sympathy",
+    "Classes": "Druid, Wizard"
+  },
+  {
+    "Name": "Arcane Eye",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Arcane Gate",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Arcane Lock",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Armor of Agathys",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Arms of Hadar",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Astral Projection",
+    "Classes": "Cleric, Monk, Warlock, Wizard"
+  },
+  {
+    "Name": "Augury",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Aura of Life",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Aura of Purity",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Aura of Vitality",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Awaken",
+    "Classes": "Bard, Druid"
+  },
+  {
+    "Name": "Bane",
+    "Classes": "Bard, Cleric"
+  },
+  {
+    "Name": "Banishing Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Banishment",
+    "Classes": "Cleric, Paladin, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Barkskin",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Beacon of Hope",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Beast Bond",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Beast Sense",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Bestow Curse",
+    "Classes": "Bard, Cleric, Wizard"
+  },
+  {
+    "Name": "Bigby's Hand",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Blade Barrier",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Blade Ward",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Blade of Disaster",
+    "Classes": ""
+  },
+  {
+    "Name": "Bless",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Blight",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Blinding Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Blindness/Deafness",
+    "Classes": "Bard, Cleric, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Blink",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Blur",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Bones of the Earth",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Booming Blade",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Branding Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Burning Hands",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Call Lightning",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Calm Emotions",
+    "Classes": "Bard, Cleric"
+  },
+  {
+    "Name": "Catapult",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Catnap",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Cause Fear",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Ceremony",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Chain Lightning",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Chaos Bolt",
+    "Classes": "Sorcerer"
+  },
+  {
+    "Name": "Charm Monster",
+    "Classes": "Bard, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Charm Person",
+    "Classes": "Bard, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Chill Touch",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Chromatic Orb",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Circle of Death",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Circle of Power",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Clairvoyance",
+    "Classes": "Bard, Cleric, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Clone",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Cloud of Daggers",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Cloudkill",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Color Spray",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Command",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Commune",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Commune with Nature",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Compelled Duel",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Comprehend Languages",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Compulsion",
+    "Classes": "Bard"
+  },
+  {
+    "Name": "Cone of Cold",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Confusion",
+    "Classes": "Bard, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Conjure Animals",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Conjure Barrage",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Conjure Celestial",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Conjure Elemental",
+    "Classes": "Druid, Wizard"
+  },
+  {
+    "Name": "Conjure Fey",
+    "Classes": "Druid, Warlock"
+  },
+  {
+    "Name": "Conjure Minor Elementals",
+    "Classes": "Druid, Wizard"
+  },
+  {
+    "Name": "Conjure Volley",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Conjure Woodland Beings",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Contact Other Plane",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Contagion",
+    "Classes": "Cleric, Druid"
+  },
+  {
+    "Name": "Contingency",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Continual Flame",
+    "Classes": "Artificer, Cleric, Wizard"
+  },
+  {
+    "Name": "Control Flames",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Control Water",
+    "Classes": "Cleric, Druid, Wizard"
+  },
+  {
+    "Name": "Control Weather",
+    "Classes": "Cleric, Druid, Wizard"
+  },
+  {
+    "Name": "Control Winds",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Cordon of Arrows",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Counterspell",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Create Bonfire",
+    "Classes": "Artificer, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Create Food and Water",
+    "Classes": "Artificer, Cleric, Paladin"
+  },
+  {
+    "Name": "Create Homunculus",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Create Undead",
+    "Classes": "Cleric, Warlock, Wizard"
+  },
+  {
+    "Name": "Create or Destroy Water",
+    "Classes": "Cleric, Druid"
+  },
+  {
+    "Name": "Creation",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Crown of Madness",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Crown of Stars",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Crusader's Mantle",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Cure Wounds",
+    "Classes": "Artificer, Bard, Cleric, Druid, Paladin, Ranger"
+  },
+  {
+    "Name": "Dancing Lights",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Danse Macabre",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Darkness",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Darkvision",
+    "Classes": "Artificer, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Dawn",
+    "Classes": "Cleric, Wizard"
+  },
+  {
+    "Name": "Daylight",
+    "Classes": "Cleric, Druid, Paladin, Ranger, Sorcerer"
+  },
+  {
+    "Name": "Death Ward",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Delayed Blast Fireball",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Demiplane",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Destructive Wave",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Detect Evil and Good",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Detect Magic",
+    "Classes": "Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Detect Poison and Disease",
+    "Classes": "Cleric, Druid, Paladin, Ranger"
+  },
+  {
+    "Name": "Detect Thoughts",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Dimension Door",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Disguise Self",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Disintegrate",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Dispel Evil and Good",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Dispel Magic",
+    "Classes": "Artificer, Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Dissonant Whispers",
+    "Classes": "Bard"
+  },
+  {
+    "Name": "Divination",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Divine Favor",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Divine Word",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Dominate Beast",
+    "Classes": "Druid, Sorcerer"
+  },
+  {
+    "Name": "Dominate Monster",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Dominate Person",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Dragon's Breath",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Drawmij's Instant Summons",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Dream",
+    "Classes": "Bard, Warlock, Wizard"
+  },
+  {
+    "Name": "Dream of the Blue Veil",
+    "Classes": ""
+  },
+  {
+    "Name": "Druid Grove",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Druidcraft",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Dust Devil",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Earth Tremor",
+    "Classes": "Bard, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Earthbind",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Earthquake",
+    "Classes": "Cleric, Druid, Sorcerer"
+  },
+  {
+    "Name": "Eldritch Blast",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Elemental Bane",
+    "Classes": "Artificer, Druid, Warlock, Wizard"
+  },
+  {
+    "Name": "Elemental Weapon",
+    "Classes": "Artificer, Paladin"
+  },
+  {
+    "Name": "Enemies Abound",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Enervation",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Enhance Ability",
+    "Classes": "Artificer, Bard, Cleric, Druid, Sorcerer"
+  },
+  {
+    "Name": "Enlarge/Reduce",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Ensnaring Strike",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Entangle",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Enthrall",
+    "Classes": "Bard, Warlock"
+  },
+  {
+    "Name": "Erupting Earth",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Etherealness",
+    "Classes": "Bard, Cleric, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Evard's Black Tentacles",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Expeditious Retreat",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Eyebite",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Fabricate",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Faerie Fire",
+    "Classes": "Artificer, Bard, Druid"
+  },
+  {
+    "Name": "False Life",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Far Step",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Fear",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Feather Fall",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Feeblemind",
+    "Classes": "Bard, Druid, Warlock, Wizard"
+  },
+  {
+    "Name": "Feign Death",
+    "Classes": "Bard, Cleric, Druid, Wizard"
+  },
+  {
+    "Name": "Find Familiar",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Find Greater Steed",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Find Steed",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Find Traps",
+    "Classes": "Cleric, Druid, Ranger"
+  },
+  {
+    "Name": "Find the Path",
+    "Classes": "Bard, Cleric, Druid"
+  },
+  {
+    "Name": "Finger of Death",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Fire Bolt",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Fire Shield",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Fire Storm",
+    "Classes": "Cleric, Druid, Sorcerer"
+  },
+  {
+    "Name": "Fireball",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Flame Arrows",
+    "Classes": "Artificer, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Flame Blade",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Flame Strike",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Flaming Sphere",
+    "Classes": "Druid, Wizard"
+  },
+  {
+    "Name": "Flesh to Stone",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Fly",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Fog Cloud",
+    "Classes": "Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Forbiddance",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Forcecage",
+    "Classes": "Bard, Warlock, Wizard"
+  },
+  {
+    "Name": "Foresight",
+    "Classes": "Bard, Druid, Warlock, Wizard"
+  },
+  {
+    "Name": "Freedom of Movement",
+    "Classes": "Artificer, Bard, Cleric, Druid, Ranger"
+  },
+  {
+    "Name": "Friends",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Frostbite",
+    "Classes": "Artificer, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Gaseous Form",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Gate",
+    "Classes": "Cleric, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Geas",
+    "Classes": "Bard, Cleric, Druid, Paladin, Wizard"
+  },
+  {
+    "Name": "Gentle Repose",
+    "Classes": "Cleric, Wizard"
+  },
+  {
+    "Name": "Giant Insect",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Glibness",
+    "Classes": "Bard, Warlock"
+  },
+  {
+    "Name": "Globe of Invulnerability",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Glyph of Warding",
+    "Classes": "Artificer, Bard, Cleric, Wizard"
+  },
+  {
+    "Name": "Goodberry",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Grasping Vine",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Grease",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Greater Invisibility",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Greater Restoration",
+    "Classes": "Artificer, Bard, Cleric, Druid"
+  },
+  {
+    "Name": "Green-Flame Blade",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Guardian of Faith",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Guardian of Nature",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Guards and Wards",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Guidance",
+    "Classes": "Artificer, Cleric, Druid"
+  },
+  {
+    "Name": "Guiding Bolt",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Gust",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Gust of Wind",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Hail of Thorns",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Hallow",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Hallucinatory Terrain",
+    "Classes": "Bard, Druid, Warlock, Wizard"
+  },
+  {
+    "Name": "Harm",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Haste",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Heal",
+    "Classes": "Cleric, Druid"
+  },
+  {
+    "Name": "Healing Spirit",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Healing Word",
+    "Classes": "Bard, Cleric, Druid"
+  },
+  {
+    "Name": "Heat Metal",
+    "Classes": "Artificer, Bard, Druid"
+  },
+  {
+    "Name": "Hellish Rebuke",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Heroes' Feast",
+    "Classes": "Cleric, Druid"
+  },
+  {
+    "Name": "Heroism",
+    "Classes": "Bard, Paladin"
+  },
+  {
+    "Name": "Hex",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Hold Monster",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Hold Person",
+    "Classes": "Bard, Cleric, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Holy Aura",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Holy Weapon",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Hunger of Hadar",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Hunter's Mark",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Hypnotic Pattern",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Ice Knife",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Ice Storm",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Identify",
+    "Classes": "Artificer, Bard, Wizard"
+  },
+  {
+    "Name": "Illusory Dragon",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Illusory Script",
+    "Classes": "Bard, Warlock, Wizard"
+  },
+  {
+    "Name": "Immolation",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Imprisonment",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Incendiary Cloud",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Infernal Calling",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Infestation",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Inflict Wounds",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Insect Plague",
+    "Classes": "Cleric, Druid, Sorcerer"
+  },
+  {
+    "Name": "Intellect Fortress",
+    "Classes": "Artificer"
+  },
+  {
+    "Name": "Investiture of Flame",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Investiture of Ice",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Investiture of Stone",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Investiture of Wind",
+    "Classes": "Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Invisibility",
+    "Classes": "Artificer, Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Invulnerability",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Jump",
+    "Classes": "Artificer, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Knock",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Legend Lore",
+    "Classes": "Bard, Cleric, Wizard"
+  },
+  {
+    "Name": "Leomund's Secret Chest",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Leomund's Tiny Hut",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Lesser Restoration",
+    "Classes": "Artificer, Bard, Cleric, Druid, Paladin, Ranger"
+  },
+  {
+    "Name": "Levitate",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Life Transference",
+    "Classes": "Cleric, Wizard"
+  },
+  {
+    "Name": "Light",
+    "Classes": "Artificer, Bard, Cleric, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Lightning Arrow",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Lightning Bolt",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Lightning Lure",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Locate Animals or Plants",
+    "Classes": "Bard, Druid, Ranger"
+  },
+  {
+    "Name": "Locate Creature",
+    "Classes": "Bard, Cleric, Druid, Paladin, Ranger, Wizard"
+  },
+  {
+    "Name": "Locate Object",
+    "Classes": "Bard, Cleric, Druid, Paladin, Ranger, Wizard"
+  },
+  {
+    "Name": "Longstrider",
+    "Classes": "Artificer, Bard, Druid, Ranger, Wizard"
+  },
+  {
+    "Name": "Maddening Darkness",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Maelstrom",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Mage Armor",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Mage Hand",
+    "Classes": "Artificer, Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Magic Circle",
+    "Classes": "Cleric, Paladin, Warlock, Wizard"
+  },
+  {
+    "Name": "Magic Jar",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Magic Missile",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Magic Mouth",
+    "Classes": "Artificer, Bard, Wizard"
+  },
+  {
+    "Name": "Magic Stone",
+    "Classes": "Artificer, Druid, Warlock"
+  },
+  {
+    "Name": "Magic Weapon",
+    "Classes": "Artificer, Paladin, Wizard"
+  },
+  {
+    "Name": "Major Image",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Mass Cure Wounds",
+    "Classes": "Bard, Cleric, Druid"
+  },
+  {
+    "Name": "Mass Heal",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Mass Healing Word",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Mass Polymorph",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Mass Suggestion",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Maximilian's Earthen Grasp",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Maze",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Meld into Stone",
+    "Classes": "Cleric, Druid"
+  },
+  {
+    "Name": "Melf's Acid Arrow",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Melf's Minute Meteors",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Mending",
+    "Classes": "Artificer, Bard, Cleric, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Mental Prison",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Message",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Meteor Swarm",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Mighty Fortress",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Mind Blank",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Mind Sliver",
+    "Classes": ""
+  },
+  {
+    "Name": "Mind Spike",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Minor Illusion",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Mirage Arcane",
+    "Classes": "Bard, Druid, Wizard"
+  },
+  {
+    "Name": "Mirror Image",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Mislead",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Misty Step",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Modify Memory",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Mold Earth",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Moonbeam",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Mordenkainen's Faithful Hound",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Mordenkainen's Magnificent Mansion",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Mordenkainen's Private Sanctum",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Mordenkainen's Sword",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Move Earth",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Negative Energy Flood",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Nondetection",
+    "Classes": "Bard, Ranger, Wizard"
+  },
+  {
+    "Name": "Nystul's Magic Aura",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Otiluke's Freezing Sphere",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Otiluke's Resilient Sphere",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Otto's Irresistible Dance",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Pass without Trace",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Passwall",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Phantasmal Force",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Phantasmal Killer",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Phantom Steed",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Planar Ally",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Planar Binding",
+    "Classes": "Bard, Cleric, Druid, Wizard"
+  },
+  {
+    "Name": "Plane Shift",
+    "Classes": "Cleric, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Plant Growth",
+    "Classes": "Bard, Druid, Ranger"
+  },
+  {
+    "Name": "Poison Spray",
+    "Classes": "Artificer, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Polymorph",
+    "Classes": "Bard, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Power Word Heal",
+    "Classes": "Bard"
+  },
+  {
+    "Name": "Power Word Kill",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Power Word Pain",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Power Word Stun",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Prayer of Healing",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Prestidigitation",
+    "Classes": "Artificer, Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Primal Savagery",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Primordial Ward",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Prismatic Spray",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Prismatic Wall",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Produce Flame",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Programmed Illusion",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Project Image",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Protection from Energy",
+    "Classes": "Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Protection from Evil and Good",
+    "Classes": "Cleric, Paladin, Warlock, Wizard"
+  },
+  {
+    "Name": "Protection from Poison",
+    "Classes": "Artificer, Cleric, Druid, Paladin, Ranger"
+  },
+  {
+    "Name": "Psychic Scream",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Purify Food and Drink",
+    "Classes": "Artificer, Cleric, Druid, Paladin"
+  },
+  {
+    "Name": "Pyrotechnics",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Raise Dead",
+    "Classes": "Bard, Cleric, Paladin"
+  },
+  {
+    "Name": "Rary's Telepathic Bond",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Ray of Enfeeblement",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Ray of Frost",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Ray of Sickness",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Regenerate",
+    "Classes": "Bard, Cleric, Druid"
+  },
+  {
+    "Name": "Reincarnate",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Remove Curse",
+    "Classes": "Cleric, Paladin, Warlock, Wizard"
+  },
+  {
+    "Name": "Resistance",
+    "Classes": "Artificer, Cleric, Druid"
+  },
+  {
+    "Name": "Resurrection",
+    "Classes": "Bard, Cleric"
+  },
+  {
+    "Name": "Reverse Gravity",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Revivify",
+    "Classes": "Artificer, Cleric, Paladin"
+  },
+  {
+    "Name": "Rope Trick",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Sacred Flame",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Sanctuary",
+    "Classes": "Artificer, Cleric"
+  },
+  {
+    "Name": "Scatter",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Scorching Ray",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Scrying",
+    "Classes": "Bard, Cleric, Druid, Warlock, Wizard"
+  },
+  {
+    "Name": "Searing Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "See Invisibility",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Seeming",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Sending",
+    "Classes": "Bard, Cleric, Wizard"
+  },
+  {
+    "Name": "Sequester",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Shadow Blade",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Shadow of Moil",
+    "Classes": "Warlock"
+  },
+  {
+    "Name": "Shape Water",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Shapechange",
+    "Classes": "Druid, Wizard"
+  },
+  {
+    "Name": "Shatter",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Shield",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Shield of Faith",
+    "Classes": "Cleric, Paladin"
+  },
+  {
+    "Name": "Shillelagh",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Shocking Grasp",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Sickening Radiance",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Silence",
+    "Classes": "Bard, Cleric, Ranger"
+  },
+  {
+    "Name": "Silent Image",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Simulacrum",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Skill Empowerment",
+    "Classes": "Artificer, Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Skywrite",
+    "Classes": "Artificer, Bard, Druid, Wizard"
+  },
+  {
+    "Name": "Sleep",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Sleet Storm",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Slow",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Snare",
+    "Classes": "Artificer, Druid, Ranger, Wizard"
+  },
+  {
+    "Name": "Snilloc's Snowball Swarm",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Soul Cage",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Spare the Dying",
+    "Classes": "Artificer, Cleric"
+  },
+  {
+    "Name": "Speak with Animals",
+    "Classes": "Bard, Druid, Ranger"
+  },
+  {
+    "Name": "Speak with Dead",
+    "Classes": "Bard, Cleric"
+  },
+  {
+    "Name": "Speak with Plants",
+    "Classes": "Bard, Druid, Ranger"
+  },
+  {
+    "Name": "Spider Climb",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Spike Growth",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Spirit Guardians",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Spirit Shroud",
+    "Classes": ""
+  },
+  {
+    "Name": "Spiritual Weapon",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Staggering Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Steel Wind Strike",
+    "Classes": "Ranger, Wizard"
+  },
+  {
+    "Name": "Stinking Cloud",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Stone Shape",
+    "Classes": "Artificer, Cleric, Druid, Wizard"
+  },
+  {
+    "Name": "Stoneskin",
+    "Classes": "Artificer, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Storm Sphere",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Storm of Vengeance",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Suggestion",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Summon Aberration",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Beast",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Celestial",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Construct",
+    "Classes": "Artificer"
+  },
+  {
+    "Name": "Summon Elemental",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Fey",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Fiend",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Greater Demon",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Summon Lesser Demons",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Summon Shadowspawn",
+    "Classes": ""
+  },
+  {
+    "Name": "Summon Undead",
+    "Classes": ""
+  },
+  {
+    "Name": "Sunbeam",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Sunburst",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Swift Quiver",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Sword Burst",
+    "Classes": "Artificer, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Symbol",
+    "Classes": "Bard, Cleric, Wizard"
+  },
+  {
+    "Name": "Synaptic Static",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Tasha's Caustic Brew",
+    "Classes": "Artificer"
+  },
+  {
+    "Name": "Tasha's Hideous Laughter",
+    "Classes": "Bard, Wizard"
+  },
+  {
+    "Name": "Tasha's Mind Whip",
+    "Classes": ""
+  },
+  {
+    "Name": "Tasha's Otherworldly Guise",
+    "Classes": ""
+  },
+  {
+    "Name": "Telekinesis",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Telepathy",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Teleport",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Teleportation Circle",
+    "Classes": "Bard, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Temple of the Gods",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Tenser's Floating Disk",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Tenser's Transformation",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Thaumaturgy",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Thorn Whip",
+    "Classes": "Artificer, Druid"
+  },
+  {
+    "Name": "Thunder Step",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Thunderclap",
+    "Classes": "Artificer, Bard, Druid, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Thunderous Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Thunderwave",
+    "Classes": "Bard, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Tidal Wave",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Time Stop",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Tiny Servant",
+    "Classes": "Artificer, Wizard"
+  },
+  {
+    "Name": "Toll the Dead",
+    "Classes": "Cleric, Warlock, Wizard"
+  },
+  {
+    "Name": "Tongues",
+    "Classes": "Bard, Cleric, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Transmute Rock",
+    "Classes": "Artificer, Druid, Wizard"
+  },
+  {
+    "Name": "Transport via Plants",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Tree Stride",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "True Polymorph",
+    "Classes": "Bard, Warlock, Wizard"
+  },
+  {
+    "Name": "True Resurrection",
+    "Classes": "Cleric, Druid"
+  },
+  {
+    "Name": "True Seeing",
+    "Classes": "Bard, Cleric, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "True Strike",
+    "Classes": "Bard, Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Tsunami",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Unseen Servant",
+    "Classes": "Bard, Warlock, Wizard"
+  },
+  {
+    "Name": "Vampiric Touch",
+    "Classes": "Warlock, Wizard"
+  },
+  {
+    "Name": "Vicious Mockery",
+    "Classes": "Bard"
+  },
+  {
+    "Name": "Vitriolic Sphere",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Wall of Fire",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Wall of Force",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Wall of Ice",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Wall of Light",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Wall of Sand",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Wall of Stone",
+    "Classes": "Artificer, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Wall of Thorns",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Wall of Water",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Warding Bond",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Warding Wind",
+    "Classes": "Bard, Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Water Breathing",
+    "Classes": "Artificer, Druid, Ranger, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Water Walk",
+    "Classes": "Artificer, Cleric, Druid, Ranger, Sorcerer"
+  },
+  {
+    "Name": "Watery Sphere",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Web",
+    "Classes": "Artificer, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Weird",
+    "Classes": "Wizard"
+  },
+  {
+    "Name": "Whirlwind",
+    "Classes": "Druid, Sorcerer, Wizard"
+  },
+  {
+    "Name": "Wind Walk",
+    "Classes": "Druid"
+  },
+  {
+    "Name": "Wind Wall",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Wish",
+    "Classes": "Sorcerer, Wizard"
+  },
+  {
+    "Name": "Witch Bolt",
+    "Classes": "Sorcerer, Warlock, Wizard"
+  },
+  {
+    "Name": "Word of Radiance",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Word of Recall",
+    "Classes": "Cleric"
+  },
+  {
+    "Name": "Wrath of Nature",
+    "Classes": "Druid, Ranger"
+  },
+  {
+    "Name": "Wrathful Smite",
+    "Classes": "Paladin"
+  },
+  {
+    "Name": "Zephyr Strike",
+    "Classes": "Ranger"
+  },
+  {
+    "Name": "Zone of Truth",
+    "Classes": "Bard, Cleric, Paladin"
+  }
+]
