@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting @spell[knock] on the object suppresses @spell[arcane lock] for 10 minutes.</p><p>While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting @UUID[Compendium.renegados-compendium.magias.Item.dfcEWGW50QiLcWqW] on the object suppresses @UUID[Compendium.renegados-compendium.magias.Item.iXFCMo2hm8Eg5ihk] for 10 minutes.</p><p>While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.</p></div>",
       "chat": ""
     },
     "level": 2,

@@ -139,7 +139,7 @@
         "value": {},
         "level": 0,
         "title": "Githyanki Psionics",
-        "hint": "You know the @spell[mage hand] cantrip, and the hand is &Reference[condition=invisible] when you cast the cantrip with this trait.",
+        "hint": "You know the @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] cantrip, and the hand is &Reference[condition=invisible] when you cast the cantrip with this trait.",
         "icon": "icons/skills/social/wave-halt-stop.webp"
       },
       {

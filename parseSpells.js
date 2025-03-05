@@ -1,6 +1,7 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { PACKS } from "./constants.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -22,26 +23,21 @@ const mountSpellNameMap = () => {
   return spellNameMap;
 };
 
-const packs = ["subclasses", "racas", "classes", "classes-e-subclasses-features"];
-
 const execute = async () => {
   mountSpellNameMap();
 
-  for (const pack of packs) {
+  for (const pack of PACKS) {
     console.log(`reading ${pack} source`);
     const destPath = join(__dirname, "packs_source", pack);
 
     const files = readdirSync(destPath);
     for (const file of files) {
       console.log("Reading file", file);
-      const data = JSON.parse(readFileSync(join(destPath, file), "utf8"));
-      if (
-        ["subclass", "race", "class", "feat"].includes(data.type) &&
-        data.system.description.value.includes("@spell")
-      ) {
-        console.log("Pack with spells", data.name);
-        let description = data.system.description.value;
-        const spells = description.match(/@spell\[(.*?)\]/g);
+      const data = readFileSync(join(destPath, file), "utf8");
+      if (data.includes("@spell")) {
+        console.log("File with spells", file);
+        let newData = data;
+        const spells = newData.match(/@spell\[(.*?)\]/g);
 
         console.log("Spells", spells);
         if (!spells) {
@@ -54,14 +50,13 @@ const execute = async () => {
             console.log("Spell not found", spellName);
           }
           console.log("Spell", spellNameMap[spellName], "in pack", data.name);
-          description = description.replace(
+          newData = newData.replace(
             spell,
             `@UUID[Compendium.renegados-compendium.magias.Item.${spellNameMap[spellName]}]`,
           );
         });
-        data.system.description.value = description;
         try {
-          writeFileSync(join(destPath, file), JSON.stringify(data, null, 2));
+          writeFileSync(join(destPath, file), JSON.stringify(JSON.parse(newData), null, 2));
         } catch (err) {
           console.error("Error writing file", join(destPath, file), err);
         }

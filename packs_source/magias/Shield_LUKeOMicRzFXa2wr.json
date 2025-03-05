@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--3\"><p>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from @spell[magic missile].</p></div>",
+      "value": "<div class=\"rd__b  rd__b--3\"><p>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from @UUID[Compendium.renegados-compendium.magias.Item.2lSqfppArfPi5SPF].</p></div>",
       "chat": ""
     },
     "level": 1,

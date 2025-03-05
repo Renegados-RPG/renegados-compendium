@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--3\"><p>You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the @spell[alarm] spell, a @spell[glyph of warding], or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.</p><p>This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the @UUID[Compendium.renegados-compendium.magias.Item.amWol0ldCgubCUP5] spell, a @UUID[Compendium.renegados-compendium.magias.Item.oM2IYN0MF6kJr2ab], or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.</p><p>This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.</p></div>",
       "chat": ""
     },
     "level": 2,

@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.</p><p>The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as @spell[raise dead].</p></div>",
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.</p><p>The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as @UUID[Compendium.renegados-compendium.magias.Item.VlLtL2TttzBX5UPi].</p></div>",
       "chat": ""
     },
     "level": 2,
