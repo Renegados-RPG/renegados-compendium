@@ -643,7 +643,7 @@
         },
         "Githyanki Psionics": {
           "title": "Githyanki Psionics",
-          "hint": "Você conhece a viagem @spell[mage hand] e a mão é &Referência[condition=invisble] quando você usa esta característica."
+          "hint": "You know the @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] cantrip, and the hand is &Reference[condition=invisible] when you cast the cantrip with this trait."
         },
         "b7sd8SqlEOrdZCDA": {
           "title": "Githyanki Psionics"
