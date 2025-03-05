@@ -295,313 +295,313 @@
         "Level": "É necessário ter pelo menos nível {level} para escolher esse talento.",
         "Type": "Somente recursos do tipo \"talento\" podem ser selecionados."
       }
-    }
-  },
-  "Action": {
-    "Create": "Criar Avanço",
-    "Delete": "Excluir Avanço",
-    "Duplicate": "Duplicar Avanço",
-    "Edit": "Editar Avanço",
-    "View": "Visualizar Avanço"
-  },
-  "Config": {
-    "AnyLevel": "Qualquer",
-    "Details": "Detalhes do Avanço"
-  },
-  "HitPoints": {
-    "Action": {
-      "Roll": "Rolar {die}"
     },
-    "Average": "Média",
-    "Hint": "Acompanhe os pontos de vida do jogador para cada nível na classe.",
-    "MaxAtFirstLevel": "Máximo no 1º Nível: <strong>{max}</strong>",
-    "Roll": "Rolar Pontos de Vida de {class}",
-    "Starting": "Pontos de Vida no 1º Nível",
-    "TakeAverage": "Usar Média",
-    "Title": "Pontos de Vida",
-    "Warning": {
-      "Empty": "Os pontos de vida devem ser rolados ou o valor médio deve ser escolhido.",
-      "Invalid": "Os pontos de vida devem ser um número inteiro válido."
-    }
-  },
-  "ItemChoice": {
-    "Choose": "escolha {count}",
-    "Chosen": "Escolhido: {current} de {max}",
-    "Details": "Detalhes da Escolha",
-    "DropHint": "Arraste itens aqui para adicioná-los à lista de escolhas disponíveis neste avanço.",
-    "FIELDS": {
-      "allowDrops": {
-        "hint": "Permitir que os jogadores adicionem suas próprias escolhas a este avanço.",
-        "label": "Permitir Adições"
+    "Action": {
+      "Create": "Criar Avanço",
+      "Delete": "Excluir Avanço",
+      "Duplicate": "Duplicar Avanço",
+      "Edit": "Editar Avanço",
+      "View": "Visualizar Avanço"
+    },
+    "Config": {
+      "AnyLevel": "Qualquer",
+      "Details": "Detalhes do Avanço"
+    },
+    "HitPoints": {
+      "Action": {
+        "Roll": "Rolar {die}"
       },
-      "choices": {
-        "hint": "Especifique quantas escolhas são permitidas em cada nível.",
-        "label": "Escolhas",
-        "FIELDS": {
-          "count": {
-            "label": "Quantidade"
-          },
-          "replacement": {
-            "label": "Permitir Substituição"
-          }
-        }
-      },
-      "pool": {
-        "label": "Opções de Item"
-      },
-      "restriction": {
-        "level": {
-          "Available": "Qualquer Nível Disponível",
-          "hint": "Permitir apenas escolhas de magias deste nível.",
-          "label": "Nível da Magia"
+      "Average": "Média",
+      "Hint": "Acompanhe os pontos de vida do jogador para cada nível na classe.",
+      "MaxAtFirstLevel": "Máximo no 1º Nível: <strong>{max}</strong>",
+      "Roll": "Rolar Pontos de Vida de {class}",
+      "Starting": "Pontos de Vida no 1º Nível",
+      "TakeAverage": "Usar Média",
+      "Title": "Pontos de Vida",
+      "Warning": {
+        "Empty": "Os pontos de vida devem ser rolados ou o valor médio deve ser escolhido.",
+        "Invalid": "Os pontos de vida devem ser um número inteiro válido."
+      }
+    },
+    "ItemChoice": {
+      "Choose": "escolha {count}",
+      "Chosen": "Escolhido: {current} de {max}",
+      "Details": "Detalhes da Escolha",
+      "DropHint": "Arraste itens aqui para adicioná-los à lista de escolhas disponíveis neste avanço.",
+      "FIELDS": {
+        "allowDrops": {
+          "hint": "Permitir que os jogadores adicionem suas próprias escolhas a este avanço.",
+          "label": "Permitir Adições"
         },
-        "subtype": {
-          "label": "Subtipo"
+        "choices": {
+          "hint": "Especifique quantas escolhas são permitidas em cada nível.",
+          "label": "Escolhas",
+          "FIELDS": {
+            "count": {
+              "label": "Quantidade"
+            },
+            "replacement": {
+              "label": "Permitir Substituição"
+            }
+          }
+        },
+        "pool": {
+          "label": "Opções de Item"
+        },
+        "restriction": {
+          "level": {
+            "Available": "Qualquer Nível Disponível",
+            "hint": "Permitir apenas escolhas de magias deste nível.",
+            "label": "Nível da Magia"
+          },
+          "subtype": {
+            "label": "Subtipo"
+          },
+          "type": {
+            "label": "Tipo"
+          }
         },
         "type": {
-          "label": "Tipo"
+          "Any": "Qualquer Coisa",
+          "hint": "Restringir quais tipos de itens podem ser escolhidos.",
+          "label": "Tipo de Item"
         }
       },
-      "type": {
-        "Any": "Qualquer Coisa",
-        "hint": "Restringir quais tipos de itens podem ser escolhidos.",
-        "label": "Tipo de Item"
-      }
-    },
-    "Hint": "Apresente ao jogador uma escolha de itens (como equipamentos, características ou magias) que ele pode selecionar para seu personagem em um ou mais níveis.",
-    "Replacement": {
-      "None": "Sem Substituição",
-      "Title": "Substituir"
-    },
-    "Title": "Escolher Itens",
-    "Warning": {
-      "FeatureLevel": "Deve estar pelo menos no nível {level} para selecionar esta característica.",
-      "InvalidType": "Apenas itens do tipo {type} podem ser selecionados para esta escolha.",
-      "NoOriginal": "A escolha selecionada anteriormente não está mais disponível para substituição.",
-      "PreviouslyChosen": "Este item já foi escolhido em um nível anterior.",
-      "SpellLevelAvailable": "Apenas magias de nível {level} ou inferior podem ser escolhidas para este avanço.",
-      "SpellLevelSpecific": "Apenas magias de nível {level} podem ser escolhidas para este avanço."
-    }
-  },
-  "ItemGrant": {
-    "Details": "Detalhes da Concessão",
-    "DropHint": "Arraste itens aqui para adicioná-los à lista concedida por este avanço.",
-    "FIELDS": {
-      "items": {
-        "label": "Itens"
+      "Hint": "Apresente ao jogador uma escolha de itens (como equipamentos, características ou magias) que ele pode selecionar para seu personagem em um ou mais níveis.",
+      "Replacement": {
+        "None": "Sem Substituição",
+        "Title": "Substituir"
       },
-      "optional": {
-        "label": "Opcional",
-        "hint": "Se todo o avanço for marcado como opcional, os jogadores podem optar por não receber qualquer um dos itens a seguir. Caso contrário, todos os itens não opcionais serão concedidos."
+      "Title": "Escolher Itens",
+      "Warning": {
+        "FeatureLevel": "Deve estar pelo menos no nível {level} para selecionar esta característica.",
+        "InvalidType": "Apenas itens do tipo {type} podem ser selecionados para esta escolha.",
+        "NoOriginal": "A escolha selecionada anteriormente não está mais disponível para substituição.",
+        "PreviouslyChosen": "Este item já foi escolhido em um nível anterior.",
+        "SpellLevelAvailable": "Apenas magias de nível {level} ou inferior podem ser escolhidas para este avanço.",
+        "SpellLevelSpecific": "Apenas magias de nível {level} podem ser escolhidas para este avanço."
       }
     },
-    "Hint": "Conceda ao personagem itens (como equipamentos, características ou magias) quando ele atingir um determinado nível.",
-    "Title": "Conceder Itens",
-    "Warning": {
-      "Container": "O conteúdo dos recipientes não será adicionado com os recipientes.",
-      "Duplicate": "Este item já existe neste avanço.",
-      "Recursive": "Você não pode conceder um item dentro de seu próprio avanço."
-    }
-  },
-  "Manager": {
-    "Action": {
-      "Complete": "Concluir",
-      "NextStep": "Próximo",
-      "PreviousStep": "Anterior",
-      "Restart": "Reiniciar"
+    "ItemGrant": {
+      "Details": "Detalhes da Concessão",
+      "DropHint": "Arraste itens aqui para adicioná-los à lista concedida por este avanço.",
+      "FIELDS": {
+        "items": {
+          "label": "Itens"
+        },
+        "optional": {
+          "label": "Opcional",
+          "hint": "Se todo o avanço for marcado como opcional, os jogadores podem optar por não receber qualquer um dos itens a seguir. Caso contrário, todos os itens não opcionais serão concedidos."
+        }
+      },
+      "Hint": "Conceda ao personagem itens (como equipamentos, características ou magias) quando ele atingir um determinado nível.",
+      "Title": "Conceder Itens",
+      "Warning": {
+        "Container": "O conteúdo dos recipientes não será adicionado com os recipientes.",
+        "Duplicate": "Este item já existe neste avanço.",
+        "Recursive": "Você não pode conceder um item dentro de seu próprio avanço."
+      }
     },
-    "ClosePrompt": {
+    "Manager": {
       "Action": {
-        "Continue": "Continuar",
-        "Stop": "Parar Avanço"
+        "Complete": "Concluir",
+        "NextStep": "Próximo",
+        "PreviousStep": "Anterior",
+        "Restart": "Reiniciar"
       },
-      "Message": "<p>Se o processo de avanço for cancelado, as escolhas feitas até agora serão descartadas e nenhuma alteração será feita no personagem.</p>",
-      "Title": "Parar Avanço"
+      "ClosePrompt": {
+        "Action": {
+          "Continue": "Continuar",
+          "Stop": "Parar Avanço"
+        },
+        "Message": "<p>Se o processo de avanço for cancelado, as escolhas feitas até agora serão descartadas e nenhuma alteração será feita no personagem.</p>",
+        "Title": "Parar Avanço"
+      },
+      "RestartPrompt": {
+        "Message": "Tem certeza de que deseja desfazer todas as escolhas feitas até agora?",
+        "Title": "Reiniciar Escolhas de Avanço"
+      },
+      "Steps": "Passo {current} de {total}",
+      "Title": {
+        "Default": "Avanço",
+        "LevelIncreased": "Subir de Nível",
+        "LevelNewClass": "Adicionar Classe",
+        "ModifyChoices": "Modificar Escolhas"
+      }
     },
-    "RestartPrompt": {
-      "Message": "Tem certeza de que deseja desfazer todas as escolhas feitas até agora?",
-      "Title": "Reiniciar Escolhas de Avanço"
-    },
-    "Steps": "Passo {current} de {total}",
-    "Title": {
-      "Default": "Avanço",
-      "LevelIncreased": "Subir de Nível",
-      "LevelNewClass": "Adicionar Classe",
-      "ModifyChoices": "Modificar Escolhas"
-    }
-  },
-  "ScaleValue": {
-    "Action": {
-      "CopyFormula": "Copiar Fórmula"
-    },
-    "Details": "Detalhes do Valor de Escala",
-    "FIELDS": {
-      "distance": {
-        "units": {
-          "label": "Unidades de Distância"
+    "ScaleValue": {
+      "Action": {
+        "CopyFormula": "Copiar Fórmula"
+      },
+      "Details": "Detalhes do Valor de Escala",
+      "FIELDS": {
+        "distance": {
+          "units": {
+            "label": "Unidades de Distância"
+          }
+        },
+        "identifier": {
+          "label": "Identificador"
+        },
+        "scale": {
+          "label": "Escala"
+        },
+        "type": {
+          "label": "Tipo de Escala"
         }
       },
-      "identifier": {
-        "label": "Identificador"
-      },
-      "scale": {
-        "label": "Escala"
-      },
-      "type": {
-        "label": "Tipo de Escala"
-      }
-    },
-    "Hint": "Um valor único que muda conforme a classe sobe de nível e que pode ser usado em fórmulas de rolagem (como o dado de artes marciais do Monge).",
-    "Title": "Valor de Escala",
-    "Type": {
-      "CR": {
-        "FIELDS": {
-          "value": {
-            "label": "ND"
-          }
-        },
-        "Hint": "Use isso para representar o nível de desafio de criaturas em características como Forma Selvagem.",
-        "Label": "Nível de Desafio"
-      },
-      "Dice": {
-        "FIELDS": {
-          "faces": {
-            "label": "Faces"
+      "Hint": "Um valor único que muda conforme a classe sobe de nível e que pode ser usado em fórmulas de rolagem (como o dado de artes marciais do Monge).",
+      "Title": "Valor de Escala",
+      "Type": {
+        "CR": {
+          "FIELDS": {
+            "value": {
+              "label": "ND"
+            }
           },
-          "number": {
-            "label": "Quantidade"
-          }
+          "Hint": "Use isso para representar o nível de desafio de criaturas em características como Forma Selvagem.",
+          "Label": "Nível de Desafio"
         },
-        "Hint": "Use isso para valores de dados como inspiração bárdica, ataque furtivo ou dados de superioridade.",
-        "Identifier": "Este valor de escala para o nível atual estará disponível em uma fórmula usando:<br><copyable-text>@scale.{class}.{identifier}</copyable-text> - fórmula completa (<code>4d6</code>)<br><copyable-text>@scale.{class}.{identifier}.die</copyable-text> - dado completo (<code>d6</code>)<br><copyable-text>@scale.{class}.{identifier}.number</copyable-text> - número de dados (<code>4</code>)<br><copyable-text>@scale.{class}.{identifier}.faces</copyable-text> - número de faces (<code>6</code>)",
-        "Label": "Dados"
-      },
-      "Distance": {
-        "Hint": "Use isso para valores numéricos que representam uma distância, como movimento sem armadura ou raio da aura de proteção.",
-        "Label": "Distância"
-      },
-      "Number": {
-        "Hint": "Use isso para valores puramente numéricos, como bônus de dano de fúria ou número de usos por dia.",
-        "Label": "Numérico"
-      },
-      "String": {
-        "FIELDS": {
-          "value": {
-            "label": "Valor"
-          }
-        },
-        "Hint": "Use isso se não tiver certeza do tipo dos valores de escala ou se o tipo não for relevante.",
-        "Identifier": "Este valor de escala para o nível atual estará disponível em uma fórmula usando:<br><copyable-text>@scale.{class}.{identifier}</copyable-text>",
-        "Label": "Qualquer Coisa"
-      }
-    }
-  },
-  "Size": {
-    "DefaultHint": {
-      "Multiple": "Escolha seu tamanho entre {sizes}.",
-      "Single": "Seu tamanho é {size}."
-    },
-    "FIELDS": {
-      "sizes": {
-        "label": "Tamanhos"
-      }
-    },
-    "Hint": "Define o tamanho de um personagem.",
-    "Title": "Tamanho"
-  },
-  "SPELLCONFIG": {
-    "FIELDS": {
-      "spell": {
-        "label": "Detalhes da Magia",
-        "ability": {
-          "label": "Habilidade"
-        },
-        "preparation": {
-          "label": "Modo de Preparação"
-        },
-        "uses": {
-          "max": {
-            "label": "Usos"
+        "Dice": {
+          "FIELDS": {
+            "faces": {
+              "label": "Faces"
+            },
+            "number": {
+              "label": "Quantidade"
+            }
           },
-          "per": {
-            "label": "Período"
+          "Hint": "Use isso para valores de dados como inspiração bárdica, ataque furtivo ou dados de superioridade.",
+          "Identifier": "Este valor de escala para o nível atual estará disponível em uma fórmula usando:<br><copyable-text>@scale.{class}.{identifier}</copyable-text> - fórmula completa (<code>4d6</code>)<br><copyable-text>@scale.{class}.{identifier}.die</copyable-text> - dado completo (<code>d6</code>)<br><copyable-text>@scale.{class}.{identifier}.number</copyable-text> - número de dados (<code>4</code>)<br><copyable-text>@scale.{class}.{identifier}.faces</copyable-text> - número de faces (<code>6</code>)",
+          "Label": "Dados"
+        },
+        "Distance": {
+          "Hint": "Use isso para valores numéricos que representam uma distância, como movimento sem armadura ou raio da aura de proteção.",
+          "Label": "Distância"
+        },
+        "Number": {
+          "Hint": "Use isso para valores puramente numéricos, como bônus de dano de fúria ou número de usos por dia.",
+          "Label": "Numérico"
+        },
+        "String": {
+          "FIELDS": {
+            "value": {
+              "label": "Valor"
+            }
           },
-          "requireSlot": {
-            "label": "Requer Espaço",
-            "hint": "Requer que um espaço de magia seja gasto ao usar os usos limitados. Se não for marcado, os usos serão adicionais e não consumirão um espaço."
-          }
+          "Hint": "Use isso se não tiver certeza do tipo dos valores de escala ou se o tipo não for relevante.",
+          "Identifier": "Este valor de escala para o nível atual estará disponível em uma fórmula usando:<br><copyable-text>@scale.{class}.{identifier}</copyable-text>",
+          "Label": "Qualquer Coisa"
         }
       }
     },
-    "FreeCasting": "Magia Livre"
-  },
-  "Subclass": {
-    "Action": {
-      "Select": "Selecionar Subclasse"
-    },
-    "Hint": "Especifique em que nível essa classe recebe sua subclasse.",
-    "Title": "Subclasse",
-    "Warning": {
-      "InvalidType": "Apenas subclasses podem ser selecionadas."
-    }
-  },
-  "Trait": {
-    "Action": {
-      "AddChoice": "Adicionar Escolha",
-      "RemoveChoice": "Remover Escolha"
-    },
-    "ChoicesRemaining": "Selecione mais {count} {type}",
-    "Details": "Detalhes do Traço",
-    "FIELDS": {
-      "allowReplacements": {
-        "hint": "Se um traço já estiver definido no personagem, permita que o jogador escolha outro traço como substituição.",
-        "label": "Permitir Substituições"
+    "Size": {
+      "DefaultHint": {
+        "Multiple": "Escolha seu tamanho entre {sizes}.",
+        "Single": "Seu tamanho é {size}."
       },
-      "choices": {
-        "hint": "Os seguintes traços serão apresentados como opção ao jogador.",
-        "label": "Escolhas",
-        "FIELDS": {
-          "count": {
-            "label": "Quantidade"
+      "FIELDS": {
+        "sizes": {
+          "label": "Tamanhos"
+        }
+      },
+      "Hint": "Define o tamanho de um personagem.",
+      "Title": "Tamanho"
+    },
+    "SPELLCONFIG": {
+      "FIELDS": {
+        "spell": {
+          "label": "Detalhes da Magia",
+          "ability": {
+            "label": "Habilidade"
           },
-          "pool": {
-            "label": "Traços"
+          "preparation": {
+            "label": "Modo de Preparação"
+          },
+          "uses": {
+            "max": {
+              "label": "Usos"
+            },
+            "per": {
+              "label": "Período"
+            },
+            "requireSlot": {
+              "label": "Requer Espaço",
+              "hint": "Requer que um espaço de magia seja gasto ao usar os usos limitados. Se não for marcado, os usos serão adicionais e não consumirão um espaço."
+            }
           }
         }
       },
-      "grants": {
-        "hint": "Os seguintes traços serão concedidos ao personagem, desde que ele ainda não os possua.",
-        "label": "Garantidos"
+      "FreeCasting": "Magia Livre"
+    },
+    "Subclass": {
+      "Action": {
+        "Select": "Selecionar Subclasse"
       },
-      "mode": {
-        "label": "Modo"
+      "Hint": "Especifique em que nível essa classe recebe sua subclasse.",
+      "Title": "Subclasse",
+      "Warning": {
+        "InvalidType": "Apenas subclasses podem ser selecionadas."
       }
     },
-    "Hint": "Concede certos traços a um personagem ou dá a ele a opção de selecionar traços (como proficiências, habilidades, idiomas).",
-    "Mode": {
-      "Default": {
-        "Hint": "Adquire um traço ou proficiência.",
-        "Label": "Padrão"
+    "Trait": {
+      "Action": {
+        "AddChoice": "Adicionar Escolha",
+        "RemoveChoice": "Remover Escolha"
       },
-      "Expertise": {
-        "Hint": "Adquire especialização em um traço no qual já possui proficiência.",
-        "Label": "Especialização"
+      "ChoicesRemaining": "Selecione mais {count} {type}",
+      "Details": "Detalhes do Traço",
+      "FIELDS": {
+        "allowReplacements": {
+          "hint": "Se um traço já estiver definido no personagem, permita que o jogador escolha outro traço como substituição.",
+          "label": "Permitir Substituições"
+        },
+        "choices": {
+          "hint": "Os seguintes traços serão apresentados como opção ao jogador.",
+          "label": "Escolhas",
+          "FIELDS": {
+            "count": {
+              "label": "Quantidade"
+            },
+            "pool": {
+              "label": "Traços"
+            }
+          }
+        },
+        "grants": {
+          "hint": "Os seguintes traços serão concedidos ao personagem, desde que ele ainda não os possua.",
+          "label": "Garantidos"
+        },
+        "mode": {
+          "label": "Modo"
+        }
       },
-      "Force": {
-        "Hint": "Adquire especialização em um traço independentemente do nível de proficiência anterior.",
-        "Label": "Especialização Forçada"
+      "Hint": "Concede certos traços a um personagem ou dá a ele a opção de selecionar traços (como proficiências, habilidades, idiomas).",
+      "Mode": {
+        "Default": {
+          "Hint": "Adquire um traço ou proficiência.",
+          "Label": "Padrão"
+        },
+        "Expertise": {
+          "Hint": "Adquire especialização em um traço no qual já possui proficiência.",
+          "Label": "Especialização"
+        },
+        "Force": {
+          "Hint": "Adquire especialização em um traço independentemente do nível de proficiência anterior.",
+          "Label": "Especialização Forçada"
+        },
+        "Mastery": {
+          "Hint": "Adquire maestria com uma arma na qual já possui proficiência.",
+          "Label": "Maestria"
+        },
+        "Upgrade": {
+          "Hint": "Adquire proficiência em um traço, a menos que já a possua; nesse caso, adquire especialização.",
+          "Label": "Aprimoramento"
+        }
       },
-      "Mastery": {
-        "Hint": "Adquire maestria com uma arma na qual já possui proficiência.",
-        "Label": "Maestria"
-      },
-      "Upgrade": {
-        "Hint": "Adquire proficiência em um traço, a menos que já a possua; nesse caso, adquire especialização.",
-        "Label": "Aprimoramento"
-      }
-    },
-    "TraitType": "Tipo de Traço",
-    "Title": "Traços"
+      "TraitType": "Tipo de Traço",
+      "Title": "Traços"
+    }
   },
   "DND5E.AdvancementChoices": "escolhas",
   "DND5E.AdvancementClassRestriction": "Restrição de Classe",
