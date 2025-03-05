@@ -10,12 +10,20 @@
       "converter": "advancement"
     },
     "effects": {
-      "path": "efeitos",
-      "converter": "efeitos"
+      "path": "effects",
+      "converter": "effects"
     },
     "activities": {
       "path": "system.activities",
       "converter": "activities"
+    },
+    "movement": {
+      "path": "system.movement",
+      "converter": "movement"
+    },
+    "rangeActivities": {
+      "path": "system.activities",
+      "converter": "rangeActivities"
     }
   },
   "folders": {
@@ -933,7 +941,7 @@
         },
         "Githyanki Psionics": {
           "title": "Githyanki Psionics",
-          "hint": "You know the @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] cantrip, and the hand is &Reference[condition=invisible] when you cast the cantrip with this trait."
+          "hint": "Você sabe que o @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] pode trocar, e a mão é &Referência[Condicional[invisível] quando você usa a canção para esta característica."
         },
         "b7sd8SqlEOrdZCDA": {
           "title": "Githyanki Psionics"
