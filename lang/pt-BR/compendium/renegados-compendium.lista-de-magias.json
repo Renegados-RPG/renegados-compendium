@@ -4,34 +4,34 @@
   "folders": {},
   "entries": {
     "Spell List": {
-      "name": "Lista de Feitiços",
+      "name": "Lista de Magias",
       "pages": {
         "Cleric Spells": {
-          "name": "Cleric Spells"
+          "name": "Magias de Clérigo"
         },
         "Bard Spells": {
-          "name": "Bard Spells"
+          "name": "Magias de Bardo"
         },
         "Druid Spells": {
-          "name": "Feitiços de Druida"
+          "name": "Magias de Druida"
         },
         "Paladin Spells": {
-          "name": "Paladin Spells"
+          "name": "Magias de Paladino"
         },
         "Ranger Spells": {
-          "name": "Ranger Spells"
+          "name": "Magias de Patrulheiro"
         },
         "Sorcerer Spells": {
-          "name": "Sorcerer Spells"
+          "name": "Magias de Feiticeiro"
         },
         "Warlock Spells": {
-          "name": "Warlock Spells"
+          "name": "Magias de Bruxo"
         },
         "Wizard Spells": {
-          "name": "Wizard Spells"
+          "name": "Magias de Mago"
         },
         "Artificer": {
-          "name": "Artificador"
+          "name": "Magias de Artífice"
         }
       }
     }
