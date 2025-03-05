@@ -88,7 +88,7 @@
     "default": 0,
     "Zw9Q2ZNjr61CcpCW": 3
   },
-  "img": "modules/plutonium/media/icon/skills.svg",
+  "img": "icons/magic/symbols/rune-sigil-green-purple.webp",
   "flags": {},
   "effects": [],
   "folder": "gTeiHzLTxZ0Ebpj3",
@@ -99,7 +99,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.3",
     "createdTime": 1740796435767,
-    "modifiedTime": 1740796435767,
+    "modifiedTime": 1741148600225,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,

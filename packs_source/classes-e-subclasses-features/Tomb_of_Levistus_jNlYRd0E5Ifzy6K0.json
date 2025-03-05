@@ -100,7 +100,7 @@
     "default": 0,
     "Zw9Q2ZNjr61CcpCW": 3
   },
-  "img": "modules/plutonium/media/icon/skills.svg",
+  "img": "icons/magic/water/barrier-ice-crystal-wall-faceted.webp",
   "flags": {},
   "effects": [],
   "folder": "gTeiHzLTxZ0Ebpj3",
@@ -111,7 +111,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.3",
     "createdTime": 1740796435767,
-    "modifiedTime": 1740796435767,
+    "modifiedTime": 1741148661257,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,

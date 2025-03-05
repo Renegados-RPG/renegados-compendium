@@ -232,7 +232,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.8MlxM2nEfE3Q0EVk",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.eAc1ldtCY1vBS6iW",
               "optional": false
             }
           ],
@@ -289,100 +289,166 @@
           "type": "feat",
           "pool": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.2fyuw7MiCnocDeAU"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.zdF94gsLWyhdWUX0"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.alUqO6c6OEKFQJdb"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.aDNy4xL1RPi6QpJ8"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.QEuH5TeBN4PPYT2g"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WnSjFajvWVMgLGbu"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.61kXR1sniXHjvN17"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.neepqaTAJJjYiRc0"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.eNvpIaSnJUdF8fHl"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.RTzV85cXxdOByzOR"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.KygHql3cTj4IRrvZ"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.keUjMOdWvVsj8NHM"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.CFIYXDmbmSP8BXjN"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8n1FcDw2p8rY0Gi6"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.Phy02H5x0TKHd7T3"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.POzh7Yqo6PJGqobS"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.3sN91lT1R3oxcDKd"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Q388rgV3RRNOd2Lc"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.QBk1RsuTIEF4GEBC"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jyHplXnkSAilOMja"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.bbUEsCPTLzbbwK6o"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ebbVgRcrGkrDO1QB"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.r01WtcxTg4yTHm9m"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.UfYs8b5wdfjarprj"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.lEZKbWaVrSljRa9n"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CZB2zoLZmP2IAIfH"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.id0gmGvzNZBEdzbx"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.9OXl5kg8wGTnRlwW"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.65ReXU4ZWqcSs3Cm"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Jj3SJINuTS43yBlm"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.zUIAzBnyt0NDvVXb"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.z1h0dGP4pEBBUIhv"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.MhJfdBl1B7PdU4oZ"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.utfL5JL47X4LbEdl"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.lxfdjLer3uKjyZqU"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.iKFUky4JAFWOwfV6"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.QnRKYXb2bXpnNd2k"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Bn66WFlU2kgytVXL"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.DjXi0IkCTbJx1gsp"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.6ZUK0G5X38zqb9dD"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.k5DU0mMuYVHejiqz"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.rkDvRxZFdens7jV2"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.KfnUyjUWAk0bAAus"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7r7Y9OzHDaNBOZs3"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.8zciiglzEOZo7DDN"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.IL2LxQZHEhMVTseJ"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.rdBPd6CwqXT64iJM"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WHFEqypIgfFp6pca"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.Xa2MLUJGCReJ28B7"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.owQPYy8TKzPwoQtE"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.dTSV0xZMpY5CxkRk"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.AQCAijaBZb5PxHnM"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.rhbwDZ9XNTmdkX2u"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.uwuKEsePcteYhNqZ"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.pJADgAxxefgcATWr"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VJIFmN7gmRu28OKm"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.zYIdNAjqRyhS6qWs"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qXQc4nWh7HiYELIb"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.k5M8gsl7MMcdjOjs"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.oVneLmTg8HucBdil"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.gFjxo01hAN4c9hDG"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.fy1qi0zPFWaJIT6q"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.snsjxGfmzWfZR5Nh"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.H0pZiTCGXU44FWsw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WPLkQ0eLPjRNRpv6"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jNlYRd0E5Ifzy6K0"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.g2I3t5eiN0FHhAxl"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.W5MG8BnNcOAngbPF"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.udNu11U2qMHYctor"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.DeC6nSB1LBx5QM7P"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ibcv9NYKDWfATOTf"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.DGHBh26sU8KtKEl1"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.lH8L253FdPZOy7s7"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.HZsui7SQC3nakirZ"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VVyyVe0W0Bs0qYGJ"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.NZAlv5qbZMrUnwAg"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.onTJuqLNTHqoSeUA"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pO0yZKlc197zjuXo"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FhJdR1we6QN0gT3t"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pRN09fcYGRTzyvPR"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.G9x9puDMb8fvdbqQ"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.6nngVWLyjtZTSA3n"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VZZhkU9Bx8QVCMKU"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.o0DFk3DS30pzPHXw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XfMiNoIW9J8Q0BpT"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.F7uoXSf13YL26zEL"
             }
           ],
           "spell": {
@@ -413,7 +479,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.QwgfIpCN8VWfoUtX",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.6RfgF27C2wSd0MNs",
               "optional": false
             }
           ],
@@ -446,13 +512,16 @@
           "type": "feat",
           "pool": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.9dSSa68mIPoX2ezA"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.0uQvxz5Q1rKiyfEo"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.Ic1CSjvbWKudVUv9"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3j1G7snNZtT55cZy"
             },
             {
-              "uuid": "Compendium.dnd5e.classfeatures.MYM908WLZ1lVvA1u"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.JZLqx5zLejd1MUwo"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.a2Bgs4dURZHDP4fi"
             }
           ],
           "spell": {
@@ -526,7 +595,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.zB77V8BcCJvWVxck",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kDwBCU847wUfZb2I",
               "optional": false
             }
           ],
@@ -757,7 +826,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.0C04rwyvoknvFYiy",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pITRSbdEUKgnu8c5",
               "optional": false
             }
           ],
@@ -793,9 +862,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740795897220,
-    "modifiedTime": 1740796194554,
+    "modifiedTime": 1741151613935,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 12500,

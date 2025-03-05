@@ -1,6 +1,6 @@
 {
   "_id": "kDwBCU847wUfZb2I",
-  "name": "Mystic Arcanum (6th level)",
+  "name": "Mystic Arcanum",
   "type": "feat",
   "system": {
     "description": {
@@ -52,7 +52,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.3",
     "createdTime": 1740796152369,
-    "modifiedTime": 1741149553192,
+    "modifiedTime": 1741151547398,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 400000,
