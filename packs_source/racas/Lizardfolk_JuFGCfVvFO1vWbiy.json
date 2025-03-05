@@ -118,7 +118,24 @@
         "_id": "apls7we1OyZmQuMA",
         "type": "ItemGrant",
         "configuration": {
-          "items": [],
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.3eFOA069pbHHz4cb",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.EE3R8xk5V3r7ZS7o",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.fmrtq0udmrBX6ynz",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.4uaV01gz4G9sbhHf",
+              "optional": false
+            }
+          ],
           "optional": false,
           "spell": null
         },
@@ -192,9 +209,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1741111266059,
-    "modifiedTime": 1741112007639,
+    "modifiedTime": 1741174075376,
     "lastModifiedBy": "DVvEie1GDgUIIbvV"
   },
   "sort": 100000,

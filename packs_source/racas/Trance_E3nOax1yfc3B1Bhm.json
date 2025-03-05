@@ -1,0 +1,56 @@
+{
+  "name": "Trance",
+  "type": "feat",
+  "_id": "E3nOax1yfc3B1Bhm",
+  "img": "icons/magic/symbols/rune-sigil-white-pink.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Trance\" class=\"rd__b  rd__b--3\"><p>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.</p><p>Whenever you finish this trance, you can gain two proficiencies that you don't have, each one with a <a href=\"https://2014.5e.tools/book.html#phb,5,weapons,0\">weapon</a> or a <a href=\"https://2014.5e.tools/book.html#phb,5,tools,0\">tool</a> of your choice selected from the Player's Handbook. You mystically acquire these proficiencies by drawing them from shared elven memory, and you retain them until you finish your next long rest.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "trance",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "BbWyGUnxUAkHaRfZ",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.JTivjD9LEVVFsxvO",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741177593561,
+    "modifiedTime": 1741177593728,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!E3nOax1yfc3B1Bhm"
+}

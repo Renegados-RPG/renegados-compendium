@@ -1,15 +1,13 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
-import { PACKS } from "./constants.js";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import ora from "ora";
+import { join } from "path";
+import { PACK_SOURCE_PATH, PACKS } from "./constants.js";
 
 const spellNameMap = {};
 
 const mountSpellNameMap = () => {
-  const packPath = join(__dirname, "packs_source", "magias");
+  const spinner = ora("Mounting spell name map").start();
+  const packPath = PACK_SOURCE_PATH("magias");
   const files = readdirSync(packPath);
   files.forEach((file) => {
     const data = JSON.parse(readFileSync(join(packPath, file), "utf8"));
@@ -20,15 +18,16 @@ const mountSpellNameMap = () => {
       spellNameMap[data.name.toLowerCase()] = data._id;
     }
   });
+  spinner.succeed("Mounted spell name map");
   return spellNameMap;
 };
 
-const execute = async () => {
+export const execute = async () => {
   mountSpellNameMap();
 
   for (const pack of PACKS) {
     console.log(`reading ${pack} source`);
-    const destPath = join(__dirname, "packs_source", pack);
+    const destPath = PACK_SOURCE_PATH(pack);
 
     const files = readdirSync(destPath);
     for (const file of files) {
@@ -64,5 +63,3 @@ const execute = async () => {
     }
   }
 };
-
-execute();

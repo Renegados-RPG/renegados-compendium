@@ -95,13 +95,13 @@
       "max": "@prof"
     },
     "description": {
-      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Spark\" class=\"rd__b  rd__b--3\"><p>Your psychic connection to the Astral Plane enables you to mystically access a spark of divine power, which you can channel through your weapons. When you hit a target with a <a href=\"https://5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">simple or martial weapon</a>, you can cause the target to take extra force damage equal to your proficiency bonus.</p><p>You can use this trait a number of times equal to your proficiency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest.</p></div></div></div>",
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Spark\" class=\"rd__b  rd__b--3\"><p>Your psychic connection to the Astral Plane enables you to mystically access a spark of divine power, which you can channel through your weapons. When you hit a target with a <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">simple or martial weapon</a>, you can cause the target to take extra force damage equal to your proficiency bonus.</p><p>You can use this trait a number of times equal to your proficiency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest.</p></div></div></div>",
       "chat": ""
     },
     "identifier": "astral-spark",
     "source": {
       "revision": 1,
-      "rules": "2024"
+      "rules": "2014"
     },
     "advancement": [],
     "cover": null,

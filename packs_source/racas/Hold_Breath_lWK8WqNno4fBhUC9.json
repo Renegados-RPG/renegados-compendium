@@ -1,0 +1,56 @@
+{
+  "name": "Hold Breath",
+  "type": "feat",
+  "_id": "lWK8WqNno4fBhUC9",
+  "img": "icons/creatures/slimes/slime-bubble-teal.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Hold Breath\" class=\"rd__b  rd__b--3\"><p>You can hold your breath for 1 hour.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "hold-breath",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "7ZCnG1KLU2kdQjni",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.euzjOKqy1lSd30po",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741176079617,
+    "modifiedTime": 1741176079770,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!lWK8WqNno4fBhUC9"
+}

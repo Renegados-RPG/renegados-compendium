@@ -1,0 +1,56 @@
+{
+  "name": "Mirthful Leaps",
+  "type": "feat",
+  "_id": "nyLRli4KzKwCGrqH",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Mirthful Leaps\" class=\"rd__b  rd__b--3\"><p>Whenever you make a long jump or a high jump, you can roll a [[/r d8]] and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as usual.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "mirthful-leaps",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "zzGFESEqOLQKyWws",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.K4uvnuxRJ0wycHb2",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741176617995,
+    "modifiedTime": 1741176618218,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!nyLRli4KzKwCGrqH"
+}

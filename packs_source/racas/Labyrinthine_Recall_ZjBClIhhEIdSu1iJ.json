@@ -1,0 +1,56 @@
+{
+  "name": "Labyrinthine Recall",
+  "type": "feat",
+  "_id": "ZjBClIhhEIdSu1iJ",
+  "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Labyrinthine Recall\" class=\"rd__b  rd__b--3\"><p>You always know which direction is north, and you have advantage on any Wisdom (&amp;Reference[skill=Survival]) check you make to navigate or track.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "labyrinthine-recall",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "9rTs2LfSkPko5TjH",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.2Uhkxz01KBbsWNKU",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741175539665,
+    "modifiedTime": 1741175539847,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!ZjBClIhhEIdSu1iJ"
+}
