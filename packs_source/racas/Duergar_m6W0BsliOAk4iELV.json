@@ -1,0 +1,196 @@
+{
+  "_id": "m6W0BsliOAk4iELV",
+  "name": "Duergar",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Creature Type.</strong></span> You are a Humanoid. You are also considered a dwarf for any prerequisite or effect that requires you to be a dwarf.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 120 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Duergar Magic\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Duergar Magic.</strong></span> Starting at 3rd level, you can cast the @UUID[Compendium.renegados-compendium.magias.Item.0H6mAo9bWi2BFNu6] spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the @UUID[Compendium.renegados-compendium.magias.Item.WIBsKSmXivk6Ts1m] spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</p></div><div data-roll-name-ancestor=\"Dwarven Resilience\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Dwarven Resilience.</strong></span> You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=poisoned] condition on yourself. You also have resistance to poison damage.</p></div><div data-roll-name-ancestor=\"Psionic Fortitude\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Psionic Fortitude.</strong></span> You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] or &amp;Reference[condition=stunned] condition on yourself.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Duergar are dwarves whose ancestors were transformed by centuries living in the deepest places of the Underdark. That chthonic realm is saturated with strange magical energy, and over generations, early duergar absorbed traces of it. They were further altered when mind flayers and other Aberrations invaded and performed horrific experiments on them. Fueled by Underdark magic, those experiments left early duergar with psionic powers, which have been passed down to their descendants. In time, they liberated themselves from their aberrant tyrants and forged a new life for themselves in the Underdark and beyond.</p><p>Like other dwarves, duergar typically have a life span of 350 years.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "12",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "dwarf",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 36,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "25yvzoe6b9GxN2Bo",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "SQPzL8kamQEIKj6m",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "CzKEW1KuV2DQ68sk",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.9hpkWBtLNNEYKgAU",
+              "optional": false
+            },
+            {
+              "uuid": "Item.8lN7vuPVUNK9tlch",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "UtKPstGdASRBDjUx",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "guXGJJcbOoDL9ujn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Duergar Magic",
+        "hint": "",
+        "icon": "icons/magic/symbols/runes-star-blue.webp"
+      },
+      {
+        "_id": "LyM98eihDGh45duy",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.1N8dDMMgZ1h1YJ3B"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Duergar Magic",
+        "hint": "",
+        "icon": "icons/magic/movement/pinwheel-turning-blue.webp"
+      }
+    ],
+    "identifier": "duergar"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Duergar.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "furlPvXafOP1FT5I",
+  "_stats": {
+    "compendiumSource": "Item.V0KQXG0BYSN6FoCi",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740689217575,
+    "modifiedTime": 1740781031292,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!m6W0BsliOAk4iELV"
+}

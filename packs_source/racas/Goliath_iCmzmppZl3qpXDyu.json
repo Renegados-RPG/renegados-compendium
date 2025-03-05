@@ -1,0 +1,22 @@
+{
+  "name": "Goliath",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "iCmzmppZl3qpXDyu",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740795348774,
+    "modifiedTime": 1740795348774,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!folders!iCmzmppZl3qpXDyu"
+}

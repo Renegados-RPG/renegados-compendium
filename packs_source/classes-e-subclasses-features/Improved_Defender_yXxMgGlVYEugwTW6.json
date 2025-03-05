@@ -1,0 +1,124 @@
+{
+  "_id": "yXxMgGlVYEugwTW6",
+  "name": "Improved Defender",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "18",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 15th level, your Arcane Jolt and steel defender become more powerful:</p><ul class=\"rd__list\"><li class=\"rd__li \">The extra damage and the healing of your Arcane Jolt both increase to [[/damage 4d6]].</li><li class=\"rd__li \">Your steel defender gains a +2 bonus to Armor Class.</li><li class=\"rd__li \">Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to [[/damage 1d4]] + your Intelligence modifier.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 15 (Battle Smith)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "rkJFcVC76i2QudJ3": {
+        "_id": "rkJFcVC76i2QudJ3",
+        "type": "damage",
+        "name": "",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 1,
+              "denomination": 4,
+              "bonus": "@abilities.int.mod",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "improved-defender",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/creatures/magical/construct-stone-earth-gray.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "1mNvUazlW3jdMC3C",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740074341403,
+    "modifiedTime": 1740074769789,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 500000,
+  "_key": "!items!yXxMgGlVYEugwTW6"
+}

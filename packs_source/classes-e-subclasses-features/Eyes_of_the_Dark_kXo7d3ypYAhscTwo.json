@@ -1,0 +1,60 @@
+{
+  "_id": "kXo7d3ypYAhscTwo",
+  "name": "Eyes of the Dark",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 1st level, you have &amp;Reference[rule=darkvision] with a range of 120 feet.</p><p>When you reach 3rd level in this class, you learn the @UUID[Compendium.renegados-compendium.magias.Item.lALNrBclVabr7b7r] spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the @UUID[Compendium.renegados-compendium.magias.Item.lALNrBclVabr7b7r] created by the spell.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 1 (Shadow)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "eyes-of-the-dark",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "rNsUjTondnzks3qk",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740766819979,
+    "modifiedTime": 1740766819979,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!kXo7d3ypYAhscTwo"
+}

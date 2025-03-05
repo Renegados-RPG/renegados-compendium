@@ -1,0 +1,162 @@
+{
+  "_id": "eDcwbCl9H0VT6UP0",
+  "name": "Harengon",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> You are Medium or Small. You choose the size when you select this race.</p></div><div data-roll-name-ancestor=\"Hare-Trigger\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Hare-Trigger.</span> You can add your proficiency bonus to your initiative rolls.</p></div><div data-roll-name-ancestor=\"Leporine Senses\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Leporine Senses.</span> You have proficiency in the &amp;Reference[skill=Perception] skill.</p></div><div data-roll-name-ancestor=\"Lucky Footwork\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Lucky Footwork.</span> When you fail a Dexterity saving throw, you can use your reaction to roll a [[/r d4]] and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're &amp;Reference[condition=prone] or your speed is 0.</p></div><div data-roll-name-ancestor=\"Rabbit Hop\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Rabbit Hop.</span> As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking opportunity attacks. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm's exuberance with them and learning new languages as they went.</p><p>Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "22",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "harengon",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "Xhn57ID4b25Ah8ba",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "SrCUg8ZtjvUFl0Y0",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm", "med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "ZoyQtTedrpj3UmHC",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "IGGhKN9HEkkh6hVj",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:prc"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Leporine Senses",
+        "hint": ""
+      },
+      {
+        "_id": "pXuDsVTV5rVPOOVb",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.irtryFLl2hMk5Okd",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.uwcSELrQ8uroY0Zq",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.dTWBeu5A2w2LwAvK",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "identifier": "harengon"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Harengon.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "ozFGSo7ZE59laSmv",
+  "_stats": {
+    "compendiumSource": "Item.SSOHz7QzZ1I4Qtix",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741028916854,
+    "modifiedTime": 1741029530240,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 100000,
+  "_key": "!items!eDcwbCl9H0VT6UP0"
+}

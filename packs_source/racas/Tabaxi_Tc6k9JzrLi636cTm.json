@@ -1,0 +1,211 @@
+{
+  "_id": "Tc6k9JzrLi636cTm",
+  "name": "Tabaxi",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>9 m, climb equal to your walking speed</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> You are Medium or Small. You choose the size when you select this race.</p></div><div data-roll-name-ancestor=\"Speed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Speed.</span> Your walking speed is 30 feet, and you have a climbing speed equal to your walking speed.</p></div><div data-roll-name-ancestor=\"Cat's Claws\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Cat's Claws.</span> You can use your claws to make unarmed strikes. When you hit with them, the strike deals [[/damage 1d6]] + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.</p></div><div data-roll-name-ancestor=\"Cat's Talent\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Cat's Talent.</span> You have proficiency in the &amp;Reference[skill=Perception] and &amp;Reference[skill=Stealth] skills.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Feline Agility\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Feline Agility.</span> Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Created by the Cat Lord—a divine being of the Upper Planes—to blend the qualities of humanoids and cats, tabaxi are a varied people in both attitude and appearance. In some lands, tabaxi live like the cats they resemble, naturally curious and at home in playful environments. In other places, tabaxi live as other folk do, not exhibiting the feline behavior the Cat Lord intended.</p><p>Tabaxi's appearance is as varied as their attitudes. Some tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences—or might even be hairless!</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "33",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": 9,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "tabaxi",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "qJLPTyGvKq1wriX9",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "ADlPLUTwWAv9E6Ni",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm", "med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "xNUWSImGEmYKm1fA",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "5Koo1nvYuWD105Tx",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:ste", "skills:prc"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Cat's Talent",
+        "hint": "",
+        "icon": "icons/commodities/claws/claw-canine-brown-grey.webp"
+      },
+      {
+        "_id": "rb6Ydaw401JniEpd",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.K3rzMZ3F2RxrYBjA",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.B3VJfoPqM2W6Kvy5",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.rXgeLh8UaVRPmPdL",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "identifier": "tabaxi"
+  },
+  "effects": [
+    {
+      "_id": "zsXnVksUYatFbMJH",
+      "name": "Climb Speed",
+      "changes": [
+        {
+          "key": "system.attributes.movement.climb",
+          "mode": 5,
+          "value": "@attributes.movement.walk",
+          "priority": 4
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "climb-speed"
+        }
+      },
+      "img": "modules/plutonium/media/icon/family-tree.svg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!Tc6k9JzrLi636cTm.zsXnVksUYatFbMJH"
+    }
+  ],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Tabaxi.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "XchGBNrQUtEUluzV",
+  "_stats": {
+    "compendiumSource": "Item.NJYckB0u2fOPWMOo",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740775161595,
+    "modifiedTime": 1741028533460,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 100000,
+  "_key": "!items!Tc6k9JzrLi636cTm"
+}

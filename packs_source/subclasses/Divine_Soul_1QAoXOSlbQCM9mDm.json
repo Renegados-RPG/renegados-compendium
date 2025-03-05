@@ -1,0 +1,130 @@
+{
+  "_id": "1QAoXOSlbQCM9mDm",
+  "name": "Divine Soul",
+  "type": "subclass",
+  "system": {
+    "identifier": "divine-soul",
+    "classIdentifier": "sorcerer",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div class=\"rd__b  rd__b--1\"><p>Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name.</p><p>Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.</p><p>A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.</p><p>In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.</p><div data-roll-name-ancestor=\"Divine Magic\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Divine Magic</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 50\">p50</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.</p><p>In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. If you later replace this spell, you must replace it with a spell from the cleric spell list.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-6 \" data-rd-isroller=\"false\">Affinity</th><th class=\"rd__th ve-col-6 \" data-rd-isroller=\"false\">Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 \">Good</td><td class=\"rd__th ve-col-6 \"><a href=\"https://5e.tools/spells.html#cure%20wounds_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"cure%20wounds_phb\" data-vet-is-allow-redirect=\"true\">cure wounds</a></td></tr><tr><td class=\"rd__th ve-col-6 \">Evil</td><td class=\"rd__th ve-col-6 \"><a href=\"https://5e.tools/spells.html#inflict%20wounds_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"inflict%20wounds_phb\" data-vet-is-allow-redirect=\"true\">inflict wounds</a></td></tr><tr><td class=\"rd__th ve-col-6 \">Law</td><td class=\"rd__th ve-col-6 \"><a href=\"https://5e.tools/spells.html#bless_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"bless_phb\" data-vet-is-allow-redirect=\"true\">bless</a></td></tr><tr><td class=\"rd__th ve-col-6 \">Chaos</td><td class=\"rd__th ve-col-6 \"><a href=\"https://5e.tools/spells.html#bane_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"bane_phb\" data-vet-is-allow-redirect=\"true\">bane</a></td></tr><tr><td class=\"rd__th ve-col-6 \">Neutrality</td><td class=\"rd__th ve-col-6 \"><a href=\"https://5e.tools/spells.html#protection%20from%20evil%20and%20good_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"protection%20from%20evil%20and%20good_phb\" data-vet-is-allow-redirect=\"true\">protection from evil and good</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Favored by the Gods\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Favored by the Gods</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 50\">p50</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll <span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">2d4</span> and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Divine Soul\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Divine Soul</span></h2><p>Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name.</p><p>Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.</p><p>A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.</p><p>In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.</p><div data-roll-name-ancestor=\"Level 1: Divine Magic\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 1: Divine Magic</span></h3><p>Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.</p><p>In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. If you later replace this spell, you must replace it with a spell from the cleric spell list.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-6 \" data-rd-isroller=\"false\">Affinity</th><th class=\"rd__th ve-col-6 \" data-rd-isroller=\"false\">Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 \">Good</td><td class=\"rd__th ve-col-6 \">@UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2]</td></tr><tr><td class=\"rd__th ve-col-6 \">Evil</td><td class=\"rd__th ve-col-6 \">@UUID[Compendium.renegados-compendium.magias.Item.A4J4Sef8enPelyjv]</td></tr><tr><td class=\"rd__th ve-col-6 \">Law</td><td class=\"rd__th ve-col-6 \">@UUID[Compendium.renegados-compendium.magias.Item.NEGMkKAxBPdpflgW]</td></tr><tr><td class=\"rd__th ve-col-6 \">Chaos</td><td class=\"rd__th ve-col-6 \">@UUID[Compendium.renegados-compendium.magias.Item.DInqnI65JCzaQ7f9]</td></tr><tr><td class=\"rd__th ve-col-6 \">Neutrality</td><td class=\"rd__th ve-col-6 \">@UUID[Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 1: Favored by the Gods\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 1: Favored by the Gods</span></h3><p>Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll [[/r 2d4]] and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Empowered Healing\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 6: Empowered Healing</span></h3><p>Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't &amp;Reference[condition=incapacitated]. You can use this feature only once per turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Otherworldly Wings\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 14: Otherworldly Wings</span></h3><p>Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're &amp;Reference[condition=incapacitated], you die, or you dismiss them as a bonus action.</p><p>The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 18: Unearthly Recovery\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p50\">Level 18: Unearthly Recovery</span></h3><p>At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "HjN39pwdeNPTo0qm",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Z0XSCEbe1lWKsNgE",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.roiri9TYukCSGhba",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.UzzQIYktPGv7veJP",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.N8XWPYfzhuJbL1Wa",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "JHNeVKhQV7GR7BB1"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.lizYyJQE8Z6o0ysf"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "hHcCWQrqv2KzR3g0"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VMK8W9yM90ZjJJS6"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features",
+        "hint": "",
+        "_id": "Q0hCLB2D2twet6qq"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+  "folder": "cIZ4YYVhvl2dIYHy",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740791821844,
+    "modifiedTime": 1740794929788,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!1QAoXOSlbQCM9mDm"
+}

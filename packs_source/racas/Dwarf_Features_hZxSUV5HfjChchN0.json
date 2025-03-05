@@ -1,0 +1,22 @@
+{
+  "name": "Dwarf Features",
+  "sorting": "a",
+  "folder": "SckcBujvTFpWZ4dh",
+  "type": "Item",
+  "_id": "hZxSUV5HfjChchN0",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!hZxSUV5HfjChchN0"
+}

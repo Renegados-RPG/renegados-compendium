@@ -1,0 +1,56 @@
+{
+  "name": "Amphibious",
+  "type": "feat",
+  "_id": "X82BvQM859brv8vt",
+  "img": "icons/magic/water/bubbles-air-water-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Amphibious\" class=\"rd__b  rd__b--3\"><p>You can breathe air and water.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "amphibious",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Lr5g0jbJG218sYRc",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.V9tmMOxkcLaKtWXg",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741091426580,
+    "modifiedTime": 1741091426758,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!X82BvQM859brv8vt"
+}

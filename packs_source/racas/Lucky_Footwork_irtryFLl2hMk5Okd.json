@@ -1,0 +1,56 @@
+{
+  "name": "Lucky Footwork",
+  "type": "feat",
+  "_id": "irtryFLl2hMk5Okd",
+  "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Lucky Footwork\" class=\"rd__b  rd__b--3\"><p>When you fail a Dexterity saving throw, you can use your reaction to roll a [[/r d4]] and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're &amp;Reference[condition=prone] or your speed is 0.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "lucky-footwork",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "L12MaSxjnW1cG0YQ",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.RmAmoMPClGWUSeBF",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741029423974,
+    "modifiedTime": 1741029424118,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!irtryFLl2hMk5Okd"
+}

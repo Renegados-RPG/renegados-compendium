@@ -1,0 +1,106 @@
+{
+  "name": "Poison Resilience",
+  "type": "feat",
+  "_id": "sc5WZvnTcUMGaLen",
+  "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Poison Resilience\" class=\"rd__b  rd__b--3\"><p>You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=poisoned] condition on yourself. You also have resistance to poison damage.</p></div><div data-roll-name-ancestor=\"Serpentine Spellcasting\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Serpentine Spellcas</span></p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Poison Resilience",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "origin": "Item.hesXsx1zkgu42vzn",
+      "_id": "Kde1bN8eHUo1GAw7",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "poison",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!sc5WZvnTcUMGaLen.Kde1bN8eHUo1GAw7"
+    }
+  ],
+  "folder": "kZGFNv0x3zLVIF1S",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.hesXsx1zkgu42vzn",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740775000673,
+    "modifiedTime": 1740775000801,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!sc5WZvnTcUMGaLen"
+}

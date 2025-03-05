@@ -1,0 +1,60 @@
+{
+  "_id": "CRPB3Y3Eq1RYytMG",
+  "name": "Inescapable Destruction",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "DMG'14",
+      "page": "96",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and Channel Divinity options ignores resistance to necrotic damage.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 6 (Death)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "inescapable-destruction",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/earth/orb-stone-smoke-teal.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "fVzAnmLjFgQG0b76",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740707760757,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!CRPB3Y3Eq1RYytMG"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "54dPxTxYuPzhDTjR",
+  "name": "Tool Expertise",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "9",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level artificer feature</i></p><p>Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 6",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tool-expertise",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/commodities/tech/blueprint.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "v7nqSImzmxROa4U8",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1739906514263,
+    "modifiedTime": 1740021446392,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 2900000,
+  "_key": "!items!54dPxTxYuPzhDTjR"
+}

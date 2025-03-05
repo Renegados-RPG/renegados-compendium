@@ -1,0 +1,118 @@
+{
+  "_id": "FhoMt0R2DIOkind1",
+  "name": "Arcane Banishment",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "125",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When a creature fails its saving throw against your @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.hKjTjHSSbQ2TTzvp]{Arcane Abjuration feature}, the creature is banished for 1 minute (as in the @UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3]{Banishment} spell, no @status[concentration] required) if it isn't on its plane of origin, and its challenge rating is at or below [[@scale.arcana-domain.arcane-banishment-cr]].</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Arcane Banishment\"><caption></caption><tbody><tr></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 3 (Arcana)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "channelDivinity"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "eDohBnTa7uikTMC7": {
+        "_id": "eDohBnTa7uikTMC7",
+        "type": "save",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["wis"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "channel-divinity-arcane-abjuration",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-purple-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "rbEiQXrLLjMWK4gF",
+  "_stats": {
+    "compendiumSource": "Item.hKjTjHSSbQ2TTzvp",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740749671552,
+    "modifiedTime": 1740749671672,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 200000,
+  "_key": "!items!FhoMt0R2DIOkind1"
+}

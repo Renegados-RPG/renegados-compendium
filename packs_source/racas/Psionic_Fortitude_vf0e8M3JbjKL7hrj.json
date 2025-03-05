@@ -1,0 +1,56 @@
+{
+  "name": "Psionic Fortitude",
+  "type": "feat",
+  "_id": "vf0e8M3JbjKL7hrj",
+  "img": "icons/magic/movement/trail-streak-impact-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Psionic Fortitude\" class=\"rd__b  rd__b--3\"><p>You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] or &amp;Reference[condition=stunned] condition on yourself.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "YTDF2mhN7cs6sP1m",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.8lN7vuPVUNK9tlch",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740691012277,
+    "modifiedTime": 1740691012372,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!vf0e8M3JbjKL7hrj"
+}

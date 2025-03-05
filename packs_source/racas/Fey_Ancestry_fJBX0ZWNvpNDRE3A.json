@@ -1,0 +1,60 @@
+{
+  "name": "Fey Ancestry",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "race",
+      "subtype": ""
+    },
+    "requirements": "Elf, Half-Elf",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "fey-ancestry",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
+  "effects": [],
+  "folder": "XBcHxl9H8Jtd8jzt",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.races.Item.cnTbpPPeGW7vGjOV",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740783219913,
+    "modifiedTime": 1740783219971,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "fJBX0ZWNvpNDRE3A",
+  "sort": 250000,
+  "_key": "!items!fJBX0ZWNvpNDRE3A"
+}

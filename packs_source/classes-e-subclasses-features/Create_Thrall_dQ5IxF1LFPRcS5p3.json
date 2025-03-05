@@ -1,0 +1,107 @@
+{
+  "_id": "dQ5IxF1LFPRcS5p3",
+  "name": "Create Thrall",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "109",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an &amp;Reference[condition=incapacitated] humanoid. That creature is then &amp;Reference[condition=charmed] by you until a @UUID[Compendium.renegados-compendium.magias.Item.tnigAYnN25MJwz2W] spell is cast on it, the &amp;Reference[condition=charmed] condition is removed from it, or you use this feature again.</p><p>You can communicate telepathically with the &amp;Reference[condition=charmed] creature as long as the two of you are on the same plane of existence.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 14 (Great Old One)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "tPyKtxAVSjtLBF8F": {
+        "_id": "tPyKtxAVSjtLBF8F",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "create-thrall",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/commodities/treasure/doll-mummy.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Q5jpGGNGIUddRcsU",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796152369,
+    "modifiedTime": 1740796152369,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!dQ5IxF1LFPRcS5p3"
+}

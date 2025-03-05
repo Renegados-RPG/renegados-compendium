@@ -1,0 +1,22 @@
+{
+  "name": "3rd level",
+  "color": "#83609D",
+  "description": "",
+  "flags": {},
+  "sort": 400000,
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.4",
+    "createdTime": 1740591310574,
+    "modifiedTime": 1740609946997,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "24V5k0HRYWvOmD2f",
+  "_key": "!folders!24V5k0HRYWvOmD2f"
+}

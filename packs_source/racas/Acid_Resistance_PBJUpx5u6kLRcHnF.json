@@ -1,0 +1,106 @@
+{
+  "name": "Acid Resistance",
+  "type": "feat",
+  "_id": "PBJUpx5u6kLRcHnF",
+  "img": "icons/magic/acid/dissolve-bone-skull.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Acid Resistance\" class=\"rd__b  rd__b--3\"><p>You have resistance to acid damage.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "novoa-item",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Acid Resistance",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "origin": "Item.vtBY0TkeEpgOQpZy",
+      "_id": "PyJvDRdGEL4IqXck",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "acid",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": 1740694904939,
+        "lastModifiedBy": "DVvEie1GDgUIIbvV"
+      },
+      "_key": "!items.effects!PBJUpx5u6kLRcHnF.PyJvDRdGEL4IqXck"
+    }
+  ],
+  "folder": "uyPTXAb7Ct1pavDw",
+  "sort": 162500,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.vtBY0TkeEpgOQpZy",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740694482224,
+    "modifiedTime": 1740694482355,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!PBJUpx5u6kLRcHnF"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Undying",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "u3GVUHSwNrCzHG8y",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796152164,
+    "modifiedTime": 1740796152164,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "jX6tn4dyYyE4eUPx",
+  "_key": "!folders!jX6tn4dyYyE4eUPx"
+}

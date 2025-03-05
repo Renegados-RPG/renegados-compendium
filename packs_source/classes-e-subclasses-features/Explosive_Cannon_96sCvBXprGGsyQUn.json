@@ -1,0 +1,128 @@
+{
+  "_id": "96sCvBXprGGsyQUn",
+  "name": "Explosive Cannon",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "17",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 9th level, every eldritch cannon you create is more destructive:</p><ul class=\"rd__list\"><li class=\"rd__li \">The cannon's damage rolls all increase by [[/damage 1d8]].</li><li class=\"rd__li \">As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking [[/damage 3d8 type=force]] damage on a failed save or half as much damage on a successful one.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 9 (Artillerist)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "uE6uBFcNEZozhKvf": {
+        "_id": "uE6uBFcNEZozhKvf",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["dex"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 3,
+              "denomination": 8,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "explosive-cannon",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "KxNbzVORpdclVHRX",
+  "_stats": {
+    "compendiumSource": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.R4XapAf4sTx6YtPz",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740057692328,
+    "modifiedTime": 1740057692383,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 50000,
+  "_key": "!items!96sCvBXprGGsyQUn"
+}

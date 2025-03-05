@@ -1,0 +1,142 @@
+{
+  "_id": "Zj3SHUI08KXndB0h",
+  "name": "Creation",
+  "type": "spell",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "229",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.</p><p>The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Creation\"><caption>Creation</caption><thead><tr><th class=\"rd__th ve-col-8 \" data-rd-isroller=\"false\">Material</th><th class=\"rd__th ve-col-4 \" data-rd-isroller=\"false\">Duration</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-8 \">Vegetable matter</td><td class=\"rd__th ve-col-4 \">1 day</td></tr><tr><td class=\"rd__th ve-col-8 \">Stone or crystal</td><td class=\"rd__th ve-col-4 \">12 hours</td></tr><tr><td class=\"rd__th ve-col-8 \">Precious metals</td><td class=\"rd__th ve-col-4 \">1 hour</td></tr><tr><td class=\"rd__th ve-col-8 \">Gems</td><td class=\"rd__th ve-col-4 \">10 minutes</td></tr><tr><td class=\"rd__th ve-col-8 \">Adamantine or mithral</td><td class=\"rd__th ve-col-4 \">1 minute</td></tr></tbody></table><p>Using any material created by this spell as another spell's material component causes that spell to fail.</p></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"At Higher Levels\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">At Higher Levels.</span></span> When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.</p></div></div>",
+      "chat": ""
+    },
+    "level": 5,
+    "school": "ill",
+    "properties": ["vocal", "somatic", "material"],
+    "materials": {
+      "value": "a tiny piece of matter of the same type of the item you plan to create",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "target": {
+      "template": {
+        "contiguous": false,
+        "type": "cube",
+        "size": "1.5",
+        "units": "ft"
+      },
+      "affects": {
+        "choice": false
+      }
+    },
+    "range": {
+      "value": "9",
+      "units": "m"
+    },
+    "activation": {
+      "type": "minute",
+      "value": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "0",
+      "units": "spec"
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "ft"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "creation"
+  },
+  "img": "icons/magic/light/explosion-star-glow-blue.webp",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [],
+  "folder": "V2CwJ7gSVGJDUE1H",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740609448769,
+    "modifiedTime": 1740609585787,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!Zj3SHUI08KXndB0h"
+}

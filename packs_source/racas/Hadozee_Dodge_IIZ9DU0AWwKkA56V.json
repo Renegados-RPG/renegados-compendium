@@ -1,0 +1,56 @@
+{
+  "name": "Hadozee Dodge",
+  "type": "feat",
+  "_id": "IIZ9DU0AWwKkA56V",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Hadozee Dodge\" class=\"rd__b  rd__b--3\"><p>The magic that runs in your veins heightens your natural defenses. When you take damage, you can use your reaction to roll a [[/r d6]]. Add your proficiency bonus to the number rolled, and reduce the damage you take by an amount equal to that total (minimum of 0 damage).</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "hadozee-dodge",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "pSCJFyi5eCFZzCkj",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.5wzQ214hcGqcIjgf",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741028843674,
+    "modifiedTime": 1741028843806,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!IIZ9DU0AWwKkA56V"
+}

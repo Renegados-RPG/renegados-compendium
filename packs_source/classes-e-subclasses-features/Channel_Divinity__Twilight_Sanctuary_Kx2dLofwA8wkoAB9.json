@@ -1,0 +1,122 @@
+{
+  "_id": "Kx2dLofwA8wkoAB9",
+  "name": "Channel Divinity: Twilight Sanctuary",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>2nd-level Twilight Domain feature</i></p><p>You can use your Channel Divinity to refresh your allies with soothing twilight.</p><p>As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are &amp;Reference[condition=incapacitated] or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">You grant it temporary hit points equal to [[/r 1d6]] plus your cleric level.</li><li class=\"rd__li \">You end one effect on it causing it to be &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened].</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 2 (Twilight)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "channelDivinity"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "IpuJ6U5nRdVQ4Tyc": {
+        "_id": "IpuJ6U5nRdVQ4Tyc",
+        "type": "heal",
+        "name": "",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "number": 1,
+          "denomination": 6,
+          "bonus": "",
+          "scaling": {
+            "mode": "",
+            "number": 1
+          },
+          "custom": {
+            "enabled": false
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "channel-divinity-twilight-sanctuary",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/light/light-candles-lit-white.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "TtJ6dSOjvETcJJye",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707760757,
+    "modifiedTime": 1740761008617,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!Kx2dLofwA8wkoAB9"
+}

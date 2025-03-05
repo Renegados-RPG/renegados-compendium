@@ -1,0 +1,56 @@
+{
+  "name": "Ancestral Legacy",
+  "type": "feat",
+  "_id": "ffCVYMPSiVxAqmyy",
+  "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Ancestral Legacy\" class=\"rd__b  rd__b--3\"><p> If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.</p><p>If you don't keep any of those elements or you choose this lineage at character creation, you gain proficiency in two skills of your choice.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "ancestral-legacy",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ISqrRp8duyjJ9nF5",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.hYmj6FYtNgEC7p8m",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741040344791,
+    "modifiedTime": 1741040344853,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!ffCVYMPSiVxAqmyy"
+}

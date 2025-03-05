@@ -1,0 +1,260 @@
+{
+  "_id": "pRiCjIiIolPHw5Tx",
+  "name": "Genasi (Water)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>9 m, swim equal to your walking speed</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> You are Medium or Small. You choose the size when you select this race.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div><div data-roll-name-ancestor=\"Speed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Speed.</span> Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed.</p></div><div data-roll-name-ancestor=\"Acid Resistance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Acid Resistance.</span> You have resistance to acid damage.</p></div><div data-roll-name-ancestor=\"Amphibious\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Amphibious.</span> You breathe air and water.</p></div><div data-roll-name-ancestor=\"Call to the Wave\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Call to the Wave.</span> You know the @UUID[Compendium.renegados-compendium.magias.Item.2tnvKD2Qy3NkGllF] cantrip. Starting at 3rd level, you can cast the @UUID[Compendium.renegados-compendium.magias.Item.QId7JT3NASJZ6Vwa] spell with this trait. Starting at 5th level, you can also cast the @UUID[Compendium.renegados-compendium.magias.Item.gniWdFc3KXfcqyOz] spell with this trait, without requiring a material component. Once you cast @UUID[Compendium.renegados-compendium.magias.Item.QId7JT3NASJZ6Vwa] or @UUID[Compendium.renegados-compendium.magias.Item.gniWdFc3KXfcqyOz] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).</p></div></div><hr class=\"hr-1\" /><p>Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.</p><p>A typical genasi has a life span of 120 years.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "17",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "genasi",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "uDHEjOTj83rocT81",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "bF1hg4FIf0UUFkgA",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm", "med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "13VpDlFuOBYlJpNw",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "bB0odjjohuFUNL6C",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.PBJUpx5u6kLRcHnF"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.pwywgqFkUsIrBAqq"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.GndAfs5plDrGJMed"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.JLTQyqXEaJDrTXyW"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "bU9EhzksbhRt7tIc",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.a3XtAO5n2GrqiAh5"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Call to the Wave",
+        "hint": "",
+        "icon": "icons/magic/water/orb-water-bubbles-blue.webp"
+      },
+      {
+        "_id": "7dsEWpC3qk2nxTiS",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.dnd5e.spells.Item.YBda6nLKjxdT1LbS"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Call to the Wave",
+        "hint": "",
+        "icon": "icons/magic/water/pseudopod-swirl-blue.webp"
+      }
+    ],
+    "identifier": "genasi-water"
+  },
+  "effects": [
+    {
+      "_id": "0mg6hWuagtTW9CXg",
+      "name": "Swim Speed",
+      "changes": [
+        {
+          "key": "system.attributes.movement.swim",
+          "mode": 5,
+          "value": "@attributes.movement.walk",
+          "priority": 4
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "swim-speed"
+        }
+      },
+      "img": "modules/plutonium/media/icon/family-tree.svg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!pRiCjIiIolPHw5Tx.0mg6hWuagtTW9CXg"
+    }
+  ],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Genasi.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "Fd1ysNCpXyq9xZWx",
+  "_stats": {
+    "compendiumSource": "Item.YpuLtqwAhLY3BChZ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740694249632,
+    "modifiedTime": 1740781183199,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 250000,
+  "_key": "!items!pRiCjIiIolPHw5Tx"
+}

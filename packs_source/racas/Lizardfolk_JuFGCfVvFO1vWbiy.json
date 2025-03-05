@@ -1,0 +1,202 @@
+{
+  "_id": "JuFGCfVvFO1vWbiy",
+  "name": "Lizardfolk",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m, swim equal to your walking speed</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Speed\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Speed.</span> Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed.</p></div><div data-roll-name-ancestor=\"Bite\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Bite.</span> You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals [[/damage 1d6]] + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.</p></div><div data-roll-name-ancestor=\"Hold Breath\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Hold Breath.</span> You can hold your breath for up to 15 minutes at a time.</p></div><div data-roll-name-ancestor=\"Hungry Jaws\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Hungry Jaws.</span> You can throw yourself into a feeding frenzy. As a bonus action, you can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Natural Armor\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Natural Armor.</span> You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</p></div><div data-roll-name-ancestor=\"Nature's Intuition\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Nature's Intuition.</span> Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: &amp;Reference[skill=AnimalHandling]{Animal Handling}, &amp;Reference[skill=Medicine], &amp;Reference[skill=Nature], &amp;Reference[skill=Perception], &amp;Reference[skill=Stealth], or &amp;Reference[skill=Survival].</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>The saurian lizardfolk are thought by some sages to be distant cousins of dragonborn and kobolds. Despite their resemblance to those other scaled folk, however, lizardfolk are their own people and have lived on the worlds of the Material Plane since the worlds' creation. Gifted by the gods with remarkable physical defenses and a mystical connection to the natural world, lizardfolk can survive with just their wits in situations that would be deadly for other folk. Because of that fact, many lizardfolk myths state that their people were placed by the gods in the Material Plane to guard its natural wonders.</p><p>Lizardfolk have colorful scales and exhibit a wide array of scale patterns. Their individual facial features are as varied as those of lizards.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "26",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "lizardfolk",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "NPj8ju3uYFEVJakE",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "JiNZIIHZYnUl1bhR",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "mWO1e2j24nMRk2cS",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:ste", "skills:ani", "skills:med", "skills:nat", "skills:prc", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "V1ycaqtnKHi7qyTL",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idiomas",
+        "hint": ""
+      },
+      {
+        "_id": "apls7we1OyZmQuMA",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "identifier": "lizardfolk"
+  },
+  "effects": [
+    {
+      "_id": "lGG6ZXcKSpTgdg9p",
+      "name": "Swim Speed",
+      "changes": [
+        {
+          "key": "system.attributes.movement.swim",
+          "mode": 5,
+          "value": "@attributes.movement.walk",
+          "priority": 4
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "swim-speed"
+        }
+      },
+      "img": "modules/plutonium/media/icon/family-tree.svg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!JuFGCfVvFO1vWbiy.lGG6ZXcKSpTgdg9p"
+    }
+  ],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Lizardfolk.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "y6xfQwhNrrhdEG4c",
+  "_stats": {
+    "compendiumSource": "Item.4O14aJ8rzGb1Bfbc",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741111266059,
+    "modifiedTime": 1741112007639,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 100000,
+  "_key": "!items!JuFGCfVvFO1vWbiy"
+}

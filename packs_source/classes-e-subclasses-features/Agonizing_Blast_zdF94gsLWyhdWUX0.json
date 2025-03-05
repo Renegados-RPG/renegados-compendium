@@ -1,0 +1,108 @@
+{
+  "_id": "zdF94gsLWyhdWUX0",
+  "name": "Agonizing Blast",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: @UUID[Compendium.renegados-compendium.magias.Item.8vEFe9YqpUMNQXgO] cantrip</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When you cast @UUID[Compendium.renegados-compendium.magias.Item.8vEFe9YqpUMNQXgO], add your Charisma modifier to the damage it deals on a hit.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "110",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": "eldritchInvocation"
+    },
+    "requirements": "eldritch blast cantrip",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "agonizing-blast",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "img": "icons/magic/acid/projectile-stream-bubbles.webp",
+  "flags": {},
+  "effects": [
+    {
+      "_id": "1wzboxgFJDnqXgVg",
+      "name": "Bonus Damage",
+      "changes": [
+        {
+          "key": "system.bonuses.rsak.damage",
+          "mode": 2,
+          "value": "+(@srd5e.name.eldritchblast * @abilities.cha.mod)",
+          "priority": 7
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "bonus-damage"
+        }
+      },
+      "img": "icons/magic/acid/projectile-stream-bubbles.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.3",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!zdF94gsLWyhdWUX0.1wzboxgFJDnqXgVg"
+    }
+  ],
+  "folder": "gTeiHzLTxZ0Ebpj3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740796435767,
+    "modifiedTime": 1740796435767,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "_key": "!items!zdF94gsLWyhdWUX0"
+}

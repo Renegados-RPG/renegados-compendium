@@ -103,6 +103,7 @@
       "label": "Magias",
       "path": "packs/magias",
       "type": "Item",
+      "sorting": "m",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"

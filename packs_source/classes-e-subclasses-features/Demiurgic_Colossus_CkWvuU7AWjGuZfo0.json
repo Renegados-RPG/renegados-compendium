@@ -1,0 +1,60 @@
+{
+  "_id": "CkWvuU7AWjGuZfo0",
+  "name": "Demiurgic Colossus",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "BGG",
+      "page": "12",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>14th-Level Path of the Giant Feature</i></p><p>The primordial power of your rage intensifies. When you rage, your reach increases by 10 feet, your size can increase to Large or Huge (your choice), and you can use your Mighty Impel to move creatures that are Large or smaller.</p><p>In addition, the extra damage dealt by your Elemental Cleaver feature increases to [[/r 2d6]].</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 14 (Giant)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "demiurgic-colossus",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "kniJGxgJgfTzAM9Y",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740696634811,
+    "modifiedTime": 1740696634811,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "_key": "!items!CkWvuU7AWjGuZfo0"
+}

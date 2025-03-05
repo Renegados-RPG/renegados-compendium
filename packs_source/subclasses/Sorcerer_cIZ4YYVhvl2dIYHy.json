@@ -1,0 +1,22 @@
+{
+  "name": "Sorcerer",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "cIZ4YYVhvl2dIYHy",
+  "description": "",
+  "sort": 0,
+  "color": "#e5962d",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740707133762,
+    "modifiedTime": 1740766153730,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_key": "!folders!cIZ4YYVhvl2dIYHy"
+}

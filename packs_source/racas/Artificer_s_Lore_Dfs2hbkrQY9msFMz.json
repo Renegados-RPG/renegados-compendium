@@ -1,0 +1,60 @@
+{
+  "name": "Artificer's Lore",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "race",
+      "subtype": ""
+    },
+    "requirements": "Rock Gnome",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "artificers-lore",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/magic/fire/flame-burning-chain.webp",
+  "effects": [],
+  "folder": "3FBCIx5g2FToV6KD",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.races.Item.OQA1sHxKnSJq01dL",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740795106033,
+    "modifiedTime": 1740795106090,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "Dfs2hbkrQY9msFMz",
+  "sort": 150000,
+  "_key": "!items!Dfs2hbkrQY9msFMz"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Storm Herald",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 700000,
+  "sorting": "a",
+  "folder": "EZKLByyNnfexRGJh",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1740696634567,
+    "modifiedTime": 1740696669857,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "NyWiVaBber3sbIUP",
+  "_key": "!folders!NyWiVaBber3sbIUP"
+}
