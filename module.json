@@ -50,7 +50,16 @@
       "name": "Renegados",
       "sorting": "m",
       "color": "#2b7fee",
-      "packs": ["classes", "subclasses", "classes-e-subclasses-features", "racas", "magias"]
+      "packs": [
+        "classes",
+        "subclasses",
+        "classes-e-subclasses-features",
+        "racas",
+        "magias",
+        "lista-de-magias",
+        "macros"
+      ],
+      "folders": []
     }
   ],
   "packs": [
@@ -92,6 +101,28 @@
       "label": "Raças",
       "path": "packs/racas",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magias",
+      "label": "Magias",
+      "path": "packs/magias",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lista-de-magias",
+      "label": "Lista de Magias",
+      "path": "packs/lista-de-magias",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -99,11 +130,10 @@
       "system": "dnd5e"
     },
     {
-      "name": "magias",
-      "label": "Magias",
-      "path": "packs/magias",
-      "type": "Item",
-      "sorting": "m",
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
