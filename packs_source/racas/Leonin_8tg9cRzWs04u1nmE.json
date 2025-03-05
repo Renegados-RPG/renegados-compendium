@@ -1,0 +1,159 @@
+{
+  "_id": "8tg9cRzWs04u1nmE",
+  "name": "Leonin",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>10.5 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Age.</span> Leonin mature and age at about the same rate as humans.</p></div><div data-roll-name-ancestor=\"Alignment\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Alignment.</span> Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p></div><div data-roll-name-ancestor=\"Claws\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Claws.</span> Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to [[/damage 1d4]] + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p></div><div data-roll-name-ancestor=\"Hunter's Instincts\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Hunter's Instincts.</span> You have proficiency in one of the following skills of your choice: &amp;Reference[skill=Athletics], &amp;Reference[skill=Intimidation], &amp;Reference[skill=Perception], or &amp;Reference[skill=Survival].</p></div><div data-roll-name-ancestor=\"Daunting Roar\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Daunting Roar.</span> As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become &amp;Reference[condition=frightened] of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and Leonin.</p></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--1\"><p>The leonin guard the shining lands of Oreskos, a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond Oreskos's border mountains and seek to test themselves in a wider world.</p><div data-roll-name-ancestor=\"Noble and Fierce\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner\">Noble and Fierce</span></h3><p>Leonin tend to be tall compared to humans and move with a boldness that suggests their physical might. Tawny fur covers leonin bodies, and some grow thick manes ranging in shades from gold to black. While their hands prove as nimble as those of other humanoids, leonin have retractable feline claws, which they can extend instantly. This, along with their ability to produce bone-shaking roars, gives most leonin an air that readily shifts between regal and fearsome.</p><p>Leonin often act with confidence, which can come off as imperiousness. While this can reassure their allies, it can also suggest defiance in the face of what they perceive as imposed authority or unworthy experts.</p></div><div data-roll-name-ancestor=\"Quick to Quarrel\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner\">Quick to Quarrel</span></h3><p>Other peoples often perceive leonin as quick to take offense, intolerant of criticism, or belligerent. The truth is that many leonin simply enjoy fighting, whether verbal or physical. They take pleasure in argument, wrestling, sparring, and even battle, enjoying the opportunity to exercise their minds and bodies.</p><p>It follows, too, that leonin aren't inclined to carry grudges. A warrior might react with sudden violence to an insult, but when the fight is over (and the leonin's superiority proven), the insult is forgotten—along with the vanquished foe.</p></div><div data-roll-name-ancestor=\"Pride and Self-Reliance\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner\">Pride and Self-Reliance</span></h3><p>Few leonin devote themselves to the service of the gods. Centuries ago, the leonin worshiped the same gods that humans do, but after many of their prides suffered depravities at the hands of the tyrant Agnomakhos, most leonin rejected the gods. It's not that they deny the existence of deities; they merely see the gods as mercurial and ultimately unworthy of adoration. The Leonin and the Gods table suggests the range of attitudes that leonin might adopt toward the gods.</p><p>Leonin rely on themselves and their prides. A pride is bound together by the experience of a shared challenge and, in particular, the sacred act of the hunt. See <a href=\"https://5e.tools/book.html#MOT,3,oreskos,0\">chapter 3</a> for more details on Oreskos and the leonin who call that land home.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Leonin and the Gods\"><caption>Leonin and the Gods</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Attitude</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">I'm amused by the antics of the gods and their earnest, but ultimately deluded, mortal champions, and I feel smugly superior in my detachment.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">The meddling of the gods in mortal affairs makes me angry and bitter. I wish they would just leave us all alone!</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">I view the gods as worthy adversaries—incredibly clever and well-prepared to play a long game but ultimately doomed to lose their games.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">I'm certain every bad thing that happens can ultimately be blamed on the gods, but I roll my eyes at each new twist of fate and try to get on with my life.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">I wish that I could be as naive as humans and other mortals who actually think the gods are looking out for them. I miss that kind of innocence.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">I don't talk about it among other leonin, but I actually revere the gods and try to please them by my actions.</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Leonin Names\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner\">Leonin Names</span></h3><p>Along with their personal names, leonin identify themselves by their pride. A member of the Flintclaw pride with the personal name of Ziore, for example, would likely style herself as Ziore of the Flintclaw.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Female Names:\"><span class=\"bold rd__list-item-name\">Female Names:</span> Aletha, Atagone, Demne, Doxia, Ecate, Eriz, Gragonde, Iadma, Koila, Oramne, Seza, Ziore</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Male Names:\"><span class=\"bold rd__list-item-name\">Male Names:</span> Apto, Athoz, Baragon, Bryguz, Eremoz, Gorioz, Grexes, Oriz, Pyxathor, Teoz, Xemnon, Xior</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Pride Names:\"><span class=\"bold rd__list-item-name\">Pride Names:</span> Embereye, Flintclaw, Goldenfield, Ironmane, Starfeller, Sunguides</p></li></ul></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MOT",
+      "page": "20",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 10.5,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "leonin",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "HtBjMuY6paK9zoF1",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "iHgewJG6ddlm8jsx",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "yPIKtWcpyJBsA5bW",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "Y4TslSXXGSOO8d84",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["skills:ath", "skills:itm", "skills:prc", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Hunter's Instincts",
+        "hint": ""
+      },
+      {
+        "_id": "iFwPqACxb2I8ULgT",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.BodGf6VGj2pPQYDS",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.Mp6wS8csfGGU79H2",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "identifier": "leonin"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MOT/Leonin.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "SeblDnuxmZsWFfXw",
+  "_stats": {
+    "compendiumSource": "Item.hgBLYwOtoSQueBz8",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741092888394,
+    "modifiedTime": 1741110711733,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 100000,
+  "_key": "!items!8tg9cRzWs04u1nmE"
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Eerie Token",
+  "type": "feat",
+  "_id": "osmaPEfv2bTF41gq",
+  "img": "icons/skills/wounds/illness-disease-glowing-green.webp",
+  "system": {
+    "activities": {
+      "ZnM7NxuECF5hrkVJ": {
+        "type": "utility",
+        "_id": "ZnM7NxuECF5hrkVJ",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "formula": "",
+          "name": ""
+        },
+        "name": ""
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Eerie Token\" class=\"rd__b  rd__b--3\"><p>As a bonus action, you can harmlessly remove a lock of your hair, one of your nails, or one of your teeth. This token is imbued with magic until you finish a long rest. While the token is imbued in this way, you can take these actions:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telepathic Message\"><span class=\"bold rd__list-item-name\">Telepathic Message.</span> As an action, you can send a telepathic message to the creature holding or carrying the token, as long as you are within 10 miles of it. The message can contain up to twenty-five words.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Remote Viewing\"><span class=\"bold rd__list-item-name\">Remote Viewing.</span> If you are within 10 miles of the token, you can enter a trance as an action. The trance lasts for 1 minute, but it ends early if you dismiss it (no action required) or are &amp;Reference[condition=incapacitated]. During this trance, you can see and hear from the token as if you were located where it is. While you are using your senses at the token's location, you are &amp;Reference[condition=blinded] and &amp;Reference[condition=deafened] in regard to your own surroundings. When the trance ends, the token is harmlessly destroyed.</p></li></ul><p>Once you create a token using this feature, you can't do so again until you finish a long rest, at which point your missing part regrows.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "ancestral-legacy",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "ISqrRp8duyjJ9nF5",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.hYmj6FYtNgEC7p8m",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741040518327,
+    "modifiedTime": 1741040518398,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!osmaPEfv2bTF41gq"
+}

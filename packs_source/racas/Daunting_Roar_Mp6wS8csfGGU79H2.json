@@ -1,0 +1,135 @@
+{
+  "name": "Daunting Roar",
+  "type": "feat",
+  "_id": "Mp6wS8csfGGU79H2",
+  "img": "icons/magic/control/fear-fright-white.webp",
+  "system": {
+    "activities": {
+      "V5fbHQMneZ2gvnSs": {
+        "type": "save",
+        "_id": "V5fbHQMneZ2gvnSs",
+        "sort": 0,
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "damage": {
+          "parts": [],
+          "onSave": "none"
+        },
+        "save": {
+          "ability": ["wis"],
+          "dc": {
+            "calculation": "con",
+            "formula": ""
+          }
+        },
+        "name": "Dounting Roar"
+      }
+    },
+    "uses": {
+      "spent": 1,
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        },
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Daunting Roar\" class=\"rd__b  rd__b--3\"><p>As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become &amp;Reference[condition=frightened] of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "daunting-roar",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "gkqhooH2mipHa8UI",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.SjqgWfl3RZPbokC1",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741103402990,
+    "modifiedTime": 1741103403164,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!Mp6wS8csfGGU79H2"
+}

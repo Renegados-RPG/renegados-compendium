@@ -1,0 +1,22 @@
+{
+  "name": "Haregon Features",
+  "sorting": "a",
+  "folder": "ozFGSo7ZE59laSmv",
+  "type": "Item",
+  "_id": "L12MaSxjnW1cG0YQ",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!L12MaSxjnW1cG0YQ"
+}

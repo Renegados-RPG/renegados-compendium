@@ -1,0 +1,56 @@
+{
+  "name": "Adrenaline Rush",
+  "type": "feat",
+  "_id": "Pamb6NKDtjHfLNdi",
+  "img": "icons/magic/death/skull-fire-white-yellow.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Adrenaline Rush\" class=\"rd__b  rd__b--3\"><p>You can take the @action[Dash] action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "adrenaline-rush",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "vli4PcDHD9u04W9X",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.CRbmvlFvVOOAs8ld",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741092291629,
+    "modifiedTime": 1741092291785,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!Pamb6NKDtjHfLNdi"
+}

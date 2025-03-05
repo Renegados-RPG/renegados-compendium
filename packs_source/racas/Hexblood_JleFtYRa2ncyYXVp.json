@@ -1,0 +1,178 @@
+{
+  "_id": "JleFtYRa2ncyYXVp",
+  "name": "Hexblood",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Small/Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Creature Type.</strong></span> You are a Fey.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size.</strong></span> You are Medium or Small. You choose the size when you gain this lineage.</p></div><div data-roll-name-ancestor=\"Ancestral Legacy\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Ancestral Legacy.</strong></span> If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.</p><p>If you don't keep any of those elements or you choose this lineage at character creation, you gain proficiency in two skills of your choice.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Darkvision.</strong></span> You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.</p></div><div data-roll-name-ancestor=\"Eerie Token\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Eerie Token.</strong></span> As a bonus action, you can harmlessly remove a lock of your hair, one of your nails, or one of your teeth. This token is imbued with magic until you finish a long rest. While the token is imbued in this way, you can take these actions:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telepathic Message\"><span class=\"bold rd__list-item-name\">Telepathic Message.</span> As an action, you can send a telepathic message to the creature holding or carrying the token, as long as you are within 10 miles of it. The message can contain up to twenty-five words.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Remote Viewing\"><span class=\"bold rd__list-item-name\">Remote Viewing.</span> If you are within 10 miles of the token, you can enter a trance as an action. The trance lasts for 1 minute, but it ends early if you dismiss it (no action required) or are &amp;Reference[condition=incapacitated]. During this trance, you can see and hear from the token as if you were located where it is. While you are using your senses at the token's location, you are &amp;Reference[condition=blinded] and &amp;Reference[condition=deafened] in regard to your own surroundings. When the trance ends, the token is harmlessly destroyed.</p></li></ul><p>Once you create a token using this feature, you can't do so again until you finish a long rest, at which point your missing part regrows.</p></div><div data-roll-name-ancestor=\"Hex Magic\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Hex Magic.</strong></span> You can cast the @UUID[Compendium.renegados-compendium.magias.Item.IWodopwLQ2Zy8uga]{Disguise Self} and @UUID[Compendium.renegados-compendium.magias.Item.LTWVJZ5zPPXKWnM8]{Hex} spells with this trait. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.</p><p>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose the ability when you gain this lineage).</p><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Becoming a Hag\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"7\">Becoming a Hag</span></h4><p>Hags can undertake a ritual to irreversibly transform a hexblood they created into a new hag, either one of their own kind or that embodies the hexblood's nature. This requires that both the hag and hexblood be in the same place and consent to the lengthy ritual—circumstances most hexbloods shun but might come to accept over the course of centuries. Once a hexblood undergoes this irreversible ritual, they emerge as a hag NPC no longer under the control of the hexblood's player, unless the DM rules otherwise.</p></div></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Where wishing fails, ancient magic can offer a heart's desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag's influence: ears that split in forked points, skin in lurid shades, long hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as &amp;Reference[rule=darkvision] and a variety of magical methods to beguile the senses and avoid the same.</p><p>While many hexbloods gain their lineage after making a deal with a hag, others reveal their nature as they age—particularly if a hag influenced them early in life or even before their birth. Many hexbloods turn to lives of adventure, seeking to discover the mysteries of their magic, to forge a connection with their fey natures, or to avoid a hag that obsesses over them.</p><div data-roll-name-ancestor=\"Heir of Hags\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"9\"><span class=\"entry-title-inner\">Heir of Hags</span></h2><p>One way hags create more of their kind is through the creation of hexbloods. Every hexblood exhibits features suggestive of the hag whose magic inspires their powers. This includes an unusual crown, often called an eldercross or a witch's turn. This living, garland-like part of a hexblood's body extends from their temples and wraps behind the head, serving as a visible mark of the bargain between hag and hexblood, a debt owed, or a change to come.</p></div><div data-roll-name-ancestor=\"Hexblood Origins\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"10\"><span class=\"entry-title-inner\">Hexblood Origins</span></h2><p>A bargain with a hag or other eerie forces transformed your character into a magical being. Roll on or choose an option from the Hexblood Origins table to determine how your character gained their lineage.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Hexblood Origins\"><caption>Hexblood Origins</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Origin</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Seeking a child, your parent made a bargain with a hag. You are the result of that arrangement.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Fey kidnappers swapped you and your parents' child.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">A coven of hags lost one of its members. You were created to replace the lost hag.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">You were cursed as a child. A deal with the spirits of the forest transformed you into a hexblood, now free of the curse.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">You began life as a fey creature, but an accident changed you and forced you from your home.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">A slighted druid transformed you and bound you to live only so long as a sacred tree bears fruit.</td></tr></tbody></table></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "18",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "m",
+      "hover": false
+    },
+    "type": {
+      "value": "fey",
+      "subtype": "hexblood",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "m",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "vMTljxf0u6CMdlyA",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "QFd9UEQRo0N1UiBk",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm", "med"]
+        },
+        "value": {
+          "size": ""
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "lXIoKqqsPKbu0d0q",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.ffCVYMPSiVxAqmyy"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.racas.Item.osmaPEfv2bTF41gq"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.LTWVJZ5zPPXKWnM8"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.IWodopwLQ2Zy8uga"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["int", "wis", "cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "D2raISUmA0GXWiwc",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Ancestral Legacy",
+        "hint": ""
+      },
+      {
+        "_id": "C1c9bpIVup3K2aw0",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "identifier": "hexblood"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/VRGR/Hexblood.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "folder": "cZnelHn3cCyelhjG",
+  "_stats": {
+    "compendiumSource": "Item.gMGJ7EtFlhP1YMBr",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741040659532,
+    "modifiedTime": 1741040659599,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!JleFtYRa2ncyYXVp"
+}

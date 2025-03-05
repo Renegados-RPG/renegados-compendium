@@ -1,0 +1,56 @@
+{
+  "name": "Powerful Build",
+  "type": "feat",
+  "_id": "K63zGBPjyNJrFQO2",
+  "img": "icons/skills/movement/arrow-upward-yellow.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Powerful Build\" class=\"rd__b  rd__b--3\"><p>You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "powerful-build",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "vli4PcDHD9u04W9X",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.fGDr34IlOPtbtkfz",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741092295829,
+    "modifiedTime": 1741092306501,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!K63zGBPjyNJrFQO2"
+}

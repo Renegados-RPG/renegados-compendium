@@ -1,0 +1,145 @@
+{
+  "name": "Relentless Endurance",
+  "type": "feat",
+  "_id": "1xeMgdIxVz2Jbaza",
+  "img": "icons/magic/life/cross-area-circle-green-white.webp",
+  "system": {
+    "activities": {
+      "0pgf2sRk3PoL5Vgy": {
+        "type": "heal",
+        "_id": "0pgf2sRk3PoL5Vgy",
+        "sort": 0,
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false,
+          "condition": "Reduced to 0 hit points"
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "activityUses"
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": "self",
+            "special": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 1,
+          "recovery": [
+            {
+              "period": "lr",
+              "type": "recoverAll"
+            }
+          ],
+          "max": "1"
+        },
+        "healing": {
+          "number": 1,
+          "denomination": "",
+          "types": ["healing"],
+          "custom": {
+            "enabled": true,
+            "formula": "1"
+          },
+          "scaling": {
+            "number": 1
+          },
+          "bonus": ""
+        },
+        "name": "",
+        "img": "",
+        "appliedEffects": []
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "max": "1"
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Relentless Endurance\" class=\"rd__b  rd__b--3\"><p>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you use this trait, you can't do so again until you finish a long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can sp</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "relentless-endurance",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "race",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "vli4PcDHD9u04W9X",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.FwaPHV0vI2TsJa3R",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741092298511,
+    "modifiedTime": 1741092686114,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!1xeMgdIxVz2Jbaza"
+}

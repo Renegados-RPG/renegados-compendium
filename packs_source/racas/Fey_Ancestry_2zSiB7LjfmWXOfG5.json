@@ -1,0 +1,60 @@
+{
+  "name": "Fey Ancestry",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p>You have advantage on saving throws you make to avoid or end the &amp;Reference[condition=charmed] condition on yourself.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "race",
+      "subtype": ""
+    },
+    "requirements": "",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "fey-ancestry",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
+  "effects": [],
+  "folder": "OU7POaXoEb2JzsTz",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.renegados-compendium.racas.Item.fJBX0ZWNvpNDRE3A",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741040823371,
+    "modifiedTime": 1741040823432,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "2zSiB7LjfmWXOfG5",
+  "sort": 100000,
+  "_key": "!items!2zSiB7LjfmWXOfG5"
+}
