@@ -1983,7 +1983,7 @@
       }
     },
     "Build": {
-      "Unbuilt": "Demolir"
+      "Unbuilt": "Não Construído"
     },
     "Costs": {
       "Automatic": "Descontar Automaticamente",
@@ -1995,73 +1995,73 @@
     },
     "Craft": {
       "BaseItem": {
-        "Label": "Purchase Base Item",
-        "Hint": "If checked, the base item will be purchased at full price instead of crafted."
+        "Label": "Comprar Item Base",
+        "Hint": "Se marcado, o item base será comprado pelo preço total em vez de ser fabricado."
       },
-      "Hint": "The items that this facility is currently in the process of crafting or harvesting, if any."
+      "Hint": "Os itens que esta instalação está atualmente fabricando ou colhendo, se houver."
     },
-    "Description": "Description",
+    "Description": "Descrição",
     "FIELDS": {
       "building": {
         "built": {
-          "label": "Built",
-          "hint": "Basic facilities must be built first before they can be used."
+          "label": "Construído",
+          "hint": "Instalações básicas devem ser construídas primeiro antes de poderem ser utilizadas."
         }
       },
       "defenders": {
         "max": {
-          "label": "Defenders"
+          "label": "Defensores"
         }
       },
       "disabled": {
-        "hint": "Disabled facilities cannot be issued orders and are repaired at the beginning of the next turn.",
-        "label": "Disabled"
+        "hint": "Instalações desativadas não podem receber solicitações e são reparadas no início do próximo turno.",
+        "label": "Desativado"
       },
       "enlargeable": {
-        "hint": "Certain special facilities may have their size categories increased for a cost.",
-        "label": "Can Be Enlarged"
+        "hint": "Certas instalações especiais podem ter suas categorias de tamanho aumentadas por um custo.",
+        "label": "Pode Ser Ampliado"
       },
       "free": {
-        "hint": "Free facilities do not count towards your special facilities cap.",
-        "label": "Free Facility"
+        "hint": "Instalações gratuitas não contam para o limite de instalações especiais.",
+        "label": "Instalação Gratuita"
       },
       "hirelings": {
         "max": {
-          "label": "Hirelings"
+          "label": "Contratados"
         }
       },
       "level": {
-        "label": "Level Requirement"
+        "label": "Requerimento de Nível"
       },
       "order": {
-        "label": "Order"
+        "label": "Ordem"
       },
       "progress": {
         "max": {
           "label": "Total"
         },
         "order": {
-          "label": "Executing"
+          "label": "Executando"
         },
         "value": {
-          "label": "Current"
+          "label": "Atual"
         }
       },
       "size": {
-        "label": "Size"
+        "label": "Tamanho"
       },
       "trade": {
         "creatures": {
           "max": {
-            "label": "Creature Capacity"
+            "label": "Capacidade da Criatura"
           }
         },
         "profit": {
-          "label": "Profit Factor"
+          "label": "Fator de Lucro"
         },
         "stock": {
           "stocked": {
-            "hint": "Appropriate for facilities that do not store a variable value of goods, but are instead considered either stocked or empty.",
+            "hint": "Apropriado para instalações que não armazenam um valor variável de mercadorias, mas são consideradas como abastecidas ou vazias.",
             "label": "Stocked"
           },
           "value": {
@@ -2171,79 +2171,79 @@
       "Basic": {
         "Label": {
           "one": "Basic Facility",
-          "other": "Basic Facilities"
+          "other": "Instalações Básicas"
         },
-        "Bedroom": "Bedroom",
-        "DiningRoom": "Dining Room",
-        "Parlor": "Parlor",
-        "Courtyard": "Courtyard",
-        "Kitchen": "Kitchen",
-        "Storage": "Storage"
+        "Bedroom": "Quarto",
+        "DiningRoom": "Sala de jantar",
+        "Parlor": "Salão",
+        "Courtyard": "Pátio",
+        "Kitchen": "Cozinha",
+        "Storage": "Armazém"
       },
       "Special": {
         "Label": {
-          "one": "Special Facility",
-          "other": "Special Facilities"
+          "one": "Instalação Especial",
+          "other": "Instalações Especiais"
         },
-        "ArcaneStudy": "Arcane Study",
-        "Armory": "Armory",
-        "Barrack": "Barrack",
-        "Garden": "Garden",
-        "Library": "Library",
-        "Sanctuary": "Sanctuary",
-        "Smithy": "Smithy",
-        "Storehouse": "Storehouse",
-        "Workshop": "Workshop",
-        "GamingHall": "Gaming Hall",
-        "Greenhouse": "Greenhouse",
-        "Laboratory": "Laboratory",
-        "Sacristy": "Sacristy",
+        "ArcaneStudy": "Escritório Arcano",
+        "Armory": "Arsenal",
+        "Barrack": "Guarnição",
+        "Garden": "Jardim",
+        "Library": "Biblioteca",
+        "Sanctuary": "Santuário",
+        "Smithy": "Forja",
+        "Storehouse": "Depósito",
+        "Workshop": "Oficina",
+        "GamingHall": "Salão de Jogos",
+        "Greenhouse": "Estufa",
+        "Laboratory": "Laboratório",
+        "Sacristy": "Sacristia",
         "Scriptorium": "Scriptorium",
-        "Stable": "Stable",
-        "TeleportationCircle": "Teleportation Circle",
-        "Theater": "Theater",
-        "TrainingArea": "Training Area",
-        "TrophyRoom": "Trophy Room",
-        "Archive": "Archive",
-        "MeditationChamber": "Meditation Chamber",
-        "Menagerie": "Menagerie",
-        "Observatory": "Observatory",
-        "Pub": "Pub",
-        "Reliquary": "Reliquary",
-        "Demiplane": "Demiplane",
-        "Guildhall": "Guildhall",
-        "Sanctum": "Sanctum",
-        "WarRoom": "War Room"
+        "Stable": "Estábulo",
+        "TeleportationCircle": "Círculo de Teleporte",
+        "Theater": "Teatro",
+        "TrainingArea": "Área de Treinamento",
+        "TrophyRoom": "Sala de Troféus",
+        "Archive": "Arquivo",
+        "MeditationChamber": "Câmara de Meditação",
+        "Menagerie": "Zoológico",
+        "Observatory": "Observatório",
+        "Pub": "Bar",
+        "Reliquary": "Relicário",
+        "Demiplane": "Semiplano",
+        "Guildhall": "Salão de Guilda",
+        "Sanctum": "Templo",
+        "WarRoom": "Sala de Guerra"
       }
     },
     "Use": {
-      "Description": "Issued the <strong>{order}</strong> order to their {link} {facilityType}."
+      "Description": "Emitiu a solicitação <strong>{order}</strong> para sua {link} {facilityType}."
     }
   },
-  "DND5E.Favorite": "Favorite",
-  "DND5E.FavoriteDrop": "Drop Favorite",
-  "DND5E.FavoriteRemove": "Remove Favorite",
-  "DND5E.Favorites": "Favorites",
-  "DND5E.FeatureActionRecharge": "Action Recharge",
+  "DND5E.Favorite": "Favorito",
+  "DND5E.FavoriteDrop": "Arraste/Solte Favorito",
+  "DND5E.FavoriteRemove": "Remover Favorito",
+  "DND5E.Favorites": "Favoritos",
+  "DND5E.FeatureActionRecharge": "Recarga da Ação",
   "DND5E.FEATURE": {
     "FIELDS": {
       "cover": {
-        "label": "Cover",
-        "hint": "Cover provided to crew by this vehicle feature."
+        "label": "Cobertura",
+        "hint": "Cobertura fornecida para a tripulação pela característica deste veículo."
       },
       "properties": {
-        "label": "Feature Properties"
+        "label": "Propriedades da Característica"
       },
       "requirements": {
-        "label": "Requirements"
+        "label": "Requisitos"
       },
       "type": {
-        "label": "Feature Type"
+        "label": "Tipo de Característica"
       }
     }
   },
   "DND5E.Feature": {
-    "Background": "Background Feature",
+    "Background": "Característica de Antecedente",
     "Class": {
       "Label": "Class Feature",
       "ArcaneShot": "Arcane Shot",
@@ -2314,62 +2314,62 @@
   "DND5E.EffectEdit": "Edit Effect",
   "DND5E.EffectEnable": "Enable Effect",
   "DND5E.EffectDelete": "Delete Effect",
-  "DND5E.EffectDisable": "Disable Effect",
-  "DND5E.EffectTemporary": "Temporary Effects",
-  "DND5E.EffectPassive": "Passive Effects",
-  "DND5E.EffectInactive": "Inactive Effects",
-  "DND5E.EffectNew": "New Effect",
+  "DND5E.EffectDisable": "Desativar Efeito",
+  "DND5E.EffectTemporary": "Efeitos Temporários",
+  "DND5E.EffectPassive": "Efeitos Passivos",
+  "DND5E.EffectInactive": "Efeitos Inativos",
+  "DND5E.EffectNew": "Novo Efeito",
   "DND5E.EffectType": {
-    "Inactive": "Inactive",
-    "Passive": "Passive",
-    "Temporary": "Temporary",
-    "Unavailable": "Unavailable"
+    "Inactive": "Inativo",
+    "Passive": "Passiva",
+    "Temporary": "Temporário",
+    "Unavailable": "Indisponível"
   },
-  "DND5E.EffectUnavailable": "Unavailable Effects",
-  "DND5E.EffectUnavailableInfo": "Source item must be equipped or attuned to activate these",
-  "DND5E.Encumbrance": "Encumbrance",
-  "DND5E.ItemRarityCommon": "common",
-  "DND5E.ItemRarityMundane": "mundane",
-  "DND5E.ItemRarityUncommon": "uncommon",
-  "DND5E.ItemRarityRare": "rare",
-  "DND5E.ItemRarityVeryRare": "very rare",
-  "DND5E.ItemRarityLegendary": "legendary",
-  "DND5E.ItemRarityArtifact": "artifact",
-  "DND5E.Eyes": "Eyes",
-  "DND5E.Faith": "Faith",
-  "DND5E.FeatureActive": "Active Abilities",
-  "DND5E.FeatureAdd": "Create Feature",
-  "DND5E.FeatureAttack": "Feature Attack",
-  "DND5E.FeaturePassive": "Passive Abilities",
-  "DND5E.FeatureRechargeOn": "Recharge On",
-  "DND5E.FeatureRechargeResult": "1d6 Result",
-  "DND5E.FeatureSearch": "Search features",
-  "DND5E.FeatureUsage": "Feature Usage",
-  "DND5E.Features": "Features",
-  "DND5E.FeaturesBackground": "Background Features",
-  "DND5E.FeaturesClass": "{class} Features",
-  "DND5E.FeaturesOther": "Other Features",
-  "DND5E.Feats": "Feats",
-  "DND5E.FeetAbbr": "ft.",
-  "DND5E.Filter": "Filter",
-  "DND5E.FilterClear": "Clear Filters",
-  "DND5E.FilterGroupCategory": "Group by Category",
-  "DND5E.FilterGroupOrigin": "Group by Origin",
-  "DND5E.FilterGroupAction": "Group by Action",
-  "DND5E.FilterNoSpells": "No spells found for this set of filters.",
-  "DND5E.NoSpellLevels": "This character has no spellcaster levels, but you may add spells manually.",
+  "DND5E.EffectUnavailable": "Efeitos Indisponíveis",
+  "DND5E.EffectUnavailableInfo": "O item de origem deve estar equipado ou em sintonia para ativar estes",
+  "DND5E.Encumbrance": "Ônus",
+  "DND5E.ItemRarityCommon": "comum",
+  "DND5E.ItemRarityMundane": "mundano",
+  "DND5E.ItemRarityUncommon": "incomum",
+  "DND5E.ItemRarityRare": "raro",
+  "DND5E.ItemRarityVeryRare": "muito raro",
+  "DND5E.ItemRarityLegendary": "lendário",
+  "DND5E.ItemRarityArtifact": "artefato",
+  "DND5E.Eyes": "Olhos",
+  "DND5E.Faith": "Fé",
+  "DND5E.FeatureActive": "Habilidades Ativas",
+  "DND5E.FeatureAdd": "Adicionar Característica",
+  "DND5E.FeatureAttack": "Característica de Ataque",
+  "DND5E.FeaturePassive": "Habilidades Passivas",
+  "DND5E.FeatureRechargeOn": "Recarregar em",
+  "DND5E.FeatureRechargeResult": "Resultado 1d6",
+  "DND5E.FeatureSearch": "Pesquisar características",
+  "DND5E.FeatureUsage": "Uso da Característica",
+  "DND5E.Features": "Características",
+  "DND5E.FeaturesBackground": "Características de Antecedente",
+  "DND5E.FeaturesClass": "Características de {class}",
+  "DND5E.FeaturesOther": "Outras Características",
+  "DND5E.Feats": "Talentos",
+  "DND5E.FeetAbbr": "m.",
+  "DND5E.Filter": "Filtro",
+  "DND5E.FilterClear": "Limpar Filtros",
+  "DND5E.FilterGroupCategory": "Agrupar por Categoria",
+  "DND5E.FilterGroupOrigin": "Agrupar por Origem",
+  "DND5E.FilterGroupAction": "Agrupar por Ação",
+  "DND5E.FilterNoSpells": "Nenhuma magia encontrado para este conjunto de filtros.",
+  "DND5E.NoSpellLevels": "Este personagem não possui níveis de magia, mas você pode adicionar magias manualmente.",
   "DND5E.FLAGS": {
     "EnhancedDualWielding": {
-      "Name": "Enhanced Dual Wielding",
-      "Hint": "Allow bonus action extra attacks using any melee weapon without the Two-Handed property."
+      "Name": "Empunhadura Dupla Aprimorada",
+      "Hint": "Permite ataques extras como ação bônus usando qualquer arma corpo a corpo sem a propriedade Duas Mãos."
     }
   },
-  "DND5E.FlagsInstructions": "Configure character features and traits which fine-tune behaviors of the D&D Fifth Edition system.",
-  "DND5E.FlagsSave": "Update Special Traits",
-  "DND5E.FlagsTitle": "Configure Special Traits",
-  "DND5E.FlagsDiamondSoul": "Diamond Soul",
-  "DND5E.FlagsDiamondSoulHint": "Gain proficiency to all saving throws.",
-  "DND5E.FlagsPowerfulBuild": "Powerful Build",
+  "DND5E.FlagsInstructions": "Configure características e traços de personagens que ajustam comportamentos do sistema D&D 5ª Edição.",
+  "DND5E.FlagsSave": "Atualizar Características Especiais",
+  "DND5E.FlagsTitle": "Configurar Características Especiais",
+  "DND5E.FlagsDiamondSoul": "Alma de Diamante",
+  "DND5E.FlagsDiamondSoulHint": "Ganhe proficiência em todos os testes de salvaguarda.",
+  "DND5E.FlagsPowerfulBuild": "Construção Poderosa",
   "DND5E.FlagsPowerfulBuildHint": "Provides increased carrying capacity.",
   "DND5E.FlagsElvenAccuracy": "Elven Accuracy",
   "DND5E.FlagsElvenAccuracyHint": "Roll an extra d20 with advantage to Dex, Int, Wis, or Cha.",
