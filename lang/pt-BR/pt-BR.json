@@ -372,95 +372,95 @@
         "None": "Sem Substituição",
         "Title": "substituir"
       },
-      "Title": "Choose Items",
+      "Title": "Selecionar Itens",
       "Warning": {
-        "FeatureLevel": "Must be at least level {level} to take this feature.",
-        "InvalidType": "Only {type} items can be selected for this choice.",
-        "NoOriginal": "Previously selected choice no longer available for replacement.",
-        "PreviouslyChosen": "This item has already been chosen at a previous level.",
-        "SpellLevelAvailable": "Only {level} or lower spells can be chosen for this advancement.",
-        "SpellLevelSpecific": "Only {level} spells can be chosen for this advancement."
+        "FeatureLevel": "Precisa ser pelo menos de nível {level} para escolher essa característica.",
+        "InvalidType": "Somente itens do tipo {type} podem ser selecionados para esta escolha.",
+        "NoOriginal": "A escolha anteriormente selecionada não está mais disponível para substituição.",
+        "PreviouslyChosen": "Este item já foi escolhido em um nível anterior.",
+        "SpellLevelAvailable": "Apenas magias de {level} ou inferiores podem ser escolhidas para esta evolução.",
+        "SpellLevelSpecific": "Apenas magias de {level} podem ser escolhidas para esta evolução."
       }
     },
     "ItemGrant": {
-      "Details": "Grant Details",
-      "DropHint": "Drop Items here to add them to the list granted by this advancement.",
+      "Details": "Detalhes da concessão",
+      "DropHint": "Solte itens aqui para adicioná-los à lista concedida por este avanço.",
       "FIELDS": {
         "items": {
-          "label": "Items"
+          "label": "Itens"
         },
         "optional": {
-          "label": "Optional",
-          "hint": "If the whole advancement is marked optional, players may opt out of any of the following items, otherwise all non-optional items are granted."
+          "label": "Opcional",
+          "hint": "Se toda a evolução for marcada como opcional, os jogadores poderão optar por não receber os itens a seguir, caso contrário, todos os itens não opcionais serão concedidos."
         }
       },
-      "Hint": "Grant the character items (such as equipment, features, or spells) when they reach a certain level.",
-      "Title": "Grant Items",
+      "Hint": "Conceda itens (como equipamentos, características ou magias) ao personagem quando atingirem um determinado nível.",
+      "Title": "Conceder Itens",
       "Warning": {
-        "Container": "Container contents will not be added with containers.",
-        "Duplicate": "That item already exists on this advancement.",
-        "Recursive": "You cannot grant an item in its own advancement."
+        "Container": "O conteúdo do recipiente não será adicionado com recipientes.",
+        "Duplicate": "Este item já existe nesta evolução.",
+        "Recursive": "Você não pode conceder um item em sua própria evolução."
       }
     },
     "Manager": {
       "Action": {
-        "Complete": "Complete",
-        "NextStep": "Next",
-        "PreviousStep": "Previous",
-        "Restart": "Restart"
+        "Complete": "Concluído",
+        "NextStep": "Avançar",
+        "PreviousStep": "Voltar",
+        "Restart": "Reiniciar"
       },
       "ClosePrompt": {
         "Action": {
-          "Continue": "Continue",
-          "Stop": "Stop Advancement"
+          "Continue": "Continuar",
+          "Stop": "Parar Evolução"
         },
-        "Message": "<p>If the advancement process is cancelled, choices made so far will be discarded and no changes will be made to the actor.</p>",
-        "Title": "Stop Advancement"
+        "Message": "<p>Se o processo de evolução for cancelado, as escolhas feitas até o momento serão descartadas e nenhuma alteração será feita ao ator.</p>",
+        "Title": "Parar Evolução"
       },
       "RestartPrompt": {
-        "Message": "Are you sure you wish to undo all choices so far?",
-        "Title": "Restart Advancement Choices"
+        "Message": "Tem certeza de que deseja desfazer todas as escolhas até agora?",
+        "Title": "Reiniciar Escolhas de Evolução"
       },
-      "Steps": "Step {current} of {total}",
+      "Steps": "Passo {current} de {total}",
       "Title": {
-        "Default": "Advancement",
-        "LevelIncreased": "Level Up Character",
-        "LevelNewClass": "Add Class",
-        "ModifyChoices": "Modify Choices"
+        "Default": "Evolução",
+        "LevelIncreased": "Subir Nível do Personagem",
+        "LevelNewClass": "Adicionar Classe",
+        "ModifyChoices": "Modificar Escolhas"
       }
     },
     "ScaleValue": {
       "Action": {
-        "CopyFormula": "Copy Formula"
+        "CopyFormula": "Copiar Fórmula"
       },
-      "Details": "Scale Value Details",
+      "Details": "Detalhes do Valor de Crescimento",
       "FIELDS": {
         "distance": {
           "units": {
-            "label": "Distance Units"
+            "label": "Unidades de Distância"
           }
         },
         "identifier": {
-          "label": "Identifier"
+          "label": "Identificador"
         },
         "scale": {
-          "label": "Scale"
+          "label": "Escala"
         },
         "type": {
-          "label": "Scale Type"
+          "label": "Tipo de Escala"
         }
       },
-      "Hint": "A single value that changes as a class increases in level that is made available in roll formulas (such as a Monk's martial arts die).",
-      "Title": "Scale Value",
+      "Hint": "Um valor único que muda, conforme o nível de uma classe aumenta, disponibilizado em fórmulas de jogada (como o dado de artes marciais de um Monge).",
+      "Title": "Valor da Escala",
       "Type": {
         "CR": {
           "FIELDS": {
             "value": {
-              "label": "CR"
+              "label": "ND"
             }
           },
-          "Hint": "Use this for representing creature challenge ratings for features like Wild Shape",
-          "Label": "Challenge Rating"
+          "Hint": "Use este campo para representar o nível de desafio de criaturas para características como Forma Selvagem",
+          "Label": "Nível de Desafio"
         },
         "Dice": {
           "FIELDS": {
@@ -468,16 +468,16 @@
               "label": "Faces"
             },
             "number": {
-              "label": "Number"
+              "label": "Número"
             }
           },
-          "Hint": "Use this for dice values like bardic inspiration, sneak attack, or superiority dice.",
-          "Identifier": "This scale value for the current level will be available in a formula using:<br><copyable-text>@scale.{class}.{identifier}</copyable-text> - whole formula (<code>4d6</code>)<br><copyable-text>@scale.{class}.{identifier}.die</copyable-text> - whole die (<code>d6</code>)<br><copyable-text>@scale.{class}.{identifier}.number</copyable-text> - number of dice (<code>4</code>)<br><copyable-text>@scale.{class}.{identifier}.faces</copyable-text> - number of faces (<code>6</code>)",
-          "Label": "Dice"
+          "Hint": "Use isso para valores de dados como inspiração de bardo, ataque furtivo ou dados de superioridade.",
+          "Identifier": "Este valor de escala para o nível atual estará disponível em uma fórmula usando:<br><copyable-text>@scale.{class}.{identifier}</copyable-text> - fórmula inteira (<code>4d6</code>)<br><copyable-text>@scale.{class}.{identifier}.die</copyable-text> - dado inteiro (<code>d6</code>)<br><copyable-text>@scale.{class}.{identifier}.number</copyable-text> - número de dados (<code>4</code>)<br><copyable-text>@scale.{class}.{identifier}.faces</copyable-text> - número de faces (<code>6</code>)",
+          "Label": "Dado"
         },
         "Distance": {
-          "Hint": "Use this for numerical values that represent a distance, such as unarmored movement speed, or aura of protection radius.",
-          "Label": "Distance"
+          "Hint": "Use isto para valores numéricos que representam uma distância, como deslocamento sem armadura ou o raio da aura de proteção.",
+          "Label": "Distância"
         },
         "Number": {
           "Hint": "Use this for purely numerical values like rage damage bonus or number of uses per day.",
@@ -987,84 +987,84 @@
   "DND5E.Casting": "Conjuração",
   "DND5E.Conditions": "Condições",
   "DND5E.CONTAINER": {
-    "Details": "Container Details",
+    "Details": "Detalhes do Recipiente",
     "FIELDS": {
       "capacity": {
-        "label": "Capacity",
+        "label": "Capacidade",
         "count": {
-          "label": "Item Count"
+          "label": "Total de Itens"
         },
         "volume": {
-          "label": "Volume Capacity",
+          "label": "Capacidade de Volume",
           "units": {
-            "label": "Volume Units"
+            "label": "Unidades de Volume"
           },
           "value": {
-            "label": "Maximum Volume"
+            "label": "Volume Máximo"
           }
         },
         "weight": {
-          "label": "Weight Capacity",
+          "label": "Capacidade de Peso",
           "units": {
-            "label": "Weight Units"
+            "label": "Unidades de peso"
           },
           "value": {
-            "label": "Maximum Weight"
+            "label": "Peso Máximo"
           }
         }
       },
       "properties": {
-        "label": "Container Properties"
+        "label": "Propriedade do Recipiente"
       }
     }
   },
   "DND5E.Controls": {
-    "Hint": "Enable various hints throughout the UI for certain mouse and keyboard controls.",
-    "LeftClick": "Left Click",
-    "LockHint": "Middle-click to lock",
-    "MiddleClick": "Middle Click",
-    "Name": "Enable Control Hints",
+    "Hint": "Ative várias dicas na interface do usuário para determinados controles de mouse e teclado.",
+    "LeftClick": "Clique esquerdo",
+    "LockHint": "Clique com o botão do meio para bloquear",
+    "MiddleClick": "Clique Botão no Meio do Mouse",
+    "Name": "Ativar Dicas de Controle",
     "Activity": {
-      "FastForwardHint": "<kbd>Shift</kbd> + <left-click> the item to skip this dialog"
+      "FastForwardHint": "<kbd>Shift</kbd> + <left-click> o item para ignorar esta caixa de diálogo"
     }
   },
-  "DND5E.ChallengeRating": "Challenge Rating",
-  "DND5E.Charged": "Charged",
-  "DND5E.Charges": "Charges",
-  "DND5E.ChatContextDamage": "Apply Damage",
-  "DND5E.ChatContextHealing": "Apply Healing",
-  "DND5E.ChatContextTempHP": "Apply Temporary HP",
-  "DND5E.ChatContextDoubleDamage": "Apply Double Damage",
-  "DND5E.ChatContextHalfDamage": "Apply Half Damage",
-  "DND5E.ChatContextSelectHit": "Select Hit Targets",
-  "DND5E.ChatContextSelectMiss": "Select Missed Targets",
-  "DND5E.ChatFlavor": "Chat Message Flavor",
+  "DND5E.ChallengeRating": "Nível de Desafio",
+  "DND5E.Charged": "Carregada",
+  "DND5E.Charges": "Cargas",
+  "DND5E.ChatContextDamage": "Aplicar Dano",
+  "DND5E.ChatContextHealing": "Aplicar Cura",
+  "DND5E.ChatContextTempHP": "Aplicar PV Temporário",
+  "DND5E.ChatContextDoubleDamage": "Aplicar Dano Dobrado",
+  "DND5E.ChatContextHalfDamage": "Aplicar Metade do Dano",
+  "DND5E.ChatContextSelectHit": "Selecione Alvos Atingidos",
+  "DND5E.ChatContextSelectMiss": "Selecione Alvos Não Atingidos",
+  "DND5E.ChatFlavor": "Mensagem Extra do Chat",
   "DND5E.CHATMESSAGE": {
-    "Activities": "Activities",
+    "Activities": "Atividades",
     "Deltas": {
-      "Recovery": "Recovery"
+      "Recovery": "Recuperação"
     },
     "TURN": {
-      "NoCombatant": "Combatant no longer exists!"
+      "NoCombatant": "O Combatente não existe mais!"
     }
   },
   "DND5E.CHECK": {
-    "Title": "Check",
+    "Title": "Teste",
     "FIELDS": {
       "check": {
-        "label": "Check Details",
+        "label": "Detalhes do Teste",
         "ability": {
-          "label": "Check Ability",
-          "hint": "Ability to use when making the check."
+          "label": "Atributo do Teste",
+          "hint": "Atributo a ser usado ao realizar o teste."
         },
         "associated": {
-          "label": "Associated Skills or Tools",
-          "hint": "Present ability checks using proficiency and bonuses with these skills or tools."
+          "label": "Perícias ou Ferramentas Associadas",
+          "hint": "Mostrar testes de atributo usando proficiência e bônus com essas perícias ou ferramentas."
         },
         "dc": {
-          "label": "Difficulty Class",
+          "label": "Classe de Dificuldade",
           "calculation": {
-            "label": "DC Calculation",
+            "label": "Cálculo de CD",
             "hint": "Method or ability used to calculate the difficulty class."
           },
           "formula": {
