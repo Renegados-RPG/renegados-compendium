@@ -1,0 +1,160 @@
+{
+  "_id": "YgUu7sKkXBhHR36x",
+  "name": "Gambler",
+  "type": "background",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you're a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you're up, sometimes you're down. But the thing about gambling is that someone is always willing to take a bet.</p></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Skill Proficiencies:\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> &amp;Reference[skill=Deception], &amp;Reference[skill=Insight]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tool Proficiencies:\"><span class=\"bold rd__list-item-name\">Tool Proficiencies:</span> One <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:gaming%20set=1\">gaming set</a></p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Languages:\"><span class=\"bold rd__list-item-name\">Languages:</span> Any one of your choice</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipment:</span> One <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:gaming%20set=1\">gaming set</a>, a lucky charm, a set of @item[fine clothes|phb], and a belt @item[pouch|phb] containing 15 gp</p></li></ul><div data-roll-name-ancestor=\"Feature: Never Tell Me the Odds\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Feature: Never Tell Me the Odds</span></h3><p>Odds and probability are your bread and butter. During downtime activities that involve games of chance or figuring odds on the best plan, you can get a solid sense of which choice is likely the best one and which opportunities seem too good to be true, at the DM's determination.</p></div><div data-roll-name-ancestor=\"Suggested Characteristics\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Suggested Characteristics</span></h3><p>Some gamble out of necessity. Others do so out of boredom. Still others become addicted to the thrill of winning or losing everything on a turn of fortune. For some, gambling is less a matter of chance and more a matter of seeking every advantage to ensure the outcome. The best gamblers can lose everything, and the worst gamblers sometimes win. Regardless, you can always tell gamblers by the look in their eyes. Lady Luck haunts them.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Personality Trait</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">I plan for every contingency. Leave nothing to chance!</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Every copper wants to be a silver. Each bet is an opportunity.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">I'm one of Lady Luck's favored. Anything I try is destined to succeed.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">I've lost so much to gambling that I refuse to spend money on anything anymore.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Nothing is certain. Planning is a coward's act.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">I can't be sure who I've swindled, cheated, or defeated, so I keep a low profile in public.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">The perfect bet is out there somewhere. I just have to keep my eyes open.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">I have beaten my addiction, but all it takes is one weak moment and I'll be back at the card table.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Ideal</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Knowledge. Knowledge is power, and knowing which horse to back is the key to success. (Any)</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Fate. Whatever happens is fated, regardless of any planning or striving. (Lawful)</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Bravery. If you want to succeed, you have to take risks. (Chaotic)</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Survival. You can't win if you're dead. Live to fight another day—when the odds might be more in your favor. (Any)</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Reliability. When I was in need, I was able to rely on others. Now I want to be the one others rely on. (Good)</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Victory. Winning is the real measure of a person. In the end, the only thing that matters is the scoreboard. (Evil)</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Bond</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">One person in particular owes me a lot of money, and I need to keep them alive if I want to be repaid.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">I'm loyal to the friend or family member who taught me how to gamble.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">The person who saved me from my gambling addiction is the only reason I'm alive today.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">A patron once fronted me money in exchange for a percentage of my winnings. I owe them a debt of gratitude. And a lot of cash.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">A criminal syndicate I once played for isn't happy I left the game, and its enforcers are looking for me.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Urchins once helped me find marks for my games. Now I'm driven to help them escape the streets.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Flaw</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">I don't know when to quit. Especially when everyone else is telling me to.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">I save my sympathy for my friends, and I have no friends.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">You think we're in trouble now? Let me tell you how bad things are likely to get!</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">You can loan me a little, right? I've got a sure thing. I'll double your money, guaranteed.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">I was once a terribly flawed person, like you. Let me tell you how you can save yourself.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">I'm a great gambler. I'm just bad at math and logic.</td></tr></tbody></table></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "AI",
+      "page": "49",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": [
+      {
+        "_id": "NuusTvhHcgwt3Rzu",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:dec", "skills:ins"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "R981DNSnc7vzi2z0",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["tool:game:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "gSHSNsNFGIBbVCXo",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "iRdfyzYFVTNRNzIO",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [],
+          "spell": null,
+          "type": "tool",
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Kit de Jogos",
+        "hint": "Arraste do Compendium O Kit de Jogos desejado"
+      },
+      {
+        "_id": "DQUkiVAT6VhcWEId",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.LY0Gf0ftvITO6zqm",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.3OXueEpvDDCVfGFA",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.j3yNkKIPtq8Tr9wS",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.iRDvbTifn7vkluco",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ],
+    "identifier": "gambler",
+    "startingEquipment": [],
+    "wealth": ""
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "plutonium": {
+      "page": "backgrounds.html",
+      "source": "AI",
+      "hash": "gambler_ai",
+      "propDroppable": "background"
+    }
+  },
+  "effects": [],
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "folder": "ePn97HMHIA5xe0f2",
+  "_stats": {
+    "compendiumSource": "Item.GpsBIxQARQRMsvga",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741379877295,
+    "modifiedTime": 1741379877369,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!YgUu7sKkXBhHR36x"
+}

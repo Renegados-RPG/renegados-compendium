@@ -1,0 +1,56 @@
+{
+  "folder": "sGOQ9ixbrGClTwqD",
+  "name": "Harvest the Water",
+  "type": "feat",
+  "_id": "KWm4C2QbIk7J8Qlw",
+  "img": "icons/creatures/fish/fish-bluefin-yellow-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">You gain advantage on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.</span></p>",
+      "chat": ""
+    },
+    "identifier": "harvest-the-water",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "background",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741379337473,
+    "modifiedTime": 1741379380775,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!KWm4C2QbIk7J8Qlw"
+}

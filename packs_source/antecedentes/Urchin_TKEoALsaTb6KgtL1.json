@@ -1,0 +1,128 @@
+{
+  "_id": "TKEoALsaTb6KgtL1",
+  "name": "Urchin",
+  "type": "background",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.</p><p>You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?</p></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Skill Proficiencies:\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> &amp;Reference[skill=SleightofHand]{Sleight of Hand}, &amp;Reference[skill=Stealth]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tool Proficiencies:\"><span class=\"bold rd__list-item-name\">Tool Proficiencies:</span> @item[Disguise kit|phb], @item[Thieves' tools|phb]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipment:</span> A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of @item[common clothes|phb], and a belt @item[pouch|phb] containing 10 gp</p></li></ul><div data-roll-name-ancestor=\"Feature: City Secrets\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Feature: City Secrets</span></h3><p>You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.</p></div><div data-roll-name-ancestor=\"Suggested Characteristics\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Suggested Characteristics</span></h3><p>Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life—and maybe get some payback on all the rich people who treated them badly.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Personality Trait</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">I hide scraps of food and trinkets away in my pockets.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">I ask a lot of questions.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">I like to squeeze into small places where no one else can get to me.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">I eat like a pig and have bad manners.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">I think anyone who's nice to me is hiding evil intent.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-11 \">I don't like to bathe.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-11 \">I bluntly say what others are hinting at or hiding.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Ideal</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">Respect. All people, rich or poor, deserve respect. (Good)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Community. We have to take care of each other, because no one else is going to do it. (Lawful)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">People. I help the people who help me—that's what keeps us alive. (Neutral)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">Aspiration. I'm going to prove that I'm worthy of a better life. (Any)</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Bond</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">My town or city is my home, and I'll fight to defend it.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">I sponsor an orphanage to keep others from enduring what I was forced to endure.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">I owe my survival to another urchin who taught me to live on the streets.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">I owe a debt I can never repay to the person who took pity on me.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">I escaped my life of poverty by robbing an important person, and I'm wanted for it.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">No one else should have to endure the hardships I've been through.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Flaw</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">If I'm outnumbered, I will run away from a fight.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Gold seems like a lot of money to me, and I'll do just about anything for more of it.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">I will never fully trust anyone other than myself.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">I'd rather kill someone in their sleep than fight fair.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">It's not stealing if I need it more than someone else.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">People who can't take care of themselves get what they deserve.</td></tr></tbody></table></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "141",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": [
+      {
+        "_id": "uaHJSQNNFAavidya",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:ste", "skills:slt"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "q4w9eQEscogIZ4Pw",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": []
+            }
+          ],
+          "grants": ["tool:thief", "tool:disg"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "xV46SpN1jcmpHvii",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.items.Item.3nVvaHVfHsgwGlkL",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.q2hhyCDR01QYzsqd",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.zC2cdhVg68PqxyiR",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.CMv7V7tgTNaHw9fu",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.8RXjiddJ6VGyE7vB",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.B7nhZXvLAhLj6D2z",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.zGbmwAnC6JRbm0Mi",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ],
+    "identifier": "urchin",
+    "startingEquipment": [],
+    "wealth": ""
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "plutonium": {
+      "page": "backgrounds.html",
+      "source": "PHB",
+      "hash": "urchin_phb",
+      "propDroppable": "background"
+    }
+  },
+  "effects": [],
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "folder": "3btmKuso8JMGHzSq",
+  "_stats": {
+    "compendiumSource": "Item.qjOp09siY80JW9eG",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741383587073,
+    "modifiedTime": 1741383587172,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 250000,
+  "_key": "!items!TKEoALsaTb6KgtL1"
+}

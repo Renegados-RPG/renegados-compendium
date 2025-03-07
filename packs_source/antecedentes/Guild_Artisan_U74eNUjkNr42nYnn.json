@@ -1,0 +1,160 @@
+{
+  "_id": "U74eNUjkNr42nYnn",
+  "name": "Guild Artisan",
+  "type": "background",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.</p></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Skill Proficiencies:\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> &amp;Reference[skill=Insight], &amp;Reference[skill=Persuasion]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tool Proficiencies:\"><span class=\"bold rd__list-item-name\">Tool Proficiencies:</span> One type of <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a></p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Languages:\"><span class=\"bold rd__list-item-name\">Languages:</span> One of your choice</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipment:</span> A set of <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a> (one of your choice), a letter of introduction from your guild, a set of @item[traveler's clothes|phb], and a belt @item[pouch|phb] containing 15 gp</p></li></ul><div data-roll-name-ancestor=\"Feature: Guild Membership\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Feature: Guild Membership</span></h3><p>As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.</p><p>Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers.</p><p>You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.</p></div><div data-roll-name-ancestor=\"Specialty\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Specialty</span></h3><p>Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d20]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Guild Business</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">Alchemists and apothecaries</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Armorers, locksmiths, and finesmiths</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Brewers, distillers, and vintners</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">Calligraphers, scribes, and scriveners</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">Carpenters, roofers, and plasterers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">Cartographers, surveyors, and chart-makers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-11 \">Cobblers and shoemakers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-11 \">Cooks and bakers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"rd__th ve-col-11 \">Glassblowers and glaziers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"rd__th ve-col-11 \">Jewelers and gemcutters</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"11\" data-roll-max=\"11\">11</td><td class=\"rd__th ve-col-11 \">Leatherworkers, skinners, and tanners</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"12\" data-roll-max=\"12\">12</td><td class=\"rd__th ve-col-11 \">Masons and stonecutters</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"13\" data-roll-max=\"13\">13</td><td class=\"rd__th ve-col-11 \">Painters, limners, and sign-makers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"14\" data-roll-max=\"14\">14</td><td class=\"rd__th ve-col-11 \">Potters and tile-makers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"15\" data-roll-max=\"15\">15</td><td class=\"rd__th ve-col-11 \">Shipwrights and sail-makers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"16\" data-roll-max=\"16\">16</td><td class=\"rd__th ve-col-11 \">Smiths and metal-forgers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"17\" data-roll-max=\"17\">17</td><td class=\"rd__th ve-col-11 \">Tinkers, pewterers, and casters</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"18\" data-roll-max=\"18\">18</td><td class=\"rd__th ve-col-11 \">Wagon-makers and wheelwrights</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"19\" data-roll-max=\"19\">19</td><td class=\"rd__th ve-col-11 \">Weavers and dyers</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"20\" data-roll-max=\"20\">20</td><td class=\"rd__th ve-col-11 \">Woodcarvers, coopers, and bowyers</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Suggested Characteristics\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner\">Suggested Characteristics</span></h3><p>Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Personality Trait</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">I'm a snob who looks down on those who can't appreciate fine art.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">I always want to know how things work and what makes people tick.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">I'm full of witty aphorisms and have a proverb for every occasion.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">I'm rude to people who lack my commitment to hard work and fair play.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">I like to talk at length about my profession.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-11 \">I don't part with my money easily and will haggle tirelessly to get the best deal possible.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-11 \">I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Ideal</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Generosity. My talents were given to me so that I could use them to benefit the world. (Good)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Freedom. Everyone should be free to pursue his or her own livelihood. (Chaotic)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">Greed. I'm only in it for the money. (Evil)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">People. I'm committed to the people I care about, not to ideals. (Neutral)</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">Aspiration. I work hard to be the best there is at my craft. (Any)</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Bond</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">The workshop where I learned my trade is the most important place in the world to me.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">I owe my guild a great debt for forging me into the person I am today.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">I pursue wealth to secure someone's love.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">One day I will return to my guild and prove that I am the greatest artisan of them all.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Flaw</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">I'll do anything to get my hands on something rare or priceless.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">I'm quick to assume that someone is trying to cheat me.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">No one must ever learn that I once stole money from guild coffers.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">I'm never satisfied with what I have—I always want more.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">I would kill to acquire a noble title.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.</td></tr></tbody></table></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "132",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": [
+      {
+        "_id": "hespCnLTyWIIkwYl",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:ins", "skills:per"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "j6IC8dsl48nH9QBy",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["tool:art:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "zIs4uORIYxJOoVOY",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "VfQqLmQsdhB3a3sn",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [],
+          "spell": null,
+          "type": "tool",
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Ferramenta de Artesão",
+        "hint": "Arraste do Compendium a Ferramenta de Artesão"
+      },
+      {
+        "_id": "1OpI4z8RcPuDaCdh",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.ct1TISxLP5mEzB0e",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.3og3wXgjITyhBapX",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.KKg8TyAU5fOeRKwy",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ],
+    "identifier": "guild-artisan",
+    "startingEquipment": [],
+    "wealth": ""
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "plutonium": {
+      "page": "backgrounds.html",
+      "source": "PHB",
+      "hash": "guild%20artisan_phb",
+      "propDroppable": "background"
+    }
+  },
+  "effects": [],
+  "img": "icons/sundries/flags/banner-symbol-eye-purple.webp",
+  "folder": "zaEaXNQPp7a0kD1f",
+  "_stats": {
+    "compendiumSource": "Item.9J3EB4drJwZdIkrg",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741380130659,
+    "modifiedTime": 1741380130728,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!U74eNUjkNr42nYnn"
+}

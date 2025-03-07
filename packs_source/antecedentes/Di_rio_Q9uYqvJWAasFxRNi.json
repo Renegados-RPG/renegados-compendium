@@ -1,0 +1,66 @@
+{
+  "name": "Diário",
+  "type": "loot",
+  "img": "icons/sundries/books/book-rounded-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Um livro pode conter poemas, relatos históricos, informações referentes a um determinado campo de conhecimento, diagramas e notas sobre engenhocas gnômicas ou versar sobre qualquer outras coisa que possa ser representada usando texto ou imagens. Um livro que contém magias é um grimório ou simplesmente um livro de magias.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 25,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "identifier": "book"
+  },
+  "effects": [],
+  "folder": "K58DkaGrwFskHeWl",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Book"
+    }
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.items.Item.RMi9efrW9ouHVLI2",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741384552527,
+    "modifiedTime": 1741384552600,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "Q9uYqvJWAasFxRNi",
+  "sort": 200000,
+  "_key": "!items!Q9uYqvJWAasFxRNi"
+}

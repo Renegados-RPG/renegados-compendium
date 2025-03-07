@@ -1,0 +1,56 @@
+{
+  "folder": "IgD4Ghm7klNH5yxy",
+  "name": "Safe Haven",
+  "type": "feat",
+  "_id": "jmWNtOjRgeLviJlr",
+  "img": "icons/environment/settlement/castle.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Feature: Safe Haven\" class=\"rd__b  rd__b--2\"><p>As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "safe-haven",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "background",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741377873840,
+    "modifiedTime": 1741377892471,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!jmWNtOjRgeLviJlr"
+}

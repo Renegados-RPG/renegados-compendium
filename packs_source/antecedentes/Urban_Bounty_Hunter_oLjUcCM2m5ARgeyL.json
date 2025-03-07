@@ -1,0 +1,117 @@
+{
+  "_id": "oLjUcCM2m5ARgeyL",
+  "name": "Urban Bounty Hunter",
+  "type": "background",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.</p><p>You might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of thieves' guilds and street gangs. You might be a \"velvet mask\" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. The community where you plied your trade might have been one of Faerûn's great metropolises, such as Waterdeep or Baldur's Gate, or a less populous location, perhaps Luskan or Yartar—any place that's large enough to have a steady supply of potential quarries.</p><p>As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives—but on the other hand, you can take down much more formidable targets with the help of your companions.</p></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Skill Proficiencies:\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> Choose two from among &amp;Reference[skill=Deception], &amp;Reference[skill=Insight], &amp;Reference[skill=Persuasion], and &amp;Reference[skill=Stealth]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tool Proficiencies:\"><span class=\"bold rd__list-item-name\">Tool Proficiencies:</span> Choose two from among one type of <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:gaming%20set=1\">gaming set</a>, one <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:instrument=1\">musical instrument</a>, and @item[thieves' tools|phb]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipment:</span> A set of clothes appropriate to your duties and a @item[pouch|phb] containing 20 gp</p></li></ul><div data-roll-name-ancestor=\"Feature: Ear to the Ground\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Feature: Ear to the Ground</span></h3><p>You are in frequent contact with people in the segment of society that your chosen quarries move through. These people might be associated with the criminal underworld, the rough-and-tumble folk of the streets, or members of high society. This connection comes in the form of a contact in any city you visit, a person who provides information about the people and places of the local area.</p></div><div data-roll-name-ancestor=\"Suggested Characteristics\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Suggested Characteristics</span></h3><p>Use the tables for the @background[criminal] background in the Player's Handbook as the basis for your bounty hunter's traits and motivations, modifying the entries when appropriate to suit your identity as a bounty hunter.</p><p>For instance, your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "153",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": [
+      {
+        "_id": "fGDJLpgLDRobjG5w",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:dec", "skills:ste", "skills:ins", "skills:per"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "Hmhl6UjcD1llEGo8",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["tool:thief", "tool:game:*", "tool:music:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "O4CrZjkcnmoKcoW0",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.items.Item.8RXjiddJ6VGyE7vB",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.doG9emLKP0JUcIzQ",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.g2kpmjt9CNXxcNvI",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ],
+    "identifier": "urban-bounty-hunter",
+    "startingEquipment": [],
+    "wealth": ""
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "plutonium": {
+      "page": "backgrounds.html",
+      "source": "SCAG",
+      "hash": "urban%20bounty%20hunter_scag",
+      "propDroppable": "background"
+    }
+  },
+  "effects": [],
+  "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+  "folder": "lTEiu8K61yjsA7qd",
+  "_stats": {
+    "compendiumSource": "Item.KQOvMfsHKBSH5cWJ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741383301240,
+    "modifiedTime": 1741383301318,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!oLjUcCM2m5ARgeyL"
+}
