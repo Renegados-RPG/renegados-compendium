@@ -1,0 +1,60 @@
+{
+  "_id": "CLjbmlKHiSLycJ6G",
+  "name": "Insightful Manipulator",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "46",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 9th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</p><ul class=\"rd__list\"><li class=\"rd__li \">Intelligence score</li><li class=\"rd__li \">Wisdom score</li><li class=\"rd__li \">Charisma score</li><li class=\"rd__li \">Class levels (if any)</li></ul><p>At the DM's option, you might also realize you know a piece of the creature's history or one of its personality traits, if it has any.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 9 (Mastermind)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "insightful-manipulator",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ZSqFhIULZuvagky4",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741382236243,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!CLjbmlKHiSLycJ6G"
+}

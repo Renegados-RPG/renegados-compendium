@@ -37,7 +37,7 @@
       "repeatable": false
     }
   },
-  "img": "icons/magic/control/energy-stream-link-spiral-teal.webp",
+  "img": "icons/magic/death/weapon-scythe-rune-green.webp",
   "flags": {},
   "effects": [],
   "folder": "XT6ET88xrD629S5c",
@@ -48,7 +48,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741372468067,
-    "modifiedTime": 1741372468067,
+    "modifiedTime": 1741378895477,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

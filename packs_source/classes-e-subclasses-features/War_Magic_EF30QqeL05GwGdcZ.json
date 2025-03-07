@@ -85,7 +85,7 @@
       "repeatable": false
     }
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/death/weapon-sword-skull-purple.webp",
   "flags": {},
   "effects": [],
   "folder": "xFqih92L4xi2k8H5",
@@ -96,7 +96,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741372468067,
-    "modifiedTime": 1741372468067,
+    "modifiedTime": 1741379196220,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

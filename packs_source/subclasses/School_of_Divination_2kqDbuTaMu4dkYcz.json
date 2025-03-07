@@ -6,7 +6,7 @@
     "identifier": "school-of-divination",
     "classIdentifier": "wizard",
     "description": {
-      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.</p><div data-roll-name-ancestor=\"Divination Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Divination Savant</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 116\">p116</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Portent\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Portent</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 116\">p116</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two <span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;d20&quot;,&quot;displayText&quot;:&quot;d20&quot;}\">d20</span>s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</p><p>Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"School of Divination\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">School of Divination</span></h2> <p>The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.</p><div data-roll-name-ancestor=\"Level 2: Divination Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 2: Divination Savant</span></h3> <p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Level 2: Portent\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 2: Portent</span></h3> <p>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two [[/r d20]]s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</p><p>Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Expert Divination\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 6: Expert Divination</span></h3> <p>Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a <a href=\"https://5e.tools/spells.html#blankhash,flstschool:d=1\">divination spell of 2nd level or higher</a> using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: The Third Eye\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 10: The Third Eye</span></h3> <p>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are &amp;Reference[condition=incapacitated] or you take a short or long rest. You can't use the feature again until you finish a rest.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"8\"> <span class=\"entry-title-inner\">Darkvision.</span></span> You gain &amp;Reference[rule=darkvision] out to a range of 60 feet.</p></div><div data-roll-name-ancestor=\"Ethereal Sight\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"9\"> <span class=\"entry-title-inner\">Ethereal Sight.</span></span> You can see into the Ethereal Plane within 60 feet of you.</p></div><div data-roll-name-ancestor=\"Greater Comprehension\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"10\"> <span class=\"entry-title-inner\">Greater Comprehension.</span></span> You can read any language.</p></div><div data-roll-name-ancestor=\"See Invisibility\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"11\"> <span class=\"entry-title-inner\">See Invisibility.</span></span> You can see &amp;Reference[condition=invisible] creatures and objects within 10 feet of you that are within line of sight.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Greater Portent\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 14: Greater Portent</span></h3> <p>Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three [[/r d20]]s for your Portent feature, rather than two.</p></div></div></div></div>",
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div class=\"rd__b  rd__b--1\"><p>The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.</p><div data-roll-name-ancestor=\"Divination Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Divination Savant</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 116\">p116</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Portent\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Portent</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 116\">p116</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two <span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d20</span>s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</p><p>Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"School of Divination\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">School of Divination</span></h2><p>The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.</p><div data-roll-name-ancestor=\"Level 2: Divination Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 2: Divination Savant</span></h3><p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Level 2: Portent\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 2: Portent</span></h3><p>Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two [[/r d20]]s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.</p><p>Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Expert Divination\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 6: Expert Divination</span></h3><p>Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a <a href=\"https://5e.tools/spells.html#blankhash,flstschool:d=1\">divination spell of 2nd level or higher</a> using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: The Third Eye\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 10: The Third Eye</span></h3><p>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are &amp;Reference[condition=incapacitated] or you take a short or long rest. You can't use the feature again until you finish a rest.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> You gain &amp;Reference[rule=darkvision] out to a range of 60 feet.</p></div><div data-roll-name-ancestor=\"Ethereal Sight\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Ethereal Sight.</span> You can see into the Ethereal Plane within 60 feet of you.</p></div><div data-roll-name-ancestor=\"Greater Comprehension\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Greater Comprehension.</span> You can read any language.</p></div><div data-roll-name-ancestor=\"See Invisibility\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">See Invisibility.</span> You can see &amp;Reference[condition=invisible] creatures and objects within 10 feet of you that are within line of sight.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Greater Portent\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 14: Greater Portent</span></h3><p>Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three [[/r d20]]s for your Portent feature, rather than two.</p></div></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -19,13 +19,97 @@
     },
     "spellcasting": {
       "progression": "none",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
     },
-    "advancement": []
+    "advancement": [
+      {
+        "_id": "s3hLZiucwroKsti7",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xPxbnRdPohyTtiNM",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CwuQRRapBcc4V3Hb",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.zGSCREFNhwBokBXJ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.MG5EaqtwdfPAaNoL",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "rfpn8UyTyedYYa0o"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.IhWyoGa4yNlwaBFX",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": "",
+        "_id": "sLcRALKrXoWJAZdn"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.NsHmrmRwkSXinBcP",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "DnnjKFGiB04M8L1l"
+      }
+    ]
   },
   "flags": {},
   "effects": [],
-  "img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+  "img": "icons/magic/perception/orb-crystal-ball-scrying.webp",
   "folder": "HhJkCxwtG022k2VU",
   "_stats": {
     "compendiumSource": null,
@@ -34,7 +118,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741372769233,
-    "modifiedTime": 1741372769233,
+    "modifiedTime": 1741378427137,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

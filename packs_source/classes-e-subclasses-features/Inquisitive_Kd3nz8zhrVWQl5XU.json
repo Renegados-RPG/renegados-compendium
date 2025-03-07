@@ -1,0 +1,107 @@
+{
+  "_id": "Kd3nz8zhrVWQl5XU",
+  "name": "Inquisitive",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "45",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.</p><div data-roll-name-ancestor=\"Ear for Deceit\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p45\">Ear for Deceit</span></h3> <p>When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom (&amp;Reference[skill=Insight]) check to determine whether a creature is lying, treat a roll of 7 or lower on the [[/r d20]] as an 8.</p></div><div data-roll-name-ancestor=\"Eye for Detail\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p45\">Eye for Detail</span></h3> <p>Starting at 3rd level, you can use a bonus action to make a Wisdom (&amp;Reference[skill=Perception]) check to spot a hidden creature or object or to make an Intelligence (&amp;Reference[skill=Investigation]) check to uncover or decipher clues.</p></div><div data-roll-name-ancestor=\"Insightful Fighting\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p45\">Insightful Fighting</span></h3> <p>At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom (&amp;Reference[skill=Insight]) check against a creature you can see that isn't &amp;Reference[condition=incapacitated], contested by the target's Charisma (&amp;Reference[skill=Deception]) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.</p><p>This benefit lasts for 1 minute or until you successfully use this feature against a different target.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 3 (Inquisitive)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "AijyDxHVuYzMJh1W": {
+        "_id": "AijyDxHVuYzMJh1W",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "inquisitive",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/creatures/eyes/human-single-brown.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "pe1dLEYKPhFhur7z",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741384131565,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!Kd3nz8zhrVWQl5XU"
+}

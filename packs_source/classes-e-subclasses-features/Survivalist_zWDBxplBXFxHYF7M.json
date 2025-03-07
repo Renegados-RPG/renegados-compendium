@@ -1,0 +1,60 @@
+{
+  "_id": "zWDBxplBXFxHYF7M",
+  "name": "Survivalist",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "47",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you choose this archetype at 3rd level, you gain proficiency in the &amp;Reference[skill=Nature] and &amp;Reference[skill=Survival] skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 3 (Scout)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "survivalist",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/nature/leaf-glow-maple-orange-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "AabSrm81959gRMvD",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741382236243,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!zWDBxplBXFxHYF7M"
+}

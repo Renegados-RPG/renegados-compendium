@@ -1,0 +1,60 @@
+{
+  "_id": "b4FghJKq6RmzAI2F",
+  "name": "Assassin",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "97",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You focus your training on the grim art of death. Those who adhere to this archetype are diverse—hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.</p><p>Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p><div data-roll-name-ancestor=\"Assassinate\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p97\">Assassinate</span></h3> <p>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is @status[surprised] is a critical hit.</p></div><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p97\">Bonus Proficiencies</span></h3> <p>When you choose this archetype at 3rd level, you gain proficiency with the @item[disguise kit|phb] and the @item[poisoner's kit|phb].</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 3 (Assassin)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "assassin",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/skills/melee/strike-dagger-skull-white.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "XH2t61cm7sg5sPw4",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741383650735,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!b4FghJKq6RmzAI2F"
+}

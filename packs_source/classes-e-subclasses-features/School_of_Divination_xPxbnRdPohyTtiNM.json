@@ -42,7 +42,7 @@
       "repeatable": false
     }
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/perception/orb-crystal-ball-scrying.webp",
   "flags": {},
   "effects": [],
   "folder": "BV09Z8wiC3aT6pIv",
@@ -53,7 +53,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741372468067,
-    "modifiedTime": 1741372468067,
+    "modifiedTime": 1741378351647,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

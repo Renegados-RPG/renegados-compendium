@@ -37,7 +37,7 @@
       "repeatable": false
     }
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/fire/explosion-flame-lightning-strike.webp",
   "flags": {},
   "effects": [],
   "folder": "bEQIEMtlQDwFU1ZC",
@@ -48,7 +48,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741372468067,
-    "modifiedTime": 1741372468067,
+    "modifiedTime": 1741378596693,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

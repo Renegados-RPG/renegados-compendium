@@ -1,0 +1,60 @@
+{
+  "_id": "OIFUFeyVZu9Cfj6m",
+  "name": "Death's Friend",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "62",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>17th-level Phantom feature</i></p><p>Your association with death has become so close that you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">When you use your Wails from the Grave, you can deal the necrotic damage to both the first and the second creature.</li><li class=\"rd__li \">At the end of a long rest, a soul trinket appears in your hand if you don't have any soul trinkets, as the spirits of the dead are drawn to you.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 17 (Phantom)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "deaths-friend",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/death/skull-trio-badge-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "oVsvLszP7VoBKApg",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741382236243,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!OIFUFeyVZu9Cfj6m"
+}

@@ -39,7 +39,57 @@
   },
   "img": "icons/skills/targeting/target-strike-triple-blue.webp",
   "flags": {},
-  "effects": [],
+  "effects": [
+    {
+      "name": "Tactical Wit",
+      "img": "icons/skills/targeting/target-strike-triple-blue.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XKUf5rayoMqMMjoP",
+      "_id": "bH8DqecHuKTOeV6q",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.init.bonus",
+          "mode": 2,
+          "value": "@abilities.int.mod",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": 1741379217175,
+        "modifiedTime": 1741379242415,
+        "lastModifiedBy": "ox2bho65epIfC0E1"
+      },
+      "_key": "!items.effects!XKUf5rayoMqMMjoP.bH8DqecHuKTOeV6q"
+    }
+  ],
   "folder": "xFqih92L4xi2k8H5",
   "_stats": {
     "compendiumSource": null,

@@ -1,0 +1,22 @@
+{
+  "name": "Mastermind",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "ZkBZDMeb83OiHv10",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "ZSqFhIULZuvagky4",
+  "_key": "!folders!ZSqFhIULZuvagky4"
+}

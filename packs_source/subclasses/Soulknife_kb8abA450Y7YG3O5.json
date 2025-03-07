@@ -1,0 +1,146 @@
+{
+  "_id": "kb8abA450Y7YG3O5",
+  "name": "Soulknife",
+  "type": "subclass",
+  "system": {
+    "identifier": "soulknife",
+    "classIdentifier": "rogue",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Soulknife\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Soulknife</span></h2><p>Most assassins strike with physical weapons, and many burglars and spies use @item[thieves' tools|PHB] to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.</p><p>Amid the trees of ancient forests on the Material Plane and in the Feywild, some wood elves walk the path of the Soulknife, serving as silent, lethal guardians of their woods. In the endless war among the gith, a githzerai is encouraged to become a Soulknife when stealth is required against the githyanki foe.</p><p>As a Soulknife, your psionic abilities might have haunted you since you were a child, only revealing their full potential as you experienced the stress of adventure. Or you might have sought out a reclusive order of psychic adepts and spent years learning how to manifest your power.</p><div data-roll-name-ancestor=\"Level 3: Psionic Power\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Level 3: Psionic Power</span></h3><p><em>3rd-level Soulknife feature</em></p><p>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a [[/r d6]]. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.</p><p>Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.</p><p>When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level ([[/r d8]]), 11th level ([[/r d10]]), and 17th level ([[/r d12]]).</p><p>The powers below use your Psionic Energy dice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Psi-Bolstered Knack\" data-source=\"TCE\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Psi-Bolstered Knack.</span> When your nonpsionic training fails you, your psionic power can help: if you fail an ability check using a skill or tool with which you have proficiency, you can roll one Psionic Energy die and add the number rolled to the check, potentially turning failure into success. You expend the die only if the roll succeeds.</p></div><div data-roll-name-ancestor=\"Psychic Whispers\" data-source=\"TCE\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Psychic Whispers.</span> You can establish telepathic communication between yourself and others-perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can't use this telepathy if it can't speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don't need to speak a common language to understand each other.</p><p>The first time you use this power after each long rest, you don't expend the Psionic Energy die. All other times you use the power, you expend the die.</p></div></div></div><div data-roll-name-ancestor=\"Level 3: Psychic Blades\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Level 3: Psychic Blades</span></h3><p><em>3rd-level Soulknife feature</em></p><p>You can manifest your psionic power as shimmering blades of psychic energy. Whenever you take the @action[Attack] action, you can manifest a psychic blade from your free hand and make the attack with that blade. This magic blade is a simple melee weapon with the finesse and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals psychic damage equal to [[/damage 1d6]] plus the ability modifier you used for the attack roll. The blade vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.</p><p>After you attack with the blade, you can make a melee or ranged weapon attack with a second psychic blade as a bonus action on the same turn, provided your other hand is free to create it. The damage die of this bonus attack is [[/damage 1d4]], instead of [[/damage 1d6]].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 9: Soul Blades\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Level 9: Soul Blades</span></h3><p><em>9th-level Soulknife feature</em></p><p>Your Psychic Blades are now an expression of your psi-suffused soul, giving you these powers that use your Psionic Energy dice:</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Homing Strikes\" data-source=\"TCE\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Homing Strikes.</span> If you make an attack roll with your Psychic Blades and miss the target, you can roll one Psionic Energy die and add the number rolled to the attack roll. If this causes the attack to hit, you expend the Psionic Energy die.</p></div><div data-roll-name-ancestor=\"Psychic Teleportation\" data-source=\"TCE\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Psychic Teleportation.</span> As a bonus action, you manifest one of your Psychic Blades, expend one Psionic Energy die and roll it, and throw the blade at an unoccupied space you can see, up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 13: Psychic Veil\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"13\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Level 13: Psychic Veil</span></h3><p><em>13th-level Soulknife feature</em></p><p>You can weave a veil of psychic static to mask yourself. As an action, you can magically become &amp;Reference[condition=invisible], along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.</p><p>Once you use this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to use this feature again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Rend Mind\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"14\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p63\">Level 17: Rend Mind</span></h3><p><em>17th-level Soulknife feature</em></p><p>You can sweep your Psychic Blades directly through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is &amp;Reference[condition=stunned] for 1 minute. The &amp;Reference[condition=stunned] target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p><p>Once you use this feature, you can't do so again until you finish a long rest, unless you expend three Psionic Energy dice to use it again.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "63",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "rtv7empMiy7zTu40",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ookeRFs5S0UNLQ6p",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.9fIMSOlJyJzlxkiC",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.uAlvh9T6RKk59hjA",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Jkd2C9fJcOPz8OLR",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ecUbjgq6yzqhErn3",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kT8NtAu02GlfbuO0",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3bCbJp3k5qOEnWM4",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XxuGibYkAMMkUcB4",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "Features",
+        "hint": "",
+        "_id": "MPSvk1WW08SYiWzx"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jZ3qMuQRP4fEfbZG",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 13,
+        "title": "Features",
+        "hint": "",
+        "_id": "HAInfCQouWJHFo4t"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1fwJDvavUJj1uFTw",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "Features",
+        "hint": "",
+        "_id": "80oZQAaMwYpLqpT2"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/skills/melee/blade-tip-smoke-green.webp",
+  "folder": "ZQABCWNclXwYc5zU",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382204348,
+    "modifiedTime": 1741384256512,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!kb8abA450Y7YG3O5"
+}
