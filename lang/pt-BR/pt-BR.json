@@ -480,91 +480,91 @@
           "Label": "Distância"
         },
         "Number": {
-          "Hint": "Use this for purely numerical values like rage damage bonus or number of uses per day.",
-          "Label": "Numeric"
+          "Hint": "Use isso para valores puramente numéricos, como bônus de dano de fúria ou número de usos por dia.",
+          "Label": "Numérico"
         },
         "String": {
           "FIELDS": {
             "value": {
-              "label": "Value"
+              "label": "Valor"
             }
           },
-          "Hint": "Use this if you are unsure of the type of the scale values, or if the type does not matter.",
-          "Identifier": "This scale value for the current level will be available in a formula using:<br><copyable-text>@scale.{class}.{identifier}</copyable-text>",
-          "Label": "Anything"
+          "Hint": "Use isto se não tiver certeza do tipo dos valores de escala ou se o tipo não for importante.",
+          "Identifier": "Este valor de escala para o nível atual estará disponível usando:<br><copyable-text>@scale.{class}.{identifier}</copyable-text>",
+          "Label": "Qualquer"
         }
       }
     },
     "Size": {
       "DefaultHint": {
-        "Multiple": "Choose your size from either {sizes}.",
-        "Single": "Your size is {size}."
+        "Multiple": "Escolha seu tamanho entre {sizes}.",
+        "Single": "Seu tamanho é {size}."
       },
       "FIELDS": {
         "sizes": {
-          "label": "Sizes"
+          "label": "Tamanhos"
         }
       },
-      "Hint": "Set a character's size.",
-      "Title": "Size"
+      "Hint": "Define o tamanho de um personagem.",
+      "Title": "Tamanho"
     },
     "SPELLCONFIG": {
       "FIELDS": {
         "spell": {
-          "label": "Spell Details",
+          "label": "Detalhes da Magia",
           "ability": {
-            "label": "Ability"
+            "label": "Habilidade"
           },
           "preparation": {
-            "label": "Preparation Mode"
+            "label": "Modo de Preparação"
           },
           "uses": {
             "max": {
-              "label": "Uses"
+              "label": "Usos"
             },
             "per": {
-              "label": "Period"
+              "label": "Período"
             },
             "requireSlot": {
-              "label": "Require Slot",
-              "hint": "Require a spell slot to be spent when using the limited uses. If not checked then the uses will be additional free uses that don't consume a slot."
+              "label": "Exige Espaço",
+              "hint": "Exige que um espaço de magia seja gasto quando usar os usos limitados. Se não for marcado, então os usos serão usos adicionais grátis que não consomem um espaço."
             }
           }
         }
       },
-      "FreeCasting": "Free Casting"
+      "FreeCasting": "Conjuração Grátis"
     },
     "Subclass": {
       "Action": {
-        "Select": "Select Subclass"
+        "Select": "Selecionar Subclasse"
       },
-      "Hint": "Specify what level this class receives its subclass.",
-      "Title": "Subclass",
+      "Hint": "Especifique em que nível esta classe recebe sua subclasse.",
+      "Title": "Subclasse",
       "Warning": {
-        "InvalidType": "Only subclasses may be selected."
+        "InvalidType": "Somente subclasses podem ser selecionadas."
       }
     },
     "Trait": {
       "Action": {
-        "AddChoice": "Add Choice",
-        "RemoveChoice": "Remove Choice"
+        "AddChoice": "Adicionar Escolha",
+        "RemoveChoice": "Remover Escolha"
       },
-      "ChoicesRemaining": "Select {count} more {type}",
-      "Details": "Trait Details",
+      "ChoicesRemaining": "Selecione mais {count} {type}",
+      "Details": "Detalhes da Característica",
       "FIELDS": {
         "allowReplacements": {
-          "hint": "If a trait is already set on the actor, allow the player to choose from any other trait as a replacement.",
-          "label": "Allow Replacements"
+          "hint": "Se uma característica já estiver definida no ator, permita que o jogador escolha qualquer outra característica como substituta.",
+          "label": "Permitir Substituições"
         },
         "choices": {
-          "hint": "The following traits will be presented as a choice to the player.",
-          "label": "Choices",
+          "hint": "As seguintes características serão apresentadas como escolha ao jogador.",
+          "label": "Escolhas",
           "FIELDS": {
             "count": {
-              "label": "Count"
+              "label": "Quantidade"
             },
             "pool": {
-              "label": "Traits"
+              "label": "Traços"
             }
           }
         },
