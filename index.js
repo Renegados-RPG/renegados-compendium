@@ -13,6 +13,15 @@ import * as parseSpellsList from "./commands/parseSpellsList.js";
 
 program.version("1.0.0").description("Renegados CLI");
 
+program
+  .command("compile")
+  .description("Compile pack source")
+  .action(async () => {
+    const spinner = ora("Compiling packs source").start();
+    await compile.execute();
+    spinner.succeed("Packs source compiled");
+  });
+
 program.action(() => {
   inquirer
     .prompt([
