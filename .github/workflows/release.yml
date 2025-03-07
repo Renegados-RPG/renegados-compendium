@@ -113,7 +113,7 @@ jobs:
       # your packaged module, add them here.
       - name: Create Module Archive
         run: |
-          node compilePackSource.js
+          node ./commands/compilePackSource.js
           # Note that `zip` will only emit warnings when a file or directory
           # doesn't exist, it will not fail.
           zip                                    \
