@@ -1,0 +1,107 @@
+{
+  "_id": "IhWyoGa4yNlwaBFX",
+  "name": "The Third Eye",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "116",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are &amp;Reference[condition=incapacitated] or you take a short or long rest. You can't use the feature again until you finish a rest.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Darkvision</span></h3> <p>You gain &amp;Reference[rule=darkvision] out to a range of 60 feet.</p></div><div data-roll-name-ancestor=\"Ethereal Sight\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Ethereal Sight</span></h3> <p>You can see into the Ethereal Plane within 60 feet of you.</p></div><div data-roll-name-ancestor=\"Greater Comprehension\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Greater Comprehension</span></h3> <p>You can read any language.</p></div><div data-roll-name-ancestor=\"See Invisibility\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner\">See Invisibility</span></h3> <p>You can see &amp;Reference[condition=invisible] creatures and objects within 10 feet of you that are within line of sight.</p></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 10 (Divination)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "W43tXFs4ZIzhiKqW": {
+        "_id": "W43tXFs4ZIzhiKqW",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "the-third-eye",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "BV09Z8wiC3aT6pIv",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!IhWyoGa4yNlwaBFX"
+}

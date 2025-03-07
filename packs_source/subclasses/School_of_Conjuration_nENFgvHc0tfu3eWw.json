@@ -1,0 +1,130 @@
+{
+  "_id": "nENFgvHc0tfu3eWw",
+  "name": "School of Conjuration",
+  "type": "subclass",
+  "system": {
+    "identifier": "school-of-conjuration",
+    "classIdentifier": "wizard",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div class=\"rd__b  rd__b--1\"><p>As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.</p><div data-roll-name-ancestor=\"Conjuration Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Conjuration Savant</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 116\">p116</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Minor Conjuration\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Minor Conjuration</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 116\">p116</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.</p><p>The object disappears after 1 hour, when you use this feature again, if it takes any damage, or if it deals any damage.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"School of Conjuration\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">School of Conjuration</span></h2><p>As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.</p><div data-roll-name-ancestor=\"Level 2: Conjuration Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 2: Conjuration Savant</span></h3><p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Level 2: Minor Conjuration\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 2: Minor Conjuration</span></h3><p>Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.</p><p>The object disappears after 1 hour, when you use this feature again, if it takes any damage, or if it deals any damage.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Benign Transposition\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 6: Benign Transposition</span></h3><p>Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.</p><p>Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Focused Conjuration\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 10: Focused Conjuration</span></h3><p>Beginning at 10th level, while you are @status[concentration||concentrating] on a conjuration spell, your @status[concentration] can't be broken as a result of taking damage.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Durable Summons\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p116\">Level 14: Durable Summons</span></h3><p>Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "116",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "rg6HfOG5p0vQmGRP",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1urUEo0Ofnc527Yz",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xridddwiKHBhDGUa",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3jNgE9GvA5ToNWo8",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.AYS9hVMSOAMwXKdi",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "DfftWGjdpYKZWwHQ"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8D97XpHdY9Xxc9Sk",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": "",
+        "_id": "nOCDOqoExPdTCHFs"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QtwZe4Hp9rK9bAOU",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "jDvEXQpHMca7lRyp"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/nature/stealth-hide-eyes-pink.webp",
+  "folder": "HhJkCxwtG022k2VU",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372769233,
+    "modifiedTime": 1741377334440,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!nENFgvHc0tfu3eWw"
+}

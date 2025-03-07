@@ -1,0 +1,114 @@
+{
+  "_id": "iy82K1Q4WbnOZaPg",
+  "name": "Instinctive Charm",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "117",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.</p><p>You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be &amp;Reference[condition=charmed] are immune to this effect.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 6 (Enchantment)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "target": {
+          "affects": {
+            "count": "1",
+            "type": "creature",
+            "choice": false
+          },
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "instinctive-charm",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/air/air-burst-spiral-teal-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "6H4rP9JCgi8OMyiJ",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!iy82K1Q4WbnOZaPg"
+}

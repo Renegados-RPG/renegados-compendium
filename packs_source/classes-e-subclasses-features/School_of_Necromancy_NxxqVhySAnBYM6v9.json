@@ -1,0 +1,60 @@
+{
+  "_id": "NxxqVhySAnBYM6v9",
+  "name": "School of Necromancy",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "118",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.</p><p>Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.</p><div data-roll-name-ancestor=\"Necromancy Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p118\">Necromancy Savant</span></h3> <p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Grim Harvest\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p118\">Grim Harvest</span></h3> <p>At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the <a href=\"https://5e.tools/spells.html#blankhash,flstschool:n=1\">School of Necromancy</a>. You don't gain this benefit for killing constructs or undead.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 3 (Necromancy)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "school-of-necromancy",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "XT6ET88xrD629S5c",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!NxxqVhySAnBYM6v9"
+}

@@ -1,0 +1,119 @@
+{
+  "_id": "5MKRf24thJC1mcoZ",
+  "name": "Order of Scribes",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "77",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Magic of the book-that's what many folk call wizardry. The name is apt, given how much time wizards spend poring over tomes and penning theories about the nature of magic. It's rare to see wizards traveling without books and scrolls sprouting from their bags, and a wizard would go to great lengths to plumb an archive of ancient knowledge.</p><p>Among wizards, the Order of Scribes is the most bookish. It takes many forms in different worlds, but its primary mission is the same everywhere: recording magical discoveries so that wizardry can flourish. And while all wizards value spellbooks, a wizard in the Order of Scribes magically awakens their book, turning it into a trusted companion. All wizards study books, but a wizardly scribe talks to theirs!</p><div data-roll-name-ancestor=\"Wizardly Quill\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p77\">Wizardly Quill</span></h3> <p><i>2nd-level Order of Scribes feature</i></p><p>As a bonus action, you can magically create a Tiny quill in your free hand. The magic quill has the following properties:</p><ul class=\"rd__list\"><li class=\"rd__li \">The quill doesn't require ink. When you write with it, it produces ink in a color of your choice on the writing surface.</li><li class=\"rd__li \">The time you must spend to copy a spell into your spellbook equals 2 minutes per spell level if you use the quill for the transcription.</li><li class=\"rd__li \">You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.</li></ul><p>This quill disappears if you create another one or if you die.</p></div><div data-roll-name-ancestor=\"Awakened Spellbook\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p77\">Awakened Spellbook</span></h3> <p><i>2nd-level Order of Scribes feature</i></p><p>Using specially prepared inks and ancient incantations passed down by your wizardly order, you have awakened an arcane sentience within your spellbook.</p><p>While you are holding the book, it grants you the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">You can use the book as a spellcasting focus for your wizard spells.</li><li class=\"rd__li \">When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook, which magically alters the spell's formula for this casting only. The latter spell must be of the same level as the spell slot you expend.</li><li class=\"rd__li \">When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.</li></ul><p>If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you're attuned. At the end of the rest, your spellbook's consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 2 (Scribes)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "xZOCIYNiyp9pVxqf": {
+        "_id": "xZOCIYNiyp9pVxqf",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "order-of-scribes",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/sundries/books/book-embossed-clasp-gold-brown.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "dnlIWDKaciUPr3ii",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!5MKRf24thJC1mcoZ"
+}

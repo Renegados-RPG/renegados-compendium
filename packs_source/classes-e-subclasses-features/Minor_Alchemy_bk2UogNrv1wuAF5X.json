@@ -1,0 +1,60 @@
+{
+  "_id": "bk2UogNrv1wuAF5X",
+  "name": "Minor Alchemy",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "119",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your @status[concentration] (as if you were @status[concentration||concentrating] on a spell), the material reverts to its original substance.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 2 (Transmutation)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "minor-alchemy",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/commodities/treasure/token-runed-mem-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "WubfCGfxzxoR03Qy",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!bk2UogNrv1wuAF5X"
+}

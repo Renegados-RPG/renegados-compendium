@@ -1,0 +1,60 @@
+{
+  "_id": "t7oQxQkgif4evcqg",
+  "name": "Spellcasting",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See <a href=\"https://5e.tools/book.html#PHB,10\">chapter 10</a> for the general rules of spellcasting and <a href=\"https://5e.tools/book.html#PHB,11\">chapter 11</a> for the <a href=\"https://5e.tools/spells.html#blankhash,flstclass:wizard=1\">wizard spell list</a>.</p><div data-roll-name-ancestor=\"Cantrips\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Cantrips.</span></span> At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.</p></div><div data-roll-name-ancestor=\"Spellbook\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Spellbook.</span></span> At 1st level, you have a spellbook containing six 1st-level <a href=\"https://5e.tools/spells.html#blankhash,flstclass:wizard=1\">wizard spells</a> of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.</p></div><div data-roll-name-ancestor=\"Preparing and Casting Spells\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Preparing and Casting Spells.</span></span> The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.</p><p>For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell @UUID[Compendium.renegados-compendium.magias.Item.2lSqfppArfPi5SPF], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</p><p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.</p></div><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Spellcasting Ability.</span></span> Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><b>Spell save DC</b> = 8 + Intelligence modifier + Proficiency Bonus</div><div class=\"rd__wrp-centered-ability\"><b>Spell attack modifier</b> = Intelligence modifier + Proficiency Bonus</div></div><div data-roll-name-ancestor=\"Ritual Casting\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Ritual Casting.</span></span> You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.</p></div><div data-roll-name-ancestor=\"Spellcasting Focus\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Spellcasting Focus.</span></span> You can use an @item[arcane focus|phb] as a spellcasting focus for your wizard spells.</p></div><div data-roll-name-ancestor=\"Learning Spells of 1st Level and Higher\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"7\"> <span class=\"entry-title-inner\">Learning Spells of 1st Level and Higher.</span></span> Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see \"Your Spellbook\").</p></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Your Spellbook\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"8\"><h4 class=\"entry-title-inner\">Your Spellbook</h4><span class=\"ve-flex-vh-center\"></span></span><p>The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.</p><p>A spellbook doesn't contain cantrips.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Copying a Spell into the Book\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"9\"> <span class=\"entry-title-inner\">Copying a Spell into the Book.</span></span> When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.</p><p>Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.</p><p>For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.</p><div data-roll-name-ancestor=\"Copying from a Spell Scroll\" data-source=\"DMG\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"10\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Dungeon Master’s Guide (2014), p139\">Copying from a Spell Scroll.</span></span> A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence (&amp;Reference[skill=Arcana]) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p></div></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Replacing the Book\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"11\"> <span class=\"entry-title-inner\">Replacing the Book.</span></span> You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.</p><p>If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"The Book's Appearance\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"12\"> <span class=\"entry-title-inner\">The Book's Appearance.</span></span> Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "112",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Wizard 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "spellcasting",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/fire/explosion-embers-orange.webp",
+  "folder": "iIetUH0fWhEzBWUo",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!t7oQxQkgif4evcqg"
+}

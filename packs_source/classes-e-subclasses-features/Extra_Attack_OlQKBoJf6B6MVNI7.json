@@ -1,0 +1,60 @@
+{
+  "_id": "OlQKBoJf6B6MVNI7",
+  "name": "Extra Attack",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "76",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 6th level, you can attack twice, instead of once, whenever you take the @action[Attack] action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 6 (Bladesinging)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "multiattack"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "extra-attack",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/skills/melee/spear-tips-triple-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Eb3B3ydPej0qqeuI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372959874,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!OlQKBoJf6B6MVNI7"
+}

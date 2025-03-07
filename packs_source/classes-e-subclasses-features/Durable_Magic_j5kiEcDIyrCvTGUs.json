@@ -1,0 +1,60 @@
+{
+  "_id": "j5kiEcDIyrCvTGUs",
+  "name": "Durable Magic",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "59",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Beginning at 10th level, the magic you channel helps ward off harm. While you maintain @status[concentration] on a spell, you have a +2 bonus to AC and all saving throws.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 10 (War)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "durable-magic",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/defensive/shield-barrier-glowing-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "xFqih92L4xi2k8H5",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!j5kiEcDIyrCvTGUs"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "QtwZe4Hp9rK9bAOU",
+  "name": "Durable Summons",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "116",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 14 (Conjuration)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "durable-summons",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/creatures/unholy/demon-horned-black-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "LWbypgIkrfe5Hwc0",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!QtwZe4Hp9rK9bAOU"
+}

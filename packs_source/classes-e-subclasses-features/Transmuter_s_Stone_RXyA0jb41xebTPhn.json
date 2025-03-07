@@ -1,0 +1,60 @@
+{
+  "_id": "RXyA0jb41xebTPhn",
+  "name": "Transmuter's Stone",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "119",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:</p><ul class=\"rd__list\"><li class=\"rd__li \">Darkvision out to a range of 60 feet, as described in chapter 8.</li><li class=\"rd__li \">An increase to speed of 10 feet while the creature is unencumbered.</li><li class=\"rd__li \">Proficiency in Constitution saving throws.</li><li class=\"rd__li \">Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).</li></ul><p>Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person.</p><p>If you create a new transmuter's stone, the previous one ceases to function.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 6 (Transmutation)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "transmuters-stone",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/commodities/gems/gem-rough-oval-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "WubfCGfxzxoR03Qy",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!RXyA0jb41xebTPhn"
+}

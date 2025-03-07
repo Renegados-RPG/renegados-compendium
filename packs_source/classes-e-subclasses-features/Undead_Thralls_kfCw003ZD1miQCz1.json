@@ -1,0 +1,60 @@
+{
+  "_id": "kfCw003ZD1miQCz1",
+  "name": "Undead Thralls",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "118",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 6th level, you add the @UUID[Compendium.renegados-compendium.magias.Item.5VNRmqQiRZghryFb] spell to your spellbook if it is not there already. When you cast @UUID[Compendium.renegados-compendium.magias.Item.5VNRmqQiRZghryFb], you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.</p><p>Whenever you create an undead using a necromancy spell, it has additional benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">The creature's hit point maximum is increased by an amount equal to your wizard level.</li><li class=\"rd__li \">The creature adds your proficiency bonus to its weapon damage rolls.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 6 (Necromancy)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "undead-thralls",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/death/undead-skeleton-deformed-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "XT6ET88xrD629S5c",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!kfCw003ZD1miQCz1"
+}

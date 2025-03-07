@@ -1,0 +1,46 @@
+{
+  "_id": "ixUU9GTwFidZwVmf",
+  "name": "School of Evocation",
+  "type": "subclass",
+  "system": {
+    "identifier": "school-of-evocation",
+    "classIdentifier": "wizard",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.</p><div data-roll-name-ancestor=\"Evocation Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Evocation Savant</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 117\">p117</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Sculpt Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Sculpt Spells</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 117\">p117</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"School of Evocation\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p117\">School of Evocation</span></h2> <p>You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.</p><div data-roll-name-ancestor=\"Level 2: Evocation Savant\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p117\">Level 2: Evocation Savant</span></h3> <p>Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved.</p></div><div data-roll-name-ancestor=\"Level 2: Sculpt Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p117\">Level 2: Sculpt Spells</span></h3> <p>Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Potent Cantrip\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p117\">Level 6: Potent Cantrip</span></h3> <p>Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Empowered Evocation\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p117\">Level 10: Empowered Evocation</span></h3> <p>Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Overchannel\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p117\">Level 14: Overchannel</span></h3> <p>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.</p><p>The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take [[/damage 2d12 type=necrotic]] damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by [[/damage 1d12]]. This damage ignores resistance and immunity.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "117",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {}
+    },
+    "advancement": []
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/fire/beam-strike-whip-red.webp",
+  "folder": "HhJkCxwtG022k2VU",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372769233,
+    "modifiedTime": 1741372769233,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!ixUU9GTwFidZwVmf"
+}

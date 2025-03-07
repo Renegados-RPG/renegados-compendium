@@ -1,0 +1,60 @@
+{
+  "_id": "QJZPSks6JxFZIGAX",
+  "name": "Improved Minor Illusion",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "118",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you choose this school at 2nd level, you learn the @UUID[Compendium.renegados-compendium.magias.Item.H0rSowwQhSqNK8bm] cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.</p><p>When you cast @UUID[Compendium.renegados-compendium.magias.Item.H0rSowwQhSqNK8bm], you can create both a sound and an image with a single casting of the spell.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 2 (Illusion)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "improved-minor-illusion",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/symbols/runes-star-orange-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "zLXHf7r9PLxeGLBn",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741372468067,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!QJZPSks6JxFZIGAX"
+}

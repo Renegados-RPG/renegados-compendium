@@ -1,0 +1,204 @@
+{
+  "_id": "2VR0grJJMTLUOGAM",
+  "name": "Bladesong",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "76",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</p><p>You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are &amp;Reference[condition=incapacitated], if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).</p><p>While your bladesong is active, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).</li><li class=\"rd__li \">Your walking speed increases by 10 feet.</li><li class=\"rd__li \">You have advantage on Dexterity (&amp;Reference[skill=Acrobatics]) checks.</li><li class=\"rd__li \">You gain a bonus to any Constitution saving throws you make to maintain @status[concentration] on a spell. The bonus equals your Intelligence modifier (minimum of +1).</li></ul><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 2 (Bladesinging)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "d45Xa5mQNMPXBXRq": {
+        "_id": "d45Xa5mQNMPXBXRq",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": ""
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "VnpEFC9ODPXkiPB4"
+          }
+        ],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": ""
+        },
+        "sort": 0,
+        "name": "",
+        "img": "",
+        "appliedEffects": ["VnpEFC9ODPXkiPB4"]
+      }
+    },
+    "identifier": "bladesong",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/skills/melee/sword-twirl-orange.webp",
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Bladesong",
+      "img": "icons/skills/melee/sword-twirl-orange.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.2VR0grJJMTLUOGAM",
+      "_id": "VnpEFC9ODPXkiPB4",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "mode": 5,
+          "value": "@abilities.int.mod",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.movement.walk",
+          "mode": 2,
+          "value": "3",
+          "priority": null
+        },
+        {
+          "key": "system.skills.acr.roll.mode",
+          "mode": 5,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": 60,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": 1741374360942,
+        "modifiedTime": 1741376431770,
+        "lastModifiedBy": "ox2bho65epIfC0E1"
+      },
+      "_key": "!items.effects!2VR0grJJMTLUOGAM.VnpEFC9ODPXkiPB4"
+    }
+  ],
+  "folder": "Eb3B3ydPej0qqeuI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741374947733,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!2VR0grJJMTLUOGAM"
+}

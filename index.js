@@ -31,6 +31,7 @@ program.action(() => {
         message: "What's do you want to do?",
         choices: [
           { name: "Extract packs", value: "extract" },
+          { name: "Delete and Extract packs", value: "extract-delete" },
           { name: "Compile packs", value: "compile" },
           { name: "Clear flags", value: "clear-flags" },
           { name: "Parse spells list", value: "parse-spells-list" },
@@ -43,6 +44,13 @@ program.action(() => {
       const spinner = ora().start();
       switch (command) {
         case "extract":
+          spinner.text = "Extracting packs source";
+          await extract.execute();
+          spinner.succeed("Packs source extracted");
+          break;
+        case "extract-delete":
+          spinner.text = "Deleting packs source";
+          await extract.deleteSources();
           spinner.text = "Extracting packs source";
           await extract.execute();
           spinner.succeed("Packs source extracted");
