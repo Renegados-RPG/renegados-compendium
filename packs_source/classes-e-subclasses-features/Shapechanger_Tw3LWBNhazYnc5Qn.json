@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p>At 10th level, you add the @UUID[Compendium.renegados-compendium.magias.Item.FfwaoUwjF8BIqryJ] spell to your spellbook, if it is not there already. You can cast @UUID[Compendium.renegados-compendium.magias.Item.FfwaoUwjF8BIqryJ] without expending a spell slot. When you do so, you can target only yourself and transform into a <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1,flsttype:beast=1,flstmiscellaneous:swarm=2\">beast whose challenge rating is 1 or lower</a>.</p><p>Once you cast @UUID[Compendium.renegados-compendium.magias.Item.FfwaoUwjF8BIqryJ] in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 10th level, you add the @UUID[Compendium.renegados-compendium.magias.Item.FfwaoUwjF8BIqryJ] spell to your spellbook, if it is not there already. You can cast @UUID[Compendium.renegados-compendium.magias.Item.FfwaoUwjF8BIqryJ] without expending a spell slot. When you do so, you can target only yourself and transform into a <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1,flsttype:beast=1,flstmiscellaneous:swarm=2\">beast whose challenge rating is 1 or lower</a>.</p><p>Once you cast @UUID[Compendium.renegados-compendium.magias.Item.FfwaoUwjF8BIqryJ] in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</p></div>",
       "chat": ""
     },
     "requirements": "Wizard 10 (Transmutation)",
