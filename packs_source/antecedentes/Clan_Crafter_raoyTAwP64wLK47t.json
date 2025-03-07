@@ -1,0 +1,202 @@
+{
+  "_id": "raoyTAwP64wLK47t",
+  "name": "Clan Crafter",
+  "type": "background",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>The Stout Folk are well known for their artisanship and the worth of their handiworks, and you have been trained in that ancient tradition. For years you labored under a dwarf master of the craft, enduring long hours and dismissive, sour-tempered treatment in order to gain the fine skills you possess today.</p><p>You are most likely a dwarf, but not necessarily—particularly in the North, the shield dwarf clans learned long ago that only proud fools who are more concerned for their egos than their craft turn away promising apprentices, even those of other races. If you aren't a dwarf, however, you have taken a solemn oath never to take on an apprentice in the craft: it is not for nondwarves to pass on the skills of Moradin's favored children. You would have no difficulty, however, finding a dwarf master who was willing to receive potential apprentices who came with your recommendation.</p></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Skill Proficiencies:\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> &amp;Reference[skill=History], &amp;Reference[skill=Insight]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tool Proficiencies:\"><span class=\"bold rd__list-item-name\">Tool Proficiencies:</span> One type of <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a></p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Languages:\"><span class=\"bold rd__list-item-name\">Languages:</span> Dwarvish or one of your choice if you already speak Dwarvish</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipment:</span> A set of <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a> with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of @item[traveler's clothes|phb], and a @item[pouch|phb] containing 5 gp and a gem worth 10 gp</p></li></ul><div data-roll-name-ancestor=\"Feature: Respect of the Stout Folk\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Feature: Respect of the Stout Folk</span></h3><p>As well respected as clan crafters are among outsiders, no one esteems them quite so highly as dwarves do. You always have free room and board in any place where shield dwarves or gold dwarves dwell, and the individuals in such a settlement might vie among themselves to determine who can offer you (and possibly your companions) the finest accommodations and assistance.</p></div><div data-roll-name-ancestor=\"Suggested Characteristics\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Suggested Characteristics</span></h3><p>Use the tables for the @background[guild artisan] background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a clan crafter. (For instance, consider the words \"guild\" and \"clan\" to be interchangeable.)</p><p>Your bond is almost certainly related to the master or the clan that taught you, or else to the work that you produce. Your ideal might have to do with maintaining the high quality of your work or preserving the dwarven traditions of craftsmanship.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "145",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": [
+      {
+        "_id": "WF4XQ7IPEzd4a87l",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:his", "skills:ins"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "LV8XLoWeqyz3M0l7",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["tool:art:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "8XqAaUgRvDAg2T99",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "wqbWPZzAwFCCyeyt",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.cjPyslD5HQAnYLHP",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.ksXt3krZbdVBGjB4",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.LjWCyP1poz42MZw9",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      },
+      {
+        "_id": "Oo1fglgbpQWhRBT9",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.dnd5e.items.Item.SztwZhbhZeCqyAes"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.Y9S75go1hLMXUD48"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.fC0lFK8P4RuhpfaU"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.8NS6MSOdXtUqD7Ib"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.jhjo20QoiD5exf09"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.xKErqkLo4ASYr5EP"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.Gflnp29aEv5Lc1ZM"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.rTbVrNcwApnuTz5E"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.YfBwELTgPFHmQdHh"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.PUMfwyVUbtyxgYbD"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.ccm5xlWhx74d6lsK"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.skUih6tBvcBbORzA"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.hJS8yEVkqgJjwfWa"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.KndVe2insuctjIaj"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.hM84pZnpCqKfi8XH"
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.ap9prThUB2y9lDyj"
+            }
+          ],
+          "spell": null,
+          "type": "tool",
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "identifier": "clan-crafter",
+    "startingEquipment": [],
+    "wealth": ""
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/environment/people/commoner.webp",
+  "folder": "VAhyDWBtkZ1bjH0Y",
+  "_stats": {
+    "compendiumSource": "Item.kiqALMlJppzJoPt6",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741303678267,
+    "modifiedTime": 1741304344909,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!raoyTAwP64wLK47t"
+}

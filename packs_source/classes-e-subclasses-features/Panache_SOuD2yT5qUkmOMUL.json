@@ -1,0 +1,107 @@
+{
+  "_id": "SOuD2yT5qUkmOMUL",
+  "name": "Panache",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "48",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma (&amp;Reference[skill=Persuasion]) check contested by a creature's Wisdom (&amp;Reference[skill=Insight]) check. The creature must be able to hear you, and the two of you must share a language.</p><p>If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.</p><p>If you succeed on the check and the creature isn't hostile to you, it is &amp;Reference[condition=charmed] by you for 1 minute. While &amp;Reference[condition=charmed], it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 9 (Swashbuckler)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "gCtmASjZ3putg2M8": {
+        "_id": "gCtmASjZ3putg2M8",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "panache",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "f2q8iAtrHPDhhaQz",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741382236243,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!SOuD2yT5qUkmOMUL"
+}

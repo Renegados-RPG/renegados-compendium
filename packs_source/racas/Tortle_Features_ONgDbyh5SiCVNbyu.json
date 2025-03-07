@@ -1,0 +1,22 @@
+{
+  "name": "Tortle Features",
+  "sorting": "a",
+  "folder": "WjGr4bEPfs7frQjA",
+  "type": "Item",
+  "_id": "ONgDbyh5SiCVNbyu",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!ONgDbyh5SiCVNbyu"
+}

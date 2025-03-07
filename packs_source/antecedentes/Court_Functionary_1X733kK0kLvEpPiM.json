@@ -1,0 +1,56 @@
+{
+  "folder": "lheNnsAK8KGVD4JA",
+  "name": "Court Functionary",
+  "type": "feat",
+  "_id": "1X733kK0kLvEpPiM",
+  "img": "icons/commodities/treasure/bust-carved-stone.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Feature: Court Functionary\" class=\"rd__b  rd__b--2\"><p>Your knowledge of how bureaucracies function lets you gain access to the records and inner workings of any noble court or government you encounter. You know who the movers and shakers are, whom to go to for the favors you seek, and what the current intrigues of interest in the group are.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "court-functionary",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "background",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741369281327,
+    "modifiedTime": 1741369381235,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!1X733kK0kLvEpPiM"
+}

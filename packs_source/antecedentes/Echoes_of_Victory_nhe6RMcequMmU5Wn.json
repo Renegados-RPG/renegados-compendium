@@ -1,0 +1,56 @@
+{
+  "folder": "tzTu8PYUdOe3X1EG",
+  "name": "Echoes of Victory",
+  "type": "feat",
+  "_id": "nhe6RMcequMmU5Wn",
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<p><span style=\"font-family:'Roboto Condensed', sans-serif\">You have attracted admiration among spectators, fellow athletes, and trainers in the region that hosted your past athletic victories. When visiting any settlement within 100 miles of where you grew up, there is a <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor=\"50 percent\" data-formula=\"1d100\" data-tooltip=\"1d100\" style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);cursor:pointer;--content-link-background:rgba(0, 0, 0, 0.1);background:transparent;padding:1px 4px;border:none;border-radius:2px;white-space:nowrap;word-break:break-all;--content-link-text-color:var(--color-text-dark-primary);text-decoration:underline currentcolor;text-underline-offset:2px\">50 percent</a> chance you can find someone there who admires you and is willing to provide information or temporary shelter.</span></p><p style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);margin:0.5em 0px 0px;color:rgb(207, 210, 218);font-family:'Roboto Condensed', sans-serif;font-size:13px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(13, 11, 11);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;text-align:start\"><span style=\"font-family:'Roboto Condensed', sans-serif\">Between adventures, you might compete in athletic events sufficient enough to maintain a comfortable lifestyle, as per the \"<a href=\"https://2014.5e.tools/book.html#PHB,8,practicing%20a%20profession,0\" style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);cursor:pointer;color:var(--color-text-hyperlink)\">Practicing a Profession</a>\" downtime activity in chapter 8 of the <a href=\"https://2014.5e.tools/book.html#PHB\" style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track);cursor:pointer;color:var(--color-text-hyperlink)\">Player's Handbook</a>.</span></p>",
+      "chat": ""
+    },
+    "identifier": "echoes-of-victory",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "background",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741274590629,
+    "modifiedTime": 1741274653478,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!nhe6RMcequMmU5Wn"
+}

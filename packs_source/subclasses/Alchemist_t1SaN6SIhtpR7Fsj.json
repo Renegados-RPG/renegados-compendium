@@ -76,7 +76,7 @@
         "_id": "K3TsnXcxlYXXOZ60",
         "type": "Trait",
         "configuration": {
-          "allowReplacements": false,
+          "allowReplacements": true,
           "choices": [],
           "grants": ["tool:art:alchemist"],
           "mode": "default"
@@ -86,7 +86,7 @@
         },
         "level": 3,
         "title": "Tool Proficiency",
-        "hint": ""
+        "hint": "If you already have this proficiency, you gain proficiency with one other type of  artisan's tools of your choice."
       },
       {
         "_id": "NE3asG7fsFRqcV9x",
@@ -129,10 +129,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1739921540348,
-    "modifiedTime": 1740609703588,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741320339942,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "_key": "!items!t1SaN6SIhtpR7Fsj"
 }

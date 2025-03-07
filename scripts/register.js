@@ -92,6 +92,23 @@ function setEncumbranceData() {
   game.settings.set("dnd5e", "metricLengthUnits", convert);
   game.settings.set("dnd5e", "metricVolumeUnits", convert);
   game.settings.set("dnd5e", "rulesVersion", "legacy");
+  if (game.user.role === 4) {
+    game.settings.set("dnd5e", "packSourceConfiguration", {
+      "dnd5e.classfeatures": false,
+      "dnd5e.classes": false,
+      "dnd5e.items": true,
+      "dnd5e.monsterfeatures": false,
+      "dnd5e.races": false,
+      "dnd5e.spells": false,
+      "dnd5e.subclasses": false,
+      "dnd5e.heroes": false,
+      "dnd5e.monsters": false,
+      "dnd5e.tradegoods": true,
+      "dnd5e.backgrounds": false,
+      "dnd5e.rules": true,
+      "dnd5e.tables": true,
+    });
+  }
 
   if (convert) {
     CONFIG.DND5E.movementUnits = {

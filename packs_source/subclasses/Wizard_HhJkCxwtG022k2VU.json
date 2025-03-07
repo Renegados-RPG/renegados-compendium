@@ -6,7 +6,7 @@
   "_id": "HhJkCxwtG022k2VU",
   "description": "",
   "sort": 0,
-  "color": null,
+  "color": "#9ceff1",
   "flags": {},
   "_stats": {
     "compendiumSource": null,
@@ -15,8 +15,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.3",
     "createdTime": 1740707139766,
-    "modifiedTime": 1740707139766,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741372756850,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "_key": "!folders!HhJkCxwtG022k2VU"
 }

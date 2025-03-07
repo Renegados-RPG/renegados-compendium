@@ -1,0 +1,56 @@
+{
+  "name": "Keen Smell",
+  "type": "feat",
+  "_id": "k7Jd2jwLj0lfw1Dm",
+  "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Keen Smell\" class=\"rd__b  rd__b--3\"><p>Thanks to your sensitive trunk, you have advantage on Wisdom (&amp;Reference[skill=Perception]), Wisdom (&amp;Reference[skill=Survival]), and Intelligence (&amp;Reference[skill=Investigation]) checks that involve smell.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "keen-smell",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "IzIEVSHjSVMq6L5H",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.Upv72HNc3ujE1WbN",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741174875722,
+    "modifiedTime": 1741174875903,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!k7Jd2jwLj0lfw1Dm"
+}

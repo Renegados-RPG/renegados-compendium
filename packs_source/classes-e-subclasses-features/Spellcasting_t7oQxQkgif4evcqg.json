@@ -1,0 +1,67 @@
+{
+  "_id": "t7oQxQkgif4evcqg",
+  "name": "Spellcasting",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "97",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you reach 3rd level, you gain the ability to cast spells. See <a href=\"https://2014.5e.tools/book.html#PHB,10\">chapter 10</a> for the general rules of spellcasting and <a href=\"https://2014.5e.tools/book.html#PHB,11\">chapter 11</a> for the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:wizard=1\">wizard spell list</a>.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Cantrips\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Cantrips.</span></span> You learn three cantrips: @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Spell Slots\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Spell Slots.</span></span> The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:wizard=1\">wizard spells</a> of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>For example, if you know the 1st-level spell @UUID[Compendium.renegados-compendium.magias.Item.gNj3nFqfW6kVWnXh] and have a 1st-level and a 2nd-level spell slot available, you can cast @UUID[Compendium.renegados-compendium.magias.Item.gNj3nFqfW6kVWnXh] using either slot.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Spells Known of 1st-Level and Higher\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Spells Known of 1st-Level and Higher.</span></span> You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.</p><p>The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.</p><p>The spells you learn at 8th, 14th, and 20th level can come from any school of magic.</p><p>Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Spellcasting Ability.</span></span> Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><b>Spell save DC</b> = 8 + Intelligence modifier + Proficiency Bonus</div><div class=\"rd__wrp-centered-ability\"><b>Spell attack modifier</b> = Intelligence modifier + Proficiency Bonus</div></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 3 (Arcane Trickster)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "spellcasting",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "img": "icons/magic/light/beam-rays-magenta-large.webp",
+  "folder": "xBz72pWN2vThjpds",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1741382236190,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!t7oQxQkgif4evcqg"
+}

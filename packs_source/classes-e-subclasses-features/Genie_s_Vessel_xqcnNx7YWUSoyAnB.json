@@ -32,61 +32,7 @@
     },
     "properties": [],
     "advancement": [],
-    "activities": {
-      "h1SQ1F4Lo9jkPiIu": {
-        "_id": "h1SQ1F4Lo9jkPiIu",
-        "type": "utility",
-        "activation": {
-          "type": "action",
-          "value": 1,
-          "override": false
-        },
-        "consumption": {
-          "scaling": {
-            "allowed": false
-          },
-          "spellSlot": true,
-          "targets": [
-            {
-              "target": "",
-              "value": "1",
-              "type": "itemUses",
-              "scaling": {}
-            }
-          ]
-        },
-        "description": {},
-        "duration": {
-          "units": "inst",
-          "concentration": false,
-          "override": false
-        },
-        "effects": [],
-        "range": {
-          "override": false
-        },
-        "target": {
-          "template": {
-            "contiguous": false,
-            "units": "m"
-          },
-          "affects": {
-            "choice": false
-          },
-          "override": false,
-          "prompt": true
-        },
-        "uses": {
-          "spent": 0,
-          "recovery": []
-        },
-        "roll": {
-          "prompt": false,
-          "visible": false
-        },
-        "sort": 0
-      }
-    },
+    "activities": {},
     "identifier": "genies-vessel",
     "cover": null,
     "crewed": false,
@@ -101,7 +47,14 @@
     "Zw9Q2ZNjr61CcpCW": 3
   },
   "img": "icons/commodities/treasure/brass-lamp-yellow.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "d8cYH53qAKtFUuA3",
   "_stats": {
@@ -109,10 +62,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740796152369,
-    "modifiedTime": 1740796152369,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741320776303,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,
   "_key": "!items!xqcnNx7YWUSoyAnB"

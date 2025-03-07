@@ -1,0 +1,22 @@
+{
+  "name": "Faction Agent",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "IgD4Ghm7klNH5yxy",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741377780835,
+    "modifiedTime": 1741377780835,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!folders!IgD4Ghm7klNH5yxy"
+}

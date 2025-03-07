@@ -39,7 +39,8 @@
     },
     "range": {
       "value": "0",
-      "units": "touch"
+      "units": "touch",
+      "special": ""
     },
     "activation": {
       "type": "action",
@@ -175,9 +176,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740609448769,
-    "modifiedTime": 1740609585787,
+    "modifiedTime": 1741149199886,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,

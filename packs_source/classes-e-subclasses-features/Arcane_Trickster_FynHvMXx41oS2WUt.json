@@ -1,0 +1,125 @@
+{
+  "_id": "FynHvMXx41oS2WUt",
+  "name": "Arcane Trickster",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "97",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.</p><div data-roll-name-ancestor=\"Spellcasting\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p97\">Spellcasting</span></h3> <p>When you reach 3rd level, you gain the ability to cast spells. See <a href=\"https://2014.5e.tools/book.html#PHB,10\">chapter 10</a> for the general rules of spellcasting and <a href=\"https://2014.5e.tools/book.html#PHB,11\">chapter 11</a> for the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:wizard=1\">wizard spell list</a>.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Cantrips\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Cantrips.</span></span> You learn three cantrips: @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] and two other cantrips of your choice from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Spell Slots\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Spell Slots.</span></span> The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:wizard=1\">wizard spells</a> of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>For example, if you know the 1st-level spell @UUID[Compendium.renegados-compendium.magias.Item.gNj3nFqfW6kVWnXh] and have a 1st-level and a 2nd-level spell slot available, you can cast @UUID[Compendium.renegados-compendium.magias.Item.gNj3nFqfW6kVWnXh] using either slot.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Spells Known of 1st-Level and Higher\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Spells Known of 1st-Level and Higher.</span></span> You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.</p><p>The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.</p><p>The spells you learn at 8th, 14th, and 20th level can come from any school of magic.</p><p>Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you're replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Spellcasting Ability.</span></span> Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><b>Spell save DC</b> = 8 + Intelligence modifier + Proficiency Bonus</div><div class=\"rd__wrp-centered-ability\"><b>Spell attack modifier</b> = Intelligence modifier + Proficiency Bonus</div></div><p></p></div></div><div data-roll-name-ancestor=\"Mage Hand Legerdemain\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p97\">Mage Hand Legerdemain</span></h3> <p>Starting at 3rd level, when you cast @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B], you can make the spectral hand &amp;Reference[condition=invisible], and you can perform the following additional tasks with it:</p><ul class=\"rd__list\"><li class=\"rd__li \">You can stow one object the hand is holding in a container worn or carried by another creature.</li><li class=\"rd__li \">You can retrieve an object in a container worn or carried by another creature.</li><li class=\"rd__li \">You can use @item[thieves' tools|phb] to pick locks and disarm traps at range.</li></ul><p>You can perform one of these tasks without being noticed by a creature if you succeed on a Dexterity (&amp;Reference[skill=SleightofHand]{Sleight of Hand}) check contested by the creature's Wisdom (&amp;Reference[skill=Perception]) check.</p><p>In addition, you can use the bonus action granted by your Cunning Action to control the hand.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Rogue 3 (Arcane Trickster)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "jducTkTWU8bCjTmK": {
+        "_id": "jducTkTWU8bCjTmK",
+        "type": "save",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "int"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "arcane-trickster",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/light/hand-sparks-smoke-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "xBz72pWN2vThjpds",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741382236243,
+    "modifiedTime": 1741383495162,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!FynHvMXx41oS2WUt"
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Speed",
+  "type": "feat",
+  "_id": "0yMYzgQPPc7e13AA",
+  "img": "icons/magic/water/bubbles-air-water-light.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Speed\" class=\"rd__b  rd__b--3\"><p>Your walking speed is 30 feet, and you have a swimming speed equal to your walking speed.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "speed",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "kwWRqts4UMeAExc4",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.8ekic8v4Kdty29op",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741177022674,
+    "modifiedTime": 1741177022846,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!0yMYzgQPPc7e13AA"
+}

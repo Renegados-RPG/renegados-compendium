@@ -1,0 +1,153 @@
+{
+  "_id": "fbxgwKSxxwQvqam0",
+  "name": "The Undying",
+  "type": "subclass",
+  "system": {
+    "identifier": "the-undying",
+    "classIdentifier": "warlock",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div class=\"rd__b  rd__b--1\"><p>Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize—like all power—comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.</p><p>In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.</p><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Expanded Spell List</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Undying Expanded Spells\"><caption>Undying Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#false%20life_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"false%20life_phb\" data-vet-is-allow-redirect=\"true\">false life</a>, <a href=\"https://2014.5e.tools/spells.html#ray%20of%20sickness_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"ray%20of%20sickness_phb\" data-vet-is-allow-redirect=\"true\">ray of sickness</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#blindness%2fdeafness_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"blindness%2fdeafness_phb\" data-vet-is-allow-redirect=\"true\">blindness/deafness</a>, <a href=\"https://2014.5e.tools/spells.html#silence_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"silence_phb\" data-vet-is-allow-redirect=\"true\">silence</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#feign%20death_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"feign%20death_phb\" data-vet-is-allow-redirect=\"true\">feign death</a>, <a href=\"https://2014.5e.tools/spells.html#speak%20with%20dead_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"speak%20with%20dead_phb\" data-vet-is-allow-redirect=\"true\">speak with dead</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#aura%20of%20life_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"aura%20of%20life_phb\" data-vet-is-allow-redirect=\"true\">aura of life</a>, <a href=\"https://2014.5e.tools/spells.html#death%20ward_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"death%20ward_phb\" data-vet-is-allow-redirect=\"true\">death ward</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#contagion_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"contagion_phb\" data-vet-is-allow-redirect=\"true\">contagion</a>, <a href=\"https://2014.5e.tools/spells.html#legend%20lore_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"legend%20lore_phb\" data-vet-is-allow-redirect=\"true\">legend lore</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Among the Dead\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Among the Dead</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Sword Coast Adventurer’s Guide\">SCAG</span> <span title=\"Page 139\">p139</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 1st level, you learn the <a href=\"https://2014.5e.tools/spells.html#spare%20the%20dying_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"spare%20the%20dying_phb\" data-vet-is-allow-redirect=\"true\">spare the dying</a> cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.</p><p>Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of <a href=\"https://2014.5e.tools/spells.html#fireball_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"fireball_phb\" data-vet-is-allow-redirect=\"true\">fireball</a>). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"The Undying\" data-source=\"SCAG\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p139\">The Undying</span></h2><p>Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize—like all power—comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.</p><p>In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.</p><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner\">Expanded Spell List</span></h3><p>The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Undying Expanded Spells\"><caption>Undying Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.OoyAwPmZZayeaLRR], @UUID[Compendium.renegados-compendium.magias.Item.eJIkhe9bBljMz1eC]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.oYsct95PfhhE4Caa], @UUID[Compendium.renegados-compendium.magias.Item.o6cpFIcC4qenULSO]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.h7Wjb9a3eURlpoLn], @UUID[Compendium.renegados-compendium.magias.Item.4uLaPub94ZIW2NRd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.MXTsNyYdbqNmzjY0], @UUID[Compendium.renegados-compendium.magias.Item.52bBpxkRUEWctfzt]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.g4yfTNdI6th7rTsK], @UUID[Compendium.renegados-compendium.magias.Item.SF47mk8moTvyyLbv]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 1: Among the Dead\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p139\">Level 1: Among the Dead</span></h3><p>Starting at 1st level, you learn the @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2] cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.</p><p>Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of @UUID[Compendium.renegados-compendium.magias.Item.uGu9D0QJtYH33DrE]). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Defy Death\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p139\">Level 6: Defy Death</span></h3><p>Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to [[/r 1d8]] + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2].</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Undying Nature\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p139\">Level 10: Undying Nature</span></h3><p>Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce &amp;Reference[condition=exhaustion] and still benefit from finishing short and long rests.</p><p>In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Indestructible Life\" data-source=\"SCAG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Sword Coast Adventurer’s Guide, p139\">Level 14: Indestructible Life</span></h3><p>When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to [[/r 1d8]] + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "139",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "1s1LqMO6COtjwEpk",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.EUounj2V0hi5fGPe"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.nc5wAJTaa2d0YPJR"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "_id": "fKO0dhCXV7NPXrJK",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 1,
+        "title": "Among the Dead",
+        "hint": "",
+        "icon": "icons/magic/life/heart-cross-strong-blue.webp"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kXuSefWkJYd6b6AT",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "75n4SnFZbfi2axv1"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CCyNJeMsvBE8c6wd",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": "",
+        "_id": "MBHj9WNEiizvNp1e"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.wNZ95PBlOPl55lRe"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "t0Q5RbfWopO36hQC"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/skills/trades/academics-book-study-runes.webp",
+  "folder": "WDf8ZSifIslQaVyU",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741317898549,
+    "modifiedTime": 1741321581975,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!fbxgwKSxxwQvqam0"
+}

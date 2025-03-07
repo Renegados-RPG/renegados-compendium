@@ -94,7 +94,7 @@
     },
     "enchant": {},
     "prerequisites": {
-      "level": null,
+      "level": 9,
       "repeatable": false
     },
     "identifier": "armor-of-shadows",
@@ -115,9 +115,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740796435767,
-    "modifiedTime": 1740796435767,
+    "modifiedTime": 1741149906136,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,

@@ -1,0 +1,60 @@
+{
+  "_id": "6RfgF27C2wSd0MNs",
+  "name": "Pact Boon",
+  "ownership": {
+    "default": 0,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.0uQvxz5Q1rKiyfEo]{Pact of the Blade}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.3j1G7snNZtT55cZy]{Pact of the Chain}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.JZLqx5zLejd1MUwo]{Pact of the Talisman}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.a2Bgs4dURZHDP4fi]{Pact of the Tome}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Warlock 3",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "pact-boon",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
+  "effects": [],
+  "folder": "VS5LumCkH9tui1H7",
+  "sort": 700000,
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classfeatures.Item.QwgfIpCN8VWfoUtX",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741149553085,
+    "modifiedTime": 1741149579890,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_key": "!items!6RfgF27C2wSd0MNs"
+}

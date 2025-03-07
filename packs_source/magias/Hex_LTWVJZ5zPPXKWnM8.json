@@ -43,7 +43,8 @@
     },
     "range": {
       "value": "27",
-      "units": "m"
+      "units": "m",
+      "special": ""
     },
     "activation": {
       "type": "bonus",
@@ -139,9 +140,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740609587365,
-    "modifiedTime": 1740609587365,
+    "modifiedTime": 1741148997751,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,

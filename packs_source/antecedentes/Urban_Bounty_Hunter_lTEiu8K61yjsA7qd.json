@@ -1,0 +1,22 @@
+{
+  "name": "Urban Bounty Hunter",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "lTEiu8K61yjsA7qd",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741383040536,
+    "modifiedTime": 1741383040536,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!folders!lTEiu8K61yjsA7qd"
+}

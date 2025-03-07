@@ -1,0 +1,177 @@
+{
+  "_id": "cZXYhcxBrSL4TnZx",
+  "name": "Shifter",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Bestial Instincts\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Bestial Instincts.</span> Channeling the beast within, you have proficiency in one of the following skills of your choice: &amp;Reference[skill=Acrobatics], &amp;Reference[skill=Athletics], &amp;Reference[skill=Intimidation], or &amp;Reference[skill=Survival].</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray.</p></div><div data-roll-name-ancestor=\"Shifting\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Shifting.</span> As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 × your proficiency bonus. You can shift a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>Whenever you shift, you gain an additional benefit based on one of the following options (choose when you select this race):</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Beasthide\"><span class=\"bold rd__list-item-name\">Beasthide.</span> You gain [[/r 1d6]] additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Longtooth\"><span class=\"bold rd__list-item-name\">Longtooth.</span> When you shift and as a bonus action on your other turns while shifted, you can use your elongated fangs to make an unarmed strike. If you hit with your fangs, you can deal piercing damage equal to [[/damage 1d6]] + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Swiftstride\"><span class=\"bold rd__list-item-name\">Swiftstride.</span> While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke opportunity attacks.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Wildhunt\"><span class=\"bold rd__list-item-name\">Wildhunt.</span> While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you unless you're &amp;Reference[condition=incapacitated].</p></li></ul></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Shifters are sometimes called weretouched, as they are descendants of people who contracted full or partial lycanthropy. Humanoids with a bestial aspect, shifters can't fully change shape, but they can temporarily enhance their animalistic features by entering a state they call shifting.</p><p>Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies. While a shifter's appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral.</p><p>Most shifters resemble a particular kind of lycanthrope. You can choose the kind of lycanthrope in your past, or you can determine it randomly by rolling on the Lycanthrope Ancestor table. The table also provides a suggestion for the Shifting option you might have as a result of your ancestry.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Lycanthrope Ancestor\"><caption>Lycanthrope Ancestor</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-5 ve-text-center \" data-rd-isroller=\"false\">Ancestor</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Suggested Shifting Option</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-5 ve-text-center \">Werebear</td><td class=\"rd__th ve-col-6 ve-text-center \">Beasthide</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-5 ve-text-center \">Wereboar</td><td class=\"rd__th ve-col-6 ve-text-center \">Beasthide</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-5 ve-text-center \">Wererat</td><td class=\"rd__th ve-col-6 ve-text-center \">Swiftstride</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-5 ve-text-center \">Weretiger</td><td class=\"rd__th ve-col-6 ve-text-center \">Swiftstride</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-5 ve-text-center \">Werewolf (wolflike)</td><td class=\"rd__th ve-col-6 ve-text-center \">Longtooth</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-5 ve-text-center \">Werewolf (doglike)</td><td class=\"rd__th ve-col-6 ve-text-center \">Wildhunt</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MPMM",
+      "page": "32",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "shifter",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "Xs7k5vYemAm77wP3",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "gAMtuRFGGBIvqYzj",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "4ozg3c0egXPXmtxY",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["skills:acr", "skills:ath", "skills:itm", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Bestial Instincts",
+        "hint": ""
+      },
+      {
+        "_id": "e4arXbTg5mzuETc4",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "0": {
+              "count": 1,
+              "replacement": true
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.jKqQpzwpNwawi0si"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.e18qZJBz3nJfWTd3"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.Xzr7qyjs3Mle4DVO"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.jTZylZc3BbVXllam"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Shifting",
+        "hint": "As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 × your proficiency bonus. You can shift a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\n\nWhenever you shift, you gain an additional benefit based on one of the following options (choose when you select this race):"
+      },
+      {
+        "_id": "9QD6xUbXxWARdZhY",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*"]
+            }
+          ],
+          "grants": ["languages:standard:common"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      }
+    ],
+    "identifier": "shifter"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/races/MPMM/Shifter.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "ohCw8svB2St2zg5D",
+  "_stats": {
+    "compendiumSource": "Item.AsCtZJxDHwsJNnPy",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741177680381,
+    "modifiedTime": 1741178330540,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 100000,
+  "_key": "!items!cZXYhcxBrSL4TnZx"
+}

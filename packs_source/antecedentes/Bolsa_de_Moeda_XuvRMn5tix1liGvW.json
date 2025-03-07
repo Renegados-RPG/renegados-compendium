@@ -1,0 +1,83 @@
+{
+  "folder": "tzTu8PYUdOe3X1EG",
+  "name": "Bolsa de Moeda",
+  "type": "container",
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": ""
+    },
+    "source": {
+      "book": "SRD 5.1",
+      "page": "61",
+      "custom": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "rarity": "",
+    "attunement": "",
+    "equipped": false,
+    "currency": {
+      "pp": 0,
+      "gp": 10,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "properties": [],
+    "capacity": {
+      "count": null,
+      "volume": {
+        "value": null,
+        "units": "liter"
+      },
+      "weight": {
+        "value": null,
+        "units": "kg"
+      }
+    },
+    "attuned": false,
+    "identifier": "coin-pouch"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Coin Pouch"
+    }
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.backgrounds.Item.dQaOdm9dbVN0RZYP",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741274497902,
+    "modifiedTime": 1741274497944,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "XuvRMn5tix1liGvW",
+  "sort": 100000,
+  "_key": "!items!XuvRMn5tix1liGvW"
+}

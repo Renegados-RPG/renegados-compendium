@@ -4,7 +4,7 @@
   "type": "race",
   "system": {
     "description": {
-      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose any two unique +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Age</strong>.</span> Humans reach adulthood in their late teens and live less than a century.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size</strong>.</span> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages</strong>.</span> You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</p></div><div data-roll-name-ancestor=\"Skills\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Skills</strong>.</span> You gain proficiency in one skill of your choice.</p></div><div data-roll-name-ancestor=\"Feat\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Feat</strong>.</span> You gain one <a href=\"https://5e.tools/feats.html\">feat</a> of your choice.</p></div></div></div>",
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose any two unique +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Age</strong>.</span> Humans reach adulthood in their late teens and live less than a century.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Size</strong>.</span> Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages</strong>.</span> You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.</p></div><div data-roll-name-ancestor=\"Skills\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Skills</strong>.</span> You gain proficiency in one skill of your choice.</p></div><div data-roll-name-ancestor=\"Feat\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Feat</strong>.</span> You gain one <a href=\"https://2014.5e.tools/feats.html\">feat</a> of your choice.</p></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -113,32 +113,6 @@
         "level": 0,
         "title": "",
         "hint": ""
-      },
-      {
-        "_id": "ZBXYc8UaCNiQRGDD",
-        "type": "ItemChoice",
-        "configuration": {
-          "allowDrops": true,
-          "choices": {
-            "0": {
-              "count": 1,
-              "replacement": false
-            }
-          },
-          "pool": [],
-          "spell": null,
-          "type": "feat",
-          "restriction": {
-            "type": "feat",
-            "subtype": "general"
-          }
-        },
-        "value": {
-          "added": {},
-          "replaced": {}
-        },
-        "title": "Feat",
-        "hint": ""
       }
     ],
     "identifier": "human-variant"
@@ -157,9 +131,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1741110792668,
-    "modifiedTime": 1741110792853,
+    "modifiedTime": 1741196089391,
     "lastModifiedBy": "DVvEie1GDgUIIbvV"
   },
   "sort": 100000,

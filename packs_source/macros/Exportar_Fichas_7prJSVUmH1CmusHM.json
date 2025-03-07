@@ -1,0 +1,28 @@
+{
+  "name": "Exportar Fichas",
+  "type": "script",
+  "author": "Zw9Q2ZNjr61CcpCW",
+  "img": "icons/skills/movement/arrows-up-trio-red.webp",
+  "scope": "global",
+  "command": "(async () => {\n\n  // Obtém o usuário atual\n  const user = game.user;\n\n  // Filtra os atores com permissão de Limited, Observer ou Owner para o usuário atual\n  const permittedActors = game.actors.filter(actor => \n    actor.testUserPermission(user, \"LIMITED\") ||\n    actor.testUserPermission(user, \"OBSERVER\") ||\n    actor.testUserPermission(user, \"OWNER\")\n  );\n\n  // Se nenhum ator estiver disponível para seleção, exibe uma mensagem e encerra a macro\n  if (permittedActors.length === 0) {\n    ui.notifications.warn(\"Nenhum ator disponível com permissões Limited, Observer ou Owner.\");\n    return;\n  }\n\n  // Cria a caixa de seleção permitindo selecionar múltiplos atores\n  new Dialog({\n    title: \"Selecione de 3 a 6 Atores\",\n    content: `\n      <form>\n        <div class=\"form-group\" style=\"flex-direction: column;\">\n          <label for=\"actorId\">Atores:</label>\n          <select id=\"actorId\" name=\"actorId\" multiple size=\"8\">\n            ${permittedActors.map(actor => `<option value=\"${actor.id}\">${actor.name}</option>`).join('')}\n          </select>\n          <p><small>Segure CTRL (Windows) ou CMD (Mac) para selecionar vários.</small></p>\n        </div>\n      </form>\n    `,\n    buttons: {\n      ok: {\n        icon: \"<i class='fas fa-file-archive'></i>\",\n        label: \"Exportar ZIP\",\n        callback: async (html) => {\n          // Obtém os IDs dos atores selecionados\n          const selectedIds = Array.from(html.find(\"[name='actorId'] option:selected\")).map(opt => opt.value);\n          \n          // Verifica se a quantidade de personagens está entre 3 e 6\n          if (selectedIds.length < 3 || selectedIds.length > 6) {\n            ui.notifications.error(\"Você deve selecionar entre 3 e 6 personagens.\");\n            return;\n          }\n\n          // Cria um novo arquivo ZIP\n          const zip = new JSZip();\n\n          // Para cada ator selecionado, adiciona um arquivo JSON ao ZIP\n          selectedIds.forEach(id => {\n            const actor = game.actors.get(id);\n            if (!actor) return;\n\n            // Converte os dados do ator para JSON formatado\n            const jsonData = JSON.stringify(actor.toJSON(), null, 2);\n\n            // Adiciona ao ZIP com o nome do personagem\n            zip.file(`${actor.name}.json`, jsonData);\n          });\n\n          // Gera o ZIP e cria um link para download\n          zip.generateAsync({ type: \"blob\" }).then(blob => {\n            const a = document.createElement('a');\n            a.href = URL.createObjectURL(blob);\n            a.download = \"Personagens_Exportados.zip\";\n\n            // Força o download do ZIP\n            a.click();\n\n            // Limpa o link após o download\n            URL.revokeObjectURL(a.href);\n\n            // Notificação de sucesso\n            ui.notifications.info(\"Exportação concluída! Arquivo ZIP baixado.\");\n          });\n        }\n      }\n    },\n    default: \"ok\"\n  }).render(true);\n})();",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "Zw9Q2ZNjr61CcpCW": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741272986610,
+    "modifiedTime": 1741272986610,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+  },
+  "_id": "7prJSVUmH1CmusHM",
+  "sort": 0,
+  "_key": "!macros!7prJSVUmH1CmusHM"
+}

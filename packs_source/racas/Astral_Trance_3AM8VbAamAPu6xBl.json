@@ -4,7 +4,7 @@
   "img": "icons/magic/perception/third-eye-blue-red.webp",
   "system": {
     "description": {
-      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Trance\" class=\"rd__b  rd__b--3\"><p>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious.</p><p>Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the <a href=\"https://5e.tools/book.html#PHB\">Player's Handbook</a>. You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.</p></div></div></div>",
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Astral Trance\" class=\"rd__b  rd__b--3\"><p>You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you remain conscious.</p><p>Whenever you finish this trance, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the <a href=\"https://2014.5e.tools/book.html#PHB\">Player's Handbook</a>. You mystically acquire these proficiencies by drawing them from shared elven memory and the experiences of entities on the Astral Plane, and you retain them until you finish your next long rest.</p></div></div></div>",
       "chat": ""
     },
     "source": {

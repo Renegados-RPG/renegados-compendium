@@ -50,7 +50,18 @@
       "name": "Renegados",
       "sorting": "m",
       "color": "#2b7fee",
-      "packs": ["classes", "subclasses", "classes-e-subclasses-features", "racas", "magias"]
+      "packs": [
+        "antecedentes",
+        "talentos",
+        "classes",
+        "subclasses",
+        "classes-e-subclasses-features",
+        "racas",
+        "magias",
+        "lista-de-magias",
+        "macros"
+      ],
+      "folders": []
     }
   ],
   "packs": [
@@ -92,6 +103,56 @@
       "label": "Raças",
       "path": "packs/racas",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "magias",
+      "label": "Magias",
+      "path": "packs/magias",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {
+        "dnd5e": {
+          "sorting": "m",
+          "types": ["spell"]
+        }
+      }
+    },
+    {
+      "name": "lista-de-magias",
+      "label": "Lista de Magias",
+      "path": "packs/lista-de-magias",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "antecedentes",
+      "label": "Antecedentes",
+      "path": "packs/antecedentes",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -99,11 +160,10 @@
       "system": "dnd5e"
     },
     {
-      "name": "magias",
-      "label": "Magias",
-      "path": "packs/magias",
+      "name": "talentos",
+      "label": "Talentos",
+      "path": "packs/talentos",
       "type": "Item",
-      "sorting": "m",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -130,7 +190,18 @@
     "dnd5e": {
       "sourceBooks": {
         "DRS 5.1": "SOURCE.BOOK.SRD"
-      }
+      },
+      "spellLists": [
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.WaRbxzdiT0iinxrW",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.71AC3tfFYodtTkZh",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.VTvmsQclqG6Ob1ll",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.QOFAjrGzSRwAQmF6",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.fJnE4sSMEAfZNlZy",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.qkhFM3KLrYY4WD4b",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.AU7P5SPQXG2QF4Gg",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.b3Fl2FfKw5nvzfsm",
+        "Compendium.renegados-compendium.lista-de-magias.JournalEntry.VkStF48o37RQeOxn.JournalEntryPage.mET4LCxpAu8gyQY2"
+      ]
     }
   },
   "url": "#{URL}#",

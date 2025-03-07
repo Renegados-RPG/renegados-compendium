@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a creature. The creature's <a href=\"https://5e.tools/book.html#phb,8,jumping,0\">jump distance</a> is tripled until the spell ends.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You touch a creature. The creature's <a href=\"https://2014.5e.tools/book.html#phb,8,jumping,0\">jump distance</a> is tripled until the spell ends.</p></div>",
       "chat": ""
     },
     "level": 1,

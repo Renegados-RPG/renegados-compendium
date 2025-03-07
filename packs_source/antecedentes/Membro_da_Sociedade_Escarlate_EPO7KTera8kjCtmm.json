@@ -1,0 +1,108 @@
+{
+  "folder": "K58DkaGrwFskHeWl",
+  "name": "Membro da Sociedade Escarlate",
+  "type": "background",
+  "_id": "EPO7KTera8kjCtmm",
+  "img": "icons/environment/people/charge.webp",
+  "system": {
+    "description": {
+      "value": "<h2>O Código Escarlate</h2><ol><li>Não possuirá duvidas acerca desta Sociedade e de seu Código.</li><li>Defenderá a Sociedade, seu Código e seus irmãos.</li><li>Protegerá os inocentes e as pessoas de bem com sua vida.</li><li>Defenderá o bem acima de tudo.</li><li>Não recuará diante do mal eminente.</li><li>Expurgara e subjulgara o mal.</li><li>Fara deste Código e da Sociedade Escarlate a sua jornada.</li><li>Não irá trair, em nenhuma hipótese, seus irmãos escarlate e este Código.</li><li>Será benevolente e generoso em sua jornada de vida até que sua luz se apague.</li><li>Será o defensor do bem, e nada além do bem, contra a injustiça e contra o mal.</li></ol><hr /><p></p><h2>A Criação</h2><p>Em um chuvosa noite de Verão, após mais uma dos diversos embates entre o entrépito grupo, formado pelo virtuoso Sir Petterson, o visionário Donovan Kalanthar, a silenciosa Kurama, o bravo Athos, a atrevida Leona, e o jovem e audaz Linke, contra as forças do mal, decidiram oficializar e definir um código, não só de conduta mas de vida, de um irmandade, ou melhor, de uma Sociedade que juramentaria a sua eterna luta contra o mal.</p><p>A simbologia Escarlate advinha do uso de alguns membros de rituais e manipulação do sangue para atingir o ápice de suas formas e assim nivelar a luta contra as Trevas.</p><p>O grupo, a partir daquela data, lutou e caçou seus antagonistas norteado pela filosofia de defender os inocentes e não tem misericórdia ou poupar esforços contra o mal.</p><p>Eles recrutaram, doutrinaram e espalharam seus dogmas ao mesmo tempo que destituiam as linhas de defesa de seus inimigos jurados.</p><p>O tempo passou, o grupo se desfez por tragédias particulares e, diante de um inimigo de poder imensurável, uniu forças e seus membros ainda vivos para recrutar novos membros e criar alianças para subjulgar e expulsar de uma vez por todas o mal presente nesta terra.</p><p></p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p><strong>Perícias Proficientes</strong><span class=\"bold rd__list-item-name\"><strong>:</strong></span> &amp;Reference[skill=Investigation], &amp;Reference[skill=History]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tool Proficiencies:\"><span class=\"bold rd__list-item-name\">Idiomas:</span> Infernal e Abissal</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipmento:</span> Tatuagem da Sociedade Escarlate, Cópia do Código Escarlate @item[book|phb], um livro diário, conjunto de @item[common clothes|phb], e um @item[pouch|phb] contendo 15 po</p></li></ul><div data-roll-name-ancestor=\"Feature: Military Rank\" class=\"rd__b  rd__b--2\"><h2>Característica: Irmandade Escarlate</h2><p>Você tem acesso a uma rede de operativos ou membros que podem lhe ajudar e te orientar em pesquisas e conhecimentos do oculto, bem como auxílios pontuais e informações locais. Você conhece palavras secretas e senhas para acessar casas seguras, com quarto e comida para descanso, ou ajuda de rede de membros espalhados pelo mundo para conseguir alguma informação e facilidades para o cumprimento de sua jornada atual.</p></div><p></p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Traços de Personalidade</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu sigo os dogmas e as virtudes da Sociedade Escarlate e recito o Código Escarlate.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu não poupo nenhum inimigo e tento expurgar as criaturas das trevas a todo o custo.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu creio a todo instante que o inimigo está a espreita e nos observando.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Nada detém um membro da Sociedade Escarlate, nem mesmo a morte.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu abomino todas as forças do mal e não há o mínimo de convivência.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu me dediquei tanto a minha jornada, que não sei conviver mais em sociedade.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu não me importo com o que acontece ao meu redor, desde que eu cumpra minha missão.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Farei de tudo para destruir o inimigo, custe o que custar.</span></td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Ideal</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Tradição: O Código Escarlate e seus mandamentos devem ser protegidos. (Leal)</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Salvação: Eu sempre prezo pela vida de inocentes. (Bom)</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Missão: Não há nada mais importante que expurgar o mal deste mundo. (Leal)</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Poder: Só se combate o mal, com Poder. (Qualquer)</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Esperança: Não há nada a temer, no fim o bem sempre vencerá. (Bom)</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Vingança: Eu não descansarei até que o mal seja destruído. (Qualquer)</span></td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Vínculo</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu devo proteger a Sociedade Escarlate, pois ela é minha família.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu morreria para derrotar o mal.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu devo minha vida ao meus irmãos escarlates e irei pagar essa dívida.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu devo proteger os inocentes, pois eles são o futuro.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Tudo o que eu faço é pelo bem e para o bem.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Algum dia irei conseguir redenção por meus pecados.</span></td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Defeito</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu confio cegamente na Sociedade Escarlate e no Código Escarlate.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu não lido bem com emoções, elas me tornam fraco.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Os meios justificam o fim.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Quando eu vejo o mal, eu não consigo me controlar.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Sou extremamente autoexigente, sempre buscando a perfeição em minhas ações e ficando frustrado com qualquer falha.</span></td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \"><span style=\"font-family:ScalySansRemake\">Eu julgo as pessoas muito duramente, as vezes até à mim mesmo.</span></td></tr></tbody></table>",
+      "chat": ""
+    },
+    "identifier": "membro-da-sociedade-escarlate",
+    "source": {
+      "revision": 1,
+      "rules": "2014"
+    },
+    "startingEquipment": [],
+    "advancement": [
+      {
+        "_id": "QOSL4UYTPBMxIXnq",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:his", "skills:inv"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "M25LyrMAqYZjhwGD",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["languages:exotic:abyssal", "languages:exotic:infernal"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "jIaaDXtoHpCJbq32",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.tK1wmA4Oed3AJ4s1",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.eAs1nRIiKuRtM55f",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.Q9uYqvJWAasFxRNi",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.8RXjiddJ6VGyE7vB",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.tqJdK1P1YXQqTW1w",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.NHw4Cg7NJtM2H2BK",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ],
+    "wealth": ""
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741383661895,
+    "modifiedTime": 1741384670419,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!items!EPO7KTera8kjCtmm"
+}

@@ -1,0 +1,155 @@
+{
+  "_id": "7oNoAJnWVhXSpuGZ",
+  "name": "Haunted One",
+  "type": "background",
+  "system": {
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>You are haunted by something so terrible that you dare not speak of it. You've tried to bury it and run away from it, to no avail. Whatever this thing is that haunts you can't be slain with a sword or banished with a spell. It might come to you as a shadow on the wall, a bloodcurdling nightmare, a memory that refuses to die, or a demonic whisper in the dark. The burden has taken its toll, isolating you from most people and making you question your sanity. You must find a way to overcome it before it destroys you.</p></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Skill Proficiencies:\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> Choose two from among &amp;Reference[skill=Arcana], &amp;Reference[skill=Investigation], &amp;Reference[skill=Religion], or &amp;Reference[skill=Survival]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Languages:\"><span class=\"bold rd__list-item-name\">Languages:</span> Choose two, one of which must be @language[Abyssal], @language[Celestial], @language[Deep Speech], @language[Draconic], @language[Infernal], @language[Primordial], @language[Sylvan], or @language[Undercommon]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Equipment:\"><span class=\"bold rd__list-item-name\">Equipment:</span> @item[Monster hunter's pack|vrgr] (containing a @item[chest|PHB], a @item[crowbar|PHB], a @item[hammer|PHB], three wooden stakes, a @item[holy symbol|PHB], a @item[Holy Water (flask)|PHB|flask of holy water], a @item[Manacles|PHB|set of manacles], a @item[steel mirror|PHB], a @item[Oil (flask)|PHB|flask of oil], a @item[tinderbox|PHB], and 3 @item[Torch|PHB|torches]), a set of @item[common clothes|phb], one @item[trinket|CoS] of special significance (choose one or roll on the @item[Horror Trinket|VRGR|Horror Trinkets] table), and 1 sp</p></li></ul><div data-roll-name-ancestor=\"Feature: Heart of Darkness\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Feature: Heart of Darkness</span></h3><p>Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone.</p></div><div data-roll-name-ancestor=\"Harrowing Event\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Harrowing Event</span></h3><p>Prior to becoming an adventurer, your path in life was defined by one dark moment, one fateful decision, or one tragedy. Now you feel a darkness threatening to consume you, and you fear there may be no hope of escape. Choose a harrowing event that haunts you, or roll one on the Harrowing Events table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Harrowing Event\"><caption>Harrowing Event</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d10]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Event</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">A monster that slaughtered dozens of innocent people spared your life, and you don't know why.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">You were born under a dark star. You can feel it watching you, coldly and distantly. Sometimes it beckons you in the dead of night.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">An apparition that has haunted your family for generations now haunts you. You don't know what it wants, and it won't leave you alone.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you fled in terror.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">An oni took your sibling one cold, dark night, and you were unable to stop it.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">You were cursed with lycanthropy and later cured. You are now haunted by the innocents you slaughtered.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-11 \">A hag kidnapped and raised you. You escaped, but the hag still has a magical hold over you and fills your mind with evil thoughts.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-11 \">You opened an eldritch tome and saw things unfit for a sane mind. You burned the book, but its words and images are burned into your psyche.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"rd__th ve-col-11 \">A fiend possessed you as a child. You were locked away but escaped. The fiend is still inside you, but now you try to keep it bottled up.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"rd__th ve-col-11 \">You did terrible things to avenge the murder of someone you loved. You became a monster, and it haunts your waking dreams.</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Horror Characteristics\" class=\"rd__b  rd__b--0\"><h1 class=\"rd__h rd__h--0\" data-title-index=\"3\"><span class=\"entry-title-inner\">Horror Characteristics</span></h1><p>Characters in a horror-focused campaign might have distinct motivations and characteristics. Use the following tables to supplement your background's suggested characteristics or to inspire those of your own design.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Horror Character Personality Traits\"><caption>Horror Character Personality Traits</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d12]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Personality Trait</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">I had an encounter that I believe gives me a special affinity with a supernatural creature or event.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">A signature piece of clothing or distinct weapon serves as an emblem of who I am.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">I never accept that I'm out of my depth.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">I must know the answer to every secret. No door remains unopened in my presence.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">I let people underestimate me, revealing my full competency only to those close to me.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">I compulsively seek to collect trophies of my travels and victories.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">It doesn't matter if the whole world's against me. I'll always do what I think is right.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">I have morbid interests and a macabre aesthetic.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"rd__th ve-col-10 \">I have a personal ritual, mantra, or relaxation method I use to deal with stress.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"rd__th ve-col-10 \">Nothing is more important than life, and I never leave anyone in danger.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"11\" data-roll-max=\"11\">11</td><td class=\"rd__th ve-col-10 \">I'm quick to jump to extreme solutions. Why risk a lesser option not working?</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"12\" data-roll-max=\"12\">12</td><td class=\"rd__th ve-col-10 \">I'm easily startled, but I'm not a coward.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Horror Character Ideals\"><caption>Horror Character Ideals</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d12]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Ideal</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Adrenaline. I've experienced such strangeness that now I feel alive only in extreme situations.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Balance. I strive to counter the deeds of someone for whom I feel responsible.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Bound. I've wronged someone and must work their will to avoid their curse.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Escape. I believe there is something beyond the world I know, and I need to find it.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Legacy. I must do something great so that I'm remembered, and my time is running out.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Misdirection. I work vigorously to keep others from realizing my flaws or misdeeds.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">Obsession. I've lived this way for so long that I can't imagine another way.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">Obligation. I owe it to my people, faith, family, or teacher to continue a vaunted legacy.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"rd__th ve-col-10 \">Promise. My life is no longer my own. I must fulfill the dream of someone who's gone.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"rd__th ve-col-10 \">Revelation. I need to know what lies beyond the mysteries of death, the world, or the Mists.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"11\" data-roll-max=\"11\">11</td><td class=\"rd__th ve-col-10 \">Sanctuary. I know the forces at work in the world and strive to create islands apart from them.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"12\" data-roll-max=\"12\">12</td><td class=\"rd__th ve-col-10 \">Truth. I care about the truth above all else, even if it doesn't benefit anyone.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Horror Character Bonds\"><caption>Horror Character Bonds</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d12]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Bond</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">I desperately need to get back to someone or someplace, but I lost them in the Mists.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Everything I do is in the service of a powerful master, one I must keep a secret from everyone.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">I owe much to my vanished mentor. I seek to continue their work even as I search to find them.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">I've seen great darkness, and I'm committed to being a light against it—the light of all lights.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Someone I love has become a monster, murderer, or other threat. It's up to me to redeem them.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">The world has been convinced of a terrible lie. It's up to me to reveal the truth.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">I deeply miss someone and am quick to adopt people who remind me of them.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">A great evil dwells within me. I will fight against it and the world's other evils for as long as I can.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"rd__th ve-col-10 \">I'm desperately seeking a cure to an affliction or a curse, either for someone close to me for myself.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"rd__th ve-col-10 \">Spirits are drawn to me. I do all I can to help them find peace.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"11\" data-roll-max=\"11\">11</td><td class=\"rd__th ve-col-10 \">I use my cunning mind to solve mysteries and find justice for those who've been wronged.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"12\" data-roll-max=\"12\">12</td><td class=\"rd__th ve-col-10 \">I lost someone I care about, but I still see them in guilty visions, recurring dreams, or as a spirit.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Horror Character Flaws\"><caption>Horror Character Flaws</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d12]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Flaw</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">I believe doom follows me and that anyone who gets close to me will face a tragic end.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">I'm convinced something is after me, appearing in mirrors, dreams, and places where no one could.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">I'm especially superstitious and live life seeking to avoid bad luck, wicked spirits, or the Mists.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">I've done unspeakable evil and will do anything to prevent others from finding out.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">I am exceptionally credulous and believe any story or legend immediately.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">I'm a skeptic and don't believe in the power of rituals, religion, superstition, or spirits.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">I know my future is written and that anything I do will lead to a prophesied end.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">I need to find the best in everyone and everything, even when that means denying obvious malice.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"rd__th ve-col-10 \">I've seen the evil of a type of place—like forests, cities, or graveyards—and resist going there.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"rd__th ve-col-10 \">I'm exceptionally cautious, planning laboriously and devising countless contingencies.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"11\" data-roll-max=\"11\">11</td><td class=\"rd__th ve-col-10 \">I have a reputation for defeating a great evil, but that's a lie and the wicked force knows.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"12\" data-roll-max=\"12\">12</td><td class=\"rd__th ve-col-10 \">I know the ends always justify the means and am quick to make sacrifices to attain my goals.</td></tr></tbody></table></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "advancement": [
+      {
+        "_id": "tM4GWjCGJKKuH2DW",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:arc", "skills:inv", "skills:rel", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "bVO4bSO1Sd6Fx2c6",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": [
+                "languages:exotic:abyssal",
+                "languages:exotic:celestial",
+                "languages:exotic:deep",
+                "languages:exotic:draconic",
+                "languages:exotic:infernal",
+                "languages:exotic:primordial",
+                "languages:exotic:sylvan",
+                "languages:exotic:undercommon"
+              ]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "C5lAamLNoxqEiu6z",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "6oxGRgxXDwNRefBV",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.GMq58Kx25jLWRVmM",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.items.Item.8RXjiddJ6VGyE7vB",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.g0hzkOEH4aBhNvGf",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.PmuWxhDRWHChTOKe",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.antecedentes.Item.eYekL2c4YOTBIAMV",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0
+      }
+    ],
+    "identifier": "haunted-one",
+    "startingEquipment": [],
+    "wealth": ""
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "plutonium": {
+      "page": "backgrounds.html",
+      "source": "VRGR",
+      "hash": "haunted%20one_vrgr",
+      "propDroppable": "background"
+    }
+  },
+  "effects": [],
+  "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+  "folder": "op2ff8Z4ipgoRu9J",
+  "_stats": {
+    "compendiumSource": "Item.J5fr9D4CPKGS1hpS",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741380532146,
+    "modifiedTime": 1741380532215,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!7oNoAJnWVhXSpuGZ"
+}
