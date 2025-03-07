@@ -39,7 +39,8 @@
         "activation": {
           "type": "bonus",
           "value": 1,
-          "override": false
+          "override": false,
+          "condition": ""
         },
         "consumption": {
           "scaling": {
@@ -48,43 +49,58 @@
           "spellSlot": true,
           "targets": [
             {
-              "target": "",
-              "value": "1",
               "type": "itemUses",
-              "scaling": {}
+              "value": "1",
+              "target": ""
             }
           ]
         },
-        "description": {},
+        "description": {
+          "chatFlavor": ""
+        },
         "duration": {
           "units": "inst",
           "concentration": false,
           "override": false
         },
-        "effects": [],
+        "effects": [
+          {
+            "_id": "TzdeFrPIvcu2PcH6"
+          }
+        ],
         "range": {
-          "override": false
+          "override": false,
+          "units": "self",
+          "special": ""
         },
         "target": {
           "template": {
             "contiguous": false,
-            "units": "m"
+            "units": "m",
+            "type": ""
           },
           "affects": {
-            "choice": false
+            "choice": false,
+            "type": ""
           },
           "override": false,
           "prompt": true
         },
         "uses": {
           "spent": 0,
-          "recovery": []
+          "recovery": [],
+          "max": ""
         },
         "roll": {
           "prompt": false,
-          "visible": false
+          "visible": false,
+          "name": "",
+          "formula": ""
         },
-        "sort": 0
+        "sort": 0,
+        "name": "",
+        "img": "",
+        "appliedEffects": ["TzdeFrPIvcu2PcH6"]
       }
     },
     "identifier": "elemental-gift",
@@ -101,18 +117,75 @@
     "Zw9Q2ZNjr61CcpCW": 3
   },
   "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
-  "flags": {},
-  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Elemental Gift",
+      "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Jo0Kn03VSstjitvO",
+      "_id": "TzdeFrPIvcu2PcH6",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.movement.fly",
+          "mode": 5,
+          "value": "9",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": 600,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": 1741320879121,
+        "modifiedTime": 1741321005164,
+        "lastModifiedBy": "ox2bho65epIfC0E1"
+      },
+      "_key": "!items.effects!Jo0Kn03VSstjitvO.TzdeFrPIvcu2PcH6"
+    }
+  ],
   "folder": "d8cYH53qAKtFUuA3",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740796152369,
-    "modifiedTime": 1740796152369,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741320962580,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,
   "_key": "!items!Jo0Kn03VSstjitvO"

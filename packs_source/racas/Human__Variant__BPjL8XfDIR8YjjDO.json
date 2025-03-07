@@ -113,32 +113,6 @@
         "level": 0,
         "title": "",
         "hint": ""
-      },
-      {
-        "_id": "ZBXYc8UaCNiQRGDD",
-        "type": "ItemChoice",
-        "configuration": {
-          "allowDrops": true,
-          "choices": {
-            "0": {
-              "count": 1,
-              "replacement": false
-            }
-          },
-          "pool": [],
-          "spell": null,
-          "type": "feat",
-          "restriction": {
-            "type": "feat",
-            "subtype": "general"
-          }
-        },
-        "value": {
-          "added": {},
-          "replaced": {}
-        },
-        "title": "Feat",
-        "hint": ""
       }
     ],
     "identifier": "human-variant"
@@ -157,9 +131,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1741110792668,
-    "modifiedTime": 1741110792853,
+    "modifiedTime": 1741196089391,
     "lastModifiedBy": "DVvEie1GDgUIIbvV"
   },
   "sort": 100000,

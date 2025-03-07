@@ -1,0 +1,22 @@
+{
+  "name": "Charlatan",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "oYoVHwKxEbY6dERc",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741275071292,
+    "modifiedTime": 1741275071292,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!folders!oYoVHwKxEbY6dERc"
+}

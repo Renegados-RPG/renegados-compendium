@@ -17,7 +17,7 @@
     },
     "level": 2,
     "school": "div",
-    "properties": ["somatic", "ritual", "concentration"],
+    "properties": ["somatic", "concentration", "ritual"],
     "materials": {
       "value": "",
       "consumed": false,
@@ -43,7 +43,8 @@
     },
     "range": {
       "value": "0",
-      "units": "touch"
+      "units": "touch",
+      "special": ""
     },
     "activation": {
       "type": "action",
@@ -123,10 +124,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740609587365,
-    "modifiedTime": 1740609587365,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741215903290,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
   },
   "sort": 0,
   "ownership": {

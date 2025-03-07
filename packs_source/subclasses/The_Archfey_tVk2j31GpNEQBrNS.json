@@ -1,0 +1,126 @@
+{
+  "_id": "tVk2j31GpNEQBrNS",
+  "name": "The Archfey",
+  "type": "subclass",
+  "system": {
+    "identifier": "the-archfey",
+    "classIdentifier": "warlock",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p>Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.</p><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Expanded Spell List</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Archfey Expanded Spells\"><caption>Archfey Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#faerie%20fire_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"faerie%20fire_phb\" data-vet-is-allow-redirect=\"true\">faerie fire</a>, <a href=\"https://5e.tools/spells.html#sleep_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"sleep_phb\" data-vet-is-allow-redirect=\"true\">sleep</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#calm%20emotions_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"calm%20emotions_phb\" data-vet-is-allow-redirect=\"true\">calm emotions</a>, <a href=\"https://5e.tools/spells.html#phantasmal%20force_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"phantasmal%20force_phb\" data-vet-is-allow-redirect=\"true\">phantasmal force</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#blink_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"blink_phb\" data-vet-is-allow-redirect=\"true\">blink</a>, <a href=\"https://5e.tools/spells.html#plant%20growth_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"plant%20growth_phb\" data-vet-is-allow-redirect=\"true\">plant growth</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#dominate%20beast_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dominate%20beast_phb\" data-vet-is-allow-redirect=\"true\">dominate beast</a>, <a href=\"https://5e.tools/spells.html#greater%20invisibility_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"greater%20invisibility_phb\" data-vet-is-allow-redirect=\"true\">greater invisibility</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#dominate%20person_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dominate%20person_phb\" data-vet-is-allow-redirect=\"true\">dominate person</a>, <a href=\"https://5e.tools/spells.html#seeming_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"seeming_phb\" data-vet-is-allow-redirect=\"true\">seeming</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Fey Presence\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Fey Presence</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 108\">p108</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all <a href=\"https://5e.tools/conditionsdiseases.html#charmed_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"charmed_phb\" data-vet-is-allow-redirect=\"true\">charmed</a> or <a href=\"https://5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a> by you (your choice) until the end of your next turn.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"The Archfey\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p108\">The Archfey</span></h2><p>Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.</p><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner\">Expanded Spell List</span></h3><p>The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Archfey Expanded Spells\"><caption>Archfey Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.onHEQLH7lIubheYx], @UUID[Compendium.renegados-compendium.magias.Item.xiVu2QFfxIV6ivaY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.13AJZIr8PtxCMl1g], @UUID[Compendium.renegados-compendium.magias.Item.UgCVyp9tdt67xmfk]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.LRaDFfe72lP855pY], @UUID[Compendium.renegados-compendium.magias.Item.RsbFt4DzKfv2NwaM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.c4OvYSD1nGBpwS7c], @UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.3WZ3Tq2PoYmP6m7R], @UUID[Compendium.renegados-compendium.magias.Item.ogrGfpDCLyrP21po]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 1: Fey Presence\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p108\">Level 1: Fey Presence</span></h3><p>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened] by you (your choice) until the end of your next turn.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Misty Escape\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p108\">Level 6: Misty Escape</span></h3><p>Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn &amp;Reference[condition=invisible] and teleport up to 60 feet to an unoccupied space you can see. You remain &amp;Reference[condition=invisible] until the start of your next turn or until you attack or cast a spell.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Beguiling Defenses\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p108\">Level 10: Beguiling Defenses</span></h3><p>Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being &amp;Reference[condition=charmed], and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be &amp;Reference[condition=charmed] by you for 1 minute or until the creature takes any damage.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Dark Delirium\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p108\">Level 14: Dark Delirium</span></h3><p>Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened] by you (your choice) for 1 minute or until your @status[concentration] is broken (as if you are @status[concentration||concentrating] on a spell). This effect ends early if the creature takes any damage.</p><p>Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.</p><p>You must finish a short or long rest before you can use this feature again.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "108",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "u9s4RjmV1GpHcmZQ",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.KGgtvZkVo5zbOQN7",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1EK37DDfTY5ExVOv",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.LLJozlXfaQY2qIi3",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "3xPsmLZV5z5pYycu"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.rTTyUMSqke8zWogN",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": "",
+        "_id": "ppDDvIthkIm7reDb"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XQjsmQF7sgUo5Qk3",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "GHiMjd2Aa6uzj8qM"
+      }
+    ]
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
+  "folder": "WDf8ZSifIslQaVyU",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741317898549,
+    "modifiedTime": 1741318096619,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!tVk2j31GpNEQBrNS"
+}

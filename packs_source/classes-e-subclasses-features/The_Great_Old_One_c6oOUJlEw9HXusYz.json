@@ -41,7 +41,7 @@
     "default": 0,
     "Zw9Q2ZNjr61CcpCW": 3
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/lightning/bolt-strike-explosion-yellow.webp",
   "flags": {},
   "effects": [],
   "folder": "Q5jpGGNGIUddRcsU",
@@ -52,8 +52,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.3",
     "createdTime": 1740796152369,
-    "modifiedTime": 1740796152369,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741321119156,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,
   "_key": "!items!c6oOUJlEw9HXusYz"

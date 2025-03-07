@@ -43,7 +43,57 @@
   },
   "img": "icons/magic/water/water-hand.webp",
   "flags": {},
-  "effects": [],
+  "effects": [
+    {
+      "name": "Gift of the Sea",
+      "img": "icons/magic/water/water-hand.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.m0T1poO5TEovhb5i",
+      "_id": "zipVYc1rFLuuLdwT",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.movement.swim",
+          "mode": 5,
+          "value": "12",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": 1741318530650,
+        "modifiedTime": 1741318563320,
+        "lastModifiedBy": "ox2bho65epIfC0E1"
+      },
+      "_key": "!items.effects!m0T1poO5TEovhb5i.zipVYc1rFLuuLdwT"
+    }
+  ],
   "folder": "54Sz0cgAezIzhMvm",
   "_stats": {
     "compendiumSource": null,

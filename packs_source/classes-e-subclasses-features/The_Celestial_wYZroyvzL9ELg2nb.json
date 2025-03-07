@@ -102,7 +102,7 @@
     "default": 0,
     "Zw9Q2ZNjr61CcpCW": 3
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
   "flags": {},
   "effects": [],
   "folder": "A7YnaOsxfqmRob27",
@@ -113,8 +113,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.3",
     "createdTime": 1740796152369,
-    "modifiedTime": 1740796152369,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741318239095,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,
   "_key": "!items!wYZroyvzL9ELg2nb"

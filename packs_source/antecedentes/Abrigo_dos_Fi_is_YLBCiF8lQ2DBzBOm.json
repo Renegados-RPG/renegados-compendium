@@ -1,0 +1,66 @@
+{
+  "name": "Abrigo dos Fiéis",
+  "type": "feat",
+  "img": "icons/environment/settlement/gazebo.webp",
+  "system": {
+    "description": {
+      "value": "<p>Como um acólito, você comanda o respeito daqueles que compartilham sua fé, e você pode realizar as cerimônias religiosas de sua divindade. Você e seus companheiros aventureiros podem receber cura e cuidados gratuitos em um templo, santuário ou outra presença estabelecida de sua fé, embora você deva fornecer quaisquer componentes materiais necessários para magias. Aqueles que compartilham sua religião irão apoiá-lo (mas somente você) em um estilo de vida modesto.</p>\n<p>Você também pode ter laços com um templo específico dedicado à sua divindade ou panteão escolhido, e você tem uma residência lá. Este pode ser o templo onde você costumava servir, se você permanecer em bons termos com ele, ou um templo onde você encontrou um novo lar. Enquanto estiver perto do seu templo, você pode chamar os sacerdotes para assistência, desde que a assistência que você pedir não seja perigosa e você permaneça em boas condições com seu templo.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "61",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "requirements": "Acolyte",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "shelter-of-the-faithful",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "effects": [],
+  "folder": "L3Deq3VBLexZ1iVO",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Shelter of the Faithful"
+    }
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.backgrounds.Item.64N1NWh9kC1dI7zN",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741273252527,
+    "modifiedTime": 1741273252570,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "YLBCiF8lQ2DBzBOm",
+  "sort": 200000,
+  "_key": "!items!YLBCiF8lQ2DBzBOm"
+}

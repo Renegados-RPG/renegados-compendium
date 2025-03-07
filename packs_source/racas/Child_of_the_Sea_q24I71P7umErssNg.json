@@ -17,7 +17,11 @@
     "identifier": "child-of-the-sea",
     "source": {
       "revision": 1,
-      "rules": "2014"
+      "rules": "2014",
+      "book": "",
+      "page": "",
+      "custom": "",
+      "license": ""
     },
     "advancement": [],
     "cover": null,
@@ -99,8 +103,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741177018049,
-    "modifiedTime": 1741177018247,
-    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+    "modifiedTime": 1741195787297,
+    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "_key": "!items!q24I71P7umErssNg"
 }

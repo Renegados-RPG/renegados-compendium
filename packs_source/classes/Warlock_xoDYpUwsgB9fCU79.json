@@ -25,7 +25,9 @@
     "spellcasting": {
       "progression": "pact",
       "ability": "cha",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      }
     },
     "primaryAbility": {
       "value": ["cha"],
@@ -864,8 +866,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1740795897220,
-    "modifiedTime": 1741151613935,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741317872464,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 12500,
   "_key": "!items!xoDYpUwsgB9fCU79"
