@@ -611,7 +611,7 @@
     },
     "Fey Ancestry": {
       "name": "Ancestralidade Feérica",
-      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p>Você tem vantagem em testes de salvaguarda que você faz para evitar ou acabar com a condição de &amp;Reference[condition=encantado] em si mesmo.</p></div></div></div>"
+      "description": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Fey Ancestry\" class=\"rd__b  rd__b--3\"><p>Você tem vantagem em testes de salvaguarda que você faz para evitar ou acabar com a condição de &amp;Reference[condition=charmed] em si mesmo.</p></div></div></div>"
     },
     "fJBX0ZWNvpNDRE3A": {
       "name": "Ancestralidade Feérica",
@@ -646,11 +646,11 @@
       "activities": {
         "Autumn": {
           "name": "Outono",
-          "chatFlavor": "Imediatamente após você usar seu Passado de Eita, até duas criaturas de sua escolha que você pode ver dentro de 10 pés de você devem ter sucesso em um lançamento de sabedoria ou ser &Referência[Condi=charmed] por você por 1 minuto, ou até que você ou seus companheiros causem danos às criaturas."
+          "chatFlavor": "Imediatamente após você usar seu Passado de Eita, até duas criaturas de sua escolha que você pode ver dentro de 10 pés de você devem ter sucesso em um lançamento de sabedoria ou ser &Reference[condition=charmed] por você por 1 minuto, ou até que você ou seus companheiros causem danos às criaturas."
         },
         "Winter": {
           "name": "Inverno",
-          "chatFlavor": "Quando você usa seu Passado de El, uma criatura de sua escolha que você pode ver dentro de 5 pés de você antes de se teleportar deve ter sucesso em um lançamento de sabedoria ou ser &Referência[condi=assustado] de você até o final de seu próximo turno."
+          "chatFlavor": "Quando você usa seu Passado de El, uma criatura de sua escolha que você pode ver dentro de 5 pés de você antes de se teleportar deve ter sucesso em um lançamento de sabedoria ou ser &Reference[condition=frightened] de você até o final de seu próximo turno."
         },
         "Spring": {
           "name": "Primavera",
@@ -786,7 +786,7 @@
         },
         "Githyanki Psionics": {
           "title": "Psiônicos Githyanki",
-          "hint": "Você sabe que o @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] pode trocar, e a mão é &Referência[Condicional[invisível] quando você usa a canção para esta característica."
+          "hint": "Você sabe que o @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] pode trocar, e a mão é &Reference[condition=invisible] quando você usa a canção para esta característica."
         },
         "b7sd8SqlEOrdZCDA": {
           "title": "Psiônicos Githyanki"
