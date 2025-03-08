@@ -1473,7 +1473,7 @@
     },
     "Warning": {
       "MissingAttribute": "Atributo {attribute} configurado para ser consumido pela atividade {activity} em {item} não pôde ser encontrado.",
-      "MissingHitDice": "O ator não possui uma classe com um dado de vida de {denomination}.",
+      "MissingHitDice": "O personagem não possui uma classe com um dado de vida de {denomination}.",
       "MissingItem": "Item configurado para ser consumido pela atividade {activity} em {item} não pôde ser encontrado.",
       "MissingSpellSlot": "Sem espaços de {level} disponíveis.",
       "None": "Sem {type} disponível para ser gasto, é necessário {cost}.",
@@ -1723,12 +1723,12 @@
   "DND5E.Die": "Dado",
   "DND5E.Dimensions": "Dimensões",
   "DND5E.Disadvantage": "Desvantagem",
-  "DND5E.Discord": "Discórdia",
+  "DND5E.Discord": "Discord",
   "DND5E.Disclaimer": "Aviso Legal",
   "DND5E.DisplayCard": "Exibir no Chat",
   "DND5E.DistAny": "Qualquer",
   "DND5E.DistFt": "Pés",
-  "DND5E.DistFtAbbr": "m",
+  "DND5E.DistFtAbbr": "ft",
   "DND5E.DistKm": "Quilômetros",
   "DND5E.DistKmAbbr": "km",
   "DND5E.DistM": "Metros",
@@ -1910,7 +1910,7 @@
       "ShortRest": "Descanso Curto"
     },
     "Warning": {
-      "NotOnActor": "Encantamentos só podem ser adicionados a itens, não diretamente aos atores.",
+      "NotOnActor": "Encantamentos só podem ser adicionados a itens, não diretamente aos personagens.",
       "Override": "Esse valor está sendo modificado por um Encantamento e não pode ser editado. Desabilite o efeito para editá-lo."
     }
   },
@@ -2371,7 +2371,7 @@
   "DND5E.FlagsDiamondSoulHint": "Ganhe proficiência em todos os testes de salvaguarda.",
   "DND5E.FlagsPowerfulBuild": "Construção Poderosa",
   "DND5E.FlagsPowerfulBuildHint": "Fornece maior capacidade de carga.",
-  "DND5E.FlagsElvenAccuracy": "Precisão Elfa",
+  "DND5E.FlagsElvenAccuracy": "Precisão Élfica",
   "DND5E.FlagsElvenAccuracyHint": "Role um d20 extra com vantagem para Des, Int, Sab ou Car.",
   "DND5E.FlagsHalflingLucky": "Sorte de Halfling",
   "DND5E.FlagsHalflingLuckyHint": "Re-rolar uns ao rolar testes de d20.",
@@ -3434,7 +3434,7 @@
         },
         "hd": {
           "label": "Dado de Vida Bônus",
-          "hint": "Dados de vida adicionais adicionados à criatura além da fórmula de PV em seus blocos de estatísticas. Só pode ser usado quando invocar atores NPC."
+          "hint": "Dados de vida adicionais adicionados à criatura além da fórmula de PV em seus blocos de estatísticas. Só pode ser usado quando invocar NPC's."
         },
         "healing": {
           "label": "Bônus de Cura",
@@ -3588,7 +3588,7 @@
             "hint": "Ao selecionar uma área, o usuário pode escolher quem ela afeta?"
           },
           "count": {
-            "label": "Qtd. de Alvos",
+            "label": "Quantidade de Alvos",
             "hint": "Número de alvos individuais que podem ser afetados."
           },
           "special": {
@@ -3615,7 +3615,7 @@
             "hint": "Todas as áreas criadas devem estar conectadas umas às outras?"
           },
           "count": {
-            "label": "Qtd. de Áreas",
+            "label": "Quantidade de Áreas",
             "hint": "Número de áreas distintas que podem ser alvo."
           },
           "height": {
@@ -3976,7 +3976,7 @@
       "Round": {
         "Label": "Rodada",
         "Counted": {
-          "narrow": "{number}º",
+          "narrow": "{number}r",
           "one": "{number} rodada",
           "other": "{number} rodadas"
         }
@@ -4254,76 +4254,76 @@
   "DND5E.VehicleCreatureCapacity": "Capacidade da Criatura",
   "DND5E.VehicleCrew": "Tripulação",
   "DND5E.VehicleCrewPassengers": "Tripulação e Passageiros",
-  "DND5E.VehicleCrewed": "Crewed",
-  "DND5E.VehicleCrewAction": "Crew Action",
-  "DND5E.VehicleEquipment": "Vehicle Equipment",
-  "DND5E.VehicleMishap": "Mishap",
-  "DND5E.VehicleMishapThreshold": "Mishap Threshold",
-  "DND5E.VehiclePassengers": "Passengers",
-  "DND5E.VehiclePassengerName": "Passenger Name or Type",
-  "DND5E.VehiclePassengerQuantity": "Passenger Quantity",
-  "DND5E.VehicleType": "Vehicle Type",
-  "DND5E.VehicleTypeAir": "Air Vehicle",
-  "DND5E.VehicleTypeLand": "Land Vehicle",
-  "DND5E.VehicleTypeSpace": "Space Vehicle",
-  "DND5E.VehicleTypeWater": "Water Vehicle",
-  "DND5E.VehicleUncrewed": "Uncrewed",
-  "DND5E.Versatile": "Versatile",
-  "DND5E.VersatileDamage": "Versatile Damage",
-  "DND5E.VsDC": "vs DC.",
-  "DND5E.Vulnerabilities": "Vulnerabilities",
-  "DND5E.WarnBadACFormula": "The provided AC formula \"{formula}\" could not be evaluated.",
-  "DND5E.WarnCantAddMultipleAdvancements": "It is not currently possible to add multiple items with advancements to an actor at the same time. Please add them individually.",
-  "DND5E.WarnMultipleArmor": "More than one suit of armor equipped, AC calculation may be incorrect.",
-  "DND5E.WarnMultipleShields": "More than one shield equipped, AC calculation may be incorrect.",
+  "DND5E.VehicleCrewed": "Tripulado",
+  "DND5E.VehicleCrewAction": "Ação de Tripulação",
+  "DND5E.VehicleEquipment": "Equipamento de Veículo",
+  "DND5E.VehicleMishap": "Acidente",
+  "DND5E.VehicleMishapThreshold": "Limiar de Acidente",
+  "DND5E.VehiclePassengers": "Passageiros",
+  "DND5E.VehiclePassengerName": "Nome ou Tipo de Passageiro",
+  "DND5E.VehiclePassengerQuantity": "Quantidade de Passageiros",
+  "DND5E.VehicleType": "Tipo de Veículo",
+  "DND5E.VehicleTypeAir": "Veículo Aéreo",
+  "DND5E.VehicleTypeLand": "Veículo Terrestre",
+  "DND5E.VehicleTypeSpace": "Veículo Espacial",
+  "DND5E.VehicleTypeWater": "Veículo Aquático",
+  "DND5E.VehicleUncrewed": "Sem Tripulação",
+  "DND5E.Versatile": "Versátil",
+  "DND5E.VersatileDamage": "Dano Versátil",
+  "DND5E.VsDC": "vs CD.",
+  "DND5E.Vulnerabilities": "Vulnerabilidades",
+  "DND5E.WarnBadACFormula": "A fórmula de CA \"{formula}\" fornecida não pôde ser avaliada.",
+  "DND5E.WarnCantAddMultipleAdvancements": "No momento não é possível adicionar vários itens com avanços a um personagem ao mesmo tempo. Por favor, adicione-os individualmente.",
+  "DND5E.WarnMultipleArmor": "Mais de um traje de armadura equipada, cálculo CA pode estar incorreto.",
+  "DND5E.WarnMultipleShields": "Mais de um escudo equipado, cálculo CA pode estar incorreto.",
   "DND5E.WEAPON": {
     "FIELDS": {
       "ammunition": {
         "type": {
-          "label": "Ammunition Type"
+          "label": "Tipo de Munição"
         }
       },
       "armor": {
         "value": {
-          "label": "Armor Class"
+          "label": "Classe de Armadura"
         }
       },
       "damage": {
-        "hint": "Intrinsic damage dice from the weapon. Ability modifier and additional damage parts will be provided automatically when attacking."
+        "hint": "Dado intrínseco de dano da arma. O modificador de atributo e as partes adicionais de dano serão fornecidos automaticamente ao realizar o ataque."
       },
       "mastery": {
-        "label": "Mastery",
-        "hint": "Special weapon ability unlocked for characters who have Weapon Mastery or a related feature."
+        "label": "Maestria",
+        "hint": "Habilidade especial de arma desbloqueada para personagens que possuem a Maestria em Armas ou uma característica relacionada."
       }
     },
     "Mastery": {
-      "Label": "Weapon Mastery",
-      "Flavor": "Mastery",
-      "Cleave": "Cleave",
-      "Graze": "Graze",
-      "Nick": "Nick",
-      "Push": "Push",
-      "Sap": "Sap",
-      "Slow": "Slow",
-      "Topple": "Topple",
+      "Label": "Maestria com Arma",
+      "Flavor": "Maestria",
+      "Cleave": "Trespassar",
+      "Graze": "Arranhão",
+      "Nick": "Apelido",
+      "Push": "Empurrar",
+      "Sap": "Seiva",
+      "Slow": "Lentidão",
+      "Topple": "Derrubar",
       "Vex": "Vex"
     }
   },
-  "DND5E.WeaponCategory": "{category} Weapon",
-  "DND5E.WeaponImprov": "Improvised",
-  "DND5E.WeaponMartialM": "Martial Melee",
+  "DND5E.WeaponCategory": "Arma {category}",
+  "DND5E.WeaponImprov": "Improvisada",
+  "DND5E.WeaponMartialM": "Marcial Corpo a Corpo",
   "DND5E.WeaponMartialProficiency": "Marcial",
-  "DND5E.WeaponMartialR": "Martial Ranged",
+  "DND5E.WeaponMartialR": "Marcial à Distância",
   "DND5E.WeaponNatural": "Natural",
-  "DND5E.WeaponSiege": "Siege Weapon",
-  "DND5E.WeaponSimpleM": "Simple Melee",
+  "DND5E.WeaponSiege": "Arma de Cerco",
+  "DND5E.WeaponSimpleM": "Simples Corpo a Corpo",
   "DND5E.WeaponSimpleProficiency": "Simples",
-  "DND5E.WeaponSimpleR": "Simple Ranged",
-  "DND5E.Weight": "Weight",
-  "DND5E.WhisperedTo": "Whispered to",
+  "DND5E.WeaponSimpleR": "Simples à Distância",
+  "DND5E.Weight": "Peso",
+  "DND5E.WhisperedTo": "Sussurrou para",
   "DND5E.Wiki": "Wiki",
-  "DND5E.available": "available",
-  "DND5E.description": "A system for playing the fifth edition of the worlds most popular roleplaying game in the Foundry Virtual Tabletop environment.",
+  "DND5E.available": "disponível",
+  "DND5E.description": "Um sistema para jogar a quinta edição do mundo mais popular jogo de roleplay no ambiente Foundry de Virtual Tabletop.",
   "DND5E.of": "de",
   "DND5E.per": "por",
   "DND5E.spell": "magia",
@@ -4342,7 +4342,7 @@
     "DC": "{check} CD {dc}",
     "DCPassiveShort": "DC {dc} passivo {check}",
     "DCPassiveLong": "pontuação passiva {check} de {dc} ou superior",
-    "NoActorWarning": "Nenhum ator selecionado ou designado foi encontrado para executar esta jogada de dado.",
+    "NoActorWarning": "Nenhum personagem selecionado ou designado foi encontrado para executar esta jogada de dado.",
     "PassiveShort": "{check} passiva",
     "PassiveLong": "valor de {check} passiva",
     "RequestRoll": "Solicitar Rolagem",
@@ -4352,7 +4352,7 @@
     "SpecificCheck": "{ability} ({type})",
     "Warning": {
       "NoActivityOnItem": "{item} em {actor} não tem uma atividade com o nome {activity}.",
-      "NoActor": "Nenhum ator selecionado ou designado pôde ser encontrado para executar esta jogada.",
+      "NoActor": "Nenhum personagem selecionado ou designado pôde ser encontrado para executar esta jogada.",
       "NoItemOnActor": "{actor} não tem um item com o nome {item}."
     }
   },
@@ -4379,336 +4379,336 @@
     "StatusMarked": "Marcado",
     "StatusSilenced": "Silenciado",
     "StatusSleeping": "Dormindo",
-    "StatusStable": "Stable",
-    "StatusSuffocation": "Suffocation",
-    "StatusSurprised": "Surprised",
-    "StatusThreeQuartersCover": "Three-Quarters Cover",
-    "StatusTotalCover": "Total Cover",
-    "StatusTransformed": "Transformed"
+    "StatusStable": "Estábulo",
+    "StatusSuffocation": "Asfixia",
+    "StatusSurprised": "Surpreso",
+    "StatusThreeQuartersCover": "Cobertura de Três Quartos",
+    "StatusTotalCover": "Cobertura Total",
+    "StatusTransformed": "Transformado"
   },
-  "TYPES.JournalEntryPage.class": "Class Summary",
-  "TYPES.JournalEntryPage.map": "Map Location",
-  "TYPES.JournalEntryPage.rule": "Rule",
-  "TYPES.JournalEntryPage.spells": "Spell List",
-  "TYPES.JournalEntryPage.subclass": "Subclass Summary",
+  "TYPES.JournalEntryPage.class": "Resumo da Classe",
+  "TYPES.JournalEntryPage.map": "Local no mapa",
+  "TYPES.JournalEntryPage.rule": "Regra",
+  "TYPES.JournalEntryPage.spells": "Lista de Magias",
+  "TYPES.JournalEntryPage.subclass": "Resumo da Subclasse",
   "JOURNALENTRYPAGE.DND5E": {
     "Class": {
       "FIELDS": {
         "description": {
           "additionalEquipment": {
-            "label": "Additional Equipment Description",
-            "hint": "Additional descriptive text displayed beneath the starting equipment section."
+            "label": "Descrição Adicional de Equipamento",
+            "hint": "Texto descritivo adicional exibido abaixo da seção de equipamento inicial."
           },
           "additionalHitPoints": {
-            "label": "Additional Hit Points Description",
-            "hint": "Additional descriptive text displayed beneath the auto-generated hit points section."
+            "label": "Descrição Adicional de Pontos de Vida",
+            "hint": "Texto descritivo adicional exibido abaixo da seção de pontos de vida gerada automaticamente."
           },
           "additionalTraits": {
-            "label": "Additional Proficiencies Description",
-            "hint": "Additional descriptive text displayed beneath list of proficiencies granted by this class."
+            "label": "Descrição Adicional de Proficiência",
+            "hint": "Texto descritivo adicional exibido abaixo da lista de proficiências concedidas por esta classe."
           },
           "subclass": {
-            "label": "Subclass Introduction",
-            "hint": "Introduction that will be displayed before this class's subclasses."
+            "label": "Introdução da Subclasse",
+            "hint": "Introdução que será exibida antes das subclasses desta classe."
           },
           "value": {
-            "label": "Introduction",
-            "hint": "Primary description of the class that will appear first."
+            "label": "Introdução",
+            "hint": "Descrição primária da classe que aparecerá primeiro."
           }
         },
         "item": {
-          "label": "Selected Class"
+          "label": "Classe Selecionada"
         },
         "style": {
-          "label": "Style",
-          "hint": "Force the page style to use modern or legacy formatting, rather than what is specified by the class."
+          "label": "Estilo",
+          "hint": "Força o estilo da página a usar a formatação moderna ou antiga, ao invés do que é especificado pela classe."
         },
         "subclassHeader": {
-          "label": "Subclass Header"
+          "label": "Cabeçalho da Subclasse"
         },
         "subclassItems": {
           "label": "Subclasses"
         }
       },
-      "EquipmentHeader": "Equipment",
-      "EquipmentDescription": "You start with the following equipment, in addition to the equipment granted by your background:",
+      "EquipmentHeader": "Equipamento",
+      "EquipmentDescription": "Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:",
       "Features": {
-        "DescriptionLegacy": "As a {lowercaseName}, you gain the following class features, which are summarized in the {name} table.",
-        "DescriptionModern": "As a {name}, you gain the following class features when you reach the specified {name} levels. These features are listed in the {name} Features table.",
-        "Header": "Class Features",
-        "Name": "Level {level}: {name}"
+        "DescriptionLegacy": "Como um {lowercaseName}, você ganha as seguintes características de classe, resumidas na tabela {name}.",
+        "DescriptionModern": "Como um {name}, você ganha as seguintes características de classe quando você alcança os níveis especificados de {name}. Estas características estão listadas na tabela {name}.",
+        "Header": "Características de Classe",
+        "Name": "Nível {level}: {name}"
       },
       "HitPoints": {
         "Header": "Pontos de Vida",
-        "HitDiceLegacy": "<strong>Hit Dice:</strong> {dice} per {class} level",
-        "HitDiceModern": "{dice} per {class} level",
-        "Level1": "<strong>Hit Points at 1st Level:</strong> {max} + your Constitution modifier",
-        "LevelX": "<strong>Hit Points at Higher Levels:</strong> {dice} (or {average}) + your Constitution modifier per {class} level after 1st"
+        "HitDiceLegacy": "<strong>Dado de Vida:</strong> {dice} por nível de {class}",
+        "HitDiceModern": "{dice} por nível de {class}",
+        "Level1": "<strong>Pontos de Vida no 1º Nível:</strong> {max} + seu modificador de Constituição",
+        "LevelX": "<strong>Pontos de Vida a partir do 2º Nível:</strong> {dice} (ou {average}) + seu modificador de Constituição por nível de {class}"
       },
-      "ItemHint": "Drop a class here",
-      "NoValidClass": "No valid class selected, press the edit button to add a class.",
-      "OptionalFeaturesCaption": "Optional Class Features",
-      "OptionalFeaturesDescription": "The following section contains options {class} features. These features are not granted automatically, and you can choose one, some, or all of them at your DM's discretion.",
-      "SpellSlotLevel": "Slot Level",
-      "SpellSlots": "Spell Slots",
-      "SpellSlotsPerSpellLevel": "—Spell Slots per Spell Level—",
+      "ItemHint": "Solte uma classe aqui",
+      "NoValidClass": "Nenhuma classe válida selecionada, pressione o botão editar para adicionar uma classe.",
+      "OptionalFeaturesCaption": "Características Opcionais de Classe",
+      "OptionalFeaturesDescription": "A seção a seguir contém opções de características de {class}. Essas características não são concedidas automaticamente, e você pode escolher um, alguns, ou todos a critério do seu Mestre.",
+      "SpellSlotLevel": "Nível do espaço",
+      "SpellSlots": "Espaços de Magia",
+      "SpellSlotsPerSpellLevel": "—Espaços de Magia por Nível—",
       "Style": {
-        "Inferred": "Inferred from Source",
-        "Legacy": "Legacy",
-        "Modern": "Modern"
+        "Inferred": "Inferido da Fonte",
+        "Legacy": "Legado",
+        "Modern": "Moderno"
       },
-      "SubclassHint": "Drop subclasses here",
-      "TableCaption": "The {class}",
-      "TableOptionalCaption": "Optional {class} Features",
+      "SubclassHint": "Solte uma subclasse aqui",
+      "TableCaption": "O {class}",
+      "TableOptionalCaption": "Características Opcionais de {class}",
       "Traits": {
-        "Caption": "Core {class} Traits",
-        "Header": "Proficiencies"
+        "Caption": "Características Principais de {class}",
+        "Header": "Proficiências"
       }
     },
-    "EditDescription": "Edit",
-    "TableTOC": "Table: {caption}",
+    "EditDescription": "Editar",
+    "TableTOC": "Tabela: {caption}",
     "SpellList": {
-      "DropHint": "Drop spells or folders of spells here to add to the list",
+      "DropHint": "Arraste magias ou pastas de magias aqui para adicionar à lista",
       "Grouping": {
-        "Label": "Grouping Mode",
-        "Hint": "Controls how the spells will be grouped by default in the spell list.",
-        "Alphabetical": "By First Letter",
-        "Level": "By Level",
-        "None": "No Grouping",
-        "School": "By School"
+        "Label": "Modo de Agrupamento",
+        "Hint": "Controla como as magias serão agrupados por padrão na lista de magias.",
+        "Alphabetical": "Pela Primeira Letra",
+        "Level": "Por nível",
+        "None": "Sem Agrupamento",
+        "School": "Por Escola"
       },
-      "IdentifierHint": "Identifier should match that defined on the associated document, if applicable. For example, when creating a spell list for the Wizard class, the identifier should be 'wizard'.",
+      "IdentifierHint": "Identificador deve corresponder ao definido no documento associado, se aplicável. Por exemplo, ao criar uma lista de magias para a classe Mago, o identificador deve ser 'mago'.",
       "Type": {
-        "Label": "Spell List Type",
-        "Other": "Uncategorized"
+        "Label": "Tipo de Lista de Magias",
+        "Other": "Sem categoria"
       },
       "UnlinkedSpells": {
-        "Label": "Unlinked Spells",
-        "Add": "Add Unlinked Spell",
-        "Configuration": "Spell Configuration",
-        "Edit": "Edit Unlinked Spell"
+        "Label": "Magias Desvinculadas",
+        "Add": "Adicionar Magia Desvinculada",
+        "Configuration": "Configuração de Magia",
+        "Edit": "Editar Magia Desvinculada"
       }
     },
     "Subclass": {
       "FIELDS": {
         "description": {
           "value": {
-            "label": "Introduction",
-            "hint": "Description of the subclass that will appear before any listed features."
+            "label": "Introdução",
+            "hint": "Descrição da subclasse que aparecerá antes de qualquer característica listada."
           }
         },
         "item": {
-          "label": "Selected Subclass"
+          "label": "Subclasse Selecionada"
         },
         "style": {
-          "label": "Style",
-          "hint": "Force the page style to use modern or legacy formatting, rather than what is specified by the subclass."
+          "label": "Estilo",
+          "hint": "Força o estilo da página a usar a formatação moderna ou antiga, ao invés do que é especificado pela subclasse."
         }
       },
-      "ItemHint": "Drop a subclass here",
-      "NoValidSubclass": "No valid subclass selected, press the edit button to add a subclass."
+      "ItemHint": "Solte uma subclasse aqui",
+      "NoValidSubclass": "Nenhuma subclasse válida selecionada, pressione o botão editar para adicionar uma classe."
     }
   },
-  "KEYBINDINGS.DND5E.DragCopy": "Force Copy when Dragging Document",
-  "KEYBINDINGS.DND5E.DragMove": "Force Move when Dragging Document",
-  "KEYBINDINGS.DND5E.SkipDialogNormal": "Skip Dialog",
-  "KEYBINDINGS.DND5E.SkipDialogAdvantage": "Skip Dialog (roll with Advantage/Critical)",
-  "KEYBINDINGS.DND5E.SkipDialogDisadvantage": "Skip Dialog (roll with Disadvantage/Non-Critical)",
-  "MACRO.5eMissingTargetWarn": "Your controlled actor '{actor}' does not have an {type} with name '{name}'.",
-  "MACRO.5eMultipleTargetsWarn": "Your controlled actor '{actor}' has more than one {type} with name '{name}'. The first match will be chosen.",
-  "MACRO.5eNoActorSelected": "No selected or assigned actor could be found to target with macro.",
-  "MACRO.5eUnownedWarn": "You can only create macro buttons for owned Items",
-  "MIGRATION.5eBegin": "Applying D&D 5e System Migration for version {version}. Please be patient and do not close your game or shut down your server.",
-  "MIGRATION.5eComplete": "D&D 5e System Migration to version {version} completed!",
-  "MIGRATION.5eVersionTooOldWarning": "Your D&D 5e system data is from too old a Foundry version and cannot be reliably migrated to the latest version. The process will be attempted, but errors may occur.",
-  "SETTINGS.5eAllowPolymorphingL": "Allow players to polymorph their own actors.",
-  "SETTINGS.5eAllowPolymorphingN": "Allow Polymorphing",
-  "SETTINGS.5eAutoCollapseCardL": "Automatically collapse Item Card descriptions in the Chat Log",
-  "SETTINGS.5eAutoCollapseCardN": "Collapse Item Cards in Chat",
-  "SETTINGS.5eAutoSpellTemplateL": "When a spell is cast, defaults to begin the process to create the corresponding Measured Template if any (requires TRUSTED or higher player role)",
-  "SETTINGS.5eAutoSpellTemplateN": "Always place Spell Template",
-  "SETTINGS.5eNoAdvancementsN": "Disable level-up automation",
-  "SETTINGS.5eNoAdvancementsL": "Do not prompt for level-up or character creation choices.",
-  "SETTINGS.5eNoConcentrationN": "Disable concentration tracking",
-  "SETTINGS.5eNoConcentrationL": "Disable the system's automated tracking of concentration.",
-  "SETTINGS.5eGridAlignedSquareTemplatesL": "When square templates are created as the result of casting a spell or using an item, they will be locked to the grid alignment and unable to be rotated.",
-  "SETTINGS.5eGridAlignedSquareTemplatesN": "Grid-Aligned Square Templates",
+  "KEYBINDINGS.DND5E.DragCopy": "Cópia Forçada ao Arrastar Documento",
+  "KEYBINDINGS.DND5E.DragMove": "Mover Forçado ao Arrastar Documento",
+  "KEYBINDINGS.DND5E.SkipDialogNormal": "Pular Diálogo",
+  "KEYBINDINGS.DND5E.SkipDialogAdvantage": "Pular Diálogo (rolar com Vantagem/Crítico)",
+  "KEYBINDINGS.DND5E.SkipDialogDisadvantage": "Pular Diálogo (rolar com Desvantagem/Não Crítico)",
+  "MACRO.5eMissingTargetWarn": "Seu personagem controlado '{actor}' não possui um {type} com o nome '{name}'.",
+  "MACRO.5eMultipleTargetsWarn": "Seu personagem controlado '{actor}' tem mais de um {type} com o nome '{name}'. O primeiro condizente será escolhido.",
+  "MACRO.5eNoActorSelected": "Nenhum personagem selecionado ou atribuído foi encontrado para o alvo com macro.",
+  "MACRO.5eUnownedWarn": "Você só pode criar botões de macro para itens próprios",
+  "MIGRATION.5eBegin": "Aplicando a migração de sistema D&D 5e para a versão {version}. Por favor, seja paciente e não feche seu jogo ou feche seu servidor.",
+  "MIGRATION.5eComplete": "Migração do sistema D&D 5e para a versão {version} concluída!",
+  "MIGRATION.5eVersionTooOldWarning": "Os dados do sistema D&D 5e são de uma versão muito antiga e não podem ser migrados de forma confiável para a versão mais recente. O processo será tentado, mas podem ocorrer erros.",
+  "SETTINGS.5eAllowPolymorphingL": "Permite aos jogadores polimorfolar os próprios personagens.",
+  "SETTINGS.5eAllowPolymorphingN": "Permitir Polimorfia",
+  "SETTINGS.5eAutoCollapseCardL": "Recolher automaticamente as descrições de cartões de item no Log do Chat",
+  "SETTINGS.5eAutoCollapseCardN": "Recolher cartões de itens no bate-papo",
+  "SETTINGS.5eAutoSpellTemplateL": "Quando uma magia é lançada, o padrão é iniciar o processo para criar o Modelo de Medida correspondente, se houver (requer função de jogador CONFIÁVEL ou superior)",
+  "SETTINGS.5eAutoSpellTemplateN": "Sempre posicionar Modelos de Magia",
+  "SETTINGS.5eNoAdvancementsN": "Desativar automação de subida de nível",
+  "SETTINGS.5eNoAdvancementsL": "Não solicite opções de aumento de nível ou criação de personagem.",
+  "SETTINGS.5eNoConcentrationN": "Desativar acompanhamento de concentração",
+  "SETTINGS.5eNoConcentrationL": "Desabilitar acompanhamento automático de concentração do sistema.",
+  "SETTINGS.5eGridAlignedSquareTemplatesL": "Quando modelos quadrados são criados como resultado da conjuração de uma magia ou do uso de um item, eles serão bloqueados no alinhamento da grade e não poderão ser girados.",
+  "SETTINGS.5eGridAlignedSquareTemplatesN": "Modelos Quadrados Alinhados à Grade",
   "SETTINGS.DND5E": {
     "ALLOWSUMMONING": {
-      "Name": "Allow Summoning",
-      "Hint": "Allow players to use summoning abilities to summon actors. Players must also have the Create Token core permission for this to work."
+      "Name": "Permitir Invocação",
+      "Hint": "Permite aos jogadores usar habilidades de invocação para invocar personagens. Os jogadores também devem ter a permissão de Criar Token para funcionar."
     },
     "BLOODIED": {
-      "Name": "Bloodied Status",
-      "Hint": "Configure whether the bloodied status is tracked automatically and its visibility.",
-      "All": "Display for Allies & Enemies",
-      "Player": "Only Display for Allies",
-      "None": "Never Display"
+      "Name": "Condição Sangrando",
+      "Hint": "Configurar se a condição sangrando é rastreada automaticamente e sua visibilidade.",
+      "All": "Exibir para Aliados e Inimigos",
+      "Player": "Somente Exibir para Aliados",
+      "None": "Nunca Exibir"
     },
     "COLLAPSETRAYS": {
-      "Name": "Collapse Trays in Chat",
-      "Hint": "Automatically collapse damage, hit, and effect trays that appear in chat cards.",
-      "Always": "Collapse All",
-      "Older": "Collapse Older Trays",
-      "Never": "Expand All"
+      "Name": "Fechar Placas no Chat",
+      "Hint": "Recolher automaticamente dano, ataque e placas de efeito que aparecem nos cartões do chat.",
+      "Always": "Recolher Tudo",
+      "Older": "Recolher Placas Antigas",
+      "Never": "Expandir Tudo"
     },
     "COMBAT": {
-      "Hint": "Various configuration options that affect combat.",
-      "Label": "Configure Combat",
-      "Name": "Combat",
+      "Hint": "Várias opções de configuração que afetam o combate.",
+      "Label": "Configurar Combate",
+      "Name": "Combate",
       "DexTiebreaker": {
-        "Name": "Dexterity Tiebreaker",
-        "Hint": "Append the raw Dexterity ability score to break ties in Initiative."
+        "Name": "Desempate por Destreza",
+        "Hint": "Adicione o valor bruto do atributo Destreza para desempatar jogadas de Iniciativa."
       },
       "InitiativeScore": {
-        "Name": "Initiative Score",
-        "Hint": "Use a creature's initiative score (10 + bonus) rather than rolling for initiative.",
-        "All": "Use Score for Everyone",
-        "None": "Always Roll for Initiative",
-        "NPCs": "Use Score for GM NPCs"
+        "Name": "Valor de Iniciativa",
+        "Hint": "Use o valor de iniciativa de uma criatura (10 + bônus) ao invés de rolar iniciativa.",
+        "All": "Usar Valor para Todos",
+        "None": "Sempre Rolar por Iniciativa",
+        "NPCs": "Usar Valor para NPC's do Mestre"
       }
     },
     "CRITICAL": {
-      "Name": "Critical Damage",
+      "Name": "Dano Crítico",
       "MaxDice": {
-        "Name": "Maximize Dice",
-        "Hint": "Make critical hits more deadly by maximizing the values of base damage dice."
+        "Name": "Maximizar Dados",
+        "Hint": "Torne acertos críticos mais mortais ao maximizar os valores dos dados de dano base."
       },
       "MultiplyModifiers": {
-        "Name": "Multiply Modifiers",
-        "Hint": "Make critical hits more deadly by multiplying non-dice modifiers in addition to rolled dice."
+        "Name": "Multiplicar Modificadores",
+        "Hint": "Torne acertos críticos mais mortais multiplicando os modificadores de dano além dos dados rolados."
       }
     },
     "DEFAULTSKILLS": {
-      "Name": "Default Skills",
-      "Hint": "The default skills that appear on NPC sheets regardless of level of proficiency."
+      "Name": "Perícias Padrões",
+      "Hint": "As perícias padrões que aparecem em fichas de NPC's independentemente do nível de proficiência."
     },
-    "General": "General",
+    "General": "Geral",
     "LOYALTY": {
-      "Hint": "Enable optional Loyalty tracking.",
-      "Name": "Loyalty Score"
+      "Hint": "Habilitar o acompanhamento opcional de Lealdade.",
+      "Name": "Valor de Lealdade"
     },
     "METRIC": {
       "LengthUnits": {
-        "Name": "Use Metric Length Units",
-        "Hint": "Defaults to using meters instead of feet for movement and senses."
+        "Name": "Usar Unidades Métricas de Comprimento",
+        "Hint": "Passa a usar metros em vez de pés para deslocamento e sentidos."
       },
       "VolumeUnits": {
-        "Name": "Use Metric Volume Units",
-        "Hint": "Defaults to using liters instead of cubic feet for container capacity."
+        "Name": "Usar Unidades Métricas de Volume",
+        "Hint": "Passa a usar litros em vez de pés cúbicos para capacidade de recipientes."
       },
       "WeightUnits": {
-        "Name": "Use Metric Weight Units",
-        "Hint": "Replaces all reference to lbs with kgs and updates the encumbrance calculations to use metric weight units."
+        "Name": "Usar Unidades Métricas de Peso",
+        "Hint": "Substitui todas as referências a lbs por kgs e atualiza os cálculos de sobrecarga para usar unidades métricas de peso."
       }
     },
     "NPCS": {
       "Name": "NPCs",
       "AutoRecharge": {
-        "Name": "Recharge Abilities",
-        "Hint": "Roll to recharge NPC abilities automatically at the start of the NPC's turn.",
-        "No": "Do not recharge automatically",
-        "Silent": "Recharge without creating chat card",
-        "Yes": "Recharge and display chat card"
+        "Name": "Recarregar Habilidades",
+        "Hint": "Rolar para recarregar automaticamente as habilidades do NPC no início do turno do NPC.",
+        "No": "Não recarregar automaticamente",
+        "Silent": "Recarregar sem criar mensagem no chat",
+        "Yes": "Recarregar e exibir mensagem no chat"
       },
       "AutoRollNPCHP": {
-        "Name": "Hit Points",
-        "Hint": "Configure whether to roll for NPC max HP whenever a new token is created.",
-        "No": "Do not roll",
-        "Silent": "Roll without creating chat card",
-        "Yes": "Roll and create chat card"
+        "Name": "Pontos de Vida",
+        "Hint": "Configurar se deve rolar PV máximos do NPC sempre que um novo token for criado.",
+        "No": "Não rolar",
+        "Silent": "Rolar sem criar mensagem no chat",
+        "Yes": "Rolar e criar mensagem no chat"
       }
     },
     "THEME": {
-      "Name": "Theme",
-      "Hint": "Theme that will apply to the UI and all sheets by default. Automatic will be determined by your browser or operating system settings."
+      "Name": "Tema",
+      "Hint": "Tema que será aplicado à interface do usuário e todas as fichas por padrão. Automático será determinado pelo seu navegador ou configurações do sistema operacional."
     },
     "RULESVERSION": {
-      "Name": "Rules Version",
-      "Hint": "Change handling of various rules between the 2024 and 2014 rule sets.",
-      "Legacy": "Legacy Rules (2014)",
-      "Modern": "Modern Rules (2024)"
+      "Name": "Versão das Regras",
+      "Hint": "Alterar o manuseio de várias regras entre os conjuntos de regras de 2024 e 2014.",
+      "Legacy": "Regras Legados (2014)",
+      "Modern": "Regras Modernas (2024)"
     },
     "VARIANT": {
-      "Hint": "Enable and configure rules variations offered by the system.",
-      "Label": "Configure Variant Rules",
-      "Name": "Variant Rules",
+      "Hint": "Ativar e configurar variações de regras oferecidas pelo sistema.",
+      "Label": "Configurar Regras Variantes",
+      "Name": "Regras Variantes",
       "AllowFeats": {
-        "Hint": "Allow players to choose a feat rather than taking an ability score improvement during class advancement when using the Legacy rules.",
-        "Name": "Allow Feats"
+        "Hint": "Permita que os jogadores escolham um talento em vez de aumentar o valor de atributo durante a evolução de classe ao usar as regras legadas.",
+        "Name": "Permitir Talentos"
       },
       "CurrencyWeight": {
-        "Hint": "Carried currency affects character encumbrance.",
-        "Name": "Track Currency Weight"
+        "Hint": "A moeda carregada afeta a carga do personagem.",
+        "Name": "Monitorar Peso de Moedas"
       },
       "Encumbrance": {
-        "Hint": "Enable automatic tracking of encumbrance and the application of status effects for characters carrying too much.",
-        "Name": "Encumbrance Tracking",
-        "None": "None",
-        "Normal": "Normal (max carrying capacity)",
-        "Variant": "Variant (encumbered & heavily encumbered)"
+        "Hint": "Habilite o monitoramento automático de sobrecarga e a aplicação de efeitos para personagens que carregam muito peso.",
+        "Name": "Monitorar Sobrecarga",
+        "None": "Nenhuma",
+        "Normal": "Normal (capacidade máxima de carga)",
+        "Variant": "Alternativo (sobrecarregado e muito sobrecarregado)"
       },
       "HonorScore": {
-        "Hint": "Enable the use of the optional Honor ability score.",
-        "Name": "Honor Ability Score"
+        "Hint": "Habilitar o uso do valor de atributo opcional de Honra.",
+        "Name": "Valor de Atributo Honra"
       },
       "LevelingMode": {
-        "Hint": "Determine how the players gain new levels.",
-        "Name": "Leveling Mode",
-        "NoXP": "Level Advancement without XP",
-        "XP": "Experience Points",
-        "XPBoons": "Experience Points with Epic Boons"
+        "Hint": "Determina como os jogadores ganham novos níveis.",
+        "Name": "Modo de Ganhar Níveis",
+        "NoXP": "Avanço de Nível sem XP",
+        "XP": "Pontos de Experiência",
+        "XPBoons": "Pontos de Experiência com Dádivas Épicas"
       },
       "ProficiencyModifier": {
-        "Bonus": "PHB: Bonus (+2, +3, +4, +5, +6)",
-        "Dice": "DMG: Dice (1d4, 1d6, 1d8, 1d10, 1d12)",
-        "Hint": "Configure proficiency modifier to use a fixed bonus or a dice roll.",
-        "Name": "Proficiency Variant"
+        "Bonus": "PHB: Bônus (+2, +3, +4, +5, +6)",
+        "Dice": "DMG: Dados (1d4, 1d6, 1d8, 1d10, 1d12)",
+        "Hint": "Configurar o modificador de proficiência para usar um bônus fixo ou uma jogada de dado.",
+        "Name": "Variante de Proficiência"
       },
       "Rest": {
-        "Epic": "Epic Heroism (LR: 1 hour, SR: 1 min)",
-        "Gritty": "Gritty Realism (LR: 7 days, SR: 8 hours)",
-        "Hint": "Configure which rest variant should be used for games within this system.",
-        "Name": "Rest Variant",
-        "Normal": "Player's Handbook (LR: 8 hours, SR: 1 hour)"
+        "Epic": "Heroísmo Épico (DL: 1 hora, DC: 1 min)",
+        "Gritty": "Realismo Robusto (DL: 7 dias, DC: 8 horas)",
+        "Hint": "Configura que regra variante de descanso deve ser usada para jogos nesse sistema.",
+        "Name": "Variante de Descanso",
+        "Normal": "Livro do Jogador (DL: 8 horas, DC: 1 hora)"
       },
       "SanityScore": {
-        "Hint": "Enable the use of the optional Sanity ability score.",
-        "Name": "Sanity Ability Score"
+        "Hint": "Habilitar o uso do valor de atributo opcional de Sanidade.",
+        "Name": "Valor de Atributo Sanidade"
       }
     },
     "VISIBILITY": {
-      "Hint": "Various configuration options that affect player visibility of certain information that the DM may wish to keep secret.",
-      "Label": "Configure Visibility",
-      "Name": "Visibility",
+      "Hint": "Várias opções de configuração que afetam a visibilidade de certas informações para os jogadores, que o Mestre pode desejar manter em segredo.",
+      "Label": "Configurar Visibilidade",
+      "Name": "Visibilidade",
       "Attack": {
-        "Name": "Attack Result Visibility",
-        "Hint": "Control visibility of attack roll results in chat cards for players.",
-        "All": "Show results & target ACs",
-        "HideAC": "Show only results",
-        "None": "Hide all"
+        "Name": "Visibilidade do Resultado de Ataque",
+        "Hint": "Controla a visibilidade dos resultados das jogadas de ataque nos cartões no chat para os jogadores.",
+        "All": "Mostrar resultados e CA do alvo",
+        "HideAC": "Mostrar somente resultados",
+        "None": "Ocultar tudo"
       },
       "Challenge": {
-        "All": "Show all",
-        "Hint": "Control what roll DCs are visible to the players and whether successes/failures are highlighted.",
-        "Name": "Challenge Visibility",
-        "None": "Hide all",
-        "Player": "Show only from other players"
+        "All": "Mostrar tudo",
+        "Hint": "Controle quais CDs ficam visíveis para os jogadores e se os sucessos/fracassos devem ser destacados.",
+        "Name": "Visibilidade do Desafio",
+        "None": "Ocultar tudo",
+        "Player": "Mostrar somente de outros jogadores"
       },
       "ItemDescriptions": {
-        "Hint": "Hide the descriptions of NPC items from players when posted to chat by the DM. Will only hide the descriptions for items without a Chat Description set.",
-        "Name": "Conceal NPC Descriptions"
+        "Hint": "Oculte as descrições dos itens dos NPC's dos jogadores quando postadas no chat pelo Mestre. Isso ocultará apenas as descrições de itens que não possuam uma Descrição de Chat definida.",
+        "Name": "Ocultar Descrições de NPC's"
       }
     }
   },
   "SHEETS.DND5E": {
     "THEME": {
-      "Label": "Theme",
-      "Automatic": "Automatic",
-      "Dark": "Dark Mode",
-      "Light": "Light Mode"
+      "Label": "Tema",
+      "Automatic": "Automático",
+      "Dark": "Modo Escuro",
+      "Light": "Modo Claro"
     }
   },
-  "SOURCE.BOOK.SRD": "System Reference Document 5.1",
-  "SIDEBAR.SortModePriority": "Sort by priority"
+  "SOURCE.BOOK.SRD": "Documento de Referência do Sistema 5.1",
+  "SIDEBAR.SortModePriority": "Ordenar por prioridade"
 }
