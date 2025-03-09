@@ -2156,7 +2156,7 @@
       "materials": "a chip of mica"
     },
     "Shield": {
-      "name": "Égide",
+      "name": "Escudo",
       "description": "<div class=\"rd__b  rd__b--3\"><p>Uma barreira invisível da força mágica aparece e protege você. Até o início do seu próximo turno, você tem um bônus de +5 para AC, incluindo contra o ataque de gatilho e você não recebe nenhum dano do @UUID[Compendium.renegados-compendium.magias.Item.2lSqfppArfPi5SPF].</p></div>",
       "effects": {
         "Shield": {
