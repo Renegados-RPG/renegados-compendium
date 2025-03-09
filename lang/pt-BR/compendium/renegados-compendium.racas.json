@@ -302,7 +302,7 @@
       "description": "<table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Pontuações de Habilidade</p></th><th class=\"ve-col-4 ve-text-center\"><p>Tamanho</p></th><th class=\"ve-col-4 ve-text-center\"><p>Velocidade</p></th></tr><tr><td class=\"ve-text-center\"><p>Escolha um dos seguintes: (a) Escolha qualquer +2; escolha qualquer outro +1 (b) Escolha três +1 diferentes</p></td><td class=\"ve-text-center\"><p>Médio</p></td><td class=\"ve-text-center\"><p>12 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Creature Type\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Tipo de Criatura.</strong></span>Você é uma Fada.</p></div><div data-roll-name-ancestor=\"Charge\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Investida.</strong></span>Se você se mover pelo menos 9 metros em linha reta em direção a um alvo e então atingi-lo com um ataque de arma corpo a corpo no mesmo turno, você pode imediatamente seguir esse ataque com uma ação bônus, fazendo um ataque contra o alvo com seus cascos.</p></div><div data-roll-name-ancestor=\"Equine Build\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Construção Equina.</strong></span>Você conta como um tamanho maior ao determinar sua capacidade de carga e o peso que você pode empurrar ou arrastar.</p><p>Além disso, qualquer escalada que exija mãos e pés é especialmente difícil para você por causa de suas pernas equinas. Quando você faz tal escalada, cada pé de movimento custa 4 pés extras em vez do normal 1 pé extra.</p></div><div data-roll-name-ancestor=\"Hooves\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Cascos.</strong></span>Você tem cascos que pode usar para fazer ataques desarmados. Quando você os acerta, o ataque causa [[/damage 1d6]] + seu modificador de Força de dano contundente, em vez do dano contundente normal para um ataque desarmado.</p></div><div data-roll-name-ancestor=\"Natural Affinity\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Afinidade Natural.</strong></span>Sua conexão feérica com a natureza lhe dá uma conexão intuitiva com o mundo natural e os animais dentro dele. Portanto, você tem proficiência em uma das seguintes perícias de sua escolha: &amp;Reference[skill=LidarComAnimais]{Animal Handling}, &amp;Reference[skill=Medicina], &amp;Reference[skill=Natureza], ou &amp;Reference[skill=Sobrevivêncial].</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Idiomas.</strong></span>Você pode falar, ler e escrever em Comum e em outro idioma que você e seu Mestre concordem ser apropriado para seu personagem.</p></div></div><hr class=\"hr-1\" /><p>Centauros galopam pelo multiverso e traçam suas origens para muitos reinos diferentes. Os centauros apresentados aqui vêm de Feywild e ressoam misticamente com o mundo natural. Da cintura para cima, eles se assemelham a elfos, exibindo todas as variedades de tons de pele dos elfos. Da cintura para baixo, eles têm corpos de cavalos.</p></div>",
       "advancement": {
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1177,7 +1177,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1235,7 +1235,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1247,7 +1247,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1366,7 +1366,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1386,7 +1386,7 @@
           "title": "Sentidos Keen"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1405,7 +1405,7 @@
           "title": "Sentidos Keen"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1506,7 +1506,7 @@
           "title": "Talento do Gato"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1536,7 +1536,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         }
       }
     },
@@ -1569,7 +1569,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         },
         "Control Air and Water": {
           "title": "Controle de ar e água"
@@ -1609,7 +1609,7 @@
           "title": "Idioma"
         },
         "Features": {
-          "title": "Funcionalidades"
+          "title": "Características"
         },
         "Serpentine Spellcasting": {
           "title": "Spelcasting Serpentina"
