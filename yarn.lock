@@ -179,6 +179,18 @@ abstract-level@^1.0.2:
     module-error "^1.0.1"
     queue-microtask "^1.2.3"
 
+abstract-level@^2.0.0, abstract-level@^2.0.1:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/abstract-level/-/abstract-level-2.0.2.tgz#8d965e731afb42a72f163874410c1687fb2e4bdb"
+  integrity sha512-pPJixmXk/kTKLB2sSue7o4Uj6TlLD2XfaP2gWZomHVCC6cuUGX/VslQqKG1yZHfXwBb/3lS6oSTMPGzh1P1iig==
+  dependencies:
+    buffer "^6.0.3"
+    is-buffer "^2.0.5"
+    level-supports "^6.0.0"
+    level-transcoder "^1.0.1"
+    maybe-combine-errors "^1.0.0"
+    module-error "^1.0.1"
+
 abstract-leveldown@^7.2.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/abstract-leveldown/-/abstract-leveldown-7.2.0.tgz#08d19d4e26fb5be426f7a57004851b39e1795a2e"
@@ -251,6 +263,13 @@ braces@^3.0.3:
   dependencies:
     fill-range "^7.1.1"
 
+browser-level@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/browser-level/-/browser-level-2.0.0.tgz#cc63eb1322e67c44489d7fbdda5c30a2db7b59da"
+  integrity sha512-RuYSCHG/jwFCrK+KWA3dLSUNLKHEgIYhO5ORPjJMjCt7T3e+RzpIDmYKWRHxq2pfKGXjlRuEff7y7RESAAgzew==
+  dependencies:
+    abstract-level "^2.0.1"
+
 buffer@^6.0.3:
   version "6.0.3"
   resolved "https://registry.yarnpkg.com/buffer/-/buffer-6.0.3.tgz#2ace578459cc8fbe2a70aaa8f52ee63b6a74c6c6"
@@ -307,6 +326,16 @@ classic-level@^1.4.1:
   dependencies:
     abstract-level "^1.0.2"
     catering "^2.1.0"
+    module-error "^1.0.1"
+    napi-macros "^2.2.2"
+    node-gyp-build "^4.3.0"
+
+classic-level@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/classic-level/-/classic-level-2.0.0.tgz#6fd9ca686bbcd645e35caaf403c3f3a56495d11b"
+  integrity sha512-ftiMvKgCQK+OppXcvMieDoYlYLYWhScK6yZRFBrrlHQRbm4k6Gr+yDgu/wt3V0k1/jtNbuiXAsRmuAFcD0Tx5Q==
+  dependencies:
+    abstract-level "^2.0.0"
     module-error "^1.0.1"
     napi-macros "^2.2.2"
     node-gyp-build "^4.3.0"
@@ -760,6 +789,11 @@ level-supports@^4.0.0:
   resolved "https://registry.yarnpkg.com/level-supports/-/level-supports-4.0.1.tgz#431546f9d81f10ff0fea0e74533a0e875c08c66a"
   integrity sha512-PbXpve8rKeNcZ9C1mUicC9auIYFyGpkV9/i6g76tLgANwWhtG2v7I4xNBUlkn3lE2/dZF3Pi0ygYGtLc4RXXdA==
 
+level-supports@^6.0.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/level-supports/-/level-supports-6.2.0.tgz#e78b228973a24acdc5199c5f51e244e70f26c611"
+  integrity sha512-QNxVXP0IRnBmMsJIh+sb2kwNCYcKciQZJEt+L1hPCHrKNELllXhvrlClVHXBYZVT+a7aTSM6StgNXdAldoab3w==
+
 level-transcoder@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/level-transcoder/-/level-transcoder-1.0.1.tgz#f8cef5990c4f1283d4c86d949e73631b0bc8ba9c"
@@ -767,6 +801,15 @@ level-transcoder@^1.0.1:
   dependencies:
     buffer "^6.0.3"
     module-error "^1.0.1"
+
+level@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/level/-/level-9.0.0.tgz#880aa9d341a5411e36bed77f4fa233f425b492a8"
+  integrity sha512-n+mVuf63mUEkd8NUx7gwxY+QF5vtkibv6fXTGUgtHWLPDaA5/XZjLcI/Q1nQ8k6OttHT6Ezt+7nSEXsRUfHtOQ==
+  dependencies:
+    abstract-level "^2.0.1"
+    browser-level "^2.0.0"
+    classic-level "^2.0.0"
 
 leveldown@^6.1.1:
   version "6.1.1"
@@ -859,6 +902,11 @@ math-intrinsics@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/math-intrinsics/-/math-intrinsics-1.1.0.tgz#a0dd74be81e2aa5c2f27e65ce283605ee4e2b7f9"
   integrity sha512-/IXtbwEk5HTPyEwyKX6hGkYXxM9nbj64B+ilVJnC/R6B0pH5G4V3b0pVbL7DBj4tkhBAppbQUlf6F6Xl9LHu1g==
+
+maybe-combine-errors@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/maybe-combine-errors/-/maybe-combine-errors-1.0.0.tgz#e9592832e61fc47643a92cff3c1f33e27211e5be"
+  integrity sha512-eefp6IduNPT6fVdwPp+1NgD0PML1NU5P6j1Mj5nz1nidX8/sWY7119WL8vTAHgqfsY74TzW0w1XPgdYEKkGZ5A==
 
 merge-stream@^2.0.0:
   version "2.0.0"

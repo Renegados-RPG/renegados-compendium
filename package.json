@@ -21,6 +21,7 @@
     "commander": "^13.1.0",
     "encoding-down": "^7.1.0",
     "inquirer": "^12.4.2",
+    "level": "^9.0.0",
     "leveldown": "^6.1.1",
     "levelup": "^5.1.1",
     "ora": "^8.2.0"
