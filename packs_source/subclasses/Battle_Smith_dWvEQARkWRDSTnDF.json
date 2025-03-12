@@ -72,8 +72,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.clwLFb3ujGpyWrMp"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.HLXtBaptoVW2UsV7",
+              "optional": false
             }
           ],
           "optional": false,
@@ -152,10 +152,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740074336466,
-    "modifiedTime": 1740610523393,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741750509272,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 125000,
   "_key": "!items!dWvEQARkWRDSTnDF"
