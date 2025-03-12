@@ -1,6 +1,6 @@
 {
-  "_id": "3loqt6P1BBzFx4gu",
-  "name": "Magic Item Savant",
+  "_id": "sjeZi5LVFrXfPzm8",
+  "name": "Optional Rule: Firearm Proficiency",
   "type": "feat",
   "system": {
     "source": {
@@ -12,10 +12,10 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p><i>14th-level artificer feature</i></p><p>Your skill with magic items deepens:</p><ul class=\"rd__list\"><li class=\"rd__li \">You can attune to up to five magic items at once.</li><li class=\"rd__li \">You ignore all class, race, spell, and level requirements on attuning to or using a magic item.</li></ul></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The secrets of creating and operating gunpowder weapons have been discovered in various corners of the D&amp;D multiverse. If your Dungeon Master uses the rules on firearms in <a href=\"https://2014.5e.tools/book.html#DMG,9,firearms,0\">chapter 9</a> of the <a href=\"https://2014.5e.tools/book.html#DMG\">Dungeon Master's Guide</a> and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.</p></div>",
       "chat": ""
     },
-    "requirements": "Artificer 14",
+    "requirements": "Artificer 1",
     "uses": {
       "max": "",
       "recovery": [],
@@ -28,7 +28,7 @@
     "properties": [],
     "advancement": [],
     "activities": {},
-    "identifier": "magic-item-savant",
+    "identifier": "optional-rule-firearm-proficiency",
     "cover": null,
     "crewed": false,
     "enchant": {},
@@ -39,23 +39,23 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/equipment/neck/amulet-geometric-gold-green.webp",
+  "img": "icons/weapons/guns/gun-pistol-brown.webp",
   "flags": {},
   "effects": [
     {
-      "name": "Magic Item Savant",
-      "img": "icons/equipment/neck/amulet-geometric-gold-green.webp",
-      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3loqt6P1BBzFx4gu",
-      "_id": "wmvOhRc1ey6hcepX",
+      "name": "Optional Rule: Firearm Proficiency",
+      "img": "systems/dnd5e/icons/svg/items/feature.svg",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sjeZi5LVFrXfPzm8",
+      "_id": "yOjNSSLuATATCTsD",
       "type": "base",
       "system": {},
       "changes": [
         {
-          "key": "system.attributes.attunement.max",
-          "mode": 5,
-          "value": "5",
+          "key": "system.traits.weaponProf.custom",
+          "mode": 2,
+          "value": "Armas de fogo",
           "priority": null
         }
       ],
@@ -87,24 +87,24 @@
         "coreVersion": "12.331",
         "systemId": "dnd5e",
         "systemVersion": "4.3.3",
-        "createdTime": 1740022027232,
-        "modifiedTime": 1740022042668,
+        "createdTime": 1739929542067,
+        "modifiedTime": 1739930497732,
         "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
       },
-      "_key": "!items.effects!3loqt6P1BBzFx4gu.wmvOhRc1ey6hcepX"
+      "_key": "!items.effects!sjeZi5LVFrXfPzm8.yOjNSSLuATATCTsD"
     }
   ],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740021446392,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748384771,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 2000000,
-  "_key": "!items!3loqt6P1BBzFx4gu"
+  "sort": 0,
+  "_key": "!items!sjeZi5LVFrXfPzm8"
 }

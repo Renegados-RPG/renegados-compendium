@@ -1,6 +1,6 @@
 {
-  "_id": "54dPxTxYuPzhDTjR",
-  "name": "Tool Expertise",
+  "_id": "pJvs9dJjrK1Y2J6A",
+  "name": "Artificer Specialist",
   "type": "feat",
   "system": {
     "source": {
@@ -12,10 +12,10 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level artificer feature</i></p><p>Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level artificer feature</i></p><p>Choose the type of specialist you are, each of which is detailed at the end of the class's description. Your choice grants you features at 5th level and again at 9th and 15th level.</p></div>",
       "chat": ""
     },
-    "requirements": "Artificer 6",
+    "requirements": "Artificer 3",
     "uses": {
       "max": "",
       "recovery": [],
@@ -28,7 +28,7 @@
     "properties": [],
     "advancement": [],
     "activities": {},
-    "identifier": "tool-expertise",
+    "identifier": "artificer-specialist",
     "cover": null,
     "crewed": false,
     "enchant": {},
@@ -39,22 +39,22 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/commodities/tech/blueprint.webp",
+  "img": "icons/skills/trades/academics-book-study-runes.webp",
   "flags": {},
   "effects": [],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740021446392,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 2900000,
-  "_key": "!items!54dPxTxYuPzhDTjR"
+  "sort": 0,
+  "_key": "!items!pJvs9dJjrK1Y2J6A"
 }

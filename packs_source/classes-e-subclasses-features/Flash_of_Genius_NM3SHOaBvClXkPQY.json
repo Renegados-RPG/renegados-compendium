@@ -1,5 +1,5 @@
 {
-  "_id": "pdjkfkXJzbZuzMYb",
+  "_id": "NM3SHOaBvClXkPQY",
   "name": "Flash of Genius",
   "type": "feat",
   "system": {
@@ -33,8 +33,8 @@
     "properties": [],
     "advancement": [],
     "activities": {
-      "wtYm5gWiBjjPGZ3z": {
-        "_id": "wtYm5gWiBjjPGZ3z",
+      "RJHrxMZjuRbKGlz1": {
+        "_id": "RJHrxMZjuRbKGlz1",
         "type": "utility",
         "activation": {
           "type": "reaction",
@@ -69,7 +69,7 @@
         "target": {
           "template": {
             "contiguous": false,
-            "units": "ft"
+            "units": "m"
           },
           "affects": {
             "choice": false
@@ -99,22 +99,22 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/symbols/symbol-lightning-bolt.webp",
   "flags": {},
   "effects": [],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740021446392,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 1400000,
-  "_key": "!items!pdjkfkXJzbZuzMYb"
+  "sort": 0,
+  "_key": "!items!NM3SHOaBvClXkPQY"
 }

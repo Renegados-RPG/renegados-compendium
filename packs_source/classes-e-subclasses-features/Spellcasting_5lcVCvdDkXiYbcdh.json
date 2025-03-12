@@ -1,0 +1,60 @@
+{
+  "_id": "5lcVCvdDkXiYbcdh",
+  "name": "Spellcasting",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "9",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>1st-level artificer feature</i></p><p>You've studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.</p><div data-roll-name-ancestor=\"Tools Required\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Tools Required</span></h3> <p>You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically @item[thieves' tools|phb] or some kind of @item[artisan's tools|phb|artisan's tool]—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See <a href=\"https://2014.5e.tools/book.html#PHB,4\">chapter 5</a>, \"Equipment,\" in the <a href=\"https://2014.5e.tools/book.html#PHB\">Player's Handbook</a> for descriptions of these tools.</p><p>After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.</p><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"The Magic of Artifice\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"2\"><h4 class=\"entry-title-inner\">The Magic of Artifice</h4><span class=\"ve-flex-vh-center\"></span></span><p>As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you're using a tool to perform the spell effect. If you cast @spell[cure wounds] using @item[alchemist's supplies|PHB], you could be quickly producing a salve. If you cast it using @item[tinker's tools|PHB], you might have a miniature mechanical spider that binds wounds. When you cast @spell[poison spray], you could fling foul chemicals or use a wand that spits venom. The effect of the spell is the same as for a spellcaster of any other class, but your method of spellcasting is special.</p><p>The same principle applies when you prepare your spells. As an artificer, you don't study a spellbook or pray to prepare your spells. Instead, you work with your tools and create the specialized items you'll use to produce your effects. If you replace @spell[cure wounds] with @spell[heat metal], you might be altering the device you use to heal—perhaps modifying a tool so that it channels heat instead of healing energy.</p><p>Such details don't limit you in any way or provide you with any benefit beyond the spell's effects. You don't have to justify how you're using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.</p></div></div><div data-roll-name-ancestor=\"Cantrips (0-Level Spells)\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Cantrips (0-Level Spells)</span></h3> <p>At 1st level, you know two cantrips of your choice from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:artificer=1\">artificer spell list</a>. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.</p><p>When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.</p></div><div data-roll-name-ancestor=\"Preparing and Casting Spells\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Preparing and Casting Spells</span></h3> <p>The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>You prepare the list of artificer spells that are available for you to cast, choosing from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:artificer=1\">artificer spell list</a>. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</p><p>For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell @spell[cure wounds], you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</p><p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.</p></div><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Spellcasting Ability</span></h3> <p>Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><b>Spell save DC</b> = 8 + Intelligence modifier + Proficiency Bonus</div><div class=\"rd__wrp-centered-ability\"><b>Spell attack modifier</b> = Intelligence modifier + Proficiency Bonus</div></div><div data-roll-name-ancestor=\"Ritual Casting\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Ritual Casting</span></h3> <p>You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 1",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "spellcasting",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/light/beam-rays-orange-large.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "QYv1DbAzL6iCEpHu",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!5lcVCvdDkXiYbcdh"
+}

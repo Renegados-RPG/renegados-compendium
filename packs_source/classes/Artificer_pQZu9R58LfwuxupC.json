@@ -35,16 +35,16 @@
         "configuration": {
           "items": [
             {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.MADIXU9NNQZoY5ig"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.5lcVCvdDkXiYbcdh"
+            },
+            {
               "optional": true,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1AYXxqnUjUF21d4A"
-            },
-            {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.yz5c3zPzbd0Hm5AS"
-            },
-            {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.LIs40RaWLZ69DEq7"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sjeZi5LVFrXfPzm8"
             }
           ],
           "optional": false,
@@ -176,7 +176,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.VTE4lSBJtzwTaD79",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.AZwVmFKUMb5pW4pQ",
               "optional": false
             }
           ],
@@ -225,8 +225,12 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.wsw54bfwplUuTMBW"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pJvs9dJjrK1Y2J6A",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.muYi291eukEHmpby",
+              "optional": false
             }
           ],
           "optional": false,
@@ -266,7 +270,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.54dPxTxYuPzhDTjR",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Grz1u2lYUu2eK1zL",
               "optional": false
             }
           ],
@@ -284,8 +288,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pdjkfkXJzbZuzMYb"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.NM3SHOaBvClXkPQY",
+              "optional": false
             }
           ],
           "optional": false,
@@ -325,8 +329,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.c9gTZCy8shxNqV5h"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.njM20wxtyyBedwNH",
+              "optional": false
             }
           ],
           "optional": false,
@@ -343,8 +347,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.KbgNryO9SgnA84Ot"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xpXvSBCm4eQMSokt",
+              "optional": false
             }
           ],
           "optional": false,
@@ -384,8 +388,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3loqt6P1BBzFx4gu"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qXClHbK29bl6XA3N",
+              "optional": false
             }
           ],
           "optional": false,
@@ -425,8 +429,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ce6bKCxhnxDDA5Hp"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.35btpJbILCVKvm3a",
+              "optional": false
             }
           ],
           "optional": false,
@@ -466,8 +470,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.4L2Oo6e7CFJgwagF"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WZoiu4qMnMBreqbA",
+              "optional": false
             }
           ],
           "optional": false,
@@ -501,10 +505,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1739904706716,
-    "modifiedTime": 1740685256575,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741748557638,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "_key": "!items!pQZu9R58LfwuxupC"
 }

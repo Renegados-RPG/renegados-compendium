@@ -1,0 +1,107 @@
+{
+  "_id": "xpXvSBCm4eQMSokt",
+  "name": "Spell-Storing Item",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "9",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>11th-level artificer feature</i></p><p>You can now store a spell in an object. Whenever you finish a long rest, you can touch one <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">simple or martial weapon</a> or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:artificer=1,flstcast%20time:action=1,flstlevel:1=1~2=1\">artificer spell list</a> that requires 1 action to cast (you needn't have it prepared).</p><p>While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires @status[concentration], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Artificer 11",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "3RvH6mXq2JhlT62R": {
+        "_id": "3RvH6mXq2JhlT62R",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "spell-storing-item",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "QYv1DbAzL6iCEpHu",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!xpXvSBCm4eQMSokt"
+}

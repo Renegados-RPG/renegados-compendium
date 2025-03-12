@@ -1,6 +1,6 @@
 {
-  "_id": "c9gTZCy8shxNqV5h",
-  "name": "Magic Item Adept",
+  "_id": "qXClHbK29bl6XA3N",
+  "name": "Magic Item Savant",
   "type": "feat",
   "system": {
     "source": {
@@ -12,10 +12,10 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level artificer feature</i></p><p>You've achieved a profound understanding of how to use and make magic items:</p><ul class=\"rd__list\"><li class=\"rd__li \">You can attune to up to four magic items at once.</li><li class=\"rd__li \">If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</li></ul></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>14th-level artificer feature</i></p><p>Your skill with magic items deepens:</p><ul class=\"rd__list\"><li class=\"rd__li \">You can attune to up to five magic items at once.</li><li class=\"rd__li \">You ignore all class, race, spell, and level requirements on attuning to or using a magic item.</li></ul></div>",
       "chat": ""
     },
-    "requirements": "Artificer 10",
+    "requirements": "Artificer 14",
     "uses": {
       "max": "",
       "recovery": [],
@@ -28,7 +28,7 @@
     "properties": [],
     "advancement": [],
     "activities": {},
-    "identifier": "magic-item-adept",
+    "identifier": "magic-item-savant",
     "cover": null,
     "crewed": false,
     "enchant": {},
@@ -39,23 +39,23 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/commodities/treasure/case-red-silver.webp",
+  "img": "icons/equipment/neck/amulet-geometric-gold-green.webp",
   "flags": {},
   "effects": [
     {
-      "name": "Magic Item Adept",
-      "img": "icons/commodities/treasure/case-red-silver.webp",
-      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.c9gTZCy8shxNqV5h",
-      "_id": "Kawx2y83ppXanH8T",
+      "name": "Magic Item Savant",
+      "img": "icons/equipment/neck/amulet-geometric-gold-green.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qXClHbK29bl6XA3N",
+      "_id": "wmvOhRc1ey6hcepX",
       "type": "base",
       "system": {},
       "changes": [
         {
           "key": "system.attributes.attunement.max",
           "mode": 5,
-          "value": "4",
+          "value": "5",
           "priority": null
         }
       ],
@@ -87,24 +87,24 @@
         "coreVersion": "12.331",
         "systemId": "dnd5e",
         "systemVersion": "4.3.3",
-        "createdTime": 1739906886184,
-        "modifiedTime": 1740021916762,
+        "createdTime": 1740022027232,
+        "modifiedTime": 1740022042668,
         "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
       },
-      "_key": "!items.effects!c9gTZCy8shxNqV5h.Kawx2y83ppXanH8T"
+      "_key": "!items.effects!qXClHbK29bl6XA3N.wmvOhRc1ey6hcepX"
     }
   ],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740021446392,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 1800000,
-  "_key": "!items!c9gTZCy8shxNqV5h"
+  "sort": 0,
+  "_key": "!items!qXClHbK29bl6XA3N"
 }

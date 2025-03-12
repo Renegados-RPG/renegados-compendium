@@ -338,7 +338,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.dnd5e.classfeatures.80USV8ZFPIahpLd0",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.x7S3qx81vYWw8CGV",
               "optional": false
             }
           ],
@@ -731,7 +731,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741380243259,
-    "modifiedTime": 1741382998607,
+    "modifiedTime": 1741748608371,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 3125,

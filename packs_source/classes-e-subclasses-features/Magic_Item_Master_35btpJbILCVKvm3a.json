@@ -1,6 +1,6 @@
 {
-  "_id": "1AYXxqnUjUF21d4A",
-  "name": "Optional Rule: Firearm Proficiency",
+  "_id": "35btpJbILCVKvm3a",
+  "name": "Magic Item Master",
   "type": "feat",
   "system": {
     "source": {
@@ -12,10 +12,10 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p>The secrets of creating and operating gunpowder weapons have been discovered in various corners of the D&amp;D multiverse. If your Dungeon Master uses the rules on firearms in <a href=\"https://2014.5e.tools/book.html#DMG,9,firearms,0\">chapter 9</a> of the <a href=\"https://2014.5e.tools/book.html#DMG\">Dungeon Master's Guide</a> and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>18th-level artificer feature</i></p><p>You can now attune to up to six magic items at once.</p></div>",
       "chat": ""
     },
-    "requirements": "Artificer 1",
+    "requirements": "Artificer 18",
     "uses": {
       "max": "",
       "recovery": [],
@@ -28,7 +28,7 @@
     "properties": [],
     "advancement": [],
     "activities": {},
-    "identifier": "optional-rule-firearm-proficiency",
+    "identifier": "magic-item-master",
     "cover": null,
     "crewed": false,
     "enchant": {},
@@ -39,23 +39,23 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/weapons/guns/gun-pistol-brown.webp",
+  "img": "icons/commodities/tech/glass-electrode.webp",
   "flags": {},
   "effects": [
     {
-      "name": "Optional Rule: Firearm Proficiency",
-      "img": "systems/dnd5e/icons/svg/items/feature.svg",
-      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1AYXxqnUjUF21d4A",
-      "_id": "yOjNSSLuATATCTsD",
+      "name": "Magic Item Master",
+      "img": "icons/commodities/tech/glass-electrode.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.35btpJbILCVKvm3a",
+      "_id": "rlYII2TFhbGUidIM",
       "type": "base",
       "system": {},
       "changes": [
         {
-          "key": "system.traits.weaponProf.custom",
-          "mode": 2,
-          "value": "Armas de fogo",
+          "key": "system.attributes.attunement.max",
+          "mode": 5,
+          "value": "6",
           "priority": null
         }
       ],
@@ -87,24 +87,24 @@
         "coreVersion": "12.331",
         "systemId": "dnd5e",
         "systemVersion": "4.3.3",
-        "createdTime": 1739929542067,
-        "modifiedTime": 1739930497732,
+        "createdTime": 1740022127713,
+        "modifiedTime": 1740022138342,
         "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
       },
-      "_key": "!items.effects!1AYXxqnUjUF21d4A.yOjNSSLuATATCTsD"
+      "_key": "!items.effects!35btpJbILCVKvm3a.rlYII2TFhbGUidIM"
     }
   ],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740078363821,
-    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 2200000,
-  "_key": "!items!1AYXxqnUjUF21d4A"
+  "sort": 0,
+  "_key": "!items!35btpJbILCVKvm3a"
 }

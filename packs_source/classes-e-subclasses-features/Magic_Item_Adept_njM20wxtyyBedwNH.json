@@ -1,6 +1,6 @@
 {
-  "_id": "ce6bKCxhnxDDA5Hp",
-  "name": "Magic Item Master",
+  "_id": "njM20wxtyyBedwNH",
+  "name": "Magic Item Adept",
   "type": "feat",
   "system": {
     "source": {
@@ -12,10 +12,10 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p><i>18th-level artificer feature</i></p><p>You can now attune to up to six magic items at once.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level artificer feature</i></p><p>You've achieved a profound understanding of how to use and make magic items:</p><ul class=\"rd__list\"><li class=\"rd__li \">You can attune to up to four magic items at once.</li><li class=\"rd__li \">If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.</li></ul></div>",
       "chat": ""
     },
-    "requirements": "Artificer 18",
+    "requirements": "Artificer 10",
     "uses": {
       "max": "",
       "recovery": [],
@@ -28,7 +28,7 @@
     "properties": [],
     "advancement": [],
     "activities": {},
-    "identifier": "magic-item-master",
+    "identifier": "magic-item-adept",
     "cover": null,
     "crewed": false,
     "enchant": {},
@@ -39,23 +39,23 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/commodities/tech/glass-electrode.webp",
+  "img": "icons/commodities/treasure/case-red-silver.webp",
   "flags": {},
   "effects": [
     {
-      "name": "Magic Item Master",
-      "img": "icons/commodities/tech/glass-electrode.webp",
-      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ce6bKCxhnxDDA5Hp",
-      "_id": "rlYII2TFhbGUidIM",
+      "name": "Magic Item Adept",
+      "img": "icons/commodities/treasure/case-red-silver.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.njM20wxtyyBedwNH",
+      "_id": "Kawx2y83ppXanH8T",
       "type": "base",
       "system": {},
       "changes": [
         {
           "key": "system.attributes.attunement.max",
           "mode": 5,
-          "value": "6",
+          "value": "4",
           "priority": null
         }
       ],
@@ -87,24 +87,24 @@
         "coreVersion": "12.331",
         "systemId": "dnd5e",
         "systemVersion": "4.3.3",
-        "createdTime": 1740022127713,
-        "modifiedTime": 1740022138342,
+        "createdTime": 1739906886184,
+        "modifiedTime": 1740021916762,
         "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
       },
-      "_key": "!items.effects!ce6bKCxhnxDDA5Hp.rlYII2TFhbGUidIM"
+      "_key": "!items.effects!njM20wxtyyBedwNH.Kawx2y83ppXanH8T"
     }
   ],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740021446392,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 1900000,
-  "_key": "!items!ce6bKCxhnxDDA5Hp"
+  "sort": 0,
+  "_key": "!items!njM20wxtyyBedwNH"
 }

@@ -1,6 +1,6 @@
 {
-  "_id": "KbgNryO9SgnA84Ot",
-  "name": "Spell-Storing Item",
+  "_id": "WZoiu4qMnMBreqbA",
+  "name": "Soul of Artifice",
   "type": "feat",
   "system": {
     "source": {
@@ -12,10 +12,10 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p><em>11th-level artificer feature</em></p><p>You can now store a spell in an object. Whenever you finish a long rest, you can touch one <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">simple or martial weapon</a> or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:artificer=1,flstcast%20time:action=1,flstlevel:1=1~2=1\">artificer spell list</a> that requires 1 action to cast (you needn't have it prepared).</p><p>While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires @status[concentration], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>20th-level artificer feature</i></p><p>You have developed a mystical connection to your magic items, which you can draw on for protection:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain a +1 bonus to all saving throws per magic item you are currently attuned to.</li><li class=\"rd__li \">If you're reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.</li></ul></div>",
       "chat": ""
     },
-    "requirements": "Artificer 11",
+    "requirements": "Artificer 20",
     "uses": {
       "max": "",
       "recovery": [],
@@ -28,12 +28,13 @@
     "properties": [],
     "advancement": [],
     "activities": {
-      "WekbK9gPFy7Oq1rD": {
-        "_id": "WekbK9gPFy7Oq1rD",
+      "hUjqM0xyCuwa1oZY": {
+        "_id": "hUjqM0xyCuwa1oZY",
         "type": "utility",
         "activation": {
-          "type": "action",
+          "type": "reaction",
           "value": 1,
+          "condition": "If you're reduced to 0 hit points but not killed outright, you can use",
           "override": false
         },
         "consumption": {
@@ -56,7 +57,7 @@
         "target": {
           "template": {
             "contiguous": false,
-            "units": "ft"
+            "units": "m"
           },
           "affects": {
             "choice": false
@@ -75,7 +76,7 @@
         "sort": 0
       }
     },
-    "identifier": "spell-storing-item",
+    "identifier": "soul-of-artifice",
     "cover": null,
     "crewed": false,
     "enchant": {},
@@ -86,22 +87,22 @@
   },
   "ownership": {
     "default": 0,
-    "Zw9Q2ZNjr61CcpCW": 3
+    "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "img": "icons/magic/light/explosion-beam-impact-silhouette.webp",
   "flags": {},
   "effects": [],
-  "folder": "v7nqSImzmxROa4U8",
+  "folder": "QYv1DbAzL6iCEpHu",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1739906514263,
-    "modifiedTime": 1740078749859,
-    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+    "systemVersion": "4.3.5",
+    "createdTime": 1741748329315,
+    "modifiedTime": 1741748329315,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 2500000,
-  "_key": "!items!KbgNryO9SgnA84Ot"
+  "sort": 0,
+  "_key": "!items!WZoiu4qMnMBreqbA"
 }
