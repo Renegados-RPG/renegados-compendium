@@ -1,0 +1,60 @@
+{
+  "_id": "CMonVaEbz0c0ZLmj",
+  "name": "Destroy Undead",
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>Starting at 5th level, when an undead fails its saving throw against your @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.5A5j1GSjBfYzni7U]{Turn Undead} feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the table below.</p><table border=\"1\"><tbody><tr><td><p><strong>Cleric Level</strong></p></td><td><p><strong>Destroys Undead of CR...</strong></p></td></tr><tr><td><p>5th</p></td><td><p>1/2 or lower</p></td></tr><tr><td><p>8th</p></td><td><p>1 or lower</p></td></tr><tr><td><p>11th</p></td><td><p>2 or lower</p></td></tr><tr><td><p>14th</p></td><td><p>3 or lower</p></td></tr><tr><td><p>17th</p></td><td><p>4 or lower</p></td></tr></tbody></table>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Cleric 5",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "sear-undead",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/magic/death/skull-horned-worn-fire-blue.webp",
+  "effects": [],
+  "folder": "tTXIiVkwHcOPpmbO",
+  "sort": 100000,
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classfeatures.Item.NMy4piwXIpLjYbRE",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741747945882,
+    "modifiedTime": 1741747992858,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "_key": "!items!CMonVaEbz0c0ZLmj"
+}

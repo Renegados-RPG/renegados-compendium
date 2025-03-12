@@ -1,0 +1,60 @@
+{
+  "_id": "0Vo9usPBYRAWPGW5",
+  "name": "Cantrip Versatility",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "30",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>4th-level cleric @variantrule[optional class features|tce|optional feature]</i></p><p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:cleric=1\">cleric spell list</a>.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 4",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "cantrip-versatility",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/environment/people/cleric-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "tTXIiVkwHcOPpmbO",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741747802319,
+    "modifiedTime": 1741747802319,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!0Vo9usPBYRAWPGW5"
+}

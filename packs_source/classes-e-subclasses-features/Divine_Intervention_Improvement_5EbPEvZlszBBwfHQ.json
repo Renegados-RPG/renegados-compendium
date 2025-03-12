@@ -1,0 +1,60 @@
+{
+  "_id": "5EbPEvZlszBBwfHQ",
+  "name": "Divine Intervention Improvement",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "56",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 20th level, your call for intervention succeeds automatically, no roll required.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Cleric 20",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "divine-intervention-improvement",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/light/explosion-star-glow-silhouette.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "tTXIiVkwHcOPpmbO",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741747802319,
+    "modifiedTime": 1741748075722,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!5EbPEvZlszBBwfHQ"
+}

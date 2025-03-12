@@ -162,7 +162,11 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xzDg0UXKXYKKZxW3",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.vLCnllhjthzvLXm1",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7VhixBblGNp8psuh",
               "optional": false
             }
           ],
@@ -194,15 +198,15 @@
           "items": [
             {
               "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.5elqlcIyKpHM39LW"
-            },
-            {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.uwlmnyg0nojL0yk3"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QAtwyUavEMe6sOzn"
             },
             {
               "optional": true,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.KHjcQMgRMg04KjsM"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7w9ixMTDiLL9KSKP"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.5A5j1GSjBfYzni7U"
             }
           ],
           "optional": false,
@@ -219,8 +223,8 @@
         "configuration": {
           "items": [
             {
-              "optional": false,
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.vQ12zDiTru5UWDDY"
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.0Vo9usPBYRAWPGW5"
             }
           ],
           "optional": false,
@@ -236,7 +240,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.HMovB11gKvTFlcZ9",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CMonVaEbz0c0ZLmj",
               "optional": false
             }
           ],
@@ -300,7 +304,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.RX31lBhq1QSZxh9q",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qduecfZzF3CNvvMH",
               "optional": false
             }
           ],
@@ -387,7 +391,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.B4awdoTM8iqElc43",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.5EbPEvZlszBBwfHQ",
               "optional": false
             }
           ],
@@ -399,6 +403,37 @@
         "title": "Features",
         "hint": "",
         "_id": "JTgeK3twC0twcJFl"
+      },
+      {
+        "_id": "vLDkTMgod0IS4HJn",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["armor:lgt", "armor:med", "armor:shl"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "uyLXlhMnjMSHHdbs",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["weapon:sim"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
       }
     ],
     "startingEquipment": []
@@ -416,10 +451,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740746319185,
-    "modifiedTime": 1740765513665,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741748037973,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 50000,
   "_key": "!items!j305nxiwdQBxlty8"
