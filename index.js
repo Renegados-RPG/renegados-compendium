@@ -10,6 +10,7 @@ import * as compile from "./commands/compilePackSource.js";
 import * as extract from "./commands/extractPackSource.js";
 import * as parseSpells from "./commands/parseSpells.js";
 import * as parseSpellsList from "./commands/parseSpellsList.js";
+import * as findBrokenLinks from "./commands/findBrokenLinks.js";
 
 program.version("1.0.0").description("Renegados CLI");
 
@@ -20,6 +21,24 @@ program
     const spinner = ora("Compiling packs source").start();
     await compile.execute();
     spinner.succeed("Packs source compiled");
+  });
+
+program
+  .command("findBrokenLinks")
+  .description("Find broken links")
+  .action(async () => {
+    const spinner = ora("Finding broken links").start();
+    await findBrokenLinks.execute();
+    spinner.succeed("Broken links found");
+  });
+
+program
+  .command("clearFlags")
+  .description("Clear flags")
+  .action(async () => {
+    const spinner = ora("Clearing flags").start();
+    await clearFlags.execute();
+    spinner.succeed("Flags cleared");
   });
 
 program.action(() => {
@@ -36,6 +55,7 @@ program.action(() => {
           { name: "Clear flags", value: "clear-flags" },
           { name: "Parse spells list", value: "parse-spells-list" },
           { name: "Parse spells", value: "parse-spells" },
+          { name: "findBrokenLinks", value: "find-broken-links" },
           // { name: "View compendium", value: "view-compendium" },
         ],
       },
@@ -74,6 +94,11 @@ program.action(() => {
           spinner.text = "Parsing spells";
           await parseSpells.execute();
           spinner.succeed("Spells parsed");
+          break;
+        case "find-broken-links":
+          spinner.text = "Finding broken links";
+          await findBrokenLinks.execute();
+          spinner.succeed("Broken links found");
           break;
         default:
           break;

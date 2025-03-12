@@ -1,0 +1,60 @@
+{
+  "_id": "3RsOAzJCxuWuU6S5",
+  "name": "Sorcerous Versatility",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "65",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>4th-level sorcerer @variantrule[optional class features|tce|optional feature]</i></p><p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:</p><ul class=\"rd__list\"><li class=\"rd__li \">Replace one of the options you chose for the Metamagic feature with a different <a href=\"https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:mm=1\">Metamagic option</a> available to you.</li><li class=\"rd__li \">Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:sorcerer=1\">sorcerer spell list</a>.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 4",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "sorcerous-versatility",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/symbols/triangle-glowing-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "TabVeyu4qWNM6omD",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741746243368,
+    "modifiedTime": 1741746243368,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!3RsOAzJCxuWuU6S5"
+}

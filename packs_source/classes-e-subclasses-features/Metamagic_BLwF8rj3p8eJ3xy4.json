@@ -1,0 +1,60 @@
+{
+  "_id": "BLwF8rj3p8eJ3xy4",
+  "name": "Metamagic",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.</p><p>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Careful Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Careful Spell.</span></span> <i>Cost: 1 Sorcery Point</i></p><p>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.</p></div><div data-roll-name-ancestor=\"Distant Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Distant Spell.</span></span> <i>Cost: 1 Sorcery Point</i></p><p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.</p><p>When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.</p></div><div data-roll-name-ancestor=\"Empowered Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Empowered Spell.</span></span> <i>Cost: 1 Sorcery Point</i></p><p>When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p><p>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.</p></div><div data-roll-name-ancestor=\"Extended Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Extended Spell.</span></span> <i>Cost: 1 Sorcery Point</i></p><p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours.</p></div><div data-roll-name-ancestor=\"Heightened Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Heightened Spell.</span></span> <i>Cost: 3 Sorcery Points</i></p><p>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.</p></div><div data-roll-name-ancestor=\"Quickened Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Quickened Spell.</span></span> <i>Cost: 2 Sorcery Points</i></p><p>When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.</p></div><div data-roll-name-ancestor=\"Subtle Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"7\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Subtle Spell.</span></span> <i>Cost: 1 Sorcery Point</i></p><p>When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.</p></div><div data-roll-name-ancestor=\"Twinned Spell\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"8\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p102\">Twinned Spell.</span></span> <i>Cost: 1–9 Sorcery Points</i></p><p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).</p><p>To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, @spell[magic missile] and @spell[scorching ray] aren't eligible, but @spell[ray of frost] and @spell[chromatic orb] are.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "99",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Sorcerer 3",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "metamagic",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/unholy/orb-colllecting-energy-green.webp",
+  "folder": "TabVeyu4qWNM6omD",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741746243368,
+    "modifiedTime": 1741746243368,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!BLwF8rj3p8eJ3xy4"
+}

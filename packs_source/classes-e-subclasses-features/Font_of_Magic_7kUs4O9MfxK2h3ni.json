@@ -1,0 +1,223 @@
+{
+  "_id": "7kUs4O9MfxK2h3ni",
+  "name": "Font of Magic",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.</p><div data-roll-name-ancestor=\"Sorcery Points\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p99\">Sorcery Points.</span></span> You have 2 sorcery points, and you gain one additional point every time you level up, to a maximum of 20 at level 20. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Flexible Casting\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p99\">Flexible Casting.</span></span> You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.</p><div data-roll-name-ancestor=\"Creating Spell Slots\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Creating Spell Slots.</span></span> You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Creating Spell Slots\"><caption>Creating Spell Slots</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Spell Slot Level</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Sorcery Point Cost</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">1st</td><td class=\"rd__th ve-col-6 ve-text-center \">2</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">2nd</td><td class=\"rd__th ve-col-6 ve-text-center \">3</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">3rd</td><td class=\"rd__th ve-col-6 ve-text-center \">5</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">4th</td><td class=\"rd__th ve-col-6 ve-text-center \">6</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">5th</td><td class=\"rd__th ve-col-6 ve-text-center \">7</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Converting a Spell Slot to Sorcery Points\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Converting a Spell Slot to Sorcery Points.</span></span> As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "99",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0,
+      "max": "@scale.sorcerer.sorcery-points"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Sorcerer 2",
+    "properties": [],
+    "activities": {
+      "EHLXN6WrPpxg0pRN": {
+        "type": "utility",
+        "name": "Regain Spell Slot",
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": true,
+            "max": "5"
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1 + @scaling + floor(@scaling / 3)",
+              "target": "",
+              "scaling": {
+                "mode": ""
+              }
+            },
+            {
+              "type": "spellSlots",
+              "value": "-1",
+              "target": "1",
+              "scaling": {
+                "mode": "level",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "count": "",
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": ""
+        },
+        "img": "systems/dnd5e/icons/svg/damage/force.svg",
+        "_id": "EHLXN6WrPpxg0pRN"
+      },
+      "72ZtIT83h5t5iHHC": {
+        "type": "utility",
+        "name": "Regain Sorcery Points",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": true,
+            "max": "9"
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "spellSlots",
+              "value": "1",
+              "target": "1",
+              "scaling": {
+                "mode": "level",
+                "formula": ""
+              }
+            },
+            {
+              "type": "itemUses",
+              "value": "0 - @scaling",
+              "target": "",
+              "scaling": {
+                "mode": "amount",
+                "formula": ""
+              }
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "ft",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "count": "",
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "sort": 0,
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": ""
+        },
+        "img": "systems/dnd5e/icons/svg/activity/heal.svg",
+        "_id": "72ZtIT83h5t5iHHC"
+      }
+    },
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "font-of-magic",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+  "folder": "TabVeyu4qWNM6omD",
+  "_stats": {
+    "compendiumSource": "Item.7kUs4O9MfxK2h3ni",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741746243368,
+    "modifiedTime": 1741747129147,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!7kUs4O9MfxK2h3ni"
+}

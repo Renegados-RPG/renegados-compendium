@@ -1,0 +1,22 @@
+{
+  "name": "Metamagic",
+  "sorting": "a",
+  "folder": "TabVeyu4qWNM6omD",
+  "type": "Item",
+  "_id": "dVi2pGadvf6tlWzq",
+  "sort": 100000,
+  "color": "#e5962d",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741746794331,
+    "modifiedTime": 1741746811232,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "description": "",
+  "_key": "!folders!dVi2pGadvf6tlWzq"
+}

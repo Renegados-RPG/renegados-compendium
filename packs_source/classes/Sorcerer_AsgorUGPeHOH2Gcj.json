@@ -269,11 +269,11 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.gk2UIFuRsKm57KXI",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FB18IMrEj9PZikoo",
               "optional": false
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.zrfaeUiQUcGkkxrm",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.NdquJpjy7cnifhlT",
               "optional": false
             }
           ],
@@ -298,7 +298,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qw2TBYDMQ5wdCmlp",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7kUs4O9MfxK2h3ni",
               "optional": false
             }
           ],
@@ -323,7 +323,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.fOG5R1V67iu7D5dn",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.BLwF8rj3p8eJ3xy4",
               "optional": false
             }
           ],
@@ -408,31 +408,34 @@
           "type": "feat",
           "pool": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.PHIdDNo9Xnc5qPgV"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.zElYrOcCFFMhB6Xl"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.uxBk4LSYrblhlTWF"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.DZpAa3LzMNBexbmX"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.X2WhbZ0nEGkwzDHG"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.IWpe0Y9uAStHGiH1"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ijz9nRMwtMK9PX2n"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.tQxlKyAx9sgPrbgj"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WkzsQtKHmhTG58fa"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.tNG2qi9zhmXEkecA"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.nb8tF45TVPg0PXN5"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.nViGf6bZ6DQAJhkw"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jqziItCwuANimc6f"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.pTlKqXxARwswAvlu"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.mJCTBfLm9NS3GBKF"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.fXa0DMhoVLtbBu9l"
             },
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.vdMjsgF1cW0wC0XT"
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.r55sLKoSbArbuRFU"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Qb391hakCfmH4w8p"
             }
           ],
           "spell": {
@@ -462,8 +465,8 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sIJRCAMYJK6sbvFB",
-              "optional": false
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3RsOAzJCxuWuU6S5"
             }
           ],
           "optional": false,
@@ -488,7 +491,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3uRM9npLEgboN25m",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.itdx9qeFLWYJBUl4",
               "optional": false
             }
           ],
@@ -583,7 +586,7 @@
         "configuration": {
           "items": [
             {
-              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jBbNWn2eR4mIgQ3B",
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.66CJPLOtWlHBpDH8",
               "optional": false
             }
           ],
@@ -620,10 +623,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740765594086,
-    "modifiedTime": 1740791741467,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741747206885,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 25000,
   "_key": "!items!AsgorUGPeHOH2Gcj"

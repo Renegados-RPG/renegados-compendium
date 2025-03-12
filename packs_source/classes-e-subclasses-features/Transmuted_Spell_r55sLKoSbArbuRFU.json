@@ -1,0 +1,135 @@
+{
+  "_id": "r55sLKoSbArbuRFU",
+  "name": "Transmuted Spell",
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "metamagic"
+    },
+    "requirements": "Sorcerer 3",
+    "properties": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "utility",
+        "activation": {
+          "type": "special",
+          "value": null,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7kUs4O9MfxK2h3ni",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "",
+          "units": "",
+          "special": "",
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": ""
+          },
+          "affects": {
+            "count": "",
+            "type": "",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true,
+          "override": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0
+      }
+    },
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "subtle-spell",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/magic/symbols/runes-triangle-orange.webp",
+  "effects": [],
+  "folder": "dVi2pGadvf6tlWzq",
+  "sort": 350000,
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.fXa0DMhoVLtbBu9l",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741746856403,
+    "modifiedTime": 1741747032880,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "_key": "!items!r55sLKoSbArbuRFU"
+}
