@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Elf (wood)</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the @spell[longstrider] and @spell[pass without trace] spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.</p></div>\n\t\t\t</div></div>",
+      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Elf (wood)</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the @UUID[Compendium.renegados-compendium.magias.Item.qqCFpyzXumPhmCXC] and @UUID[Compendium.renegados-compendium.magias.Item.OB6eQ7SOeB5eJzVj] spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells.</p></div>\n\t\t\t</div></div>",
       "chat": ""
     },
     "requirements": "Elf (wood)",

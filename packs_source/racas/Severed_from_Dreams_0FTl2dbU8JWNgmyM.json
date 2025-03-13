@@ -11,7 +11,7 @@
       "max": ""
     },
     "description": {
-      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Severed from Dreams\" class=\"rd__b  rd__b--3\"><p>Kalashtar sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like @spell[dream], but not to spells and other magical effects that put you to sleep, like @spell[sleep].</p></div></div></div>",
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Severed from Dreams\" class=\"rd__b  rd__b--3\"><p>Kalashtar sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like @UUID[Compendium.renegados-compendium.magias.Item.dUu2htJQoxRXgxD2], but not to spells and other magical effects that put you to sleep, like @UUID[Compendium.renegados-compendium.magias.Item.xiVu2QFfxIV6ivaY].</p></div></div></div>",
       "chat": ""
     },
     "identifier": "severed-from-dreams",
