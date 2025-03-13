@@ -1,0 +1,56 @@
+{
+  "name": "Brave",
+  "type": "feat",
+  "_id": "dI8vfCiUPsv19DtW",
+  "img": "icons/magic/control/control-influence-rally-purple.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Brave\" class=\"rd__b  rd__b--3\"><p>You have advantage on saving throws against being &amp;Reference[condition=frightened].</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "brave",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Tr1ELRMZVoS0nXnH",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.DrdLzaS81uqjJq4X",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741442634374,
+    "modifiedTime": 1741442634595,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!dI8vfCiUPsv19DtW"
+}

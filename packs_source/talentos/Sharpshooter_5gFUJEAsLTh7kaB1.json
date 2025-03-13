@@ -1,0 +1,60 @@
+{
+  "_id": "5gFUJEAsLTh7kaB1",
+  "name": "Sharpshooter",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "170",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><hr /><div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.</li><li class=\"rd__li \">Your ranged weapon attacks ignore &amp;Reference[rule=halfcover]{half cover} and &amp;Reference[rule=Cover]{three-quarters cover}.</li><li class=\"rd__li \">Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.</li></ul></div>\n\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "sharpshooter",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "modules/plutonium/media/icon/feat/phb-sharpshooter.webp",
+  "flags": {},
+  "effects": [],
+  "folder": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741491208330,
+    "modifiedTime": 1741491208330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "_key": "!items!5gFUJEAsLTh7kaB1"
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "iNYGSPUr72l2y0fe",
+  "name": "Blind Fighting",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "41",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You have &amp;Reference[rule=blindsight] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind &amp;Reference[rule=totalcover]{total cover}, even if you're &amp;Reference[condition=blinded] or in darkness. Moreover, you can see an &amp;Reference[condition=invisible] creature within that range, unless the creature successfully hides from you.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "fightingStyle"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "blind-fighting",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+  "flags": {},
+  "effects": [
+    {
+      "name": "Blind Fighting",
+      "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+      "origin": "Item.IBwl0GgGlvvLfF51",
+      "_id": "DK4Fi2S1QMmCDJzr",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.senses.blindsight",
+          "mode": 2,
+          "value": "3",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!iNYGSPUr72l2y0fe.DK4Fi2S1QMmCDJzr"
+    }
+  ],
+  "folder": "159EPyqZTcus1HNJ",
+  "_stats": {
+    "compendiumSource": "Item.IBwl0GgGlvvLfF51",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741448652856,
+    "modifiedTime": 1741448652949,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 300000,
+  "_key": "!items!iNYGSPUr72l2y0fe"
+}

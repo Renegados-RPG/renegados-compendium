@@ -1,0 +1,66 @@
+{
+  "name": "Explorador Natural",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>Você está particularmente familiarizado com um tipo de terreno natural, sendo capaz de viajar e sobreviver quando se encontrar nele. Escolha um tipo de terreno favorito: ártico, campo, litoral, deserto, floresta, montanha, pântano ou a Umbreterna. Ao realizar um teste de Inteligência ou Sabedoria relacionado ao seu terreno favorito, e estiver usando uma perícia na qual você é proficiente, seu bônus de proficiência é dobrado.</p><p>Ao viajar por uma hora ou mais no seu terreno favorito, você ganha os benefícios a seguir:</p><ul><li>Terreno difícil não atrasa a viagem do seu grupo.</li><li>Seu grupo não se perde, exceto por meios mágicos.</li><li>Mesmo quando estiver engajado em outra atividade enquanto viaja (forrageando, guiando ou rastreando), você se mantém alerta ao perigo.</li><li>Se estiver viajando sozinho, você pode mover-se furtivamente em ritmo normal.</li><li>Ao forragear, você encontra duas vezes mais comida do que normalmente encontraria.</li><li>Ao rastrear outras criaturas, você também descobre seus tamanhos, há quanto tempo passaram pela área, e seu número exato.</li></ul><p>Você escolhe terrenos favoritos adicionais no 6° e 10° níveis.</p><section class=\"secret\" id=\"secret-xtmITx8xwrAenwFl\"><p><strong>Nota do Foundry</strong></p><p>Se for útil, edite manualmente esta entrada e anote suas escolhas aqui:</p><ul><li><em>1º nível</em></li><li><em>6º nível</em></li><li><em>10º nível</em></li></ul></section>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Ranger 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "deft-explorer",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Natural Explorer"
+    }
+  },
+  "img": "icons/magic/nature/tree-roots-glow-yellow.webp",
+  "effects": [],
+  "folder": "D4UUOT1WNNvEwE3g",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classfeatures.Item.8fbZt2Qh7ZttwIan",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741449384082,
+    "modifiedTime": 1741449384198,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "U6EDBcadddZ03OwL",
+  "sort": 125000,
+  "_key": "!items!U6EDBcadddZ03OwL"
+}

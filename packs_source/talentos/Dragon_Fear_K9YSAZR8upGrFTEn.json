@@ -1,0 +1,113 @@
+{
+  "_id": "K9YSAZR8upGrFTEn",
+  "name": "Dragon Fear",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "74",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Dragonborn</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When angered, you radiate menace. You gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Increase your Strength, Constitution, or Charisma by 1, to a maximum of 20.</li><li class=\"rd__li \">Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC <span class=\"rd__dc\">8</span> + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes &amp;Reference[condition=frightened] of you for 1 minute. If the &amp;Reference[condition=frightened] target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.</li></ul></div>\n\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "Dragonborn",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "fbdpueaAxI68ih1K": {
+        "_id": "fbdpueaAxI68ih1K",
+        "type": "save",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "initial"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "dragon-fear",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "modules/plutonium/media/icon/feat/xge-dragon-fear.webp",
+  "flags": {},
+  "effects": [],
+  "folder": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741491208330,
+    "modifiedTime": 1741491208330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "_key": "!items!K9YSAZR8upGrFTEn"
+}

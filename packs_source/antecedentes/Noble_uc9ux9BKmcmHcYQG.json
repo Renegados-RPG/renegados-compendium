@@ -115,14 +115,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "PHB",
-      "hash": "noble_phb",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/settlement/house-manor.webp",
   "folder": "Eg5hNnMyCV8GvjPP",

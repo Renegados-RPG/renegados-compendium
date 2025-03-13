@@ -1,0 +1,187 @@
+{
+  "_id": "H95oZ49t2AecOeLp",
+  "name": "Unarmed Fighting",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "42",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Your unarmed strikes can deal bludgeoning damage equal to [[/damage 1d6]] + your Strength modifier on a hit. If you aren't wielding any weapons or a @item[shield|phb] when you make the attack roll, the [[/damage d6]] becomes a [[/damage d8]].</p><p>At the start of each of your turns, you can deal [[/damage 1d4 type=bludgeoning]] damage to one creature &amp;Reference[condition=grappled] by you.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "fightingStyle"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "fK5Dfk12dspKv1WX": {
+        "_id": "fK5Dfk12dspKv1WX",
+        "type": "damage",
+        "name": "Damage: 1d6 Bludgeoning Damage",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "@abilities.str.mod",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "x4JH2FXQhTyTqpT0": {
+        "_id": "x4JH2FXQhTyTqpT0",
+        "type": "damage",
+        "name": "Damage: 1d4 Bludgeoning Damage",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 4,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "unarmed-fighting",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "159EPyqZTcus1HNJ",
+  "_stats": {
+    "compendiumSource": "Item.E4qDPlTHNvwtle0r",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741448798004,
+    "modifiedTime": 1741448798099,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 150000,
+  "_key": "!items!H95oZ49t2AecOeLp"
+}

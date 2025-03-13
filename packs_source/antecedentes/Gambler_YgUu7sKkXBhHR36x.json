@@ -134,14 +134,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "AI",
-      "hash": "gambler_ai",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/sundries/gaming/dice-pair-white-green.webp",
   "folder": "ePn97HMHIA5xe0f2",

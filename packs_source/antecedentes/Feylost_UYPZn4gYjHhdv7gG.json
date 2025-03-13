@@ -170,14 +170,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "WBtW",
-      "hash": "feylost_wbtw",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/wilderness/tree-oak.webp",
   "folder": "2AAKfVSWpuXtVPzR",

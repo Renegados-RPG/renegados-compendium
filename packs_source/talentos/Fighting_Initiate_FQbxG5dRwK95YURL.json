@@ -1,0 +1,60 @@
+{
+  "_id": "FQbxG5dRwK95YURL",
+  "name": "Fighting Initiate",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "80",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Proficiency with a martial weapon</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Your martial training has helped you develop a particular style of fighting. As a result, you learn one <a href=\"https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:fs%3af=1\">Fighting Style</a> option of your choice from the fighter class. If you already have a style, the one you choose must be different.</p><p>Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one from the fighter class that you don't have.</p></div>\n\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "Proficiency with a martial weapon",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "fighting-initiate",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741491208330,
+    "modifiedTime": 1741491208330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "_key": "!items!FQbxG5dRwK95YURL"
+}

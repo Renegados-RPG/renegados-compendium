@@ -117,14 +117,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "PHB",
-      "hash": "folk%20hero_phb",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/people/infantry.webp",
   "folder": "EZ67HaSRr61yfXFr",

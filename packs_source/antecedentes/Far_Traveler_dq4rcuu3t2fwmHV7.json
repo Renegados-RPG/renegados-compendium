@@ -153,14 +153,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "SCAG",
-      "hash": "far%20traveler_scag",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/settlement/tent.webp",
   "folder": "BOEWIteFdmIChaHh",

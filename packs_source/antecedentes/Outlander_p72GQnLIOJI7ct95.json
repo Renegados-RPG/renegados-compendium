@@ -119,14 +119,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "PHB",
-      "hash": "outlander_phb",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/settlement/house-farmland-small.webp",
   "folder": "56XpxyBRAWEzXL8J",

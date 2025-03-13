@@ -1,0 +1,60 @@
+{
+  "_id": "2Syf6yh3R8GMm3rU",
+  "name": "Ritual Caster",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "169",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Intelligence or Wisdom 13 or higher</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.</p><p>When you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:bard=1,flstcomponents%20%26%20miscellaneous:ritual=1\">bard</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:cleric=1,flstcomponents%20%26%20miscellaneous:ritual=1\">cleric</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:druid=1,flstcomponents%20%26%20miscellaneous:ritual=1\">druid</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:sorcerer=1,flstcomponents%20%26%20miscellaneous:ritual=1\">sorcerer</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:warlock=1,flstcomponents%20%26%20miscellaneous:ritual=1\">warlock</a>, or <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:wizard=1,flstcomponents%20%26%20miscellaneous:ritual=1\">wizard</a>. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.</p><p>If you come across a spell in written form, such as a magical @item[spell scroll] or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.</p></div>\n\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "Intelligence or Wisdom 13 or higher",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "ritual-caster",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "modules/plutonium/media/icon/feat/phb-ritual-caster.webp",
+  "flags": {},
+  "effects": [],
+  "folder": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741491208330,
+    "modifiedTime": 1741491208330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "_key": "!items!2Syf6yh3R8GMm3rU"
+}

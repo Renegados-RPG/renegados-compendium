@@ -4,7 +4,7 @@
   "type": "race",
   "system": {
     "description": {
-      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Chromatic Ancestry\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Chromatic Ancestry.</strong></span> You have a chromatic dragon ancestor, granting you a special magical affinity. Choose one kind of dragon from the Chromatic Ancestry table. This determines the damage type for your other traits, as shown in the table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Chromatic Ancestry\"><caption>Chromatic Ancestry</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragon</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Damage Type</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Black</td><td class=\"rd__th ve-col-6 ve-text-center \">Acid</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Blue</td><td class=\"rd__th ve-col-6 ve-text-center \">Lightning</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Green</td><td class=\"rd__th ve-col-6 ve-text-center \">Poison</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Red</td><td class=\"rd__th ve-col-6 ve-text-center \">Fire</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">White</td><td class=\"rd__th ve-col-6 ve-text-center \">Cold</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Breath Weapon\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Breath Weapon.</strong></span> When you take the @action[Attack] action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 30-foot line that is 5 feet wide. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes [[/damage 1d10]] damage of the type associated with your Chromatic Ancestry. On a successful save, it takes half as much damage. This damage increases by [[/damage 1d10]] when you reach 5th level ([[/damage 2d10]]), 11th level ([[/damage 3d10]]), and 17th level ([[/damage 4d10]]).</p><p>You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Draconic Resistance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Draconic Resistance.</strong></span> You have resistance to the damage type associated with your Chromatic Ancestry.</p></div><div data-roll-name-ancestor=\"Chromatic Warding\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Chromatic Warding.</strong></span> Starting at 5th level, as an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can't do so again until you finish a long rest.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Languages.</strong></span> You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.</p></div></div><hr class=\"hr-1\" /><p>Dragonborn with chromatic ancestry claim the raw elemental power of chromatic dragons. The vibrant colors of black, blue, green, red, and white dragons gleam in those dragonborn's scaled skin and in the deadly energy of their breath weapons. Theirs is the raw elemental fury of the volcano, of biting arctic winds, and of raging lightning storms, as well as the subtle whisper of swamp and forest, toxic and corrosive.</p></div>",
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Pontuações de Habilidade</p></th><th class=\"ve-col-4 ve-text-center\"><p>Tamanho</p></th><th class=\"ve-col-4 ve-text-center\"><p>Velocidade</p></th></tr><tr><td class=\"ve-text-center\"><p>Escolha uma das opções: (a) escolha qualquer +2; escolha qualquer outra +1 (b) escolha três +1 diferentes</p></td><td class=\"ve-text-center\"><p>Médio</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Ancestralidade Cromática\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Ancestralidade Cromática.</strong></span> Você tem um ancestral dragão cromático, concedendo a você uma afinidade mágica especial. Escolha um tipo de dragão da tabela Ancestralidade Cromática. Isso determina o tipo de dano para seus outros traços, como mostrado na tabela.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Ancestralidade Cromática\"><caption>Ancestralidade Cromática</caption><thead><tr><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Dragão</th><th class=\"rd__th ve-col-6 ve-text-center \" data-rd-isroller=\"false\">Tipo de Dano</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-6 ve-text-center \">Preto</td><td class=\"rd__th ve-col-6 ve-text-center \">Ácido</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Azul</td><td class=\"rd__th ve-col-6 ve-text-center \">Relâmpago</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Verde</td><td class=\"rd__th ve-col-6 ve-text-center \">Veneno</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Vermelho</td><td class=\"rd__th ve-col-6 ve-text-center \">Fogo</td></tr><tr><td class=\"rd__th ve-col-6 ve-text-center \">Branco</td><td class=\"rd__th ve-col-6 ve-text-center \">Frio</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Bafo de Dragão\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Bafo de Dragão.</strong></span> Quando você realiza a ação @action[Ataque] em seu turno, você pode substituir um de seus ataques por uma exalação de energia mágica em uma linha de 9 metros que é 1,5 metros de largura. Cada criatura nessa área deve fazer um teste de salvaguarda de Destreza (CD = 8 + seu modificador de Constituição + seu bônus de proficiência). Em um teste falhado, a criatura sofre [[/damage 1d10]] de dano do tipo associado à sua Ancestralidade Cromática. Em um teste bem-sucedido, ela sofre metade do dano. Esse dano aumenta em [[/damage 1d10]] quando você atinge o nível 5 ([[/damage 2d10]]), 11º nível ([[/damage 3d10]]), e 17º nível ([[/damage 4d10]]).</p><p>Você pode usar seu Bafo de Dragão um número de vezes igual ao seu bônus de proficiência, e você recupera todos os usos gastos quando termina um descanso longo.</p></div><div data-roll-name-ancestor=\"Resistência Dracônica\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Resistência Dracônica.</strong></span> Você tem resistência ao tipo de dano associado à sua Ancestralidade Cromática.</p></div><div data-roll-name-ancestor=\"Proteção Cromática\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Proteção Cromática.</strong></span> A partir do nível 5, como uma ação, você pode canalizar sua energia dracônica para se proteger. Por 1 minuto, você se torna imune ao tipo de dano associado à sua Ancestralidade Cromática. Depois de usar esse traço, você não pode fazê-lo novamente até que termine um descanso longo.</p></div><div data-roll-name-ancestor=\"Línguas\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\"><strong>Línguas.</strong></span> Você pode falar, ler e escrever Comum e outra língua que você e seu Mestre escolham que seja apropriada para seu personagem.</p></div></div><hr class=\"hr-1\" /><p>Dragonborn com ancestralidade cromática reivindicam o poder elemental bruto dos dragões cromáticos. As cores vibrantes de dragões pretos, azuis, verdes, vermelhos e brancos brilham na pele escamosa desses dragonborn e na energia mortal de seus bafos de dragão. A deles é a fúria elemental bruta do vulcão, dos ventos árticos cortantes e das tempestades de raios furiosas, bem como o sussurro sutil do pântano e da floresta, tóxico e corrosivo.</p></div>",
       "chat": ""
     },
     "source": {
@@ -110,14 +110,14 @@
           "added": {},
           "replaced": {}
         },
-        "title": "Chromatic Ancestry",
+        "title": "Ancestrataria Cromática",
         "hint": ""
       },
       {
         "_id": "Q2vjHACxIHQEwZ2d",
         "type": "ScaleValue",
         "configuration": {
-          "identifier": "",
+          "identifier": "breath-weapon",
           "type": "dice",
           "distance": {
             "units": ""
@@ -146,7 +146,7 @@
           }
         },
         "value": {},
-        "title": "Breath Weapon",
+        "title": "Arma de Sopro",
         "hint": ""
       },
       {
@@ -164,7 +164,7 @@
         },
         "value": {},
         "level": 5,
-        "title": "Chromatic Warding",
+        "title": "Aviso Cromático",
         "hint": ""
       }
     ],
@@ -183,9 +183,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740621324938,
-    "modifiedTime": 1740701456471,
+    "modifiedTime": 1741587682521,
     "lastModifiedBy": "QPo7Cd77aeIzDkPq"
   },
   "sort": 100000,

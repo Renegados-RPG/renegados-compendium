@@ -1,0 +1,210 @@
+{
+  "_id": "yDKqxJkmCfoPoKfs",
+  "name": "Tiefling (Fierna)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1</p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>9 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Age.</span> Tieflings mature at the same rate as humans but live a few years longer.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> Tieflings are about the same size and build as humans. Your size is Medium.</p></div><div data-roll-name-ancestor=\"Darkvision\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Darkvision.</span> Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p></div><div data-roll-name-ancestor=\"Hellish Resistance\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Hellish Resistance.</span> You have resistance to fire damage.</p></div><div data-roll-name-ancestor=\"Legacy of Phlegethos\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Legacy of Phlegethos.</span> You know the @spell[friends] cantrip. When you reach 3rd level, you can cast the @spell[charm person] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the @spell[suggestion] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and Infernal.</p></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>A master manipulator, Fierna grants tieflings tied to her forceful personalities.</p></div></div><hr class=\"rd__hr rd__hr--section\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus-overlord of the Nine Hells-into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.</p><div data-roll-name-ancestor=\"Infernal Bloodline\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner\">Infernal Bloodline</span></h3><p>Tieflings are derived from human bloodlines, and in the broadest possible sense, they still look human. However, their infernal heritage has left a clear imprint on their appearance. Tieflings have large horns that take any of a variety of shapes - some have curling horns like a ram, others have straight and tall horns like a gazelle's, and some spiral upward like an antelopes' horns. They have thick tails, four to five feet long, which lash or coil around their legs when they get upset or nervous. Their canine teeth are sharply pointed, and their eyes are solid colors black, red, white, silver, or gold with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include various shades of red. Their hair, cascading down from behind their horns, is usually dark, from black or brown to dark red, blue, or purple.</p></div><div data-roll-name-ancestor=\"Self-Reliant and Suspicious\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner\">Self-Reliant and Suspicious</span></h3><p>Tieflings subsist in small minorities found mostly in human cities or towns, often in the roughest quarters of those places, where they grow up to be swindlers, thieves or crime lords. Sometimes they live among other minority populations in enclaves where they are treated with more respect.</p><p>Lacking a homeland, tieflings know that they have to make their own way in the world and that they have to be strong to survive. They are not quick to trust anyone who claims to be a friend, but when a tiefling's companions demonstrate that they trust him or her, a tiefling learns to extend the same trust to them. And once a tiefling gives someone loyalty, the tiefling is a friend or ally for life.</p></div><div data-roll-name-ancestor=\"Tiefling Names\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner\">Tiefling Names</span></h3><p>Tiefling names fall into three broad categories. Tieflings born into another culture typically have names reflective of that culture. Some have names derived from the infernal language passed down through generations, and reflect their fiendish heritage. And some younger tieflings striving to find a place in the world, adopt a name that signifies a virtue or other concept and then try to embody that concept. For some, the chosen name is a quest. For others, its a grim destiny.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Male Infernal Names:\"><span class=\"bold rd__list-item-name\">Male Infernal Names:</span> Akmenos, Amnon, Harahas, Ekernon, Tados, Kairon, Leucis, Melech, Morthos, Pelaios, Skamos, Therai</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Female Infernal Names:\"><span class=\"bold rd__list-item-name\">Female Infernal Names:</span> Akra, Anakis, Bryseis, Criella, Ea, Kallista, Lerissa, Makaria, Nemeia, Phelaia, Rieta</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Virtue Names:\"><span class=\"bold rd__list-item-name\">Virtue Names:</span> Art, Carrion, Chant, Creed, Despair, Fear, Glory, Hope, Ideal, Music, Nowhere, Poetry, Quest, Random, Reverence, Sorrow, Torment, Weary</p></li></ul></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Mutual Mistrust\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"10\">Mutual Mistrust</span></h4><p>People tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. Shopkeepers keep a close eye on their goods when tieflings enter their stores, the town watch might follow a tiefling around for a while, and demagogues blame tieflings for strange happenings. The reality, though, is that a tiefling's bloodline doesn't affect his or her personality to any great degree. Years of dealing with mistrust does leave its mark on most tieflings, and they respond to it in different ways. Some choose to live up to the wicked stereotype, but others are virtuous. Most are simply very aware of how people respond to them. After dealing with this mistrust throughout youth, a tiefling often develops the ability to overcome prejudice through charm or intimidation.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "MTF",
+      "page": "21",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 9,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "tiefling",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": 18,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "h8xa1eqkbKThJrxc",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "M0ZVhnj04n5og6Zl",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["med"]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "i4KNRcDMab9ZBYJX",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["languages:standard:common", "languages:exotic:infernal"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "TIf2wXX3R4JRMRCv",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["dr:fire"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Hellish Resistance",
+        "hint": ""
+      },
+      {
+        "_id": "Hyg1ukbaJCkXhwLl",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.naK1Orjdev6Yyn1R"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Legacy of Phlegethos",
+        "hint": ""
+      },
+      {
+        "_id": "2vz6EtOfXab0EBfo",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.gNj3nFqfW6kVWnXh"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Legacy of Phlegethos",
+        "hint": ""
+      },
+      {
+        "_id": "lW5wCFHDHRPdAy1z",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.WME5Mgx2jRoKmsRC"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "prepared",
+            "uses": {
+              "max": "1",
+              "per": "lr",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Legacy of Phlegethos",
+        "hint": ""
+      }
+    ],
+    "identifier": "tiefling-fierna"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/creatures/unholy/demon-female-succubus-orange.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "33299I6DkkhEXaIA",
+  "_stats": {
+    "compendiumSource": "Item.BESIClRYHylzS9DY",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741443776086,
+    "modifiedTime": 1741445915458,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 125000,
+  "_key": "!items!yDKqxJkmCfoPoKfs"
+}

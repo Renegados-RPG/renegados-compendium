@@ -42,14 +42,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "items.html",
-      "source": "VRGR",
-      "hash": "monster%20hunter's%20pack_vrgr",
-      "propDroppable": "item"
-    }
-  },
+  "flags": {},
   "effects": [],
   "_stats": {
     "compendiumSource": "Item.x2z4MJ7zOHzhvlP7",

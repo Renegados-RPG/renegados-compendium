@@ -129,14 +129,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "VRGR",
-      "hash": "haunted%20one_vrgr",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
   "folder": "op2ff8Z4ipgoRu9J",

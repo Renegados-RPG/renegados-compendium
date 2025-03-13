@@ -85,14 +85,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "GoS",
-      "hash": "smuggler_gos",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/equipment/head/hood-purple-mask.webp",
   "folder": "QxAREGNDBH5MOUtt",

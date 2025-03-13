@@ -94,14 +94,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "VRGR",
-      "hash": "investigator_vrgr",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/sundries/misc/pipe-wooden-straight-brown.webp",
   "folder": "IWwCTHZXgLcjHQvE",

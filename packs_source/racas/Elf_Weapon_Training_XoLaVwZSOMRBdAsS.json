@@ -1,0 +1,56 @@
+{
+  "name": "Elf Weapon Training",
+  "type": "feat",
+  "_id": "XoLaVwZSOMRBdAsS",
+  "img": "icons/weapons/daggers/dagger-bone-barbed.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Elf Weapon Training\" class=\"rd__b  rd__b--3\"><p>You have proficiency with the @item[longsword|phb], @item[shortsword|phb], @item[shortbow|phb], and @item[longbow|phb].</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "elf-weapon-training",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "D6SjNKJuAvH6Jbu0",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.4kX7ZhuWRdM1WD4j",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741393908160,
+    "modifiedTime": 1741393908434,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!XoLaVwZSOMRBdAsS"
+}

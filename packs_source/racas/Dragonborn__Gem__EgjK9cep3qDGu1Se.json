@@ -109,14 +109,14 @@
           "added": {},
           "replaced": {}
         },
-        "title": "Chromatic Ancestry",
+        "title": "Ancestrataria Cromática",
         "hint": ""
       },
       {
         "_id": "Q2vjHACxIHQEwZ2d",
         "type": "ScaleValue",
         "configuration": {
-          "identifier": "",
+          "identifier": "breath-weapon",
           "type": "dice",
           "distance": {
             "units": ""
@@ -145,7 +145,7 @@
           }
         },
         "value": {},
-        "title": "Breath Weapon",
+        "title": "Arma de Sopro",
         "hint": ""
       },
       {
@@ -163,7 +163,7 @@
         },
         "value": {},
         "level": 0,
-        "title": "Feature",
+        "title": "Funcionalidade",
         "hint": ""
       },
       {
@@ -181,7 +181,7 @@
         },
         "value": {},
         "level": 5,
-        "title": "Feature",
+        "title": "Funcionalidade",
         "hint": ""
       }
     ],
@@ -200,9 +200,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740622557595,
-    "modifiedTime": 1740677247422,
+    "modifiedTime": 1741587611410,
     "lastModifiedBy": "QPo7Cd77aeIzDkPq"
   },
   "_id": "EgjK9cep3qDGu1Se",

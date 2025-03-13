@@ -1,0 +1,146 @@
+{
+  "_id": "lKyCyvmThrMaOZf8",
+  "name": "Halfling (Ghostwise)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p>Escolha uma das: (a) Escolha qualquer +2; escolha qualquer outra +1 (b) Escolha três diferentes +1</p></td><td class=\"ve-text-center\"><p>Small</p></td><td class=\"ve-text-center\"><p>7.5 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Age.</span> A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.</p></div><div data-roll-name-ancestor=\"Lucky\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Lucky.</span> When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p></div><div data-roll-name-ancestor=\"Brave\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Brave.</span> You have advantage on saving throws against being &amp;Reference[condition=frightened].</p></div><div data-roll-name-ancestor=\"Halfling Nimbleness\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Halfling Nimbleness.</span> You can move through the space of any creature that is of a size larger than yours.</p></div><div data-roll-name-ancestor=\"Languages\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Languages.</span> You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.</p></div><div data-roll-name-ancestor=\"Silent Speech\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Silent Speech.</span> You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.</p></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><div class=\"rd__b-special rd__b-inset\"><p>Ghostwise halflings trace their ancestry back to a war among halfling tribes that sent their ancestors into flight from Luiren. Ghostwise halflings are the rarest of the hin, found only in the Chondalwood and a few other isolated forests, clustered in tight-knit clans.</p><p>Many ghostwise clans select a natural landmark as the center of their territory, and members carry a piece of that landmark with them at all times. Clan warriors known as nightgliders bond with and ride giant owls as mounts.</p><p>Because these folk are clannish and mistrustful of outsiders, ghostwise halfling adventurers are rare. Ask your DM if you can play a member of this subrace, which has the halfling traits in the Player's Handbook, plus the listed subrace traits.</p></div></div></div><hr class=\"rd__hr rd__hr--section\" /><div class=\"rd__b  rd__b--0\"><div class=\"rd__b  rd__b--1\"><p>The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along a dirt road or a raft floating downriver.</p><div data-roll-name-ancestor=\"Small and Practical\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner\">Small and Practical</span></h3><p>The diminutive halflings survive in a world full of larger creatures by avoiding notice or, barring that, avoiding offense. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries in the shadow of empires and on the edges of wars and political strife. They are inclined to be stout, weighing between 40 and 45 pounds.</p><p>Halflings' skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and mustaches even more so. They like to wear simple, comfortable, and practical clothes, favoring bright colors.</p><p>Halfling practicality extends beyond their clothing. They're concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest of halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem, and have little patience for dithering.</p></div><div data-roll-name-ancestor=\"Kind and Curious\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner\">Kind and Curious</span></h3><p>Halflings are an affable and cheerful people. They cherish the bonds of family and friendship as well as the comforts of hearth and home, harboring few dreams of gold or glory. Even adventurers among them usually venture into the world for reasons of community, friendship, wanderlust, or curiosity. They love discovering new things, even simple things, such as an exotic food or an unfamiliar style of clothing.</p><p>Halflings are easily moved to pity and hate to see any living thing suffer. They are generous, happily sharing what they have even in lean times.</p></div><div data-roll-name-ancestor=\"Blend into the Crowd\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner\">Blend into the Crowd</span></h3><p>Halflings are adept at fitting into a community of humans, dwarves, or elves, making themselves valuable and welcome. The combination of their inherent stealth and their unassuming nature helps halflings to avoid unwanted attention.</p><p>Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.</p></div><div data-roll-name-ancestor=\"Pastoral Pleasantries\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner\">Pastoral Pleasantries</span></h3><p>Most halflings live in small, peaceful communities with large farms and well-kept groves. They rarely build kingdoms of their own or even hold much land beyond their quiet shires. They typically don't recognize any sort of halfling nobility or royalty, instead looking to family elders to guide them. Families preserve their traditional ways despite the rise and fall of empires.</p><p>Many halflings live among other races, where the halflings' hard work and loyal outlook offer them abundant rewards and creature comforts. Some halfling communities travel as a way of life, driving wagons or guiding boats from place to place and maintaining no permanent home.</p></div><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"Affable and Positive\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"12\">Affable and Positive</span></h4><p>Halfling try to get along with everyone else and are loath to make sweeping generalizations-especially negative ones.</p><div data-roll-name-ancestor=\"Dwarves\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Dwarves.</span> \"Dwarves make loyal friends, and you can count on them to keep their word. But would it hurt them to smile once in a while?\"</p></div><div data-roll-name-ancestor=\"Elves\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Elves.</span> \"They're so beautiful! Their faces, their music, their grace and all. It's like they stepped out of a wonderful dream. But there's no telling what's going on behind their smiling faces-surely more than they ever let on.\"</p></div><div data-roll-name-ancestor=\"Humans\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Humans.</span> \"Humans are a lot like us, really. At least some of them are. Step out of the castles and keeps, go talk to the farmers and herders and you'll find good, solid folk. Not that there's anything wrong with the barons and soldiers - you have to admire their conviction. And by protecting their own lands, they protect us as well.\"</p></div></div><div data-roll-name-ancestor=\"Exploring Opportunities\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"16\"><span class=\"entry-title-inner\">Exploring Opportunities</span></h3><p>Halflings usually set out on the adventurer's path to defend their communities, support their friends, or explore a wide and wonder-filled world. For them, adventuring is less a career than an opportunity or sometimes a necessity.</p></div><div data-roll-name-ancestor=\"Halfling Names\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"17\"><span class=\"entry-title-inner\">Halfling Names</span></h3><p>A halfling has a given name, a family name, and possibly a nickname. Family names are often nicknames that stuck so tenaciously they have been passed down through the generations.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Male Names:\"><span class=\"bold rd__list-item-name\">Male Names:</span> Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Female Names:\"><span class=\"bold rd__list-item-name\">Female Names:</span> Andry, Bree, Callie, Cora, Euphemia, Jillian, Kithri, Lavinia, Lidda, Merla, Nedda, Paela, Portia, Seraphina, Shaena, Trym, Vani, Verna</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Family Names:\"><span class=\"bold rd__list-item-name\">Family Names:</span> Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough</p></li></ul></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "110",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 7.5,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "halfling",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "r0tdBJBvG9QNQP3y",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 3,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "tLv6NObq0MvMqd7Q",
+        "type": "Size",
+        "configuration": {
+          "sizes": ["sm"]
+        },
+        "value": {
+          "size": "sm"
+        },
+        "level": 0,
+        "title": ""
+      },
+      {
+        "_id": "1PC4cWrvOzu1D8qx",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["languages:standard:common", "languages:standard:halfling"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 0,
+        "title": "Idioma",
+        "hint": ""
+      },
+      {
+        "_id": "sRUVlqq0MxMZUBFo",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.dI8vfCiUPsv19DtW",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.hib3Uy8dJamFLs05",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.e6Ty6xHNzmfuUBYQ",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.racas.Item.FlCweaQlmbs5Ih29",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "identifier": "halfling-ghostwise"
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/equipment/feet/shoes-leather-simple-brown.webp",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "folder": "CeggrkQFYRPuQqCI",
+  "_stats": {
+    "compendiumSource": "Item.Hyv2b7nsgdQ51RVE",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741442297819,
+    "modifiedTime": 1741442648604,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "sort": 100000,
+  "_key": "!items!lKyCyvmThrMaOZf8"
+}

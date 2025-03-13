@@ -124,14 +124,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "PHB",
-      "hash": "soldier_phb",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/people/spearfighter.webp",
   "folder": "AenZvgjpl4Houfjw",

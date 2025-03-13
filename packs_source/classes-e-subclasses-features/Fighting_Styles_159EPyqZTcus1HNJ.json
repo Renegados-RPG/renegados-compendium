@@ -1,0 +1,22 @@
+{
+  "name": "Fighting Styles",
+  "sorting": "a",
+  "folder": "OYkSkRvwxEsvL5Cl",
+  "type": "Item",
+  "_id": "159EPyqZTcus1HNJ",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": null,
+    "modifiedTime": 1741448384210,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "description": "",
+  "_key": "!folders!159EPyqZTcus1HNJ"
+}

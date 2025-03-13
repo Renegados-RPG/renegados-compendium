@@ -27,17 +27,20 @@
     "target": {
       "template": {
         "contiguous": false,
-        "units": ""
+        "units": "",
+        "type": ""
       },
       "affects": {
         "count": "1",
         "type": "object",
-        "choice": false
+        "choice": false,
+        "special": ""
       }
     },
     "range": {
       "value": "9",
-      "units": "m"
+      "units": "m",
+      "special": ""
     },
     "activation": {
       "type": "minute",
@@ -128,10 +131,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740609448769,
-    "modifiedTime": 1740609585787,
-    "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
+    "modifiedTime": 1741445002734,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
   },
   "sort": 0,
   "ownership": {

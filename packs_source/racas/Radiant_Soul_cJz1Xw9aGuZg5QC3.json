@@ -4,7 +4,78 @@
   "_id": "cJz1Xw9aGuZg5QC3",
   "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
   "system": {
-    "activities": {},
+    "activities": {
+      "XOePvXODgMpp8pQP": {
+        "type": "utility",
+        "_id": "XOePvXODgMpp8pQP",
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1",
+              "target": ""
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "minute",
+          "concentration": false,
+          "override": false,
+          "value": "1"
+        },
+        "effects": [
+          {
+            "_id": "CFsoVZQRvjn2FejE"
+          }
+        ],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": ""
+        },
+        "name": "",
+        "img": "",
+        "appliedEffects": ["CFsoVZQRvjn2FejE"]
+      }
+    },
     "uses": {
       "spent": 0,
       "recovery": [
@@ -43,15 +114,16 @@
     {
       "name": "Radiant Soul",
       "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
-      "origin": "Item.DCGJrXCltJd0wuNY",
-      "_id": "YPq24N1dlhPwiEyH",
+      "origin": "Compendium.renegados-compendium.racas.Item.cJz1Xw9aGuZg5QC3",
+      "transfer": false,
+      "_id": "CFsoVZQRvjn2FejE",
       "type": "base",
       "system": {},
       "changes": [
         {
-          "key": "",
+          "key": "system.attributes.movement.fly",
           "mode": 2,
-          "value": "",
+          "value": "9",
           "priority": null
         }
       ],
@@ -67,7 +139,6 @@
       },
       "description": "",
       "tint": "#ffffff",
-      "transfer": true,
       "statuses": [],
       "sort": 0,
       "flags": {
@@ -82,12 +153,12 @@
         "duplicateSource": null,
         "coreVersion": "12.331",
         "systemId": "dnd5e",
-        "systemVersion": "4.3.3",
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "systemVersion": "4.3.5",
+        "createdTime": 1741387786227,
+        "modifiedTime": 1741387823025,
+        "lastModifiedBy": "QPo7Cd77aeIzDkPq"
       },
-      "_key": "!items.effects!cJz1Xw9aGuZg5QC3.YPq24N1dlhPwiEyH"
+      "_key": "!items.effects!cJz1Xw9aGuZg5QC3.CFsoVZQRvjn2FejE"
     }
   ],
   "folder": "6cGnIJefPGxwyCsi",
@@ -96,15 +167,22 @@
     "default": 0,
     "DVvEie1GDgUIIbvV": 3
   },
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "_stats": {
     "compendiumSource": "Item.DCGJrXCltJd0wuNY",
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740253820695,
-    "modifiedTime": 1740446289586,
+    "modifiedTime": 1741387834742,
     "lastModifiedBy": "QPo7Cd77aeIzDkPq"
   },
   "_key": "!items!cJz1Xw9aGuZg5QC3"

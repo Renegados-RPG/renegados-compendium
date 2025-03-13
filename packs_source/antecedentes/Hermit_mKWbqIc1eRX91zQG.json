@@ -114,14 +114,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "PHB",
-      "hash": "hermit_phb",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/wilderness/camp-improvised.webp",
   "folder": "wqcawhMgrE3TJhqF",

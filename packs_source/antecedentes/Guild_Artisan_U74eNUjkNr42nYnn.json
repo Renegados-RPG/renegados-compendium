@@ -134,14 +134,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "PHB",
-      "hash": "guild%20artisan_phb",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/sundries/flags/banner-symbol-eye-purple.webp",
   "folder": "zaEaXNQPp7a0kD1f",

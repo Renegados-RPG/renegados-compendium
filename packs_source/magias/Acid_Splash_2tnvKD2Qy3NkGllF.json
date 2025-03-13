@@ -27,17 +27,20 @@
     "target": {
       "template": {
         "contiguous": false,
-        "units": ""
+        "units": "",
+        "type": ""
       },
       "affects": {
         "count": "2",
         "type": "creature",
-        "choice": false
+        "choice": false,
+        "special": ""
       }
     },
     "range": {
       "value": "18",
-      "units": "m"
+      "units": "m",
+      "special": ""
     },
     "activation": {
       "type": "action",
@@ -149,9 +152,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
+    "systemVersion": "4.3.5",
     "createdTime": 1740609417331,
-    "modifiedTime": 1740609585787,
+    "modifiedTime": 1741386831904,
     "lastModifiedBy": "Zw9Q2ZNjr61CcpCW"
   },
   "sort": 0,

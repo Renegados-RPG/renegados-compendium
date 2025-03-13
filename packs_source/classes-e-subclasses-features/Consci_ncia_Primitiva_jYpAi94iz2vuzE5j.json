@@ -1,0 +1,132 @@
+{
+  "name": "Consciência Primitiva",
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>Começando no 3º nível, você pode usar sua ação e gastar um espaço de magia de patrulheiro para focar sua consciência na região ao seu redor. Por 1 minuto por nível do espaço de magia que você gastar, você pode sentir se os seguintes tipos de criaturas estão presentes a 1 milha de você (ou a até 6 milhas se você estiver em seu terreno favorito): aberrações, celestiais, dragões, elementais, fadas, corruptores e mortos-vivos. Esta característica não revela a localização ou número das criaturas.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Ranger 3",
+    "properties": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "condition": "It also expends a spell slot; the slot level dictates duration.",
+          "override": false
+        },
+        "consumption": {
+          "targets": [],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "",
+          "units": "spec",
+          "special": "",
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "1",
+          "units": "mi",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": ""
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true,
+          "override": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0
+      }
+    },
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "primeval-awareness",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Primeval Awareness"
+    }
+  },
+  "img": "icons/magic/perception/eye-slit-pink.webp",
+  "effects": [],
+  "folder": "D4UUOT1WNNvEwE3g",
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classfeatures.Item.kaHcUGiwi8AtfZIm",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741449677900,
+    "modifiedTime": 1741449677991,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "jYpAi94iz2vuzE5j",
+  "sort": 175000,
+  "_key": "!items!jYpAi94iz2vuzE5j"
+}

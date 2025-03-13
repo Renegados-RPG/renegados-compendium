@@ -113,14 +113,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "SCAG",
-      "hash": "faction%20agent_scag",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/people/spearfighter.webp",
   "folder": "IgD4Ghm7klNH5yxy",

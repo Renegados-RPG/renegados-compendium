@@ -1,0 +1,65 @@
+{
+  "_id": "8nER4OJ2oiw4ddf1",
+  "name": "Magic Initiate",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "168",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><hr /><div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Choose a class: <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:bard=1\">bard</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:cleric=1\">cleric</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:druid=1\">druid</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:sorcerer=1\">sorcerer</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:warlock=1\">warlock</a>, or <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:wizard=1\">wizard</a>. You learn two cantrips of your choice from that class's spell list.</p><p>In addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.</p><p>Your spellcasting ability for these spells depends on the class you chose: Charisma for <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:bard=1\">bard</a>, <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:sorcerer=1\">sorcerer</a>, or <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:warlock=1\">warlock</a>; Wisdom for <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:cleric=1\">cleric</a> or <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:druid=1\">druid</a>; or Intelligence for <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1~1=1,flstclass:wizard=1\">wizard</a>.</p></div>\n\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "magic-initiate",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "modules/plutonium/media/icon/feat/phb-magic-initiate.webp",
+  "flags": {},
+  "effects": [],
+  "folder": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741491208330,
+    "modifiedTime": 1741491208330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "_key": "!items!8nER4OJ2oiw4ddf1"
+}

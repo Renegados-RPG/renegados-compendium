@@ -1,0 +1,60 @@
+{
+  "_id": "gdddwZJ8e6H4cdyl",
+  "name": "Blessed Warrior",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "52",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn two cantrips of your choice from the <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:cleric=1\">cleric spell list</a>. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "fightingStyle"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "blessed-warrior",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/magic/holy/prayer-hands-glowing-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "159EPyqZTcus1HNJ",
+  "_stats": {
+    "compendiumSource": "Item.0yxAOvjKtVpok7nL",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741448594009,
+    "modifiedTime": 1741448652949,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 800000,
+  "_key": "!items!gdddwZJ8e6H4cdyl"
+}

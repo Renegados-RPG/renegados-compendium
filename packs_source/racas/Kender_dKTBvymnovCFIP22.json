@@ -1,0 +1,22 @@
+{
+  "name": "Kender",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "dKTBvymnovCFIP22",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741391522224,
+    "modifiedTime": 1741391522224,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!folders!dKTBvymnovCFIP22"
+}

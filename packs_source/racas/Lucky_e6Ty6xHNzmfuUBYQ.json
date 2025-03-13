@@ -1,0 +1,56 @@
+{
+  "name": "Lucky",
+  "type": "feat",
+  "_id": "e6Ty6xHNzmfuUBYQ",
+  "img": "icons/commodities/flowers/clover.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Lucky\" class=\"rd__b  rd__b--3\"><p>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "lucky",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Tr1ELRMZVoS0nXnH",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.EH7kGQ0Eb8JgrRm0",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741442638658,
+    "modifiedTime": 1741442638844,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!e6Ty6xHNzmfuUBYQ"
+}

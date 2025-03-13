@@ -1,0 +1,60 @@
+{
+  "_id": "QXXJS8mEUIhLNmey",
+  "name": "Eldritch Adept",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "79",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Spellcasting or Pact Magic feature</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Studying occult lore, you learn one <a href=\"https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:ei=1\">Eldritch Invocation</a> option of your choice from the warlock class. Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charisma (choose when you select this feat). If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.</p><p>Whenever you gain a level, you can replace the invocation with another one from the warlock class.</p></div>\n\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "Spellcasting or Pact Magic feature",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "eldritch-adept",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/feats/TCE/Eldritch%20Adept.webp",
+  "flags": {},
+  "effects": [],
+  "folder": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741491208330,
+    "modifiedTime": 1741491208330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "_key": "!items!QXXJS8mEUIhLNmey"
+}

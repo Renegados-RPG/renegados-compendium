@@ -1,0 +1,56 @@
+{
+  "name": "Naturally Stealthy",
+  "type": "feat",
+  "_id": "RFPxrE7AaC1ieAaz",
+  "img": "icons/magic/movement/trail-streak-impact-blue.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Naturally Stealthy\" class=\"rd__b  rd__b--3\"><p>You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "naturally-stealthy",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "Tr1ELRMZVoS0nXnH",
+  "sort": 112500,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.R4ksSkszMWBsoenO",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741442865323,
+    "modifiedTime": 1741442865543,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!RFPxrE7AaC1ieAaz"
+}

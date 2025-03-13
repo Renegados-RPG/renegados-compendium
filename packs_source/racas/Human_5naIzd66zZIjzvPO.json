@@ -1,0 +1,22 @@
+{
+  "name": "Human",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "5naIzd66zZIjzv2O",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.3",
+    "createdTime": 1741110771468,
+    "modifiedTime": 1741390914438,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_key": "!folders!5naIzd66zZIjzv2O"
+}

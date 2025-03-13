@@ -97,14 +97,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "GoS",
-      "hash": "shipwright_gos",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/tools/hand/saw-steel-white.webp",
   "folder": "sz4E5kcohXEcp7aW",

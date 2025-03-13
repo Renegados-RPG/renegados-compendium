@@ -113,14 +113,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "SCAG",
-      "hash": "mercenary%20veteran_scag",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/people/infantry-armored.webp",
   "folder": "RH1OlFVbszMpia0y",

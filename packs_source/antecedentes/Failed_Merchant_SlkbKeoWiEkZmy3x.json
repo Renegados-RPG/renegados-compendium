@@ -165,14 +165,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "AI",
-      "hash": "failed%20merchant_ai",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/environment/settlement/market-stall.webp",
   "folder": "2UXCS78P0SvlH8Hz",

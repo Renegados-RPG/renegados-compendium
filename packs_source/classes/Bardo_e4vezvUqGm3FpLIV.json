@@ -1,0 +1,891 @@
+{
+  "name": "Bardo",
+  "type": "class",
+  "img": "icons/tools/instruments/harp-yellow-teal.webp",
+  "system": {
+    "description": {
+      "value": "<p>Você recebe as seguintes características de classe como um bardo.</p><h3>Pontos de Vida</h3><p><strong>Dado de Vida:</strong> 1d8 por nível de bardo<br /><strong>Pontos de vida no nível 1:</strong> 8 + seu modificador de Constituição<br /><strong>Pontos de vida em níveis superiores:</strong> 1d8 (ou 5) + seu modificador de Constituição por nível de bardo além do primeiro</p><h3>Proficiências</h3><p><strong>Armaduras:</strong> armaduras leves<br /><strong>Armas:</strong> armas simples, besta de mão, espada curta, espada longa, rapieira<br /><strong>Ferramentas:</strong> três instrumentos musicais à sua escolha<br /><strong>Testes de resistência:</strong> Destreza, Carisma<br /><strong>Perícias:</strong> três à sua escolha</p><h1>Progressão do Bardo</h1><table border=\"0\"><thead><tr><td>Nível</td><td>Bônus de Proficiência</td><td>Características</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiração Bárdica (d6)}, @UUID[Compendium.dnd5e.classfeatures.Item.u4NLajXETJhJU31v]{Conjuração}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canção do Descanso (d6)}, @UUID[Compendium.dnd5e.classfeatures.Item.ezWijmCnlnQ9ZRX2]{Versatilidade}</td></tr><tr><td>3</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ILhzFHiRrqgQ9dFJ]{Colégio de Bardo}, @UUID[Compendium.dnd5e.classfeatures.Item.aQLg7BWdRnm4Hr9S]{Especialização}</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>5</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiração Bárdica (d8)}, @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Fonte de Inspiração}</td></tr><tr><td>6</td><td>+3</td><td>Característica do Colégio de Bardo, @UUID[Compendium.dnd5e.classfeatures.Item.SEJmsjkEhdAZ90ki]{Canção de Proteção}</td></tr><tr><td>7</td><td>+3</td><td>Espaço de Magia de 4º nível</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>9</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canção do Descanso (d8)}, Espaço de Magia de 5º nível</td></tr><tr><td>10</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiração Bárdica (d10)}, @UUID[Compendium.dnd5e.classfeatures.Item.aQLg7BWdRnm4Hr9S]{Especialização}, @UUID[Compendium.dnd5e.classfeatures.Item.aonJ2YjkqkYB9WYB]{Segredos Mágicos}</td></tr><tr><td>11</td><td>+4</td><td>Espaço de Magia de 6º nível</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>13</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canção do Descanso (d10)}, Espaço de Magia de 7º nível</td></tr><tr><td>14</td><td>+5</td><td>Característica do Colégio de Bardo, @UUID[Compendium.dnd5e.classfeatures.Item.aonJ2YjkqkYB9WYB]{Segredos Mágicos}</td></tr><tr><td>15</td><td>+5</td><td>Espaço de Magia de 8º nível, @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiração Bárdica (d12)}</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>17</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.he8RpPXwSl2lVSIk]{Canção do Descanso (d12)}, Espaço de Magia de 9º nível</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.aonJ2YjkqkYB9WYB]{Segredos Mágicos}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.GBYN5rH4nh1ocRlY]{Inspiração Suprema}</td></tr></tbody></table><h1>Colégio de Bardo</h1><p>@UUID[Compendium.dnd5e.subclasses.Item.MNvsEc4D2ccX7dQT]{Colégio do Conhecimento}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "identifier": "bard",
+    "levels": 1,
+    "advancement": [
+      {
+        "type": "HitPoints",
+        "configuration": {},
+        "value": {},
+        "title": "Hit Points",
+        "icon": "systems/dnd5e/icons/svg/hit-points.svg",
+        "_id": "pILgW7YYeRvTfJS6"
+      },
+      {
+        "_id": "svCkv1ECxsmu2Q7U",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["armor:lgt"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "hZPJWA6MdmFIZuQD",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [
+            "weapon:sim",
+            "weapon:mar:handcrossbow",
+            "weapon:mar:longsword",
+            "weapon:mar:rapier",
+            "weapon:mar:shortsword"
+          ],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "tRCVvsqiLStPNyFl",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 3,
+              "pool": ["tool:music:*"]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "wVBCjoHg0ftdHj3m",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["saves:dex", "saves:cha"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "eNU6FoX5sNVbDx13",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 3,
+              "pool": ["skills:*"]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["tool:music:*"]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "",
+        "_id": "8oBIVC96av3lm5uk",
+        "classRestriction": "secondary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["skills:*"]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "",
+        "_id": "ELIXk3XCH4EmyiqN",
+        "classRestriction": "secondary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "cwu9uhmtcKhqli8W",
+        "type": "Trait",
+        "configuration": {
+          "mode": "expertise",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:*"]
+            }
+          ]
+        },
+        "level": 3,
+        "title": "Expertise",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "mode": "expertise",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:*"]
+            }
+          ]
+        },
+        "level": 10,
+        "title": "Expertise",
+        "_id": "O2cVH7Y5kNfoUyLg",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.u4NLajXETJhJU31v",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.hpLNiGq7y67d2EHA",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "_id": "oNNPhAIeXhAweeBN"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.ezWijmCnlnQ9ZRX2",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.he8RpPXwSl2lVSIk",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XHDt0W5HStpZLkGP",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features",
+        "_id": "V3KCwHELag3C3YVj"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.ILhzFHiRrqgQ9dFJ",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.aQLg7BWdRnm4Hr9S",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "_id": "MSF1wogSoeJqfxAR"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.3VDZGs5Ug3hIE322",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Features",
+        "_id": "I7HqKmtMcat8Dm08"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.SEJmsjkEhdAZ90ki",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "_id": "UThCJ6mGUL0XQUb8"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.aonJ2YjkqkYB9WYB",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "_id": "2fX3mtdNC16A1z7S"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.GBYN5rH4nh1ocRlY",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 20,
+        "title": "Features",
+        "_id": "ZwU2MLhnY219t78q"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": {
+              "count": 2,
+              "replacement": false
+            },
+            "14": {
+              "count": 2,
+              "replacement": false
+            },
+            "18": {
+              "count": 2,
+              "replacement": false
+            }
+          },
+          "allowDrops": true,
+          "type": "spell",
+          "pool": [],
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          },
+          "restriction": {
+            "type": "",
+            "subtype": "",
+            "level": "available"
+          }
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Magical Secrets",
+        "_id": "EC1yNAV6khHilOhz",
+        "hint": "Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip."
+      },
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "inspiration",
+          "type": "dice",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "number": null,
+              "faces": 6,
+              "modifiers": []
+            },
+            "5": {
+              "number": null,
+              "faces": 8,
+              "modifiers": []
+            },
+            "10": {
+              "number": null,
+              "faces": 10,
+              "modifiers": []
+            },
+            "15": {
+              "number": null,
+              "faces": 12,
+              "modifiers": []
+            }
+          }
+        },
+        "value": {},
+        "title": "Bardic Inspiration Die",
+        "_id": "0Ybu5yMjplpTAHiE"
+      },
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "song-of-rest",
+          "type": "dice",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "number": null,
+              "faces": 6,
+              "modifiers": []
+            },
+            "9": {
+              "number": null,
+              "faces": 8,
+              "modifiers": []
+            },
+            "13": {
+              "number": null,
+              "faces": 10,
+              "modifiers": []
+            },
+            "17": {
+              "number": null,
+              "faces": 12,
+              "modifiers": []
+            }
+          }
+        },
+        "value": {},
+        "title": "Song of Rest Die",
+        "_id": "TK2RAm9EFQtVjDrU"
+      },
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "cantrips-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 2
+            },
+            "4": {
+              "value": 3
+            },
+            "10": {
+              "value": 4
+            }
+          }
+        },
+        "value": {},
+        "title": "Cantrips Known",
+        "_id": "ovKbtrhfIkYTuThu"
+      },
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "spells-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 4
+            },
+            "2": {
+              "value": 5
+            },
+            "3": {
+              "value": 6
+            },
+            "4": {
+              "value": 7
+            },
+            "5": {
+              "value": 8
+            },
+            "6": {
+              "value": 9
+            },
+            "7": {
+              "value": 10
+            },
+            "8": {
+              "value": 11
+            },
+            "9": {
+              "value": 12
+            },
+            "10": {
+              "value": 14
+            },
+            "11": {
+              "value": 15
+            },
+            "13": {
+              "value": 16
+            },
+            "14": {
+              "value": 18
+            },
+            "15": {
+              "value": 19
+            },
+            "17": {
+              "value": 20
+            },
+            "18": {
+              "value": 22
+            }
+          }
+        },
+        "value": {},
+        "title": "Spells Known",
+        "_id": "9FXWVh7OmbPr1iR9"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 4,
+        "title": "Ability Score Improvement",
+        "_id": "sbzvEEntzYcE5JfN"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 8,
+        "title": "Ability Score Improvement",
+        "_id": "adpq4VPJ5oVt8m06"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 12,
+        "title": "Ability Score Improvement",
+        "_id": "jl333Hy4RIPs6J9p"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 16,
+        "title": "Ability Score Improvement",
+        "_id": "Eweg6iXNJ6qIC6rY"
+      },
+      {
+        "_id": "puDaUsYrlks0z5gm",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 19,
+        "title": ""
+      },
+      {
+        "_id": "wjdgb3r8pyeix83o",
+        "type": "Subclass",
+        "configuration": {},
+        "value": {
+          "document": null,
+          "uuid": null
+        },
+        "level": 3,
+        "title": "Bard College"
+      },
+      {
+        "_id": "bmlxYrykd2eX8zIP",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.PLDInhE8FDhKrYc8",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 4,
+        "title": "Features",
+        "hint": ""
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": "cha",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "startingEquipment": [
+      {
+        "type": "OR",
+        "_id": "lpvnxxjryq45jI3y",
+        "group": "",
+        "sort": 100000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.Tobce1hexTnDk4sV",
+        "_id": "tQwKBM7kz3wPwXwT",
+        "group": "lpvnxxjryq45jI3y",
+        "sort": 500000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.10ZP2Bu3vnCuYMIB",
+        "_id": "NkscJ2xFUBsPhcxe",
+        "group": "lpvnxxjryq45jI3y",
+        "sort": 600000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "weapon",
+        "count": null,
+        "key": "simpleM",
+        "_id": "Wn7jksCTF8UeGkzv",
+        "group": "lpvnxxjryq45jI3y",
+        "sort": 700000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "OR",
+        "_id": "CmUruiwh08NxBp81",
+        "group": "",
+        "sort": 200000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.Qy2aRjl4iQ8EmaT5",
+        "_id": "5LD9NpXrSi346yjH",
+        "group": "CmUruiwh08NxBp81",
+        "sort": 800000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.6OYR11aJX2dEVtOj",
+        "_id": "G7vnXHsaKTuyTJiU",
+        "group": "CmUruiwh08NxBp81",
+        "sort": 900000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "OR",
+        "_id": "0UcteiwJLwItQgfg",
+        "group": "",
+        "sort": 300000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.qBydtUUIkv520DT7",
+        "_id": "VrW45MRU0VsdppeO",
+        "group": "0UcteiwJLwItQgfg",
+        "sort": 1000000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "tool",
+        "count": null,
+        "key": "music",
+        "_id": "PpyB8h9ZTgRbNo0b",
+        "group": "0UcteiwJLwItQgfg",
+        "sort": 1100000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "AND",
+        "_id": "jVCLGp5Vukjv3uql",
+        "group": "",
+        "sort": 400000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.WwdpHLXGX5r8uZu5",
+        "_id": "JK2OOf7qcMmfqe9l",
+        "group": "jVCLGp5Vukjv3uql",
+        "sort": 1200000,
+        "requiresProficiency": false
+      },
+      {
+        "_id": "r93VP8K9FwZQcQyu",
+        "group": "jVCLGp5Vukjv3uql",
+        "sort": 1300000,
+        "type": "linked",
+        "key": "Compendium.dnd5e.items.Item.0E565kQUBmndJ1a2",
+        "requiresProficiency": false
+      }
+    ],
+    "wealth": "5d4 * 10",
+    "primaryAbility": {
+      "value": [],
+      "all": true
+    },
+    "hd": {
+      "denomination": "d8",
+      "spent": 0,
+      "additional": ""
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Bard"
+    }
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classes.Item.ILvRZGEx3aXqSVUt",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741448180389,
+    "modifiedTime": 1741450266810,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "e4vezvUqGm3FpLIV",
+  "sort": 782,
+  "_key": "!items!e4vezvUqGm3FpLIV"
+}

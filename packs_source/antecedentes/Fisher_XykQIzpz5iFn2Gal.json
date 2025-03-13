@@ -98,14 +98,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "GoS",
-      "hash": "fisher_gos",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/creatures/fish/fish-grouper-tan.webp",
   "folder": "sGOQ9ixbrGClTwqD",

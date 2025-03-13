@@ -1,0 +1,65 @@
+{
+  "_id": "1yqz2dQ0ZSKOsN2D",
+  "name": "Favored Foe",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "56",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>1st-level ranger @variantrule[optional class features|tce|optional feature], which replaces the Favored Enemy feature and works with the Foe Slayer feature</i></p><p>When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your @status[concentration] (as if you were @status[concentration||concentrating] on a spell).</p><p>The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by [[/damage 1d4]].</p><p>You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>This feature's extra damage increases when you reach certain levels in this class: to [[/damage 1d6]] at 6th level and to [[/damage 1d8]] at 14th level.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 1",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "favored-foe",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/skills/targeting/crosshair-mark-rough-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "D4UUOT1WNNvEwE3g",
+  "_stats": {
+    "compendiumSource": "Item.oac47iEe9BqGtWnf",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741449247682,
+    "modifiedTime": 1741449247769,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 200000,
+  "_key": "!items!1yqz2dQ0ZSKOsN2D"
+}

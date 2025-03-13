@@ -1,0 +1,107 @@
+{
+  "_id": "cb8DYso6fDE9Xdo9",
+  "name": "Instinctive Pounce",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "24",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>7th-level barbarian @variantrule[optional class features|tce|optional feature]</i></p><p>As part of the bonus action you take to enter your rage, you can move up to half your speed.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 7",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "Bdu4WJ6eTgjAzzb6": {
+        "_id": "Bdu4WJ6eTgjAzzb6",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "instinctive-pounce",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "06vAvU4yVVFbZ47W",
+  "_stats": {
+    "compendiumSource": "Item.eJ4wBq1TtPWBb3no",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741450084209,
+    "modifiedTime": 1741450084330,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 100000,
+  "_key": "!items!cb8DYso6fDE9Xdo9"
+}

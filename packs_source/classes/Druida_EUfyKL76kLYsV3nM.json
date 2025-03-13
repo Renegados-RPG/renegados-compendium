@@ -1,0 +1,583 @@
+{
+  "name": "Druida",
+  "type": "class",
+  "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>Você recebe as seguintes características de classe como druida.</p><h3>Pontos de Vida</h3><p><strong>Dado de Vida:</strong> 1d8 por nível de druida<br /><strong>Pontos de Vida no nível 1:</strong> 8 + seu modificador de Constituição<br /><strong>Pontos de Vida em níveis superiores:</strong> 1d8 (ou 5) + seu modificador de Constituição por nível de druida além do primeiro</p><h3>Proficiências</h3><p><strong>Armaduras:</strong> armaduras leves, armaduras médias, escudos (druidas não usam armaduras ou escudos feitos de metal)<br /><strong>Armas:</strong> bordão, cimitarra, adaga, foice, dardos, funda, clava, azagaia, lança, maça<br /><strong>Ferramentas:</strong> kit de herbalismo<br /><strong>Testes de resistência:</strong> Inteligência, Sabedoria<br /><strong>Perícias:</strong> escolha duas entre: Arcanismo, Adestrar Animais, Intuição, Medicina, Natureza, Percepção, Religião e Sobrevivência</p><h1>Progressão do Druida</h1><table><thead><tr><td>Nível</td><td>Bônus de Proficiência</td><td>Características</td></tr></thead><tbody><tr><td>1</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.LzJ5ayHt0OlSVGxi]{Druídico}, @UUID[Compendium.dnd5e.classfeatures.Item.i6tPm3FNK13Ftc9v]{Conjuração}</td></tr><tr><td>2</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.u6Du2P9s81SWuGbi]{Círculo Druídico}, @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma Selvagem (ND máx. ¼)}</td></tr><tr><td>3</td><td>+2</td><td>Espaço de magia de nível 2</td></tr><tr><td>4</td><td>+2</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}, @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma Selvagem (ND máx. ½)}</td></tr><tr><td>5</td><td>+3</td><td>Espaço de magia de nível 3</td></tr><tr><td>6</td><td>+3</td><td>Característica do Círculo Druídico</td></tr><tr><td>7</td><td>+3</td><td>Espaço de magia de nível 4</td></tr><tr><td>8</td><td>+3</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}, @UUID[Compendium.dnd5e.classfeatures.Item.swK0r5TOIxredxWS]{Forma Selvagem (ND máx. 1)}</td></tr><tr><td>9</td><td>+4</td><td>Espaço de magia de nível 5</td></tr><tr><td>10</td><td>+4</td><td>Característica do Círculo Druídico</td></tr><tr><td>11</td><td>+4</td><td>Espaço de magia de nível 6</td></tr><tr><td>12</td><td>+4</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>13</td><td>+5</td><td>Espaço de magia de nível 7</td></tr><tr><td>14</td><td>+5</td><td>Característica do Círculo Druídico</td></tr><tr><td>15</td><td>+5</td><td>Espaço de magia de nível 8</td></tr><tr><td>16</td><td>+5</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>17</td><td>+6</td><td>Espaço de magia de nível 9</td></tr><tr><td>18</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.xvgPu1O57DgXCM86]{Magias da Besta}, @UUID[Compendium.dnd5e.classfeatures.Item.cVDEQo0ow1WJT7Wl]{Corpo Atemporal}</td></tr><tr><td>19</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5]{Aumento no Valor de Atributo}</td></tr><tr><td>20</td><td>+6</td><td>@UUID[Compendium.dnd5e.classfeatures.Item.ip4bvmGoz3qkoqes]{Arquidruida}</td></tr></tbody></table><div class=\"sidebar-block\"><h4>Plantas e Árvores Sagradas</h4><p>Um druida considera certas plantas sagradas, especialmente o amieiro, a bétula, o carvalho, o freixo, o zimbro, o visco, o azevinho, o teixo, a aveleira, o salgueiro, o sorveira e o sabugueiro. É comum que um druida use um ou mais desses materiais em seu foco de conjuração, incorporando galhos de carvalho, teixo ou ramos de visco.</p><p>Da mesma forma, um druida pode usar essas essências para fabricar outros itens, como armas ou escudos. O teixo, associado à morte e à reencarnação, pode ser usado no cabo de uma cimitarra ou foice. O freixo simboliza a vida, e o carvalho, a força, sendo excelentes para cabos ou armas inteiras, como clavas, bordões ou escudos. O amieiro, associado ao ar, é mais adequado para armas de arremesso, como dardos ou azagaias.</p><p>Druidas de regiões onde essas plantas não são comuns adotam vegetações locais equivalentes. Um druida do deserto, por exemplo, pode escolher o yucca e várias espécies de cactos.</p></div><div class=\"sidebar-block\"><h4>Os Druidas e os Deuses</h4><p>Enquanto alguns druidas reverenciam as forças da natureza em si, muitos cultuam uma das inúmeras divindades da natureza do multiverso (veja a lista de deuses no @UUID[Compendium.dnd5e.rules.JournalEntry.udVPA9JW5wy5t3G5]{Apêndice MdJ-B}, que inclui diversas divindades desse tipo). Para clérigos e habitantes urbanos, o culto a esses deuses é frequentemente visto como uma tradição arcaica, em vez de uma religião verdadeira.</p></div><h1>Círculo Druídico</h1><p>@UUID[Compendium.dnd5e.subclasses.Item.4Ae2SPZRXEVbVs0M]{Círculo da Terra}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "identifier": "druid",
+    "levels": 1,
+    "advancement": [
+      {
+        "type": "HitPoints",
+        "configuration": {},
+        "value": {},
+        "title": "Hit Points",
+        "icon": "systems/dnd5e/icons/svg/hit-points.svg",
+        "_id": "UQN1QAt9gJWSbjhF"
+      },
+      {
+        "_id": "GsMQJqy3R8DVF485",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["armor:lgt", "armor:med", "armor:shl"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        },
+        "hint": "Light Armor, Medium Armor, & Shields (druids will not wear armor or use shields made of metal)"
+      },
+      {
+        "_id": "dK0oEtM8ovrLJxi3",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [
+            "weapon:sim:club",
+            "weapon:sim:dagger",
+            "weapon:sim:dart",
+            "weapon:sim:javelin",
+            "weapon:sim:mace",
+            "weapon:sim:quarterstaff",
+            "weapon:sim:sickle",
+            "weapon:sim:spear",
+            "weapon:sim:sling",
+            "weapon:mar:scimitar"
+          ],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "tSywlKq0aE3GYMmi",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["tool:herb"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "xZ55SColbUbJOW2i",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["saves:int", "saves:wis"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "bN13f0XX9ZVaUiaC",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 2,
+              "pool": [
+                "skills:ani",
+                "skills:arc",
+                "skills:ins",
+                "skills:med",
+                "skills:nat",
+                "skills:prc",
+                "skills:rel",
+                "skills:sur"
+              ]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.LzJ5ayHt0OlSVGxi",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.i6tPm3FNK13Ftc9v",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features",
+        "_id": "pkkBT3JrxyLuTmwm"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.swK0r5TOIxredxWS",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.u6Du2P9s81SWuGbi",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features",
+        "_id": "kDrm5stUR4Vp6oE3"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.cVDEQo0ow1WJT7Wl",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.xvgPu1O57DgXCM86",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features",
+        "_id": "IRKvBsuqs6C3ktQu"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.dnd5e.classfeatures.ip4bvmGoz3qkoqes",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 20,
+        "title": "Features",
+        "_id": "UpHHo8cfTCVk92Th"
+      },
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "wild-shape",
+          "type": "cr",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 0.25
+            },
+            "4": {
+              "value": 0.5
+            },
+            "8": {
+              "value": 1
+            }
+          }
+        },
+        "value": {},
+        "title": "Wild Shape CR",
+        "_id": "eX43MTPVUV9VB0dK"
+      },
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "cantrips-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 2
+            },
+            "4": {
+              "value": 3
+            },
+            "10": {
+              "value": 4
+            }
+          }
+        },
+        "value": {},
+        "title": "Cantrips Known",
+        "_id": "Gfzu57bEFMsekg7v"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 4,
+        "title": "Ability Score Improvement",
+        "_id": "2T62G1BtLjN7m0D9"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 8,
+        "title": "Ability Score Improvement",
+        "_id": "uXaQWuJioxGLKVfy"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 12,
+        "title": "Ability Score Improvement",
+        "_id": "GiktwdfAHfCAEXzm"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 16,
+        "title": "Ability Score Improvement",
+        "_id": "9QF2H24Ez8ZdH42N"
+      },
+      {
+        "_id": "puDaUsYrlks0z5gm",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 19,
+        "title": ""
+      },
+      {
+        "_id": "miieZ5i2DxMvyWKG",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["languages:druidic"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "PKUB0owJROhnfPwq",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "wild-shape-uses",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 2
+            },
+            "20": {
+              "value": 99
+            }
+          }
+        },
+        "value": {},
+        "title": "Wild Shape Uses",
+        "icon": null
+      },
+      {
+        "_id": "p9otj81aosxpn6wn",
+        "type": "Subclass",
+        "configuration": {},
+        "value": {
+          "document": null,
+          "uuid": null
+        },
+        "level": 2,
+        "title": "Druid Circle"
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": "wis",
+      "preparation": {
+        "formula": "@abilities.wis.mod + @classes.druid.levels"
+      }
+    },
+    "startingEquipment": [
+      {
+        "type": "OR",
+        "_id": "OOp4DMf7SMJKd3rs",
+        "group": "",
+        "sort": 100000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "armor",
+        "count": null,
+        "key": "shield",
+        "_id": "3rIapbEkMzXtyKJD",
+        "group": "OOp4DMf7SMJKd3rs",
+        "sort": 400000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "weapon",
+        "count": null,
+        "key": "sim",
+        "_id": "zj09FogwZleDvCML",
+        "group": "OOp4DMf7SMJKd3rs",
+        "sort": 500000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "OR",
+        "_id": "0bqEs61IPm3JBztI",
+        "group": "",
+        "sort": 200000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.fbC0Mg1a73wdFbqO",
+        "_id": "UI2Lx2W1JlLNMSwV",
+        "group": "0bqEs61IPm3JBztI",
+        "sort": 600000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "weapon",
+        "count": null,
+        "key": "simpleM",
+        "_id": "v8SAI2EG7iKUnhvs",
+        "group": "0bqEs61IPm3JBztI",
+        "sort": 700000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "AND",
+        "_id": "YHMTehP7FxRFVdes",
+        "group": "",
+        "sort": 300000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.WwdpHLXGX5r8uZu5",
+        "_id": "69ooSLGA7vQdC9hJ",
+        "group": "YHMTehP7FxRFVdes",
+        "sort": 800000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "linked",
+        "count": null,
+        "key": "Compendium.dnd5e.items.Item.8KWz5DJbWUpNWniP",
+        "_id": "vXLU3UpyunAMJ55c",
+        "group": "YHMTehP7FxRFVdes",
+        "sort": 900000,
+        "requiresProficiency": false
+      },
+      {
+        "type": "focus",
+        "count": null,
+        "key": "druidic",
+        "_id": "q6vmQoCI9DKVeZiS",
+        "group": "YHMTehP7FxRFVdes",
+        "sort": 1000000,
+        "requiresProficiency": false
+      }
+    ],
+    "wealth": "2d4 * 10",
+    "primaryAbility": {
+      "value": [],
+      "all": true
+    },
+    "hd": {
+      "denomination": "d8",
+      "spent": 0,
+      "additional": ""
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Druid"
+    }
+  },
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classes.Item.ygVYgPbJkaH0tH1N",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741448191846,
+    "modifiedTime": 1741448191914,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "_id": "EUfyKL76kLYsV3nM",
+  "sort": 4688,
+  "_key": "!items!EUfyKL76kLYsV3nM"
+}

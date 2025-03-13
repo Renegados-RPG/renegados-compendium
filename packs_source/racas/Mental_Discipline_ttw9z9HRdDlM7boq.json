@@ -1,0 +1,106 @@
+{
+  "name": "Mental Discipline",
+  "type": "feat",
+  "_id": "ttw9z9HRdDlM7boq",
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Mental Discipline\" class=\"rd__b  rd__b--3\"><p>You have resistance to psychic damage.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "mental-discipline",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [
+    {
+      "name": "Mental Discipline",
+      "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
+      "origin": "Item.gF8JwSEtCPScbVxq",
+      "_id": "vdvkWVJC3ewHP5fx",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "psychic",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!ttw9z9HRdDlM7boq.vdvkWVJC3ewHP5fx"
+    }
+  ],
+  "folder": "uW98fFDTGjy6GOTK",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.gF8JwSEtCPScbVxq",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741435809741,
+    "modifiedTime": 1741435809929,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!ttw9z9HRdDlM7boq"
+}

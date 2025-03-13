@@ -1,0 +1,60 @@
+{
+  "_id": "P7i8luhPHmdQC2Nx",
+  "name": "Thrown Weapon Fighting",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "42",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</p><p>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "fightingStyle"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "thrown-weapon-fighting",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "QPo7Cd77aeIzDkPq": 3
+  },
+  "img": "icons/skills/ranged/dagger-thrown-jeweled-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "159EPyqZTcus1HNJ",
+  "_stats": {
+    "compendiumSource": "Item.191YbaQnOkK1MTs3",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741448778892,
+    "modifiedTime": 1741448778984,
+    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+  },
+  "sort": 375000,
+  "_key": "!items!P7i8luhPHmdQC2Nx"
+}

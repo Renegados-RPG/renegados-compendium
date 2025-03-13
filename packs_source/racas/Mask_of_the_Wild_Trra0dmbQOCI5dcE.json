@@ -1,0 +1,56 @@
+{
+  "name": "Mask of the Wild",
+  "type": "feat",
+  "_id": "Trra0dmbQOCI5dcE",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Mask of the Wild\" class=\"rd__b  rd__b--3\"><p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "mask-of-the-wild",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "D6SjNKJuAvH6Jbu0",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.zYvZZDQ8vcFkO0tn",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741393915718,
+    "modifiedTime": 1741393915902,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!Trra0dmbQOCI5dcE"
+}

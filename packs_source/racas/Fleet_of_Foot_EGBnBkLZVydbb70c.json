@@ -1,0 +1,56 @@
+{
+  "name": "Fleet of Foot",
+  "type": "feat",
+  "_id": "EGBnBkLZVydbb70c",
+  "img": "icons/magic/movement/chevrons-down-yellow.webp",
+  "system": {
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Fleet of Foot\" class=\"rd__b  rd__b--3\"><p>Your base walking speed increases to 35 feet.</p></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "fleet-of-foot",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "",
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "D6SjNKJuAvH6Jbu0",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "DVvEie1GDgUIIbvV": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.mL3mMllztZkqiTDd",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741393913814,
+    "modifiedTime": 1741393913984,
+    "lastModifiedBy": "DVvEie1GDgUIIbvV"
+  },
+  "_key": "!items!EGBnBkLZVydbb70c"
+}

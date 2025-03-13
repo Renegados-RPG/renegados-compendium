@@ -91,14 +91,7 @@
     "default": 0,
     "QPo7Cd77aeIzDkPq": 3
   },
-  "flags": {
-    "plutonium": {
-      "page": "backgrounds.html",
-      "source": "SCAG",
-      "hash": "urban%20bounty%20hunter_scag",
-      "propDroppable": "background"
-    }
-  },
+  "flags": {},
   "effects": [],
   "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
   "folder": "lTEiu8K61yjsA7qd",
