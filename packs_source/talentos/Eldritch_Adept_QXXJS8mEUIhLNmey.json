@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Spellcasting or Pact Magic feature</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Studying occult lore, you learn one <a href=\"https://5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:ei=1\">Eldritch Invocation</a> option of your choice from the warlock class. Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charisma (choose when you select this feat). If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.</p><p>Whenever you gain a level, you can replace the invocation with another one from the warlock class.</p></div>\n\t\t\t</div></div>",
+      "value": "<div><hr /><div>\n\t\t\t\t<p><i>Prerequisite: Spellcasting or Pact Magic feature</i></p>\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Studying occult lore, you learn one <a href=\"https://2014.5e.tools/optionalfeatures.html#blankhash,flstfeature%20type:ei=1\">Eldritch Invocation</a> option of your choice from the warlock class. Your spellcasting ability for the invocation is Intelligence, Wisdom, or Charisma (choose when you select this feat). If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a warlock who meets the prerequisite.</p><p>Whenever you gain a level, you can replace the invocation with another one from the warlock class.</p></div>\n\t\t\t</div></div>",
       "chat": ""
     },
     "requirements": "Spellcasting or Pact Magic feature",

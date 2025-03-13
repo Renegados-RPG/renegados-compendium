@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div><hr /><div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You gain proficiency in any combination of three @table[skills|phb] or <a href=\"https://5e.tools/items.html#blankhash,flsttype:tools=1~artisan's%20tools=1~instrument=1~gaming%20set=1~vehicle%20(land)=1~vehicle%20(water)=1\">tools</a> of your choice.</p></div>\n\t\t\t</div></div>",
+      "value": "<div><hr /><div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You gain proficiency in any combination of three @table[skills|phb] or <a href=\"https://2014.5e.tools/items.html#blankhash,flsttype:tools=1~artisan's%20tools=1~instrument=1~gaming%20set=1~vehicle%20(land)=1~vehicle%20(water)=1\">tools</a> of your choice.</p></div>\n\t\t\t</div></div>",
       "chat": ""
     },
     "requirements": "",

@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by [[/r 1d10]] + your proficiency bonus (to a minimum of 0 damage). You must be wielding a @item[shield|phb] or a <a href=\"https://5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">simple or martial weapon</a> to use this reaction.</p></div>\n\t\t\t\t\t</div></div>",
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by [[/r 1d10]] + your proficiency bonus (to a minimum of 0 damage). You must be wielding a @item[shield|phb] or a <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:martial%20weapon=1~simple%20weapon=1\">simple or martial weapon</a> to use this reaction.</p></div>\n\t\t\t\t\t</div></div>",
       "chat": ""
     },
     "requirements": "",

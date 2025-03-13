@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn two cantrips of your choice from the <a href=\"https://5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:druid=1\">druid spell list</a>. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</p></div>\n\t\t\t\t\t</div></div>",
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn two cantrips of your choice from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:druid=1\">druid spell list</a>. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</p></div>\n\t\t\t\t\t</div></div>",
       "chat": ""
     },
     "requirements": "",
