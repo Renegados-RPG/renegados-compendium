@@ -1,0 +1,113 @@
+{
+  "_id": "UIauTgLmja0TP1Fo",
+  "name": "Magic Awareness",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "25",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Path of Wild Magic feature</i></p><p>As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind &amp;Reference[rule=totalcover]{total cover}. When you sense a spell, you learn which school of magic it belongs to.</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3 (Wild Magic)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "target": {
+          "template": {
+            "size": "60",
+            "units": "ft",
+            "contiguous": false
+          },
+          "prompt": true,
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "magic-awareness",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/control/silhouette-hold-change-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "VSC7Umi3p9yNcgyI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!UIauTgLmja0TP1Fo"
+}

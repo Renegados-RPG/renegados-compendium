@@ -1,0 +1,60 @@
+{
+  "_id": "OApxFLbNuIXM538y",
+  "name": "Wolf",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 6 (Totem Warrior)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "wolf",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "3XqfcMQ284Oyhq7i",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741845962967,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!OApxFLbNuIXM538y"
+}

@@ -1,0 +1,126 @@
+{
+  "_id": "Z0Qujv1Hq4TXqZ2Z",
+  "name": "Path of the Beast",
+  "type": "subclass",
+  "system": {
+    "identifier": "path-of-the-beast",
+    "classIdentifier": "barbarian",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.</p><p>Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Origin of the Beast\"><caption>Origin of the Beast</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\"><span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d4</span></th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Origin</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">One of your parents is a lycanthrope, and you've inherited some of their curse.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">You are descended from an archdruid and inherited the ability to partially change shape.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">A fey spirit gifted you with the ability to adopt different bestial aspects.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">An ancient animal spirit dwells within you, allowing you to walk this path.</td></tr></tbody></table><div data-roll-name-ancestor=\"Form of the Beast\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Form of the Beast</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Tasha’s Cauldron of Everything\">TCE</span> <span title=\"Page 24\">p24</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p><em>3rd-level Path of the Beast feature</em></p><p>When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. It counts as a simple melee weapon for you, and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.</p><p>You choose the weapon's form each time you rage:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Bite\"><span class=\"bold rd__list-item-name\">Bite.</span> Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">1d8</span> piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Claws\"><span class=\"bold rd__list-item-name\">Claws.</span> Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">1d6</span> slashing damage on a hit. Once on each of your turns when you attack with a claw using the <a href=\"https://2014.5e.tools/actions.html#attack_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"attack_phb\" data-vet-is-allow-redirect=\"true\">Attack</a> action, you can make one additional claw attack as part of the same action.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tail\"><span class=\"bold rd__list-item-name\">Tail.</span> You grow a lashing, spiny tail, which deals <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">1d8</span> piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a <span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d8</span>, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.</p></li></ul></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Path of the Beast\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Path of the Beast</span></h2><p>Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.</p><p>Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Origin of the Beast\"><caption>Origin of the Beast</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d4]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Origin</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">One of your parents is a lycanthrope, and you've inherited some of their curse.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">You are descended from an archdruid and inherited the ability to partially change shape.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">A fey spirit gifted you with the ability to adopt different bestial aspects.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">An ancient animal spirit dwells within you, allowing you to walk this path.</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 3: Form of the Beast\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Level 3: Form of the Beast</span></h3><p><em>3rd-level Path of the Beast feature</em></p><p>When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. It counts as a simple melee weapon for you, and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.</p><p>You choose the weapon's form each time you rage:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Bite\"><span class=\"bold rd__list-item-name\">Bite.</span> Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals [[/damage 1d8 type=piercing]] damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Claws\"><span class=\"bold rd__list-item-name\">Claws.</span> Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals [[/damage 1d6 type=slashing]] damage on a hit. Once on each of your turns when you attack with a claw using the @action[Attack] action, you can make one additional claw attack as part of the same action.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tail\"><span class=\"bold rd__list-item-name\">Tail.</span> You grow a lashing, spiny tail, which deals [[/damage 1d8 type=piercing]] damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a [[/r d8]], applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Bestial Soul\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Level 6: Bestial Soul</span></h3><p><em>6th-level Path of the Beast feature</em></p><p>The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p><p>You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain a swimming speed equal to your walking speed, and you can breathe underwater.</li><li class=\"rd__li \">You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</li><li class=\"rd__li \">When you jump, you can make a Strength (&amp;Reference[skill=Athletics]) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.</li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Infectious Fury\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Level 10: Infectious Fury</span></h3><p><em>10th-level Path of the Beast feature</em></p><p>When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):</p><ul class=\"rd__list\"><li class=\"rd__li \">The target must use its reaction to make a melee attack against another creature of your choice that you can see.</li><li class=\"rd__li \">The target takes [[/damage 2d12 type=psychic]] damage.</li></ul><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Call the Hunt\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Level 14: Call the Hunt</span></h3><p><em>14th-level Path of the Beast feature</em></p><p>The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature).</p><p>You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a [[/r d6]] and gain a bonus to the damage equal to the number rolled.</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "24",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "NEQM6jKorximJOq2",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FiM5XaFO4pVfbXLG",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CIPEwW0gylNAjaIU",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.4YxvKzcI3zrtqxGi",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "ILSiGp107wS1Nbbm"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.N5Hu3MIL4YsWAHBX",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": "",
+        "_id": "3TkRlAx18Md0YMBe"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.gLj20XYBlxEqQVtw",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "xvKyjIJMuTIh5EQN"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/creatures/eyes/lizard-single-slit-green.webp",
+  "folder": "9DnVWaj6aDlw8wK3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844931708,
+    "modifiedTime": 1741845168296,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!Z0Qujv1Hq4TXqZ2Z"
+}

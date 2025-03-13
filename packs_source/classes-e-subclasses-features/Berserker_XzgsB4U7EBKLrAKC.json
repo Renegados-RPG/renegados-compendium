@@ -1,0 +1,22 @@
+{
+  "name": "Berserker",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "RgIWWk7vD0RUxoXO",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572617,
+    "modifiedTime": 1741844572617,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "_id": "XzgsB4U7EBKLrAKC",
+  "_key": "!folders!XzgsB4U7EBKLrAKC"
+}

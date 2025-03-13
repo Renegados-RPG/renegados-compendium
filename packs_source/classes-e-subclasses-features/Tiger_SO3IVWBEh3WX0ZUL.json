@@ -1,0 +1,60 @@
+{
+  "_id": "SO3IVWBEh3WX0ZUL",
+  "name": "Tiger",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "122",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain proficiency in two skills from the following list: &amp;Reference[skill=Athletics], &amp;Reference[skill=Acrobatics], &amp;Reference[skill=Stealth], and &amp;Reference[skill=Survival]. The cat spirit hones your survival instincts.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 6 (Totem Warrior)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tiger",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "3XqfcMQ284Oyhq7i",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741845807396,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!SO3IVWBEh3WX0ZUL"
+}

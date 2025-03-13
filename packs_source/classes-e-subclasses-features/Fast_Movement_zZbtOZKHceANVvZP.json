@@ -1,0 +1,108 @@
+{
+  "_id": "zZbtOZKHceANVvZP",
+  "name": "Fast Movement",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "46",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Barbarian 5",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "fast-movement",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [
+    {
+      "_id": "7RvmhoZjWNj2jVx2",
+      "name": "Fast Movement",
+      "changes": [
+        {
+          "key": "system.attributes.movement.walk",
+          "mode": 2,
+          "value": "+ 10",
+          "priority": 7
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "fast-movement"
+        }
+      },
+      "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!zZbtOZKHceANVvZP.7RvmhoZjWNj2jVx2"
+    }
+  ],
+  "flags": {},
+  "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+  "folder": "cTSjaTBfeVMqJG1I",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!zZbtOZKHceANVvZP"
+}

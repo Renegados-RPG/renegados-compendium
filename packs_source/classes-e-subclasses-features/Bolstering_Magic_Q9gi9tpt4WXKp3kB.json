@@ -1,0 +1,119 @@
+{
+  "_id": "Q9gi9tpt4WXKp3kB",
+  "name": "Bolstering Magic",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "25",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level Path of Wild Magic feature</i></p><p>You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:</p><ul class=\"rd__list\"><li class=\"rd__li \">For 10 minutes, the creature can roll a [[/r d3]] whenever making an attack roll or an ability check and add the number rolled to the [[/r d20]] roll.</li><li class=\"rd__li \">Roll a [[/r d3]]. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.</li></ul><p>You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 6 (Wild Magic)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "hUa07yqGrrQlVaoV": {
+        "_id": "hUa07yqGrrQlVaoV",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "bolstering-magic",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/earth/strike-fist-stone.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "VSC7Umi3p9yNcgyI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!Q9gi9tpt4WXKp3kB"
+}

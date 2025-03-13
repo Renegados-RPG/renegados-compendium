@@ -1,0 +1,126 @@
+{
+  "_id": "BNCcf6CVniosPbKq",
+  "name": "Path of the Ancestral Guardian",
+  "type": "subclass",
+  "system": {
+    "identifier": "path-of-the-ancestral-guardian",
+    "classIdentifier": "barbarian",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</p><p>Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.</p><div data-roll-name-ancestor=\"Ancestral Protectors\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Ancestral Protectors</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 9\">p9</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Path of the Ancestral Guardian\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p9\">Path of the Ancestral Guardian</span></h2><p>Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.</p><p>Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.</p><div data-roll-name-ancestor=\"Level 3: Ancestral Protectors\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p9\">Level 3: Ancestral Protectors</span></h3><p>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Spirit Shield\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p9\">Level 6: Spirit Shield</span></h3><p>Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by [[/r 2d6]].</p><p>When you reach certain levels in this class, you can reduce the damage by more: by [[/r 3d6]] at 10th level and by [[/r 4d6]] at 14th level.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Consult the Spirits\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p9\">Level 10: Consult the Spirits</span></h3><p>At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the @UUID[Compendium.renegados-compendium.magias.Item.FRcjr28iyZEa13x8] or @UUID[Compendium.renegados-compendium.magias.Item.rlWCBGq8NkfpBJCZ] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of @UUID[Compendium.renegados-compendium.magias.Item.rlWCBGq8NkfpBJCZ] invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.</p><p>After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Vengeful Ancestors\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p9\">Level 14: Vengeful Ancestors</span></h3><p>At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "9",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "wis",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "advancement": [
+      {
+        "_id": "9JJ8qOIdCcFQb1VT",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WnpnkejQ7cbAcBxw",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WaUjMD0g9Z26uGeW",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.W6Qmjao7ZBgk0rif",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "MSXFoHnYIE7ydUJK"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kwnLBufKJruUk0b6",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": "",
+        "_id": "W9LHPP8QwYkuFbdo"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.nOzvBU5QS0c0VsK1",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "Xl1iIpPrJ9w0lepU"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/creatures/eyes/human-single-blue.webp",
+  "folder": "9DnVWaj6aDlw8wK3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844931708,
+    "modifiedTime": 1741847422757,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!BNCcf6CVniosPbKq"
+}

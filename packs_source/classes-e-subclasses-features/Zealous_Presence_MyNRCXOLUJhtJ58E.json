@@ -1,0 +1,119 @@
+{
+  "_id": "MyNRCXOLUJhtJ58E",
+  "name": "Zealous Presence",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "11",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 10th level, you learn to channel divine power to inspire zealotry in others. As a bonus action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain advantage on attack rolls and saving throws until the start of your next turn.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 10 (Zealot)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "UHm141KVV3y9JlJH": {
+        "_id": "UHm141KVV3y9JlJH",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "zealous-presence",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "5FlAyKjvbNeAQEHs",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!MyNRCXOLUJhtJ58E"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "fz3RMXjqZVQapknq",
+  "name": "Mindless Rage",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>Beginning at 6th level, you can't be &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened] while raging. If you are &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened] when you enter your rage, the effect is suspended for the duration of the rage.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "49",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Path of the Berserker 6",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "mindless-rage",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+  "folder": "XzgsB4U7EBKLrAKC",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!fz3RMXjqZVQapknq"
+}

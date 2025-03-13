@@ -1,0 +1,124 @@
+{
+  "_id": "0FsrPvNi41fNTmaC",
+  "name": "Battlerager Armor",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "121",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you choose this path at 3rd level, you gain the ability to use @item[spiked armor|scag] as a weapon.</p><p>While you are wearing @item[spiked armor|scag] and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal [[/damage 1d4 type=piercing]] damage. You use your Strength modifier for the attack and damage rolls.</p><p>Additionally, when you use the @action[Attack] action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3 (Battlerager)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "pnCqraYIo21gHQ6F": {
+        "_id": "pnCqraYIo21gHQ6F",
+        "type": "damage",
+        "name": "",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["piercing"],
+              "number": 1,
+              "denomination": 4,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "battlerager-armor",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/equipment/shoulder/pauldron-spiked-black.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "iCkJaeimX0vylfhV",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!0FsrPvNi41fNTmaC"
+}

@@ -1,0 +1,140 @@
+{
+  "_id": "N5Hu3MIL4YsWAHBX",
+  "name": "Infectious Fury",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "24",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level Path of the Beast feature</i></p><p>When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):</p><ul class=\"rd__list\"><li class=\"rd__li \">The target must use its reaction to make a melee attack against another creature of your choice that you can see.</li><li class=\"rd__li \">The target takes [[/damage 2d12 type=psychic]] damage.</li></ul><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 10 (Beast)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "UqjeTnuq0LciN9JP": {
+        "_id": "UqjeTnuq0LciN9JP",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["wis"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["psychic"],
+              "number": 2,
+              "denomination": 12,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "infectious-fury",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/eyes/humanoid-single-red-brown.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ygWGzyp5Mto37c45",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!N5Hu3MIL4YsWAHBX"
+}

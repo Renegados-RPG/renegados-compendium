@@ -1,0 +1,60 @@
+{
+  "_id": "7iyg6HWOFqMXjqOw",
+  "name": "Controlled Surge",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "25",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>14th-level Path of Wild Magic feature</i></p><p>Whenever you roll on the Wild Magic table, you can roll the die twice and choose which of the two effects to unleash. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 14 (Wild Magic)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "controlled-surge",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/unholy/hands-cloud-light-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "VSC7Umi3p9yNcgyI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!7iyg6HWOFqMXjqOw"
+}

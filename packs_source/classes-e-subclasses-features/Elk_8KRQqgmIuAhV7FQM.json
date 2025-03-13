@@ -1,0 +1,128 @@
+{
+  "_id": "8KRQqgmIuAhV7FQM",
+  "name": "Elk",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "122",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC <span class=\"rd__dc\">8</span> + your Strength bonus + your proficiency bonus) or be knocked &amp;Reference[condition=prone] and take bludgeoning damage equal to [[/damage 1d12]] + your Strength modifier.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 14 (Totem Warrior)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "XwQPMSEDEBS6l1ic": {
+        "_id": "XwQPMSEDEBS6l1ic",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 12,
+              "bonus": "@abilities.str.mod",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "elk",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/mammals/deer-antlers-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "3XqfcMQ284Oyhq7i",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741845926263,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!8KRQqgmIuAhV7FQM"
+}

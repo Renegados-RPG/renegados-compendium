@@ -1,0 +1,60 @@
+{
+  "_id": "iuk7WFuXfEAfuptD",
+  "name": "Primal Knowledge",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "24",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level barbarian @variantrule[optional class features|tce|optional feature]</i></p><p>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "primal-knowledge",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/birds/corvid-watchful-glowing-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "cTSjaTBfeVMqJG1I",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!iuk7WFuXfEAfuptD"
+}

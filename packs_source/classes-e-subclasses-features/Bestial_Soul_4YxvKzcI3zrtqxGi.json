@@ -1,0 +1,65 @@
+{
+  "_id": "4YxvKzcI3zrtqxGi",
+  "name": "Bestial Soul",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "24",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level Path of the Beast feature</i></p><p>The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p><p>You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain a swimming speed equal to your walking speed, and you can breathe underwater.</li><li class=\"rd__li \">You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</li><li class=\"rd__li \">When you jump, you can make a Strength (&amp;Reference[skill=Athletics]) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 6 (Beast)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "bestial-soul",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/magical/humanoid-silhouette-glowing-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ygWGzyp5Mto37c45",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!4YxvKzcI3zrtqxGi"
+}

@@ -1,0 +1,206 @@
+{
+  "_id": "sxPvFyQtvOJIfJte",
+  "name": "Rage",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.</p><p>While raging, you gain the following benefits if you aren't wearing heavy armor:</p><ul class=\"rd__list\"><li class=\"rd__li \">You have advantage on Strength checks and Strength saving throws.</li><li class=\"rd__li \">When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll. This bonus increases as you level.</li><li class=\"rd__li \">You have resistance to bludgeoning, piercing, and slashing damage.</li></ul><p>If you are able to cast spells, you can't cast them or concentrate on them while raging.</p><p>Your rage lasts for 1 minute. It ends early if you are knocked &amp;Reference[condition=unconscious] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.</p><p>Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "46",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "@scale.barbarian.rages",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Barbarian 1",
+    "properties": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "_id": "dnd5eactivity000",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "condition": "",
+          "override": false
+        },
+        "consumption": {
+          "targets": [
+            {
+              "type": "itemUses",
+              "target": "",
+              "value": "1",
+              "scaling": {
+                "mode": "",
+                "formula": ""
+              }
+            }
+          ],
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "spellSlot": true
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "concentration": false,
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "count": "",
+            "contiguous": false,
+            "type": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "units": ""
+          },
+          "affects": {
+            "count": "",
+            "type": "self",
+            "choice": false,
+            "special": ""
+          },
+          "prompt": true,
+          "override": false
+        },
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "sort": 0
+      }
+    },
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "rage",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [
+    {
+      "_id": "eWhL8hUr0c2ujDUm",
+      "flags": {
+        "plutonium": {
+          "dedupeId": "rage"
+        }
+      },
+      "changes": [
+        {
+          "key": "system.bonuses.mwak.damage",
+          "mode": 2,
+          "value": "+@scale.barbarian.rage-damage",
+          "priority": null
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "slashing",
+          "priority": null
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "piercing",
+          "priority": null
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "bludgeoning",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.bdfYHJstcltQC7SZ",
+      "tint": "#ffffff",
+      "transfer": true,
+      "name": "Rage",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/creatures/abilities/mouth-teeth-human.webp",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!sxPvFyQtvOJIfJte.eWhL8hUr0c2ujDUm"
+    }
+  ],
+  "flags": {},
+  "img": "icons/creatures/abilities/mouth-teeth-human.webp",
+  "folder": "cTSjaTBfeVMqJG1I",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!sxPvFyQtvOJIfJte"
+}

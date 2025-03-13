@@ -1,0 +1,113 @@
+{
+  "_id": "pqpzHffabA30yiJV",
+  "name": "Desert (Raging Storm)",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "10",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your barbarian level.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 14 (Storm Herald)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "TjGsx9dYgFwlEjP8": {
+        "_id": "TjGsx9dYgFwlEjP8",
+        "type": "save",
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["dex"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "desert",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/environment/wilderness/cave-entrance-rocky.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ZpGCtjqOhdhAuvcv",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741846965377,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!pqpzHffabA30yiJV"
+}

@@ -1,0 +1,640 @@
+{
+  "_id": "toldpLS5XkMdoQAl",
+  "name": "Barbarian",
+  "type": "class",
+  "system": {
+    "identifier": "barbarian",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><p><em class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</em></p><div><div data-source=\"PHB\" class=\"rd__b  rd__b--0\"><p>A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people's elk herd.</p><p>A half-orc snarls at the latest challenger to her authority over their savage tribe, ready to break his neck with her bare hands as she did to the last six rivals.</p><p>Frothing at the mouth, a dwarf slams his helmet into the face of his drow foe, then turns to drive his armored elbow into the gut of another.</p><p>These barbarians, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.</p><p>For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.</p><div data-roll-name-ancestor=\"Primal Instinct\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"1\"><span class=\"entry-title-inner\">Primal Instinct</span></h2><p>People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature—keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.</p><p>Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.</p></div><div data-roll-name-ancestor=\"A Life of Danger\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner\">A Life of Danger</span></h2><p>Not every member of the tribes deemed \"barbarians\" by scions of civilized society has the barbarian class. A true barbarian among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Barbarians charge headlong into that danger so that their people don't have to.</p><p>Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.</p></div><div data-roll-name-ancestor=\"Creating a Barbarian\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner\">Creating a Barbarian</span></h2><p>When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?</p><p>What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to \"civilized\" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.</p><div data-roll-name-ancestor=\"Quick Build\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner\">Quick Build</span></h3><p>You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the @background[outlander] background.</p></div></div></div><hr class=\"rd__hr rd__hr--section\" /><div data-source=\"XGE\" class=\"rd__b  rd__b--0\"><div class=\"rd__quote\"><p class=\"rd__quote-line rd__quote-line--last\">“<em>I have witnessed the indomitable performance of barbarians on the field of battle, and it makes me wonder what force lies at the heart of their rage.</em>”</p><p><span class=\"rd__quote-by\">— Seret, archwizard</span></p></div><p>The anger felt by a normal person resembles the rage of a barbarian in the same way that a gentle breeze is akin to a furious thunderstorm. The barbarian's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging barbarian becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the barbarian on despite peril and injury, until the last enemy falls.</p><p>It can be tempting to play a barbarian character that is a straightforward application of the classic archetype—a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the barbarians in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your barbarian stand out from all others; see the following sections for some ideas.</p><div data-roll-name-ancestor=\"Personal Totems\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"5\"><span class=\"entry-title-inner\">Personal Totems</span></h2><p>Barbarians tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life—perhaps a remembrance from the barbarian's past or a harbinger of what lies ahead.</p><p>A personal totem of this sort might be associated with a barbarian's spirit animal, or might actually be the totem object for the animal, but such a connection is not essential. One who has a bear totem spirit, for instance, could still carry an eagle's feather as a personal totem.</p><p>Consider creating one or more personal totems for your character—objects that hold a special link to your character's past or future. Think about how a totem might affect your character's actions.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Personal Totems\"><caption>Personal Totems</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Totem</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">A tuft of fur from a solitary wolf that you befriended during a hunt</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Three eagle feathers given to you by a wise shaman, who told you they would play a role in determining your fate</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">A necklace made from the claws of a young cave bear that you slew singlehandedly as a child</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">A small leather pouch holding three stones that represent your ancestors</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">A few small bones from the first beast you killed, tied together with colored wool</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">An egg-sized stone in the shape of your spirit animal that appeared one day in your belt pouch</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Tattoos\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"6\"><span class=\"entry-title-inner\">Tattoos</span></h2><p>The members of many barbarian clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a barbarian's tattoos might or might not be related to an animal spirit.</p><p>Each tattoo a barbarian displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Tattoos\"><caption>Tattoos</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Tattoo</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">The wings of an eagle are spread wide across your upper back.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Etched on the backs of your hands are the paws of a cave bear.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">The symbols of your clan are displayed in viny patterns along your arms.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">The antlers of an elk are inked across your back.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">Images of your spirit animal are tattooed along your weapon arm and hand.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">The eyes of a wolf are marked on your back to help you see and ward off evil spirits.</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Superstitions\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"7\"><span class=\"entry-title-inner\">Superstitions</span></h2><p>Barbarians vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These barbarians believe that spirits inhabit the plants and animals of the world, and the barbarians look to them for omens and power.</p><p>Other barbarians trust only in the blood that runs in their veins and the steel they hold in their hands. They have no use for the invisible world, instead relying on their senses to hunt and survive like the wild beasts they emulate.</p><p>Both of these attitudes can give rise to superstitions. These beliefs are often passed down within a family or shared among the members of a clan or a hunting group.</p><p>If your barbarian character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Superstition\"><caption>Superstition</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Superstition</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">If you disturb the bones of the dead, you inherit all the troubles that plagued them in life.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Never trust a wizard. They're all devils in disguise, especially the friendly ones.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Dwarves have lost their spirits, and are almost like the undead. That's why they live underground.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">Magical things bring trouble. Never sleep with a magic object within ten feet of you.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">When you walk through a graveyard, be sure to wear silver, or a ghost might jump into your body.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">If an elf looks you in the eyes, she's trying to read your thoughts.</td></tr></tbody></table></div></div></div><table class=\"cls-tbl shadow-big w-100 mb-3\"><tbody><tr><th class=\"ve-tbl-border\" colspan=\"15\"><p></p></th></tr><tr><th colspan=\"3\"><p></p></th><th colspan=\"2\"><p></p></th></tr><tr><th class=\"cls-tbl__col-level\"><p>Level</p></th><th class=\"cls-tbl__col-prof-bonus\"><p>Proficiency Bonus</p></th><th><p>Features</p></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p>Rages</p></div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p>Rage Damage</p></div></th></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>1st</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Rage<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Unarmored Defense</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>2nd</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Danger Sense<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Reckless Attack</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>3rd</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Primal Path<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Primal Knowledge</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>4th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>5th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Extra Attack<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Fast Movement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>6th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Path Feature</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>7th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Feral Instinct<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Instinctive Pounce</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>8th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>+2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>9th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Brutal Critical (1 die)</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>10th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Path feature</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>11th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Relentless Rage</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>12th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>13th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Brutal Critical (2 dice)</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>14th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Path feature</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>15th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Persistent Rage</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>+3</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>16th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>+4</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>17th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Brutal Critical (3 dice)</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>6</p></td><td class=\"cls-tbl__col-generic-center\"><p>+4</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>18th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Indomitable Might</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>6</p></td><td class=\"cls-tbl__col-generic-center\"><p>+4</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>19th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>6</p></td><td class=\"cls-tbl__col-generic-center\"><p>+4</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>20th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Primal Champion</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>Unlimited</p></td><td class=\"cls-tbl__col-generic-center\"><p>+4</p></td></tr><tr><th class=\"ve-tbl-border\" colspan=\"15\"><p></p></th></tr></tbody></table><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Rage\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Rage</span></h2><p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.</p><p>While raging, you gain the following benefits if you aren't wearing heavy armor:</p><ul class=\"rd__list\"><li class=\"rd__li \">You have advantage on Strength checks and Strength saving throws.</li><li class=\"rd__li \">When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll. This bonus increases as you level.</li><li class=\"rd__li \">You have resistance to bludgeoning, piercing, and slashing damage.</li></ul><p>If you are able to cast spells, you can't cast them or concentrate on them while raging.</p><p>Your rage lasts for 1 minute. It ends early if you are knocked &amp;Reference[condition=unconscious] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.</p><p>Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.</p></div><div data-roll-name-ancestor=\"Unarmored Defense\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Unarmored Defense</span></h2><p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p></div><div data-roll-name-ancestor=\"Danger Sense\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Danger Sense</span></h2><p>At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be &amp;Reference[condition=blinded], &amp;Reference[condition=deafened], or &amp;Reference[condition=incapacitated].</p></div><div data-roll-name-ancestor=\"Reckless Attack\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"11\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Reckless Attack</span></h2><p>Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.</p></div><div data-roll-name-ancestor=\"Primal Path\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"12\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Primal Path</span></h2><p>At 3rd level, you choose a path that shapes the nature of your rage from the list of available paths. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p></div><div data-roll-name-ancestor=\"Primal Knowledge\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"13\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Primal Knowledge</span></h2><p><em>3rd-level barbarian @variantrule[optional class features|tce|optional feature]</em></p><p>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"14\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Ability Score Improvement</span></h2><p>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Extra Attack\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"15\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Extra Attack</span></h2><p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the @action[Attack] action on your turn.</p></div><div data-roll-name-ancestor=\"Fast Movement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"16\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Fast Movement</span></h2><p>Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.</p></div><div data-roll-name-ancestor=\"Path Feature\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"17\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Path Feature</span></h2><p>At 6th level, you gain a feature from your Primal Path.</p></div><div data-roll-name-ancestor=\"Feral Instinct\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"18\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Feral Instinct</span></h2><p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.</p><p>Additionally, if you are @status[surprised] at the beginning of combat and aren't &amp;Reference[condition=incapacitated], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</p></div><div data-roll-name-ancestor=\"Instinctive Pounce\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"19\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p24\">Instinctive Pounce</span></h2><p><em>7th-level barbarian @variantrule[optional class features|tce|optional feature]</em></p><p>As part of the bonus action you take to enter your rage, you can move up to half your speed.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"20\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Ability Score Improvement</span></h2><p>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Brutal Critical (1 die)\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"21\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Brutal Critical (1 die)</span></h2><p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</p><p>This increases to two additional dice at 13th level and three additional dice at 17th level.</p></div><div data-roll-name-ancestor=\"Path feature\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"22\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Path feature</span></h2><p>At 10th level, you gain a feature from your Primal Path.</p></div><div data-roll-name-ancestor=\"Relentless Rage\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"23\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Relentless Rage</span></h2><p>Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC <span class=\"rd__dc\">10</span> Constitution saving throw. If you succeed, you drop to 1 hit point instead.</p><p>Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"24\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Ability Score Improvement</span></h2><p>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Brutal Critical (2 dice)\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"25\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Brutal Critical (2 dice)</span></h2><p>At 13th level, you can roll two additional weapon damage dice when determining the extra damage for a critical hit with a melee attack.</p><p>This increases to three additional dice at 17th level.</p></div><div data-roll-name-ancestor=\"Path feature\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"26\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Path feature</span></h2><p>At 14th level, you gain a feature from your Primal Path.</p></div><div data-roll-name-ancestor=\"Persistent Rage\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"27\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Persistent Rage</span></h2><p>Beginning at 15th level, your rage is so fierce that it ends early only if you fall &amp;Reference[condition=unconscious] or if you choose to end it.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"28\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Ability Score Improvement</span></h2><p>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Brutal Critical (3 dice)\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"29\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Brutal Critical (3 dice)</span></h2><p>At 17th level, you can roll three additional weapon damage dice when determining the extra damage for a critical hit with a melee attack.</p></div><div data-roll-name-ancestor=\"Indomitable Might\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"30\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Indomitable Might</span></h2><p>Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"31\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Ability Score Improvement</span></h2><p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Primal Champion\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"32\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p46\">Primal Champion</span></h2><p>At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "46",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "levels": 1,
+    "hd": {
+      "denomination": "d12",
+      "spent": 0,
+      "additional": ""
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "primaryAbility": {
+      "value": ["str"],
+      "all": false
+    },
+    "wealth": "",
+    "advancement": [
+      {
+        "_id": "62svnflxsuad7oar",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "rages",
+          "type": "number",
+          "scale": {
+            "1": {
+              "value": 2
+            },
+            "3": {
+              "value": 3
+            },
+            "6": {
+              "value": 4
+            },
+            "12": {
+              "value": 5
+            },
+            "17": {
+              "value": 6
+            },
+            "20": {
+              "value": 999
+            }
+          },
+          "distance": {
+            "units": ""
+          }
+        },
+        "value": {},
+        "title": "Rages"
+      },
+      {
+        "_id": "t42incolsbuqn2ec",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "rage-damage",
+          "type": "number",
+          "scale": {
+            "1": {
+              "value": 2
+            },
+            "9": {
+              "value": 3
+            },
+            "16": {
+              "value": 4
+            }
+          },
+          "distance": {
+            "units": ""
+          }
+        },
+        "value": {},
+        "title": "Rage Damage"
+      },
+      {
+        "_id": "y0kr48pnq5doebeb",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "brutal-critical",
+          "type": "number",
+          "scale": {
+            "9": {
+              "value": 1
+            },
+            "13": {
+              "value": 2
+            },
+            "17": {
+              "value": 3
+            }
+          },
+          "distance": {
+            "units": ""
+          }
+        },
+        "value": {},
+        "title": "Brutal Critical Dice"
+      },
+      {
+        "type": "HitPoints",
+        "_id": "L7S7c3IBrYEaPP3z",
+        "configuration": {},
+        "value": {}
+      },
+      {
+        "_id": "qRQrR2Do2rSPXj8t",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["saves:str", "saves:con"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "Saving Throws",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": ["saves:str", "saves:con"]
+        }
+      },
+      {
+        "_id": "38O2VJPlWYVjNPQo",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 2,
+              "pool": ["skills:ani", "skills:ath", "skills:itm", "skills:nat", "skills:prc", "skills:sur"]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "Skills",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "fjwU0G5OtTZWOkib",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["armor:lgt", "armor:med", "armor:shl"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["armor:shl"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "_id": "3ETNrLc8RQlHwNXP",
+        "classRestriction": "secondary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "sFas4Tifj7zKgmkY",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["weapon:sim", "weapon:mar"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "amez6rlose3eoigo",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sxPvFyQtvOJIfJte",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.6PFRx2l9V4lwVccc",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 1,
+        "title": "Features"
+      },
+      {
+        "_id": "udl318k61boq0rnn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.wTzQUF58TSMOrRd8",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Y1HQ5gSqpgoC9nNM",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features"
+      },
+      {
+        "_id": "gE6CrQ5ygFWrs5a3",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["skills:ath", "skills:itm", "skills:ani", "skills:nat", "skills:prc", "skills:sur"]
+            }
+          ],
+          "grants": [],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "Primal Knowledge",
+        "hint": ""
+      },
+      {
+        "_id": "8y2ey740kizr4jb6",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.yVLlEkljER7PIfsG",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features"
+      },
+      {
+        "_id": "ok09058sgbpt0w6b",
+        "type": "Subclass",
+        "configuration": {},
+        "value": {
+          "document": null,
+          "uuid": null
+        },
+        "level": 3,
+        "title": "Primal Path"
+      },
+      {
+        "_id": "dZHMy3530RPCjzvD",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 4,
+        "title": ""
+      },
+      {
+        "_id": "uoexdq8totskritb",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xsQge7WLg6wFbNEz",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.zZbtOZKHceANVvZP",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Features"
+      },
+      {
+        "_id": "w6ceiqibcmzpcuy8",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1MMSxWZxRR2iMe4y",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.SICwx10iB5QY9ag5",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 7,
+        "title": "Features"
+      },
+      {
+        "_id": "dBMWU3h8MBO4PcEm",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 8,
+        "title": ""
+      },
+      {
+        "_id": "ty9si22p6pfwb3ow",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ebB4Gg4amLnnmyov",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 9,
+        "title": "Features"
+      },
+      {
+        "_id": "802xi5l50le3ntk8",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QbC8ccOOdpCQfbOe",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 11,
+        "title": "Features"
+      },
+      {
+        "_id": "nROeTbeO8vrGjqAp",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 12,
+        "title": ""
+      },
+      {
+        "_id": "g9ut0x1ugm31gbhk",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.KO2lAJt1vT6Dloea",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features"
+      },
+      {
+        "_id": "prZMkvcCNoLvF4yB",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 16,
+        "title": ""
+      },
+      {
+        "_id": "puDaUsYrlks0z5gm",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 19,
+        "title": ""
+      },
+      {
+        "_id": "so18afasiyobkpxy",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.kazkRgdOyE9uBu26",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features"
+      },
+      {
+        "_id": "9hvtrqbg7d7zwg07",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.I5o6IKLmtt1Ew6jZ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 20,
+        "title": "Features"
+      }
+    ],
+    "startingEquipment": []
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/skills/melee/hand-grip-sword-orange.webp",
+  "folder": null,
+  "_stats": {
+    "compendiumSource": "Item.AchNr2xueSXySATv",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844369553,
+    "modifiedTime": 1741844899952,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 1173,
+  "_key": "!items!toldpLS5XkMdoQAl"
+}

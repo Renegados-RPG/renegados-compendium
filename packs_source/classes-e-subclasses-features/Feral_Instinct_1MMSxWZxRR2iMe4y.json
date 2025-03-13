@@ -1,0 +1,108 @@
+{
+  "_id": "1MMSxWZxRR2iMe4y",
+  "name": "Feral Instinct",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>By 7th level, your instincts are so honed that you have advantage on initiative rolls.</p><p>Additionally, if you are @status[surprised] at the beginning of combat and aren't &amp;Reference[condition=incapacitated], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "46",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Barbarian 7",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "feral-instinct",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [
+    {
+      "_id": "q7TkJQX7PeVOzTQH",
+      "changes": [
+        {
+          "key": "flags.dnd5e.initiativeAdv",
+          "mode": 5,
+          "value": "true",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.o1i0LwvZQPm0Bxpa",
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "feral-instinct"
+        }
+      },
+      "tint": "#ffffff",
+      "name": "Feral Instinct",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!1MMSxWZxRR2iMe4y.q7TkJQX7PeVOzTQH"
+    }
+  ],
+  "flags": {},
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+  "folder": "cTSjaTBfeVMqJG1I",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!1MMSxWZxRR2iMe4y"
+}

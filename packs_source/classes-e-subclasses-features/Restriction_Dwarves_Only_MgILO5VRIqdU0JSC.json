@@ -1,0 +1,60 @@
+{
+  "_id": "MgILO5VRIqdU0JSC",
+  "name": "Restriction—Dwarves Only",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "121",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.</p><p>Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM's setting or your DM's version of the Realms.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3 (Battlerager)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "restrictiondwarves-only",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/tools/smithing/hammer-maul-steel-grey.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "iCkJaeimX0vylfhV",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741847332496,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!MgILO5VRIqdU0JSC"
+}

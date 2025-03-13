@@ -1,0 +1,329 @@
+{
+  "_id": "axazNiwMcG4IYvqv",
+  "name": "Wild Surge",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "25",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Path of Wild Magic feature</i></p><p>The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.</p><p>If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Wild Magic\"><caption>Wild Magic</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Magical Effect</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Shadowy tendrils lash around you. Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take [[/damage 1d12 type=necrotic]] damage. You also gain [[/r 1d12]] temporary hit points.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">An intangible spirit, which looks like a @creature[flumph] or a @creature[pixie] (your choice), appears within 5 feet of one creature of your choice that you can see within 30 feet of you. At the end of the current turn, the spirit explodes, and each creature within 5 feet of it must succeed on a Dexterity saving throw or take [[/damage 1d6 type=force]] damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a bonus action.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's damage type changes to force, and it gains the light and thrown properties, with a normal range of 20 feet and a long range of 60 feet. If the weapon leaves your hand, the weapon reappears in your hand at the end of the current turn.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">Whenever a creature hits you with an attack roll before your rage ends, that creature takes [[/damage 1d6 type=force]] damage, as magic lashes out in retribution.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Until your rage ends, you are surrounded by multi colored, protective lights; you gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"rd__th ve-col-10 \">Flowers and vines temporarily grow around you. Until your rage ends, the ground within 15 feet of you is &amp;Reference[rule=difficultterrain]{difficult terrain} for your enemies.</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"rd__th ve-col-10 \">A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take [[/damage 1d6 type=radiant]] damage and be &amp;Reference[condition=blinded] until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action.</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3 (Wild Magic)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "KSBFauuGjOfjPY8m": {
+        "_id": "KSBFauuGjOfjPY8m",
+        "type": "save",
+        "name": "Save: 1d12 Necrotic Damage",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "initial"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["necrotic"],
+              "number": 1,
+              "denomination": 12,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "CVcWs99x8KxKTJKG": {
+        "_id": "CVcWs99x8KxKTJKG",
+        "type": "save",
+        "name": "Save: 1d6 Force Damage",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "initial"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "aQMUi7MaPzHpd8bW": {
+        "_id": "aQMUi7MaPzHpd8bW",
+        "type": "save",
+        "name": "Save: 1d6 Radiant Damage",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "initial"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["radiant"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "RN3nE5SfoNDrMa41": {
+        "_id": "RN3nE5SfoNDrMa41",
+        "type": "save",
+        "name": "Save: 1d6 Force Damage",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "initial"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "wild-surge",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/earth/explosion-lava-stone-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "VSC7Umi3p9yNcgyI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!axazNiwMcG4IYvqv"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "7tG4ubSGJ4LTll2c",
+  "name": "Desert (Storm Aura)",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "10",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When this effect is activated, all other creatures in your aura take 2 fire damage each. The damage increases when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 3 (Storm Herald)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "desert",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/environment/wilderness/cave-entrance-rocky.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ZpGCtjqOhdhAuvcv",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741846908213,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!7tG4ubSGJ4LTll2c"
+}

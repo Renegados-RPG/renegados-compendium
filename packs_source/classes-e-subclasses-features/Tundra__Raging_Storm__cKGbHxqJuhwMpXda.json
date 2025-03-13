@@ -1,0 +1,113 @@
+{
+  "_id": "cKGbHxqJuhwMpXda",
+  "name": "Tundra (Raging Storm)",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "10",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Barbarian 14 (Storm Herald)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "fq2NIeJnvHiLOGTC": {
+        "_id": "fq2NIeJnvHiLOGTC",
+        "type": "save",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "tundra",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/water/snowflake-ice-snow-white.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ZpGCtjqOhdhAuvcv",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741846967691,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!cKGbHxqJuhwMpXda"
+}

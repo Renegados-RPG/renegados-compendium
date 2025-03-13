@@ -1,0 +1,114 @@
+{
+  "_id": "I5o6IKLmtt1Ew6jZ",
+  "name": "Primal Champion",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "46",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Barbarian 20",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "primal-champion",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [
+    {
+      "_id": "H8YZ5Fo2fzfKGuvI",
+      "name": "Primal Champion",
+      "changes": [
+        {
+          "key": "system.abilities.str.value",
+          "mode": 2,
+          "value": "+ 4",
+          "priority": 7
+        },
+        {
+          "key": "system.abilities.con.value",
+          "mode": 2,
+          "value": "+ 4",
+          "priority": 7
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "primal-champion"
+        }
+      },
+      "img": "icons/magic/control/sihouette-hold-beam-green.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!I5o6IKLmtt1Ew6jZ.H8YZ5Fo2fzfKGuvI"
+    }
+  ],
+  "flags": {},
+  "img": "icons/magic/control/sihouette-hold-beam-green.webp",
+  "folder": "cTSjaTBfeVMqJG1I",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741844572694,
+    "modifiedTime": 1741844572694,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!I5o6IKLmtt1Ew6jZ"
+}
