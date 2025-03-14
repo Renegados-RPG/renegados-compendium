@@ -1,0 +1,60 @@
+{
+  "_id": "nsxlr5LjrkhY76DT",
+  "name": "Spellcasting Focus",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "56",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>2nd-level ranger @variantrule[optional class features|tce|optional feature]</i></p><p>You can use a @item[druidic focus|phb] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 2",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "spellcasting-focus",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/leaf-glow-triple-teal.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "jVlKkpPmGtnEJASd",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975716991,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 2500000,
+  "_key": "!items!nsxlr5LjrkhY76DT"
+}

@@ -1,0 +1,121 @@
+{
+  "_id": "5EH1KX5qYmybf3i6",
+  "name": "Beast Master",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "93",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.</p><div data-roll-name-ancestor=\"Ranger's Companion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Ranger's Companion</span></h3> <p>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1/4,flsttype:beast=1,flstsize:f=1~d=1~t=1~s=1~m=1,flstmiscellaneous:swarm=2\">beast that is no larger than Medium and that has a challenge rating of 1/4 or lower</a>. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</p><p>The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the @action[Attack], @action[Dash], @action[Disengage], or @action[Help] action. If you don't issue a command, the beast takes the @action[Dodge] action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the @action[Attack] action.</p><p>If you are &amp;Reference[condition=incapacitated] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.</p><p>While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.</p><p>If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn't hostile to you and that meets the requirements.</p></div><div data-roll-name-ancestor=\"Primal Companion\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p61\">Primal Companion</span></h3> <p><i>3rd-level Beast Master variant feature, which replaces the Ranger's Companion feature</i></p><p>You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—@creature[Beast of the Land|TCE], @creature[Beast of the Sea|TCE], or @creature[Beast of the Sky|TCE]—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.</p><p>In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the @action[Dodge] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the @action[Attack] action to command the beast to take the @action[Attack] action. If you are &amp;Reference[condition=incapacitated], the beast can take any action of its choice, not just @action[Dodge].</p><p>If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.</p><p>When you finish a long rest, you can summon a different primal beast. The new beast appears in an unoccupied space within 5 feet of you, and you choose its stat block and appearance. If you already have a beast from this feature, it vanishes when the new beast appears. The beast also vanishes if you die.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Beast Master)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "Rt1GWmuMMeuDEMPP": {
+        "_id": "Rt1GWmuMMeuDEMPP",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "1.5",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "beast-master",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/abilities/paw-print-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ufGf3llIYXYQa2z3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741977267795,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!5EH1KX5qYmybf3i6"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "8Cud11MYpTVNyJ1o",
+  "name": "Deft Explorer Improvement",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "56",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain an additional benefit when you reach 6th level in this class.</p><div data-roll-name-ancestor=\"Roving\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Roving</span></h3> <p>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 6",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "deft-explorer-improvement",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/environment/wilderness/mine-interior-dungeon-door.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "jVlKkpPmGtnEJASd",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741976835191,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 200000,
+  "_key": "!items!8Cud11MYpTVNyJ1o"
+}

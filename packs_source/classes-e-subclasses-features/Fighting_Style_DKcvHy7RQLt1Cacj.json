@@ -1,0 +1,60 @@
+{
+  "name": "Fighting Style",
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<p>You adopt a particular style of fighting as your specialty. Choose one of the following options from the appropriate class list. You can't take a Fighting Style option more than once, even if you later get to choose again.</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.8YwPFv3UAPjWVDNf]{Arquearia}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.iNYGSPUr72l2y0fe]{Blind Fighting}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.zSlV0O2rQMdoq6pB]{Defesa}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.XKN9kjYZlTTF1QCV]{Druidic Warrior}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.hCop9uJrWhF1QPb4]{Duelo}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.P7i8luhPHmdQC2Nx]{Thrown Weapon Fighting}</p><p>@UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.mHcSjcHJ8oZu3hkb]{Lutar com Duas Armas}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "SRD 5.1",
+      "page": "",
+      "license": "CC-BY-4.0",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Ranger 2",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "fighting-style",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "flags": {},
+  "img": "icons/skills/melee/weapons-crossed-daggers-orange.webp",
+  "effects": [],
+  "_stats": {
+    "duplicateSource": null,
+    "compendiumSource": "Compendium.dnd5e.classfeatures.Item.nJA3ISVmyj3uPRVM",
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975716901,
+    "modifiedTime": 1741976112417,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "folder": "jVlKkpPmGtnEJASd",
+  "sort": 500000,
+  "_id": "DKcvHy7RQLt1Cacj",
+  "_key": "!items!DKcvHy7RQLt1Cacj"
+}

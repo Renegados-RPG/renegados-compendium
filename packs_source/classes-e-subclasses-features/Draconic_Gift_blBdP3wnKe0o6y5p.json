@@ -1,0 +1,60 @@
+{
+  "_id": "blBdP3wnKe0o6y5p",
+  "name": "Draconic Gift",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "FTD",
+      "page": "15",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Drakewarden feature</i></p><p>The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Thaumaturgy\"><span class=\"bold rd__list-item-name\">Thaumaturgy.</span> You learn the @UUID[Compendium.renegados-compendium.magias.Item.dCVxh5iGFt5STqlC] cantrip, which is a ranger spell for you.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tongue of Dragons\"><span class=\"bold rd__list-item-name\">Tongue of Dragons.</span> You learn to speak, read, and write Draconic or one other language of your choice.</p></li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Drakewarden)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "draconic-gift",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/reptiles/dragon-winged-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "zRIikbca4wZ9tTG0",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741977549970,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!blBdP3wnKe0o6y5p"
+}

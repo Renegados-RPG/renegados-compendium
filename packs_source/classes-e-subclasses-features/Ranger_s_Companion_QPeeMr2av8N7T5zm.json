@@ -1,0 +1,107 @@
+{
+  "_id": "QPeeMr2av8N7T5zm",
+  "name": "Ranger's Companion",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "93",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1/4,flsttype:beast=1,flstsize:f=1~d=1~t=1~s=1~m=1,flstmiscellaneous:swarm=2\">beast that is no larger than Medium and that has a challenge rating of 1/4 or lower</a>. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.</p><p>The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the @action[Attack], @action[Dash], @action[Disengage], or @action[Help] action. If you don't issue a command, the beast takes the @action[Dodge] action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the @action[Attack] action.</p><p>If you are &amp;Reference[condition=incapacitated] or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.</p><p>While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.</p><p>If the beast dies, you can obtain a new companion by spending 8 hours magically bonding with a beast that isn't hostile to you and that meets the requirements.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Beast Master)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "oHE6o1jdgS0yQy2G": {
+        "_id": "oHE6o1jdgS0yQy2G",
+        "type": "utility",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "rangers-companion",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/commodities/treasure/figurine-boar.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ufGf3llIYXYQa2z3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!QPeeMr2av8N7T5zm"
+}

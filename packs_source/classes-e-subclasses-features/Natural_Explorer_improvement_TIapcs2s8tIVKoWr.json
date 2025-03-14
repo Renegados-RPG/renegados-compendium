@@ -1,0 +1,60 @@
+{
+  "_id": "TIapcs2s8tIVKoWr",
+  "name": "Natural Explorer improvement",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "89",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 6th level, you gain an additional favored terrain.</p><p>At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 6",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "favored-enemy-and-natural-explorer-improvements",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/tree-roots-glow-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "jVlKkpPmGtnEJASd",
+  "_stats": {
+    "compendiumSource": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QUK10anOQzvzMbs4",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741976574769,
+    "modifiedTime": 1741976659701,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 950000,
+  "_key": "!items!TIapcs2s8tIVKoWr"
+}

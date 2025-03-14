@@ -1,0 +1,130 @@
+{
+  "_id": "TgVVFpGQl2Kd5nBh",
+  "name": "Drakewarden",
+  "type": "subclass",
+  "system": {
+    "identifier": "drakewarden",
+    "classIdentifier": "ranger",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.</p><p>Consider the source of the draconic spirit you have bonded with. The Drakewarden Origin table offers examples.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Drakewarden Origin\"><caption>Drakewarden Origin</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\"><span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d6</span></th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Origin</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">You studied a dragon's scale or claw, or a trinket from a dragon's hoard, creating your bond through that token's lingering draconic magic.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">A secret order of rangers who collect and guard draconic lore taught you their ways.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">A dragon gave you a geode or gemstone to care for. To your surprise, the drake hatched from that stone.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">You ingested a few drops of dragon blood, forever infusing your nature magic with draconic power.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">An ancient Draconic inscription on a standing stone empowered you when you read it aloud.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">You had a vivid dream of a mysterious figure accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.</td></tr></tbody></table><div data-roll-name-ancestor=\"Draconic Gift\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Draconic Gift</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Fizban’s Treasury of Dragons\">FTD</span> <span title=\"Page 15\">p15</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p><em>3rd-level Drakewarden feature</em></p><p>The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Thaumaturgy\"><span class=\"bold rd__list-item-name\">Thaumaturgy.</span> You learn the <a href=\"https://2014.5e.tools/spells.html#thaumaturgy_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"thaumaturgy_phb\" data-vet-is-allow-redirect=\"true\">thaumaturgy</a> cantrip, which is a ranger spell for you.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tongue of Dragons\"><span class=\"bold rd__list-item-name\">Tongue of Dragons.</span> You learn to speak, read, and write Draconic or one other language of your choice.</p></li></ul></div><div data-roll-name-ancestor=\"Drake Companion\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Drake Companion</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Fizban’s Treasury of Dragons\">FTD</span> <span title=\"Page 15\">p15</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p><em>3rd-level Drakewarden feature</em></p><p>As an action, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.</p><p>The drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying <a href=\"https://2014.5e.tools/bestiary.html#drake%20companion_ftd\" data-vet-page=\"bestiary.html\" data-vet-source=\"FTD\" data-vet-hash=\"drake%20companion_ftd\">Drake Companion</a> stat block, which uses your proficiency bonus (PB) in several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.</p><p>In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the <a href=\"https://2014.5e.tools/actions.html#dodge_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"dodge_phb\" data-vet-is-allow-redirect=\"true\">Dodge</a> action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are <a href=\"https://2014.5e.tools/conditionsdiseases.html#incapacitated_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"incapacitated_phb\" data-vet-is-allow-redirect=\"true\">incapacitated</a>, the drake can take any action of its choice, not just <a href=\"https://2014.5e.tools/actions.html#dodge_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"dodge_phb\" data-vet-is-allow-redirect=\"true\">Dodge</a>.</p><p>The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.</p><p>Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Drakewarden\" data-source=\"FTD\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Fizban’s Treasury of Dragons, p15\">Drakewarden</span></h2><p>Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.</p><p>Consider the source of the draconic spirit you have bonded with. The Drakewarden Origin table offers examples.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Drakewarden Origin\"><caption>Drakewarden Origin</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Origin</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">You studied a dragon's scale or claw, or a trinket from a dragon's hoard, creating your bond through that token's lingering draconic magic.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">A secret order of rangers who collect and guard draconic lore taught you their ways.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">A dragon gave you a geode or gemstone to care for. To your surprise, the drake hatched from that stone.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">You ingested a few drops of dragon blood, forever infusing your nature magic with draconic power.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">An ancient Draconic inscription on a standing stone empowered you when you read it aloud.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">You had a vivid dream of a mysterious figure accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.</td></tr></tbody></table><div data-roll-name-ancestor=\"Level 3: Draconic Gift\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Fizban’s Treasury of Dragons, p15\">Level 3: Draconic Gift</span></h3><p><em>3rd-level Drakewarden feature</em></p><p>The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Thaumaturgy\"><span class=\"bold rd__list-item-name\">Thaumaturgy.</span> You learn the @UUID[Compendium.renegados-compendium.magias.Item.dCVxh5iGFt5STqlC] cantrip, which is a ranger spell for you.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Tongue of Dragons\"><span class=\"bold rd__list-item-name\">Tongue of Dragons.</span> You learn to speak, read, and write Draconic or one other language of your choice.</p></li></ul></div><div data-roll-name-ancestor=\"Level 3: Drake Companion\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Fizban’s Treasury of Dragons, p15\">Level 3: Drake Companion</span></h3><p><em>3rd-level Drakewarden feature</em></p><p>As an action, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.</p><p>The drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying @creature[Drake Companion|FTD] stat block, which uses your proficiency bonus (PB) in several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.</p><p>In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the @action[Dodge] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are &amp;Reference[condition=incapacitated], the drake can take any action of its choice, not just @action[Dodge].</p><p>The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.</p><p>Once you summon the drake, you can't do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Bond of Fang and Scale\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Fizban’s Treasury of Dragons, p15\">Level 7: Bond of Fang and Scale</span></h3><p><em>7th-level Drakewarden feature</em></p><p>The bond you share with your drake intensifies, protecting you and stoking the drake's fury. When you summon your drake, it grows wings on its back and gains a flying speed equal to its walking speed.</p><p>In addition, while your drake is summoned, you and the drake gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Drake Mount\"><span class=\"bold rd__list-item-name\">Drake Mount.</span> The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can't use the flying speed of this feature.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Magic Fang\"><span class=\"bold rd__list-item-name\">Magic Fang.</span> The drake's Bite attack deals an extra [[/damage 1d6]] damage of the type chosen for the drake's Draconic Essence.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Resistance\"><span class=\"bold rd__list-item-name\">Resistance.</span> You gain resistance to the damage type chosen for the drake's Draconic Essence.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Drake's Breath\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Fizban’s Treasury of Dragons, p15\">Level 11: Drake's Breath</span></h3><p><em>11th-level Drakewarden feature</em></p><p>As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage (your choice doesn't have to match your drake's Draconic Essence). Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking [[/damage 8d6]] damage on a failed save, or half as much damage on a successful one.</p><p>This damage increases to [[/damage 10d6]] when you reach 15th level in this class.</p><p>Once you use this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Perfected Bond\" data-source=\"FTD\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Fizban’s Treasury of Dragons, p15\">Level 15: Perfected Bond</span></h3><p><em>15th-level Drakewarden feature</em></p><p>Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Empowered Bite\"><span class=\"bold rd__list-item-name\">Empowered Bite.</span> The drake's Bite attack deals an extra [[/damage 1d6]] damage of the type chosen for its Draconic Essence (for a total of [[/damage 2d6]] extra damage).</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Large Drake\"><span class=\"bold rd__list-item-name\">Large Drake.</span> The drake grows to Large size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Reflexive Resistance\"><span class=\"bold rd__list-item-name\">Reflexive Resistance.</span> When either you or the drake takes damage while you're within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></li></ul></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "FTD",
+      "page": "15",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "hx7culb68LxqY3sn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.JqhjhcmRyj456s83",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.blBdP3wnKe0o6y5p",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.aN3SCv3p7wKHtMNu",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ZTG2TPNpvLx98zYk",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Features",
+        "hint": "",
+        "_id": "MWvkfYfVWdz8sG6R"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.TFJyXRZ33alWtVMS",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "Features",
+        "hint": "",
+        "_id": "F37TsqGrNmFZNVsT"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.cBUc3TAQJTFumnKQ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features",
+        "hint": "",
+        "_id": "5lSDSlduQGdGooOE"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "folder": "gl85wbWW8qeLFJ8G",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741974620091,
+    "modifiedTime": 1741977636974,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!TgVVFpGQl2Kd5nBh"
+}

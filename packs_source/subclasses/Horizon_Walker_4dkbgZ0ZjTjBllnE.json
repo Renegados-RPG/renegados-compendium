@@ -1,0 +1,261 @@
+{
+  "_id": "4dkbgZ0ZjTjBllnE",
+  "name": "Horizon Walker",
+  "type": "subclass",
+  "system": {
+    "identifier": "horizon-walker",
+    "classIdentifier": "ranger",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</p><div data-roll-name-ancestor=\"Horizon Walker Magic\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Horizon Walker Magic</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 42\">p42</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Horizon Walker Spells\"><caption>Horizon Walker Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Ranger Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#protection%20from%20evil%20and%20good_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"protection%20from%20evil%20and%20good_phb\" data-vet-is-allow-redirect=\"true\">protection from evil and good</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#misty%20step_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"misty%20step_phb\" data-vet-is-allow-redirect=\"true\">misty step</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#haste_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"haste_phb\" data-vet-is-allow-redirect=\"true\">haste</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#banishment_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"banishment_phb\" data-vet-is-allow-redirect=\"true\">banishment</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#teleportation%20circle_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"teleportation%20circle_phb\" data-vet-is-allow-redirect=\"true\">teleportation circle</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Detect Portal\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Detect Portal</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 42\">p42</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p><p>See the \"Planar Travel\" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</p></div><div data-roll-name-ancestor=\"Planar Warrior\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner\">Planar Warrior</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 42\">p42</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.</p><p>As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">1d8</span> force damage from the attack. When you reach 11th level in this class, the extra damage increases to <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">2d8</span>.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Horizon Walker\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Horizon Walker</span></h2><p>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.</p><div data-roll-name-ancestor=\"Level 3: Horizon Walker Magic\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Level 3: Horizon Walker Magic</span></h3><p>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Horizon Walker Spells\"><caption>Horizon Walker Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Ranger Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.GovMhwY2Z5VLeYWx]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Detect Portal\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Level 3: Detect Portal</span></h3><p>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p><p>See the \"Planar Travel\" section in chapter 2 of the Dungeon Master's Guide for examples of planar portals.</p></div><div data-roll-name-ancestor=\"Level 3: Planar Warrior\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Level 3: Planar Warrior</span></h3><p>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.</p><p>As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra [[/damage 1d8 type=force]] damage from the attack. When you reach 11th level in this class, the extra damage increases to [[/damage 2d8]].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Ethereal Step\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Level 7: Ethereal Step</span></h3><p>At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the @UUID[Compendium.renegados-compendium.magias.Item.uYHbWPIp7Mms4PIo] spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Distant Strike\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Level 11: Distant Strike</span></h3><p>At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the @action[Attack] action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.</p><p>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Spectral Defense\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p42\">Level 15: Spectral Defense</span></h3><p>At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "42",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "hx7culb68LxqY3sn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.urV4POF4o1ZSqWht",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.nauYbBPrPbdcarJt",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3o1e8GgS21X2vaAJ",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.9S7AifQH6ur5lFK8",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QTd0AJPaFQULYJDH",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Features",
+        "hint": "",
+        "_id": "MWvkfYfVWdz8sG6R"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.IxUrwXQHdJPnbQXN",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "Features",
+        "hint": "",
+        "_id": "F37TsqGrNmFZNVsT"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.TpX5BgXoazuKVOXY",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features",
+        "hint": "",
+        "_id": "5lSDSlduQGdGooOE"
+      },
+      {
+        "_id": "gfsvvnFyRnE4Gu09",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Horizon Walker Magic",
+        "hint": "",
+        "icon": "icons/magic/light/explosion-star-pink.webp"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Horizon Walker Magic",
+        "hint": "",
+        "icon": "icons/magic/light/explosion-star-pink.webp",
+        "_id": "1lpHQPtQWSZilN6z"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 9,
+        "title": "Horizon Walker Magic",
+        "hint": "",
+        "icon": "icons/magic/light/explosion-star-pink.webp",
+        "_id": "fgSuom6rb4o1ukyG"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 13,
+        "title": "Horizon Walker Magic",
+        "hint": "",
+        "icon": "icons/magic/light/explosion-star-pink.webp",
+        "_id": "fn31YUDQ0ifRTM9b"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.GovMhwY2Z5VLeYWx",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 17,
+        "title": "Horizon Walker Magic",
+        "hint": "",
+        "icon": "icons/magic/light/explosion-star-pink.webp",
+        "_id": "DZDfrkGueAgJycCP"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/lightning/bolt-strike-explosion-yellow.webp",
+  "folder": "gl85wbWW8qeLFJ8G",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741974620091,
+    "modifiedTime": 1741988462541,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!4dkbgZ0ZjTjBllnE"
+}

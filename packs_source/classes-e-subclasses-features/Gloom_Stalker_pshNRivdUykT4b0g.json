@@ -1,0 +1,124 @@
+{
+  "_id": "pshNRivdUykT4b0g",
+  "name": "Gloom Stalker",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "41",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.</p><div data-roll-name-ancestor=\"Gloom Stalker Magic\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p41\">Gloom Stalker Magic</span></h3> <p>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Gloom Stalker Spells\"><caption>Gloom Stalker Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Ranger Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.IWodopwLQ2Zy8uga]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.QhC1xMNqfKHeXdar]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ey5AL5ypd8VX1DGL]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ogrGfpDCLyrP21po]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Dread Ambusher\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p41\">Dread Ambusher</span></h3> <p>At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.</p><p>At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the @action[Attack] action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra [[/damage 1d8]] damage of the weapon's damage type.</p></div><div data-roll-name-ancestor=\"Umbral Sight\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p41\">Umbral Sight</span></h3> <p>At 3rd level, you gain &amp;Reference[rule=darkvision] out to a range of 60 feet. If you already have &amp;Reference[rule=darkvision] from your race, its range increases by 30 feet.</p><p>You are also adept at evading creatures that rely on &amp;Reference[rule=darkvision]. While in darkness, you are &amp;Reference[condition=invisible] to any creature that relies on &amp;Reference[rule=darkvision] to see you in that darkness.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Gloom Stalker)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "XMjAw6R9lq9ZjPjn": {
+        "_id": "XMjAw6R9lq9ZjPjn",
+        "type": "damage",
+        "name": "",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": [],
+              "number": 1,
+              "denomination": 8,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "gloom-stalker",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/stealth-hide-eyes-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "PUNkYpJGjNeMvAgq",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741978560452,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!pshNRivdUykT4b0g"
+}

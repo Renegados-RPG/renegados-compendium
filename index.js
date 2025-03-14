@@ -12,6 +12,27 @@ import * as parseSpells from "./commands/parseSpells.js";
 import * as parseSpellsList from "./commands/parseSpellsList.js";
 import * as findBrokenLinks from "./commands/findBrokenLinks.js";
 
+const prettify = async () => {
+  const prettierSpinner = ora().start();
+  await new Promise(function (resolve, reject) {
+    const prettier = spawn("yarn", ["prettier", "--write", "--ignore-unknown", ".\\packs_source\\"], {
+      shell: true,
+    });
+    prettier.stdout.on("data", (data) => {
+      prettierSpinner.text = `Formatting ${data.toString()}`;
+    });
+    prettier.on("close", function (code) {
+      prettierSpinner.succeed("Prettier process completed");
+      // *** Process completed
+      resolve(code);
+    });
+    prettier.on("error", function (err) {
+      // *** Process creation failed
+      reject(err);
+    });
+  });
+};
+
 program.version("1.0.0").description("Renegados CLI");
 
 program
@@ -30,6 +51,7 @@ program
     const spinner = ora("Finding broken links").start();
     await findBrokenLinks.execute();
     spinner.succeed("Broken links found");
+    await prettify();
   });
 
 program
@@ -39,6 +61,7 @@ program
     const spinner = ora("Clearing flags").start();
     await clearFlags.execute();
     spinner.succeed("Flags cleared");
+    await prettify();
   });
 
 program.action(() => {
@@ -103,25 +126,7 @@ program.action(() => {
         default:
           break;
       }
-
-      const prettierSpinner = ora().start();
-      await new Promise(function (resolve, reject) {
-        const prettier = spawn("yarn", ["prettier", "--write", "--ignore-unknown", ".\\packs_source\\"], {
-          shell: true,
-        });
-        prettier.stdout.on("data", (data) => {
-          prettierSpinner.text = data.toString();
-        });
-        prettier.on("close", function (code) {
-          prettierSpinner.succeed("Prettier process completed");
-          // *** Process completed
-          resolve(code);
-        });
-        prettier.on("error", function (err) {
-          // *** Process creation failed
-          reject(err);
-        });
-      });
+      await prettify();
     });
 });
 

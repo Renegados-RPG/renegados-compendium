@@ -1,0 +1,787 @@
+{
+  "_id": "jzeXIlhtNN8rOLZj",
+  "name": "Ranger",
+  "type": "class",
+  "system": {
+    "identifier": "ranger",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div><div data-source=\"PHB\" class=\"rd__b  rd__b--0\"><p>Rough and wild looking, a human stalks alone through the shadows of trees, hunting the orcs he knows are planning a raid on a nearby farm. Clutching a shortsword in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.</p><p>After tumbling away from a cone of freezing air, an elf finds her feet and draws back her bow to loose an arrow at the white dragon. Shrugging off the wave of fear that emanates from the dragon like the cold of its breath, she sends one arrow after another to find the gaps between the dragon's thick scales.</p><p>Holding his hand high, a half-elf whistles to the hawk that circles high above him, calling the bird back to his side. Whispering instructions in Elvish, he points to the owlbear he's been tracking and sends the hawk to distract the creature while he readies his bow.</p><p>Far from the bustle of cities and towns, past the hedges that shelter the most distant farms from the terrors of the wild, amid the dense-packed trees of trackless forests and across wide and empty plains, rangers keep their unending watch.</p><div data-roll-name-ancestor=\"Deadly Hunters\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"1\"><span class=\"entry-title-inner\">Deadly Hunters</span></h2><p>Warriors of the wilderness, rangers specialize in hunting the monsters that threaten the edges of civilization—humanoid raiders, rampaging beasts and monstrosities, terrible giants, and deadly dragons. They learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble. Rangers focus their combat training on techniques that are particularly useful against their specific favored foes.</p><p>Thanks to their familiarity with the wilds, rangers acquire the ability to cast spells that harness nature's power, much as a druid does. Their spells, like their combat abilities, emphasize speed, stealth, and the hunt. A ranger's talents and abilities are honed with deadly focus on the grim task of protecting the borderlands.</p></div><div data-roll-name-ancestor=\"Independent Adventurers\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner\">Independent Adventurers</span></h2><p>Though a ranger might make a living as a hunter, a guide, or a tracker, a ranger's true calling is to defend the outskirts of civilization from the ravages of monsters and humanoid hordes that press in from the wild. In some places, rangers gather in secretive orders or join forces with druidic circles. Many rangers, though, are independent almost to a fault, knowing that, when a dragon or a band of orcs attacks, a ranger might be the first—and possibly the last—line of defense.</p><p>This fierce independence makes rangers well suited to adventuring, since they are accustomed to life far from the comforts of a dry bed and a hot bath. Faced with city-bred adventurers who grouse and whine about the hardships of the wild, rangers respond with some mixture of amusement, frustration, and compassion. But they quickly learn that other adventurers who can carry their own weight in a fight against civilization's foes are worth any extra burden. Coddled city folk might not know how to feed themselves or find fresh water in the wild, but they make up for it in other ways.</p></div><div data-roll-name-ancestor=\"Creating a Ranger\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner\">Creating a Ranger</span></h2><p>As you create your ranger character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, wandering the wilds together until you mastered the ranger's ways? Did you leave your apprenticeship, or was your mentor slain—perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of rangers affiliated with a druidic circle, trained in mystic paths as well as wilderness lore. You might be self-taught, a recluse who learned combat skills, tracking, and even a magical connection to nature through the necessity of surviving in the wilds.</p><p>What's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work in protecting the borderlands, or a significant change? What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?</p><div data-roll-name-ancestor=\"Quick Build\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner\">Quick Build</span></h3><p>You can make a ranger quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. (Some rangers who focus on two-weapon fighting make Strength higher than Dexterity.) Second, choose the @background[outlander] background.</p></div></div></div><hr class=\"rd__hr rd__hr--section\" /><div data-source=\"XGE\" class=\"rd__b  rd__b--0\"><div class=\"rd__quote\"><p class=\"rd__quote-line rd__quote-line--last\">“<em>I spend a lot of my life away from civilization, keeping to its fringes to protect it. Don't assume that because I don't bend the knee to your king that I haven't done more to protect him than all his knights put together.</em>”</p><p><span class=\"rd__quote-by\">— Soveliss</span></p></div><p>Rangers are free-minded wanderers and seekers who patrol the edges of civilized territory, turning back the denizens of the wild lands beyond. It is a thankless job, since their efforts are rarely understood and almost never rewarded. Yet rangers persist in their duties, never doubting that their work makes the world a safer place.</p><p>A relationship with civilization informs every ranger's personality and history. Some rangers see themselves as enforcers of the law and bringers of justice on civilization's frontier, answering to no sovereign power. Others are survivalists who eschew civilization altogether. They vanquish monsters to keep themselves safe while they live in and travel through the perilous wild areas of the world. If their efforts also benefit the kingdoms and other civilized realms that they avoid, so be it.</p><p>If you're creating or playing a ranger character, the following sections offer ideas for embellishing the character and enhancing your roleplaying experience.</p><div data-roll-name-ancestor=\"View of the World\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"5\"><span class=\"entry-title-inner\">View of the World</span></h2><p>A ranger's view of the world begins (and sometimes ends) with that character's outlook toward civilized folk and the places they occupy. Some rangers have an attitude toward civilization that's deeply rooted in disdain, while others pity the people they have sworn to protect—though on the battlefield, it's impossible to tell the difference between one ranger and another. Indeed, to those who have seen them operate and been the beneficiaries of their prowess, it scarcely matters why rangers do what they do. That said, no two rangers are likely to express their opinions on any matter in the same way.</p><p>If you haven't yet thought about the details of your character's worldview, consider putting a finer point on things by summarizing that viewpoint in a short statement (such as the entries on the following table). How might that feeling affect the way you conduct yourself?</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"View of the World\"><caption>View of the World</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">View</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">Towns and cities are the best places for those who can't survive on their own.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">The advancement of civilization is the best way to thwart chaos, but its reach must be monitored.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Towns and cities are a necessary evil, but once the wilderness is purged of supernatural threats, we will need them no more.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">Walls are for cowards, who huddle behind them while others do the work of making the world safe.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">Visiting a town is not unpleasant, but after a few days I feel the irresistible call to return to the wild.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">Cities breed weakness by isolating folk from the harsh lessons of the wild.</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Homelands\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"6\"><span class=\"entry-title-inner\">Homelands</span></h2><p>All rangers, regardless of how they came to take up the profession, have a strong connection to the natural world and its various terrains. For some rangers, the wilderness is where they grew up, either as a result of being born there or moving there at a young age. For other rangers, civilization was originally home, but the wilderness became a second homeland.</p><p>Think of your character's backstory and decide what terrain feels most like home, whether or not you were born there. What does that terrain say about your personality? Does it influence which spells you choose to learn? Have your experiences there shaped who your favored enemies are?</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Homelands\"><caption>Homelands</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Homeland</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">You patrolled an ancient forest, darkened and corrupted by several crossings to the Shadowfell.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">As part of a group of nomads, you acquired the skills for surviving in the desert.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">Your early life in the Underdark prepared you for the challenges of combating its denizens.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">You dwelled on the edge of a swamp, in an area imperiled by land creatures as well as aquatic ones.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">Because you grew up among the peaks, finding the best path through the mountains is second nature to you.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">You wandered the far north, learning how to protect yourself and prosper in a realm overrun by ice.</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Sworn Enemy\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"7\"><span class=\"entry-title-inner\">Sworn Enemy</span></h2><p>Every ranger begins with a favored enemy (or two). The determination of a favored enemy might be tied to a specific event in the character's early life, or it might be entirely a matter of choice.</p><p>What spurred your character to select a particular enemy? Was the choice made because of tradition or curiosity, or do you have a grudge to settle?</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Sworn Enemies\"><caption>Sworn Enemies</caption><thead><tr><th class=\"rd__th ve-col-1 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-11 \" data-rd-isroller=\"false\">Enemy</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-11 \">You seek revenge on nature's behalf for the great transgressions your foe has committed.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-11 \">Your forebears or predecessors fought these creatures, and so shall you.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-11 \">You bear no enmity toward your foe. You stalk such creatures as a hunter tracks down a wild animal.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-11 \">You find your foe fascinating, and you collect books of tales and history concerning it.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-11 \">You collect tokens of your fallen enemies to remind you of each kill.</td></tr><tr><td class=\"rd__th ve-col-1 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-11 \">You respect your chosen enemy, and you see your battles as a test of respective skills.</td></tr></tbody></table></div></div></div><table class=\"cls-tbl shadow-big w-100 mb-3\"><tbody><tr><th class=\"ve-tbl-border\" colspan=\"15\"><p></p></th></tr><tr><th colspan=\"3\"><p></p></th><th colspan=\"1\"><p></p></th><th class=\"cls-tbl__col-group\" colspan=\"5\"><p>Spell Slots per Spell Level</p></th></tr><tr><th class=\"cls-tbl__col-level\"><p>Level</p></th><th class=\"cls-tbl__col-prof-bonus\"><p>Proficiency Bonus</p></th><th><p>Features</p></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p><a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:ranger=1\">Spells Known</a></p></div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p><a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:1=1,flstclass:ranger=1\">1st</a></p></div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p><a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:2=1,flstclass:ranger=1\">2nd</a></p></div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p><a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:3=1,flstclass:ranger=1\">3rd</a></p></div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p><a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:4=1,flstclass:ranger=1\">4th</a></p></div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\"><p><a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:5=1,flstclass:ranger=1\">5th</a></p></div></th></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>1st</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Favored Enemy<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Favored Foe<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Natural Explorer<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Deft Explorer</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>2nd</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Fighting Style<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Spellcasting<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Spellcasting Focus</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>3rd</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Ranger Archetype<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Primeval Awareness<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Primal Awareness</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>4th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+2</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Martial Versatility</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>5th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Extra Attack</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>6th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Favored Enemy and Natural Explorer improvements<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Deft Explorer Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>7th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Ranger Archetype feature</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>8th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+3</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Land's Stride</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>5</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>9th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>6</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>10th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Hide in Plain Sight<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Nature's Veil<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Natural Explorer improvement<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Deft Explorer Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>6</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>11th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Ranger Archetype feature</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>7</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>12th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+4</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>7</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>13th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>8</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>1</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>14th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Vanish<span class=\"mr-1\">,</span></p></div><div class=\"inline-block\"><p>Favored Enemy improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>8</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>1</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>15th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Ranger Archetype feature</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>9</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>16th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+5</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>9</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td><td class=\"cls-tbl__col-generic-center\"><p>—</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>17th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><p>—</p></td><td class=\"cls-tbl__col-generic-center\"><p>10</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>1</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>18th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Feral Senses</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>10</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>1</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>19th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Ability Score Improvement</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>11</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td></tr><tr class=\"cls-tbl__stripe-odd\"><td class=\"cls-tbl__col-level\"><p>20th</p></td><td class=\"cls-tbl__col-prof-bonus\"><p>+6</p></td><td><div class=\"inline-block\"><p>Foe Slayer</p></div></td><td class=\"cls-tbl__col-generic-center\"><p>11</p></td><td class=\"cls-tbl__col-generic-center\"><p>4</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>3</p></td><td class=\"cls-tbl__col-generic-center\"><p>2</p></td></tr><tr><th class=\"ve-tbl-border\" colspan=\"15\"><p></p></th></tr></tbody></table><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Favored Enemy\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Favored Enemy</span></h2><p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p><p>Choose a type of favored enemy: <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:aberration=1\">aberrations</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:beast=1\">beasts</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:celestial=1\">celestials</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:construct=1\">constructs</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:dragon=1\">dragons</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:elemental=1\">elementals</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:fey=1\">fey</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:fiend=1\">fiends</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:giant=1\">giants</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:monstrosity=1\">monstrosities</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:ooze=1\">oozes</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:plant=1\">plants</a>, or <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:undead=1\">undead</a>. Alternatively, you can select two races of <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:humanoid=1\">humanoid</a> (such as @creature[gnoll||gnolls] and @creature[orc||orcs]) as favored enemies.</p><p>You have advantage on Wisdom (&amp;Reference[skill=Survival]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p></div><div data-roll-name-ancestor=\"Favored Foe\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Favored Foe</span></h2><p><em>1st-level ranger @variantrule[optional class features|tce|optional feature], which replaces the Favored Enemy feature and works with the Foe Slayer feature</em></p><p>When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your @status[concentration] (as if you were @status[concentration||concentrating] on a spell).</p><p>The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by [[/damage 1d4]].</p><p>You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>This feature's extra damage increases when you reach certain levels in this class: to [[/damage 1d6]] at 6th level and to [[/damage 1d8]] at 14th level.</p></div><div data-roll-name-ancestor=\"Natural Explorer\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Natural Explorer</span></h2><p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</p><p>While traveling for an hour or more in your favored terrain, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Difficult terrain doesn't slow your group's travel.</li><li class=\"rd__li \">Your group can't become lost except by magical means.</li><li class=\"rd__li \">Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li><li class=\"rd__li \">If you are traveling alone, you can move stealthily at a normal pace.</li><li class=\"rd__li \">When you forage, you find twice as much food as you normally would.</li><li class=\"rd__li \">While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li></ul><p>You choose additional favored terrain types at 6th and 10th level.</p></div><div data-roll-name-ancestor=\"Deft Explorer\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"11\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Deft Explorer</span></h2><p><em>1st-level ranger @variantrule[optional class features|tce|optional feature], which replaces the Natural Explorer feature</em></p><p>You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.</p><div data-roll-name-ancestor=\"Canny\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner\">Canny</span></h3><p>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.</p><p>You can also speak, read, and write two additional languages of your choice.</p></div></div><div data-roll-name-ancestor=\"Fighting Style\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"13\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Fighting Style</span></h2><p>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Archery\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"14\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p72\">Archery</span></h3><p>You gain a +2 bonus to attack rolls you make with ranged weapons.</p></div><div data-roll-name-ancestor=\"Blind Fighting\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"15\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p41\">Blind Fighting</span></h3><p>You have &amp;Reference[rule=blindsight] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind &amp;Reference[rule=totalcover]{total cover}, even if you're &amp;Reference[condition=blinded] or in darkness. Moreover, you can see an &amp;Reference[condition=invisible] creature within that range, unless the creature successfully hides from you.</p></div><div data-roll-name-ancestor=\"Defense\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"16\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p72\">Defense</span></h3><p>While you are wearing armor, you gain a +1 bonus to AC.</p></div><div data-roll-name-ancestor=\"Druidic Warrior\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"17\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p57\">Druidic Warrior</span></h3><p>You learn two cantrips of your choice from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:druid=1\">druid spell list</a>. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</p></div><div data-roll-name-ancestor=\"Dueling\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"18\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p72\">Dueling</span></h3><p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p></div><div data-roll-name-ancestor=\"Thrown Weapon Fighting\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"19\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Thrown Weapon Fighting</span></h3><p>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.</p><p>In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.</p></div><div data-roll-name-ancestor=\"Two-Weapon Fighting\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"20\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p72\">Two-Weapon Fighting</span></h3><p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p></div></div></div><div data-roll-name-ancestor=\"Spellcasting\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"21\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Spellcasting</span></h2><p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See <a href=\"https://2014.5e.tools/book.html#PHB,10\">chapter 10</a> for the general rules of spellcasting and <a href=\"https://2014.5e.tools/book.html#PHB,11\">chapter 11</a> for the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:ranger=1\">ranger spell list</a>.</p><div data-roll-name-ancestor=\"Spell Slots\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"22\"><span class=\"entry-title-inner\">Spell Slots</span></h3><p>The Ranger table shows how many spell slots you have to cast your <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:ranger=1\">ranger spells</a> of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>For example, if you know the 1st-level spell @UUID[Compendium.renegados-compendium.magias.Item.leY8JlM8hRZ0u2mm] and have a 1st-level and a 2nd-level spell slot available, you can cast @UUID[Compendium.renegados-compendium.magias.Item.leY8JlM8hRZ0u2mm] using either slot.</p></div><div data-roll-name-ancestor=\"Spells Known of 1st Level and Higher\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"23\"><span class=\"entry-title-inner\">Spells Known of 1st Level and Higher</span></h3><p>You know two 1st-level spells of your choice from the ranger spell list.</p><p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.</p><p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.</p></div><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"24\"><span class=\"entry-title-inner\">Spellcasting Ability</span></h3><p>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><p><strong>Spell save DC</strong> = 8 + Wisdom modifier + Proficiency Bonus</p></div><div class=\"rd__wrp-centered-ability\"><p><strong>Spell attack modifier</strong> = Wisdom modifier + Proficiency Bonus</p></div></div></div><div data-roll-name-ancestor=\"Spellcasting Focus\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"25\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Spellcasting Focus</span></h2><p><em>2nd-level ranger @variantrule[optional class features|tce|optional feature]</em></p><p>You can use a @item[druidic focus|phb] as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.</p></div><div data-roll-name-ancestor=\"Ranger Archetype\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"26\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ranger Archetype</span></h2><p>At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level.</p></div><div data-roll-name-ancestor=\"Primeval Awareness\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"27\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Primeval Awareness</span></h2><p>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.</p></div><div data-roll-name-ancestor=\"Primal Awareness\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"28\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Primal Awareness</span></h2><p><em>3rd-level ranger @variantrule[optional class features|tce|optional feature], which replaces the Primeval Awareness feature</em></p><p>You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Primal Awareness Spells\"><caption>Primal Awareness Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Ranger Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.hUgOe02o6ng8rP6J]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.gjjvi3i1jk8j72Dj]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.dCtpmnzNGdJfdAQS]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.0oIH0CNdwmRNBqZX]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.TgF16RZsjpYBhoN7]</td></tr></tbody></table><p>You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"29\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ability Score Improvement</span></h2><p>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Martial Versatility\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"30\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Martial Versatility</span></h2><p><em>4th-level ranger @variantrule[optional class features|tce|optional feature]</em></p><p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.</p></div><div data-roll-name-ancestor=\"Extra Attack\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"31\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Extra Attack</span></h2><p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the @action[Attack] action on your turn.</p></div><div data-roll-name-ancestor=\"Favored Enemy and Natural Explorer improvements\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"32\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Favored Enemy and Natural Explorer improvements</span></h2><p>At 6th level, you gain an additional favored terrain.</p><p>At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</p></div><div data-roll-name-ancestor=\"Deft Explorer Improvement\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"33\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Deft Explorer Improvement</span></h2><p>You gain an additional benefit when you reach 6th level in this class.</p><div data-roll-name-ancestor=\"Roving\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"34\"><span class=\"entry-title-inner\">Roving</span></h3><p>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.</p></div></div><div data-roll-name-ancestor=\"Ranger Archetype feature\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"35\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ranger Archetype feature</span></h2><p>At 7th level, you gain a feature granted to you by your Ranger Archetype.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"36\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ability Score Improvement</span></h2><p>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Land's Stride\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"37\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Land's Stride</span></h2><p>Starting at 8th level, moving through nonmagical &amp;Reference[rule=difficultterrain]{difficult terrain} costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the @UUID[Compendium.renegados-compendium.magias.Item.WWyn5DpTbv0wWx2i] spell.</p></div><div data-roll-name-ancestor=\"Hide in Plain Sight\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"38\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Hide in Plain Sight</span></h2><p>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.</p><p>Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (&amp;Reference[skill=Stealth]) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.</p></div><div data-roll-name-ancestor=\"Nature's Veil\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"39\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Nature's Veil</span></h2><p><em>10th-level ranger @variantrule[optional class features|tce|optional feature], which replaces the Hide in Plain Sight feature</em></p><p>You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become &amp;Reference[condition=invisible], along with any equipment you are wearing or carrying, until the start of your next turn.</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div><div data-roll-name-ancestor=\"Natural Explorer improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"40\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Natural Explorer improvement</span></h2><p>You gain an additional favored terrain.</p></div><div data-roll-name-ancestor=\"Deft Explorer Improvement\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"41\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p56\">Deft Explorer Improvement</span></h2><p>You gain an additional benefit when you reach 10th level in this class.</p><div data-roll-name-ancestor=\"Tireless\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"42\"><span class=\"entry-title-inner\">Tireless</span></h3><p>As an action, you can give yourself a number of temporary hit points equal to [[/r 1d8]] + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>In addition, whenever you finish a short rest, your &amp;Reference[condition=exhaustion] level, if any, is decreased by 1.</p></div></div><div data-roll-name-ancestor=\"Ranger Archetype feature\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"43\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ranger Archetype feature</span></h2><p>At 11th level, you gain a feature granted to you by your Ranger Archetype.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"44\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ability Score Improvement</span></h2><p>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Vanish\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"45\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Vanish</span></h2><p>Starting at 14th level, you can use the @action[Hide] action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</p></div><div data-roll-name-ancestor=\"Favored Enemy improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"46\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Favored Enemy improvement</span></h2><p>At 14th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.</p></div><div data-roll-name-ancestor=\"Ranger Archetype feature\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"47\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ranger Archetype feature</span></h2><p>At 15th level, you gain a feature granted to you by your Ranger Archetype.</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"48\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ability Score Improvement</span></h2><p>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Feral Senses\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"49\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Feral Senses</span></h2><p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any &amp;Reference[condition=invisible] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't &amp;Reference[condition=blinded] or &amp;Reference[condition=deafened].</p></div><div data-roll-name-ancestor=\"Ability Score Improvement\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"50\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Ability Score Improvement</span></h2><p>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p><p>If your DM allows the use of feats, you may instead take a <a href=\"https://2014.5e.tools/feats.html\">feat</a>.</p></div><div data-roll-name-ancestor=\"Foe Slayer\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"51\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p89\">Foe Slayer</span></h2><p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "89",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "levels": 1,
+    "hd": {
+      "denomination": "d10",
+      "spent": 0,
+      "additional": ""
+    },
+    "spellcasting": {
+      "progression": "half",
+      "ability": "wis",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "primaryAbility": {
+      "value": ["dex", "wis"],
+      "all": true
+    },
+    "wealth": "",
+    "advancement": [
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "spells-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 2
+            },
+            "3": {
+              "value": 3
+            },
+            "5": {
+              "value": 4
+            },
+            "7": {
+              "value": 5
+            },
+            "9": {
+              "value": 6
+            },
+            "11": {
+              "value": 7
+            },
+            "13": {
+              "value": 8
+            },
+            "15": {
+              "value": 9
+            },
+            "17": {
+              "value": 10
+            },
+            "19": {
+              "value": 11
+            }
+          }
+        },
+        "value": {},
+        "title": "Spells Known",
+        "_id": "FYvhuTSScSJTfYBM"
+      },
+      {
+        "type": "HitPoints",
+        "_id": "dYzHrxmwSvj0Tshh",
+        "configuration": {},
+        "value": {}
+      },
+      {
+        "_id": "tb4mKSjbL4iM2q8V",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["saves:str", "saves:dex"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "Saving Throws",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": ["saves:str", "saves:dex"]
+        }
+      },
+      {
+        "_id": "ZTZgclPeqfUtHyCQ",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 3,
+              "pool": [
+                "skills:ani",
+                "skills:ath",
+                "skills:ins",
+                "skills:inv",
+                "skills:nat",
+                "skills:prc",
+                "skills:ste",
+                "skills:sur"
+              ]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "Skills",
+        "classRestriction": "primary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "IyUNIHu2zyCm3YI8",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": [],
+          "choices": [
+            {
+              "count": 1,
+              "pool": [
+                "skills:ani",
+                "skills:ath",
+                "skills:ins",
+                "skills:inv",
+                "skills:nat",
+                "skills:prc",
+                "skills:ste",
+                "skills:sur"
+              ]
+            }
+          ]
+        },
+        "level": 1,
+        "title": "Skills",
+        "classRestriction": "secondary",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "TYXdkZvuFRIksnaN",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["armor:lgt", "armor:med", "armor:shl"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "MPQe2gl78EIkJp4B",
+        "type": "Trait",
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "grants": ["weapon:sim", "weapon:mar"],
+          "choices": []
+        },
+        "level": 1,
+        "title": "",
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.DKcvHy7RQLt1Cacj"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.oHN7frtD69gCuRvu"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.nsxlr5LjrkhY76DT"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 2,
+        "title": "Features",
+        "_id": "yCF7xTPbbbLvy1oi",
+        "hint": ""
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "2": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8YwPFv3UAPjWVDNf"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.iNYGSPUr72l2y0fe"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.zSlV0O2rQMdoq6pB"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XKN9kjYZlTTF1QCV"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.hCop9uJrWhF1QPb4"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.P7i8luhPHmdQC2Nx"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.mHcSjcHJ8oZu3hkb"
+            }
+          ],
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          },
+          "restriction": {
+            "type": "class",
+            "subtype": "fightingStyle",
+            "level": ""
+          }
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Fighting Style",
+        "_id": "ih8WlydEZdg3rCPh",
+        "hint": "Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again."
+      },
+      {
+        "_id": "5cARmehjajwQIL1k",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.SNPsUraXRjFqmmuf"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.otD8a8RKyq3DVDTk"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Favored Enemy/Foe",
+        "hint": ""
+      },
+      {
+        "_id": "jQt8UfR9mC2Wr93g",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.SUbj00qDN3awYklh"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.U2AY2NVEZ33vHeWY"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Natural/Deft Explorer",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.T0GvnWoe3ouZQgjo",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "_id": "uBfO0VT74Ubkb3Vq"
+      },
+      {
+        "_id": "gb53865sgbtx8xr2",
+        "type": "Subclass",
+        "configuration": {},
+        "value": {
+          "document": null,
+          "uuid": null
+        },
+        "level": 3,
+        "title": "Ranger Archetype"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 4,
+        "title": "Ability Score Improvement",
+        "_id": "bWqpb3Malvjjk8a6"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.9vY2zcy7JnY9FeQD",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Features",
+        "_id": "tkm2YSp7v7CsyAv5"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 8,
+        "title": "Ability Score Improvement",
+        "_id": "Dr4RKCdMxlKWoHHV"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.p6JQ5KXKq6zEo3i5",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 8,
+        "title": "Features",
+        "_id": "J2W7bBur77wnP4aC"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 12,
+        "title": "Ability Score Improvement",
+        "_id": "zDIECkwBeV96xABF"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.0rzXn5urk0Nf6MDc"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8LY67bxciCuuY8Z8"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "_id": "9bNIObxgYslup65I",
+        "hint": ""
+      },
+      {
+        "_id": "3FHqzgoRuW9IMcZy",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "3": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.FhnDdSIPw7y0Molb"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.znsLoCw7U4TgfAOT"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Primeva/Primal Awareness",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.9sQe6Mh3Yv3dvaXp",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 4,
+        "title": "Features",
+        "_id": "Mjli867fxkuB4wVo",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QUK10anOQzvzMbs4"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.TIapcs2s8tIVKoWr"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8Cud11MYpTVNyJ1o"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "_id": "MCQvlKPQFVPawRIM",
+        "hint": ""
+      },
+      {
+        "_id": "XChUWfyFXxa372jk",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.whWXzG4ZQEGW47uj"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.vEirf5lfTg7xmrDY"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Hide in Plain Sight/Nature's Veil",
+        "hint": ""
+      },
+      {
+        "_id": "Vdj9Z0JxYvdwEGIt",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.hDb3v4ORZ2dgLBP2"
+            },
+            {
+              "optional": true,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.n9nWTyywkKzfFMDY"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 16,
+        "title": "Ability Score Improvement",
+        "_id": "5VCLK1OCRzEZxMy3"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.WzOTNp2tzMM9x6On",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 18,
+        "title": "Features",
+        "_id": "GOpw3X1MmQnMB4Xb"
+      },
+      {
+        "_id": "puDaUsYrlks0z5gm",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2,
+          "locked": []
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 19,
+        "title": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.p4q1oP22bbkdXxuN",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 20,
+        "title": "Features",
+        "_id": "CjPcaL8V6MErHufh"
+      }
+    ],
+    "startingEquipment": []
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/weapons/bows/shortbow-recurve-yellow.webp",
+  "folder": null,
+  "_stats": {
+    "compendiumSource": "Item.5LVIUcZiefJXa4cS",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741974485211,
+    "modifiedTime": 1741977236584,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 391,
+  "_key": "!items!jzeXIlhtNN8rOLZj"
+}

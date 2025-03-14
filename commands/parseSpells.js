@@ -26,29 +26,33 @@ export const execute = async () => {
   mountSpellNameMap();
 
   for (const pack of PACKS) {
-    console.log(`reading ${pack} source`);
+    console.log(`Reading ${pack} source`);
     const destPath = PACK_SOURCE_PATH(pack);
 
     const files = readdirSync(destPath);
     for (const file of files) {
-      console.log("Reading file", file);
       const data = readFileSync(join(destPath, file), "utf8");
       if (data.includes("@spell")) {
         console.log("File with spells", file);
         let newData = data;
+        const dataJson = JSON.parse(data);
         const spells = newData.match(/@spell\[(.*?)\]/g);
 
         console.log("Spells", spells);
         if (!spells) {
-          console.log("No spells found in", data.name);
+          console.log("No spells found in", dataJson.name);
           continue;
         }
         spells.forEach((spell) => {
-          const spellName = spell.replace(/@spell\[|\]/g, "").toLowerCase();
+          const spellName = spell
+            .replace(/@spell\[|\]/g, "")
+            .replace(/\|.*/g, "")
+            .toLowerCase();
           if (!spellNameMap[spellName]) {
             console.log("Spell not found", spellName);
+            return;
           }
-          console.log("Spell", spellNameMap[spellName], "in pack", data.name);
+          console.log("Spell", spellNameMap[spellName], "in pack", dataJson.name);
           newData = newData.replace(
             spell,
             `@UUID[Compendium.renegados-compendium.magias.Item.${spellNameMap[spellName]}]`,

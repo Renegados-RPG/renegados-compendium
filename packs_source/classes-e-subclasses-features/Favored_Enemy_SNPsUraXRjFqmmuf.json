@@ -1,0 +1,60 @@
+{
+  "_id": "SNPsUraXRjFqmmuf",
+  "name": "Favored Enemy",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.</p><p>Choose a type of favored enemy: <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:aberration=1\">aberrations</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:beast=1\">beasts</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:celestial=1\">celestials</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:construct=1\">constructs</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:dragon=1\">dragons</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:elemental=1\">elementals</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:fey=1\">fey</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:fiend=1\">fiends</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:giant=1\">giants</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:monstrosity=1\">monstrosities</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:ooze=1\">oozes</a>, <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:plant=1\">plants</a>, or <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:undead=1\">undead</a>. Alternatively, you can select two races of <a href=\"https://2014.5e.tools/bestiary.html#blankhash,flsttype:humanoid=1\">humanoid</a> (such as @creature[gnoll||gnolls] and @creature[orc||orcs]) as favored enemies.</p><p>You have advantage on Wisdom (&amp;Reference[skill=Survival]) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "89",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Ranger 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "favored-enemy",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/creatures/abilities/dragon-breath-purple.webp",
+  "folder": "jVlKkpPmGtnEJASd",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975716991,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 600000,
+  "_key": "!items!SNPsUraXRjFqmmuf"
+}

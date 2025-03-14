@@ -1,0 +1,60 @@
+{
+  "_id": "SUbj00qDN3awYklh",
+  "name": "Natural Explorer",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.</p><p>While traveling for an hour or more in your favored terrain, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Difficult terrain doesn't slow your group's travel.</li><li class=\"rd__li \">Your group can't become lost except by magical means.</li><li class=\"rd__li \">Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li><li class=\"rd__li \">If you are traveling alone, you can move stealthily at a normal pace.</li><li class=\"rd__li \">When you forage, you find twice as much food as you normally would.</li><li class=\"rd__li \">While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li></ul><p>You choose additional favored terrain types at 6th and 10th level.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "89",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Ranger 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "deft-explorer",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/nature/tree-roots-glow-yellow.webp",
+  "folder": "jVlKkpPmGtnEJASd",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975716991,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 1500000,
+  "_key": "!items!SUbj00qDN3awYklh"
+}

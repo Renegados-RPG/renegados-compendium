@@ -1,0 +1,60 @@
+{
+  "_id": "7IHsKHXnnsEztmIZ",
+  "name": "Hunter's Prey",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>At 3rd level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Colossus Slayer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Colossus Slayer.</span></span> Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra [[/damage 1d8]] damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p></div><div data-roll-name-ancestor=\"Giant Killer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Giant Killer.</span></span> When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p></div><div data-roll-name-ancestor=\"Horde Breaker\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Horde Breaker.</span></span> Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "93",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Hunter 3",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "hunters-prey",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/acid/dissolve-bone-skull.webp",
+  "folder": "lA8DKHJXjRF8gNOT",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!7IHsKHXnnsEztmIZ"
+}

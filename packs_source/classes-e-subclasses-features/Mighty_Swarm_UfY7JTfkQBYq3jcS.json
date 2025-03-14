@@ -1,0 +1,60 @@
+{
+  "_id": "UfY7JTfkQBYq3jcS",
+  "name": "Mighty Swarm",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "59",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>11th-level Swarmkeeper feature</i></p><p>Your Gathered Swarm grows mightier in the following ways:</p><ul class=\"rd__list\"><li class=\"rd__li \">The damage of Gathered Swarm increases to [[/damage 1d8]].</li><li class=\"rd__li \">If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature &amp;Reference[condition=prone].</li><li class=\"rd__li \">When you are moved by Gathered Swarm, it gives you &amp;Reference[rule=halfcover]{half cover} until the start of your next turn.</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 11 (Swarmkeeper)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "mighty-swarm",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "SgkZ44WyBHBBt7Qb",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!UfY7JTfkQBYq3jcS"
+}

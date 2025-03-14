@@ -1,0 +1,257 @@
+{
+  "_id": "W2zXVHpsETu7a44f",
+  "name": "Swarmkeeper",
+  "type": "subclass",
+  "system": {
+    "identifier": "swarmkeeper",
+    "classIdentifier": "ranger",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.</p><div data-roll-name-ancestor=\"Gathered Swarm\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Gathered Swarm</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Tasha’s Cauldron of Everything\">TCE</span> <span title=\"Page 59\">p59</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p><em>3rd-level Swarmkeeper feature</em></p><p>A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. While you're alive, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Swarm Appearance\"><caption>Swarm Appearance</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\"><span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d4</span></th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Appearance</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Swarming insects</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Miniature twig blights</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Fluttering birds</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Playful pixies</td></tr></tbody></table><p>Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:</p><ul class=\"rd__list\"><li class=\"rd__li \">The attack's target takes <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">1d6</span> piercing damage from the swarm.</li><li class=\"rd__li \">The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.</li><li class=\"rd__li \">You are moved by the swarm 5 feet horizontally in a direction of your choice.</li></ul><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"It's Your Swarm\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"2\">It's Your Swarm</span></h4><p><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-special-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></p><p>A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the <a href=\"https://2014.5e.tools/spells.html#arcane%20eye_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"arcane%20eye_phb\" data-vet-is-allow-redirect=\"true\">arcane eye</a> spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the \"Personalizing Spells\" section in chapter 3.</p><p>Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!</p></div></div><div data-roll-name-ancestor=\"Swarmkeeper Magic\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner\">Swarmkeeper Magic</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Tasha’s Cauldron of Everything\">TCE</span> <span title=\"Page 59\">p59</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p><em>3rd-level Swarmkeeper feature</em></p><p>You learn the <a href=\"https://2014.5e.tools/spells.html#mage%20hand_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"mage%20hand_phb\" data-vet-is-allow-redirect=\"true\">mage hand</a> cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.</p><p>You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Swarmkeeper Spells\"><caption>Swarmkeeper Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Ranger Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#faerie%20fire_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"faerie%20fire_phb\" data-vet-is-allow-redirect=\"true\">faerie fire</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#web_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"web_phb\" data-vet-is-allow-redirect=\"true\">web</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#gaseous%20form_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"gaseous%20form_phb\" data-vet-is-allow-redirect=\"true\">gaseous form</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#arcane%20eye_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"arcane%20eye_phb\" data-vet-is-allow-redirect=\"true\">arcane eye</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#insect%20plague_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"insect%20plague_phb\" data-vet-is-allow-redirect=\"true\">insect plague</a></td></tr></tbody></table></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Swarmkeeper\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p59\">Swarmkeeper</span></h2><p>Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.</p><div data-roll-name-ancestor=\"Level 3: Gathered Swarm\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p59\">Level 3: Gathered Swarm</span></h3><p><em>3rd-level Swarmkeeper feature</em></p><p>A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. While you're alive, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Swarm Appearance\"><caption>Swarm Appearance</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d4]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Appearance</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">Swarming insects</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">Miniature twig blights</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">Fluttering birds</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">Playful pixies</td></tr></tbody></table><p>Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:</p><ul class=\"rd__list\"><li class=\"rd__li \">The attack's target takes [[/damage 1d6 type=piercing]] damage from the swarm.</li><li class=\"rd__li \">The attack's target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.</li><li class=\"rd__li \">You are moved by the swarm 5 feet horizontally in a direction of your choice.</li></ul><div class=\"rd__b-special rd__b-inset\" data-roll-name-ancestor=\"It's Your Swarm\"><h4 class=\"entry-title-inner\"><span class=\"rd__h rd__h--2-inset\" data-title-index=\"6\">It's Your Swarm</span></h4><p>A Swarmkeeper's swarm and spells are reflections of the character's bond with nature spirits. Take the opportunity to describe the swarm and the ranger's magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the @UUID[Compendium.renegados-compendium.magias.Item.gbqpRHzwNGph3fHY] spell could create an extension of your swarm that spies for you. Such descriptions don't change the effects of spells, but they are an exciting opportunity to explore your character's narrative through their class abilities. For more guidance on customizing spells, see the \"Personalizing Spells\" section in chapter 3.</p><p>Also, remember that the swarm's appearance is yours to customize, and don't feel confined to a single appearance. Perhaps the spirits' look changes with the ranger's mood or with the seasons. You decide!</p></div></div><div data-roll-name-ancestor=\"Level 3: Swarmkeeper Magic\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p59\">Level 3: Swarmkeeper Magic</span></h3><p><em>3rd-level Swarmkeeper feature</em></p><p>You learn the @UUID[Compendium.renegados-compendium.magias.Item.CW79OhytNHQRri7B] cantrip if you don't already know it. When you cast it, the hand takes the form of your swarming nature spirits.</p><p>You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Swarmkeeper Spells\"><caption>Swarmkeeper Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Ranger Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.onHEQLH7lIubheYx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.bRMPfQlkkSyvN9o4]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.pKSVW0LQRKIxMIuY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.gbqpRHzwNGph3fHY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY]</td></tr></tbody></table></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Writhing Tide\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p59\">Level 7: Writhing Tide</span></h3><p><em>7th-level Swarmkeeper feature</em></p><p>You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are &amp;Reference[condition=incapacitated].</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Mighty Swarm\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p59\">Level 11: Mighty Swarm</span></h3><p><em>11th-level Swarmkeeper feature</em></p><p>Your Gathered Swarm grows mightier in the following ways:</p><ul class=\"rd__list\"><li class=\"rd__li \">The damage of Gathered Swarm increases to [[/damage 1d8]].</li><li class=\"rd__li \">If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature &amp;Reference[condition=prone].</li><li class=\"rd__li \">When you are moved by Gathered Swarm, it gives you &amp;Reference[rule=halfcover]{half cover} until the start of your next turn.</li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Swarming Dispersal\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p59\">Level 15: Swarming Dispersal</span></h3><p><em>15th-level Swarmkeeper feature</em></p><p>You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "59",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "hx7culb68LxqY3sn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.rssZsPM97vhEfIlz",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.BhqQ7mjkeJqv6G0X",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8f6IaRtNgEeTHtLv",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.OOIjJhO3vcFLeNUz",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Features",
+        "hint": "",
+        "_id": "MWvkfYfVWdz8sG6R"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.UfY7JTfkQBYq3jcS",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "Features",
+        "hint": "",
+        "_id": "F37TsqGrNmFZNVsT"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.53x8GMwfiFN22MCh",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features",
+        "hint": "",
+        "_id": "5lSDSlduQGdGooOE"
+      },
+      {
+        "_id": "69e9RUWbu3JLdMCA",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.onHEQLH7lIubheYx",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Swarmkeeper Magic",
+        "hint": "",
+        "icon": "icons/magic/nature/leaf-juggle-humanoid-green.webp"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.bRMPfQlkkSyvN9o4",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Swarmkeeper Magic",
+        "hint": "",
+        "icon": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
+        "_id": "5n1f4CIcvhsGxRh3"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.pKSVW0LQRKIxMIuY",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 9,
+        "title": "Swarmkeeper Magic",
+        "hint": "",
+        "icon": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
+        "_id": "yqCXPaBXeuRyLv7B"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.gbqpRHzwNGph3fHY",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 13,
+        "title": "Swarmkeeper Magic",
+        "hint": "",
+        "icon": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
+        "_id": "hrcFnymHF938CXE1"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": [],
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          }
+        },
+        "value": {},
+        "level": 17,
+        "title": "Swarmkeeper Magic",
+        "hint": "",
+        "icon": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
+        "_id": "iHsd3wRvxindFPly"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/nature/root-vines-face-glow-green.webp",
+  "folder": "gl85wbWW8qeLFJ8G",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741974620091,
+    "modifiedTime": 1741988626235,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!W2zXVHpsETu7a44f"
+}

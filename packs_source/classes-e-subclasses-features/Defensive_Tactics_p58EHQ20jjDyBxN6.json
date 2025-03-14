@@ -1,0 +1,60 @@
+{
+  "_id": "p58EHQ20jjDyBxN6",
+  "name": "Defensive Tactics",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>At 7th level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Escape the Horde\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Escape the Horde.</span></span> Opportunity attacks against you are made with disadvantage.</p></div><div data-roll-name-ancestor=\"Multiattack Defense\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Multiattack Defense.</span></span> When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</p></div><div data-roll-name-ancestor=\"Steel Will\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Steel Will.</span></span> You have advantage on saving throws against being &amp;Reference[condition=frightened].</p></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "93",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Hunter 7",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "defensive-tactics",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/nature/leaf-rune-glow-green.webp",
+  "folder": "lA8DKHJXjRF8gNOT",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!p58EHQ20jjDyBxN6"
+}

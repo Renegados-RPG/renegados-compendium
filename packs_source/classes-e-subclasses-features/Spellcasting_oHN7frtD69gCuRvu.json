@@ -1,0 +1,60 @@
+{
+  "_id": "oHN7frtD69gCuRvu",
+  "name": "Spellcasting",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See <a href=\"https://2014.5e.tools/book.html#PHB,10\">chapter 10</a> for the general rules of spellcasting and <a href=\"https://2014.5e.tools/book.html#PHB,11\">chapter 11</a> for the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:ranger=1\">ranger spell list</a>.</p><div data-roll-name-ancestor=\"Spell Slots\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Spell Slots.</span></span> The Ranger table shows how many spell slots you have to cast your <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:ranger=1\">ranger spells</a> of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>For example, if you know the 1st-level spell @UUID[Compendium.renegados-compendium.magias.Item.leY8JlM8hRZ0u2mm] and have a 1st-level and a 2nd-level spell slot available, you can cast @UUID[Compendium.renegados-compendium.magias.Item.leY8JlM8hRZ0u2mm] using either slot.</p></div><div data-roll-name-ancestor=\"Spells Known of 1st Level and Higher\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Spells Known of 1st Level and Higher.</span></span> You know two 1st-level spells of your choice from the ranger spell list.</p><p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.</p><p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.</p></div><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Spellcasting Ability.</span></span> Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><b>Spell save DC</b> = 8 + Wisdom modifier + Proficiency Bonus</div><div class=\"rd__wrp-centered-ability\"><b>Spell attack modifier</b> = Wisdom modifier + Proficiency Bonus</div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "89",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Ranger 2",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "spellcasting",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/nature/trap-spikes-thorns-green.webp",
+  "folder": "jVlKkpPmGtnEJASd",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975716991,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 2400000,
+  "_key": "!items!oHN7frtD69gCuRvu"
+}

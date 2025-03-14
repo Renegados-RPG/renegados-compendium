@@ -1,0 +1,125 @@
+{
+  "_id": "7ywkk7xXgDcdEhjO",
+  "name": "Hunter",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "93",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</p><div data-roll-name-ancestor=\"Hunter's Prey\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Hunter's Prey</span></h3> <p>At 3rd level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Colossus Slayer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Colossus Slayer.</span></span> Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra [[/damage 1d8]] damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p></div><div data-roll-name-ancestor=\"Giant Killer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Giant Killer.</span></span> When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p></div><div data-roll-name-ancestor=\"Horde Breaker\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Horde Breaker.</span></span> Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Hunter)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "QT4W1eQTkm8y2382": {
+        "_id": "QT4W1eQTkm8y2382",
+        "type": "damage",
+        "name": "",
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use",
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": [],
+              "number": 1,
+              "denomination": 8,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "hunter",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/skills/ranged/arrows-triple-yellow-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "lA8DKHJXjRF8gNOT",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741989012964,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!7ywkk7xXgDcdEhjO"
+}

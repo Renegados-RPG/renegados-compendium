@@ -1,0 +1,259 @@
+{
+  "_id": "zSrUYSHuGIGcKbi7",
+  "name": "Hunter",
+  "type": "subclass",
+  "system": {
+    "identifier": "hunter",
+    "classIdentifier": "ranger",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</p><div data-roll-name-ancestor=\"Hunter's Prey\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Hunter's Prey</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 93\">p93</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 3rd level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Colossus Slayer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Colossus Slayer.</span> Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">1d8</span> damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p></div><div data-roll-name-ancestor=\"Giant Killer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Giant Killer.</span> When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p></div><div data-roll-name-ancestor=\"Horde Breaker\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Horde Breaker.</span> Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p></div></div></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Hunter\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Hunter</span></h2><p>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.</p><div data-roll-name-ancestor=\"Level 3: Hunter's Prey\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Level 3: Hunter's Prey</span></h3><p>At 3rd level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Colossus Slayer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Colossus Slayer.</span> Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra [[/damage 1d8]] damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p></div><div data-roll-name-ancestor=\"Giant Killer\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Giant Killer.</span> When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p></div><div data-roll-name-ancestor=\"Horde Breaker\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Horde Breaker.</span> Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Defensive Tactics\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Level 7: Defensive Tactics</span></h3><p>At 7th level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Escape the Horde\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Escape the Horde.</span> Opportunity attacks against you are made with disadvantage.</p></div><div data-roll-name-ancestor=\"Multiattack Defense\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Multiattack Defense.</span> When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</p></div><div data-roll-name-ancestor=\"Steel Will\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Steel Will.</span> You have advantage on saving throws against being &amp;Reference[condition=frightened].</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Multiattack\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"14\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Level 11: Multiattack</span></h3><p>At 11th level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Volley\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Volley.</span> You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</p></div><div data-roll-name-ancestor=\"Whirlwind Attack\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Whirlwind Attack.</span> You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Superior Hunter's Defense\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"17\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Level 15: Superior Hunter's Defense</span></h3><p>At 15th level, you gain one of the following features of your choice.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Evasion\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Evasion.</span> You can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or a @UUID[Compendium.renegados-compendium.magias.Item.GEQwCcd7hcCkeRTh] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p></div><div data-roll-name-ancestor=\"Stand Against the Tide\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Stand Against the Tide.</span> When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</p></div><div data-roll-name-ancestor=\"Uncanny Dodge\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p93\">Uncanny Dodge.</span> When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p></div></div></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "93",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "hx7culb68LxqY3sn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7ywkk7xXgDcdEhjO",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7IHsKHXnnsEztmIZ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.p58EHQ20jjDyBxN6",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Features",
+        "hint": "",
+        "_id": "MWvkfYfVWdz8sG6R"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7unLEXFP6Qi8zBz4",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "Features",
+        "hint": "",
+        "_id": "F37TsqGrNmFZNVsT"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.XPVhmDFGHel4bHa3",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "Features",
+        "hint": "",
+        "_id": "5lSDSlduQGdGooOE"
+      },
+      {
+        "_id": "Vl6mIMkh1Wris16R",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "3": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.l1MNdmOzXtXO9zhJ"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Rp34ZBP6sAiW6Oz9"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.oq4ltEtAeGdyf224"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Hunter's Prey",
+        "hint": "",
+        "icon": "icons/magic/acid/dissolve-bone-skull.webp"
+      },
+      {
+        "_id": "kweIPWiBn9duNCsX",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "7": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ENOSuS9zTlZhJE15"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.z2q6G1O4YNFfCxZn"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.0Z5BWwizleXcMtWW"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Defensive Tactics",
+        "hint": "",
+        "icon": "icons/magic/nature/leaf-rune-glow-green.webp"
+      },
+      {
+        "_id": "487mqrnGPOuJihH4",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "11": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.DboSzrZ8xX0qxeRr"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ZRCaSGsIjJMpJxEZ"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Multiattack",
+        "hint": "",
+        "icon": "icons/magic/death/skull-trio-badge-purple.webp"
+      },
+      {
+        "_id": "jioPahPMW1RTIVgs",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "15": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.wTCzamhvlvfU3oWw"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.st05pPJQiS2JqlFM"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.RaMKYuyDkDbtbLwf"
+            }
+          ],
+          "spell": null,
+          "type": null,
+          "restriction": {}
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Superior Hunter's Defense",
+        "hint": "",
+        "icon": "icons/creatures/reptiles/serpent-horned-green.webp"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/skills/ranged/arrows-triple-yellow-red.webp",
+  "folder": "gl85wbWW8qeLFJ8G",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741974620091,
+    "modifiedTime": 1741989204025,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!zSrUYSHuGIGcKbi7"
+}

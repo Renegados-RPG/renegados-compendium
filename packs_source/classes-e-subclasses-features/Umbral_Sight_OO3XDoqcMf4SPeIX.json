@@ -1,0 +1,110 @@
+{
+  "_id": "OO3XDoqcMf4SPeIX",
+  "name": "Umbral Sight",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "41",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 3rd level, you gain &amp;Reference[rule=darkvision] out to a range of 60 feet. If you already have &amp;Reference[rule=darkvision] from your race, its range increases by 30 feet.</p><p>You are also adept at evading creatures that rely on &amp;Reference[rule=darkvision]. While in darkness, you are &amp;Reference[condition=invisible] to any creature that relies on &amp;Reference[rule=darkvision] to see you in that darkness.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Gloom Stalker)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "umbral-sight",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+  "flags": {},
+  "effects": [
+    {
+      "name": "Umbral Sight",
+      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.OO3XDoqcMf4SPeIX",
+      "_id": "lMXBSS4xLUo6SY97",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.senses.darkvision",
+          "mode": 5,
+          "value": "18",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": 1741987632810,
+        "modifiedTime": 1741987697295,
+        "lastModifiedBy": "ox2bho65epIfC0E1"
+      },
+      "_key": "!items.effects!OO3XDoqcMf4SPeIX.lMXBSS4xLUo6SY97"
+    }
+  ],
+  "folder": "PUNkYpJGjNeMvAgq",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!OO3XDoqcMf4SPeIX"
+}

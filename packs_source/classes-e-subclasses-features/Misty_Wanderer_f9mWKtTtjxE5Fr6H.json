@@ -1,0 +1,65 @@
+{
+  "_id": "f9mWKtTtjxE5Fr6H",
+  "name": "Misty Wanderer",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "58",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>15th-level Fey Wanderer feature</i></p><p>You can slip in and out of the Feywild to move in a blink of an eye: you can cast @UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.</p><p>In addition, whenever you cast <i>misty step</i>, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 15 (Fey Wanderer)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "misty-wanderer",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/control/debuff-energy-hold-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "3EALAs9PDoKHlod3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!f9mWKtTtjxE5Fr6H"
+}

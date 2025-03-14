@@ -1,22 +1,22 @@
 {
   "name": "Ranger",
+  "color": "#535802",
+  "description": "",
+  "flags": {},
+  "sort": 100000,
   "sorting": "a",
   "folder": null,
   "type": "Item",
-  "_id": "gl85wbWW8qeLFJ8G",
-  "description": "",
-  "sort": 0,
-  "color": "#535802",
-  "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.3",
-    "createdTime": 1740707126159,
-    "modifiedTime": 1741974647967,
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112141,
+    "modifiedTime": 1741975123582,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "_key": "!folders!gl85wbWW8qeLFJ8G"
+  "_id": "Xz9EK1OPklovaimO",
+  "_key": "!folders!Xz9EK1OPklovaimO"
 }

@@ -1,0 +1,110 @@
+{
+  "_id": "N0RTSagXhDiBLoQi",
+  "name": "Otherworldly Glamour",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "58",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Fey Wanderer feature</i></p><p>Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).</p><p>In addition, you gain proficiency in one of the following skills of your choice: &amp;Reference[skill=Deception], &amp;Reference[skill=Performance], or &amp;Reference[skill=Persuasion].</p></div>",
+      "chat": ""
+    },
+    "requirements": "Ranger 3 (Fey Wanderer)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "otherworldly-glamour",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
+  "flags": {},
+  "effects": [
+    {
+      "name": "Otherworldly Glamour",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.N0RTSagXhDiBLoQi",
+      "_id": "A3I9Porr3KnZRFN1",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.abilities.cha.bonuses.check",
+          "mode": 2,
+          "value": "@abilities.wis.mod",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": 1741977893080,
+        "modifiedTime": 1741978435111,
+        "lastModifiedBy": "ox2bho65epIfC0E1"
+      },
+      "_key": "!items.effects!N0RTSagXhDiBLoQi.A3I9Porr3KnZRFN1"
+    }
+  ],
+  "folder": "3EALAs9PDoKHlod3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741975112211,
+    "modifiedTime": 1741975112211,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!N0RTSagXhDiBLoQi"
+}
