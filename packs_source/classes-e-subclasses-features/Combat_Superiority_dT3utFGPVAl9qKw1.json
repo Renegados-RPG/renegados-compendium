@@ -1,0 +1,124 @@
+{
+  "_id": "dT3utFGPVAl9qKw1",
+  "name": "Combat Superiority",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "73",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Maneuvers\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Maneuvers.</span></span> You learn three maneuvers of your choice, which are listed under \"Maneuvers\" below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</p><p>You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Superiority Dice\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Superiority Dice.</span></span> You have four superiority dice, which are [[/r d8]]s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p><p>You gain another superiority die at 7th level and one more at 15th level.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Saving Throws\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Saving Throws.</span></span> Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:</p><div class=\"rd__wrp-centered-ability\"><b>Maneuver save DC</b> = 8 + Strength or Dexterity modifier (your choice) + Proficiency Bonus</div></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 3 (Battle Master)",
+    "uses": {
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "zGevtGTqm4J3pQno": {
+        "_id": "zGevtGTqm4J3pQno",
+        "type": "save",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": [],
+          "dc": {
+            "calculation": "str"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "combat-superiority",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "XWANshmKfEuzNdCz",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989863770,
+    "modifiedTime": 1741989863770,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!dT3utFGPVAl9qKw1"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "L3IZF2fpcWIDtSco",
+  "name": "Drunken Technique",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "33",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the @action[Disengage] action, and your walking speed increases by 10 feet until the end of the current turn.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Monk 3 (Drunken Master)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "drunken-technique",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/containers/kitchenware/mug-stein-grey.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "KhteaoOz5YdR29wy",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!L3IZF2fpcWIDtSco"
+}

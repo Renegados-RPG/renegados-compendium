@@ -1,0 +1,60 @@
+{
+  "_id": "9BZBYlyRPte4M1GN",
+  "name": "Extra Attack",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "82",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the @action[Attack] action on your turn.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 5",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "multiattack"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "extra-attack",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "32QjZvJGkG6nBdn3",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!9BZBYlyRPte4M1GN"
+}

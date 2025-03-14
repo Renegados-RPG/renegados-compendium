@@ -1,0 +1,109 @@
+{
+  "_id": "9cVlGjtLhQzyqWcG",
+  "name": "Hearth of Moonlight and Shadow",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "22",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. &amp;Reference[rule=Totalcover]{Total cover} blocks the sphere.</p><p>While within the sphere, you and your allies gain a +5 bonus to Dexterity (&amp;Reference[skill=Stealth]) and Wisdom (&amp;Reference[skill=Perception]) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.</p><p>The sphere vanishes at the end of the rest or when you leave the sphere.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 6 (Dreams)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "target": {
+          "template": {
+            "size": "30",
+            "units": "ft",
+            "type": "sphere",
+            "contiguous": false
+          },
+          "prompt": true,
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "hearth-of-moonlight-and-shadow",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/water/orb-water-transparent.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "K8byl2rWZM3yWlvI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!9cVlGjtLhQzyqWcG"
+}

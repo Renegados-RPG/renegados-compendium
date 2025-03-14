@@ -1,0 +1,127 @@
+{
+  "_id": "Sx8dH3DFC93yjVk3",
+  "name": "Hand of Ultimate Mercy",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "49",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>17th-level Way of Mercy feature</i></p><p>Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to [[/r 4d10]] + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: &amp;Reference[condition=blinded], &amp;Reference[condition=deafened], &amp;Reference[condition=paralyzed], &amp;Reference[condition=poisoned], and &amp;Reference[condition=stunned].</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Monk 17 (Mercy)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "ki"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "COCMKq4i72m90PTc": {
+        "_id": "COCMKq4i72m90PTc",
+        "type": "heal",
+        "name": "",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "number": 4,
+          "denomination": 10,
+          "bonus": "@abilities.wis.mod",
+          "scaling": {
+            "mode": "",
+            "number": 1
+          },
+          "custom": {
+            "enabled": false
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "hand-of-ultimate-mercy",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/unholy/hands-cloud-light-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "5NWVZWzxBg5cKTkS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!Sx8dH3DFC93yjVk3"
+}

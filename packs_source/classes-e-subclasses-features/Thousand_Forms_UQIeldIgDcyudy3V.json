@@ -1,0 +1,60 @@
+{
+  "_id": "UQIeldIgDcyudy3V",
+  "name": "Thousand Forms",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "69",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the @UUID[Compendium.renegados-compendium.magias.Item.FMEA7lATmognWFYI] spell at will.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 14 (Moon)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "thousand-forms",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/magical/spirit-undead-masked-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "aWPszYbm7uBufrZx",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!UQIeldIgDcyudy3V"
+}

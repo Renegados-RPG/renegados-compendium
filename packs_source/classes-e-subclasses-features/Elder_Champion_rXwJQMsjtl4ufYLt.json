@@ -1,0 +1,128 @@
+{
+  "_id": "rXwJQMsjtl4ufYLt",
+  "name": "Elder Champion",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "86",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.</p><p>Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">At the start of each of your turns, you regain 10 hit points.</li><li class=\"rd__li \">Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action instead.</li><li class=\"rd__li \">Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 20 (Ancients)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "PS9TkiN2yTRItzUE": {
+        "_id": "PS9TkiN2yTRItzUE",
+        "type": "heal",
+        "name": "",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "custom": {
+            "enabled": true,
+            "formula": "10"
+          },
+          "number": null,
+          "denomination": null,
+          "scaling": {
+            "number": 1
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "elder-champion",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/tree-animated-strike.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "cviZb0Kf5cU9BHWz",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!rXwJQMsjtl4ufYLt"
+}

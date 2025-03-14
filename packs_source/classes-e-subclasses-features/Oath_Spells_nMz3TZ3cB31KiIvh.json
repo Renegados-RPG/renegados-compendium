@@ -1,0 +1,60 @@
+{
+  "_id": "nMz3TZ3cB31KiIvh",
+  "name": "Oath Spells",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "37",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Conquest Spells\"><caption>Oath of Conquest Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.A7ZV4x81RhdgPzui], @UUID[Compendium.renegados-compendium.magias.Item.059ykAUf9mtHLUqZ]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd], @UUID[Compendium.renegados-compendium.magias.Item.uZY9ONnxfqjBH9sx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.YshausOsn1XEQcT1], @UUID[Compendium.renegados-compendium.magias.Item.ey5AL5ypd8VX1DGL]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.c4OvYSD1nGBpwS7c], @UUID[Compendium.renegados-compendium.magias.Item.5FDreatLWrKMlwrx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.E3snlGTnLpFpZLU9], @UUID[Compendium.renegados-compendium.magias.Item.3WZ3Tq2PoYmP6m7R]</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Conquest)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "oath-spells",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/sundries/books/symbol-axe-gold-grey.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "0aW0ISs0x9reTu0O",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!nMz3TZ3cB31KiIvh"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "hX3ULyzkuxf8OmLl",
+  "name": "Oath Spells",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "132",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of the Crown Spells\"><caption>Oath of the Crown Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.059ykAUf9mtHLUqZ], @UUID[Compendium.renegados-compendium.magias.Item.m80qQG6L64gkoHln]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.OfJB1m9x0RAfZKNV], @UUID[Compendium.renegados-compendium.magias.Item.JzPRSOWP4QCgwcSg]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.HL4epVq5HbK5jVH6], @UUID[Compendium.renegados-compendium.magias.Item.2amhiyHb4TSbDA10]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3], @UUID[Compendium.renegados-compendium.magias.Item.kLtXK4xav3C20iHc]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.x5MXoEIJqmKX3JMv], @UUID[Compendium.renegados-compendium.magias.Item.6mQSkil2Vsb5dwsq]</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Crown)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "oath-spells",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/sundries/books/book-embossed-clasp-gold-brown.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "zwoJqxj4hY81ad4i",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!hX3ULyzkuxf8OmLl"
+}

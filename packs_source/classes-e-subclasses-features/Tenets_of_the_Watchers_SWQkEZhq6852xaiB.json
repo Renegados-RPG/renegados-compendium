@@ -1,0 +1,60 @@
+{
+  "_id": "SWQkEZhq6852xaiB",
+  "name": "Tenets of the Watchers",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "54",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.</p><div data-roll-name-ancestor=\"Vigilance\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Vigilance</span></h3> <p>The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.</p></div><div data-roll-name-ancestor=\"Loyalty\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Loyalty</span></h3> <p>Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.</p></div><div data-roll-name-ancestor=\"Discipline\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Discipline</span></h3> <p>You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Watchers)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tenets-of-the-watchers",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "uPTFL8uOqQTJ200S",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!SWQkEZhq6852xaiB"
+}

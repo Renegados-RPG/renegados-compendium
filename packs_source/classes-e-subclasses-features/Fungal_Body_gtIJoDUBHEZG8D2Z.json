@@ -1,0 +1,60 @@
+{
+  "_id": "gtIJoDUBHEZG8D2Z",
+  "name": "Fungal Body",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "36",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 14th level, the fungal spores in your body alter you: you can't be &amp;Reference[condition=blinded], &amp;Reference[condition=deafened], &amp;Reference[condition=frightened], or &amp;Reference[condition=poisoned], and any critical hit against you counts as a normal hit instead, unless you're &amp;Reference[condition=incapacitated].</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 14 (Spores)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "fungal-body",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/root-vine-caduceus-healing.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "x7kJ3ZFxYMtt6xOO",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!gtIJoDUBHEZG8D2Z"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wildfire",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "bGaIqhOZXbNDp7FQ",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852053,
+    "modifiedTime": 1741989852053,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "_id": "ghbyF4e6LjOprmTR",
+  "_key": "!folders!ghbyF4e6LjOprmTR"
+}

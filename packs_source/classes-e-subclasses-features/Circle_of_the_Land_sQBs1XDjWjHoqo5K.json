@@ -1,0 +1,119 @@
+{
+  "_id": "sQBs1XDjWjHoqo5K",
+  "name": "Circle of the Land",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "68",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in @language[Druidic]. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.</p><div data-roll-name-ancestor=\"Bonus Cantrip\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p68\">Bonus Cantrip</span></h3> <p>You learn one additional druid cantrip of your choice. This cantrip doesn't count against the number of druid cantrips you know.</p></div><div data-roll-name-ancestor=\"Natural Recovery\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p68\">Natural Recovery</span></h3> <p>Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.</p><p>For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.</p></div><div data-roll-name-ancestor=\"Circle Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p68\">Circle Spells</span></h3> <p>Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, swamp, or Underdark—and consult the associated list of spells.</p><p>Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Arctic\"><caption>Arctic</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd], @UUID[Compendium.renegados-compendium.magias.Item.3j5E8SvpiHgUQ3Bk]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.WMLFxFqcE9rHJrop], @UUID[Compendium.renegados-compendium.magias.Item.Jy9EsDCVMM8fwfyX]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy], @UUID[Compendium.renegados-compendium.magias.Item.CJCgztZM5tlA3HlJ]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.TgF16RZsjpYBhoN7], @UUID[Compendium.renegados-compendium.magias.Item.9eANbJeKnbPCPRHs]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Coast\"><caption>Coast</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.v2JFrH8jQN8DWUyr], @UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.6ygva2xCURZvID33], @UUID[Compendium.renegados-compendium.magias.Item.gniWdFc3KXfcqyOz]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.rhv5Xc3Fofp7JLf9], @UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.EU9J8aSejv49KzXf], @UUID[Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Desert\"><caption>Desert</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.JpzUehcuOEGObTdR], @UUID[Compendium.renegados-compendium.magias.Item.o6cpFIcC4qenULSO]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.rIVCdTUAt1BNNnNU], @UUID[Compendium.renegados-compendium.magias.Item.O2FxK65NyegvlMZb]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.UV4GyphtilEUf377], @UUID[Compendium.renegados-compendium.magias.Item.heqrgzC7CzZdx6mL]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY], @UUID[Compendium.renegados-compendium.magias.Item.iLfkkZ2PipZIbR8b]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Forest\"><caption>Forest</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.usG2bX3YCieFKDRd], @UUID[Compendium.renegados-compendium.magias.Item.v2HnsKUwOBF9r52Z]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ryT4r1jmsCDsv7lr], @UUID[Compendium.renegados-compendium.magias.Item.RsbFt4DzKfv2NwaM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.NdLDXdgkIWYv9bMD], @UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.TgF16RZsjpYBhoN7], @UUID[Compendium.renegados-compendium.magias.Item.0Eg8pvUtelnrScqT]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Grassland\"><caption>Grassland</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.WIBsKSmXivk6Ts1m], @UUID[Compendium.renegados-compendium.magias.Item.OB6eQ7SOeB5eJzVj]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ha0l9N35ICYHC0q4], @UUID[Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.NdLDXdgkIWYv9bMD], @UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.dUu2htJQoxRXgxD2], @UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Mountain\"><caption>Mountain</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.v2HnsKUwOBF9r52Z], @UUID[Compendium.renegados-compendium.magias.Item.3j5E8SvpiHgUQ3Bk]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.GEQwCcd7hcCkeRTh], @UUID[Compendium.renegados-compendium.magias.Item.66tcicN1pTIplIf5]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.a20kycxBoE1QlSeb], @UUID[Compendium.renegados-compendium.magias.Item.5FDreatLWrKMlwrx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.lqrqddULdLFhkr5Q], @UUID[Compendium.renegados-compendium.magias.Item.iLfkkZ2PipZIbR8b]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Swamp\"><caption>Swamp</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.lALNrBclVabr7b7r], @UUID[Compendium.renegados-compendium.magias.Item.5Fo0nr7K54ZTBdWc]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.gniWdFc3KXfcqyOz], @UUID[Compendium.renegados-compendium.magias.Item.mxdKCcd5UtFdOaGF]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy], @UUID[Compendium.renegados-compendium.magias.Item.0oIH0CNdwmRNBqZX]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY], @UUID[Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq]</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Underdark\"><caption>Underdark</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.v2HnsKUwOBF9r52Z], @UUID[Compendium.renegados-compendium.magias.Item.bRMPfQlkkSyvN9o4]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.pKSVW0LQRKIxMIuY], @UUID[Compendium.renegados-compendium.magias.Item.mxdKCcd5UtFdOaGF]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM], @UUID[Compendium.renegados-compendium.magias.Item.a20kycxBoE1QlSeb]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.E3snlGTnLpFpZLU9], @UUID[Compendium.renegados-compendium.magias.Item.q4L42WJMHA74jXxY]</td></tr></tbody></table></div></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 3 (Land)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "U9mVfmwElFqUWvrm": {
+        "_id": "U9mVfmwElFqUWvrm",
+        "type": "utility",
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "circle-of-the-land",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "ke0gTfP7Maxmevqs",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!sQBs1XDjWjHoqo5K"
+}

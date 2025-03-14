@@ -1,0 +1,132 @@
+{
+  "_id": "RseXojbp43aSkHtk",
+  "name": "Unarmored Movement",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.</p><p>At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "76",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Monk 2",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "unarmored-movement",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [
+    {
+      "_id": "gPtZJBRHbHPX0zrO",
+      "name": "Unarmored Movement",
+      "changes": [
+        {
+          "key": "system.attributes.movement.walk",
+          "mode": 2,
+          "value": "+(sign(@attributes.movement.walk) * @scale.monk.unarmored-movement)",
+          "priority": 7
+        },
+        {
+          "key": "system.attributes.movement.burrow",
+          "mode": 2,
+          "value": "+(sign(@attributes.movement.burrow) * @scale.monk.unarmored-movement)",
+          "priority": 7
+        },
+        {
+          "key": "system.attributes.movement.climb",
+          "mode": 2,
+          "value": "+(sign(@attributes.movement.climb) * @scale.monk.unarmored-movement)",
+          "priority": 7
+        },
+        {
+          "key": "system.attributes.movement.fly",
+          "mode": 2,
+          "value": "+(sign(@attributes.movement.fly) * @scale.monk.unarmored-movement)",
+          "priority": 7
+        },
+        {
+          "key": "system.attributes.movement.swim",
+          "mode": 2,
+          "value": "+(sign(@attributes.movement.swim) * @scale.monk.unarmored-movement)",
+          "priority": 7
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "unarmored-movement"
+        }
+      },
+      "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.5",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!RseXojbp43aSkHtk.gPtZJBRHbHPX0zrO"
+    }
+  ],
+  "flags": {},
+  "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+  "folder": "5H2b60VLxXXlqxuf",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!RseXojbp43aSkHtk"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ancients",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "AbXRX5ABGmpwqWEw",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882110,
+    "modifiedTime": 1741989882110,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "_id": "cviZb0Kf5cU9BHWz",
+  "_key": "!folders!cviZb0Kf5cU9BHWz"
+}

@@ -1,0 +1,112 @@
+{
+  "_id": "OkBFsRU9iIJYtxC5",
+  "name": "Visage of the Astral Self",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "50",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level Way of the Astral Self feature</i></p><p>You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are &amp;Reference[condition=incapacitated] or die.</p><p>The spectral visage covers your face like a helmet or mask. You determine its appearance.</p><p>While the spectral visage is present, you gain the following benefits.</p><div data-roll-name-ancestor=\"Astral Sight\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Astral Sight</span></h3> <p>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p></div><div data-roll-name-ancestor=\"Wisdom of the Spirit\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Wisdom of the Spirit</span></h3> <p>You have advantage on Wisdom (&amp;Reference[skill=Insight]) and Charisma (&amp;Reference[skill=Intimidation]) checks.</p></div><div data-roll-name-ancestor=\"Word of the Spirit\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Word of the Spirit</span></h3> <p>When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Monk 6 (Astral Self)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "ki"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "3h64Q0MBiqZNKt1b": {
+        "_id": "3h64Q0MBiqZNKt1b",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "visage-of-the-astral-self",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/holy/angel-wings-gray.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "kC8tuCrZVoGKaeLD",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!OkBFsRU9iIJYtxC5"
+}

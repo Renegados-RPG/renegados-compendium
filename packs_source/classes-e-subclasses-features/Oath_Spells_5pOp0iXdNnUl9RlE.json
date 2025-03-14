@@ -1,0 +1,60 @@
+{
+  "_id": "5pOp0iXdNnUl9RlE",
+  "name": "Oath Spells",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "53",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Oath of Glory feature</i></p><p>You gain oath spells at the paladin levels listed in the Oath of Glory Spells table. See the Sacred Oath class feature for how oath spells work.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Glory Spells\"><caption>Oath of Glory Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.NXkqzlAbLPC4ikPt], @UUID[Compendium.renegados-compendium.magias.Item.wEHJRD0sxYCGy1u0]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.QiNYp8QBKiwz90Dr], @UUID[Compendium.renegados-compendium.magias.Item.DGin0pShUvQVZU8h]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn], @UUID[Compendium.renegados-compendium.magias.Item.O2FxK65NyegvlMZb]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.lzRsEE9PbJNKZnRA], @UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.em2lgcx5wQyfiHIM], @UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX]</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Glory)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "oath-spells",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/symbols/arrowhead-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "60xLA0KO7nEJaqpA",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!5pOp0iXdNnUl9RlE"
+}

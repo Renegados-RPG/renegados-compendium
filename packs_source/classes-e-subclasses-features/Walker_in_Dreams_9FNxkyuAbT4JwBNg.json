@@ -1,0 +1,119 @@
+{
+  "_id": "9FNxkyuAbT4JwBNg",
+  "name": "Walker in Dreams",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "22",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.</p><p>When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: @UUID[Compendium.renegados-compendium.magias.Item.dUu2htJQoxRXgxD2] (with you as the messenger), @UUID[Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq], or @UUID[Compendium.renegados-compendium.magias.Item.GovMhwY2Z5VLeYWx].</p><p>This use of @UUID[Compendium.renegados-compendium.magias.Item.GovMhwY2Z5VLeYWx] is special. Rather than opening a portal to a permanent @UUID[Compendium.renegados-compendium.magias.Item.GovMhwY2Z5VLeYWx], it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 14 (Dreams)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "X7hCdIjYwnh6BMIq": {
+        "_id": "X7hCdIjYwnh6BMIq",
+        "type": "utility",
+        "activation": {
+          "type": "special",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "walker-in-dreams",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "K8byl2rWZM3yWlvI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!9FNxkyuAbT4JwBNg"
+}

@@ -1,0 +1,65 @@
+{
+  "_id": "5rLCkJLo8gLARH7b",
+  "name": "Star Map",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "38",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>2nd-level Circle of the Stars feature</i></p><p>You've created a star chart as part of your heavenly studies. It is a Tiny object and can serve as a spellcasting focus for your druid spells. You determine its form by rolling on the Star Map table or by choosing one.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Star Map\"><caption>Star Map</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Map Form</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"rd__th ve-col-10 \">A scroll covered with depictions of constellations</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"rd__th ve-col-10 \">A stone tablet with fine holes drilled through it</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"rd__th ve-col-10 \">A speckled owlbear hide, tooled with raised marks</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"rd__th ve-col-10 \">A collection of maps bound in an ebony cover</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"rd__th ve-col-10 \">A crystal that projects starry patterns when placed before a light</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"rd__th ve-col-10 \">Glass disks that depict constellations</td></tr></tbody></table><p>While holding this map, you have these benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">You know the @UUID[Compendium.renegados-compendium.magias.Item.sTffolm6JMVRGTPz] cantrip.</li><li class=\"rd__li \">You have the @UUID[Compendium.renegados-compendium.magias.Item.NXkqzlAbLPC4ikPt] spell prepared. It counts as a druid spell for you, and it doesn't count against the number of spells you can have prepared.</li><li class=\"rd__li \">You can cast @UUID[Compendium.renegados-compendium.magias.Item.NXkqzlAbLPC4ikPt] without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</li></ul><p>If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 2 (Stars)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "star-map",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "G95xMGeL8DgMAp0X",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!5rLCkJLo8gLARH7b"
+}

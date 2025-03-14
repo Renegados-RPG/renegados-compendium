@@ -1,0 +1,60 @@
+{
+  "_id": "CfQtUShkUA0Ol5g9",
+  "name": "Oath Spells",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "38",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Redemption Spells\"><caption>Oath of Redemption Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0], @UUID[Compendium.renegados-compendium.magias.Item.xiVu2QFfxIV6ivaY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.13AJZIr8PtxCMl1g], @UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.8xAcj01FiGQeSqUa], @UUID[Compendium.renegados-compendium.magias.Item.2v8MKlV2nuWUux89]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.yyIiA9dXv3fnWIAg], @UUID[Compendium.renegados-compendium.magias.Item.5FDreatLWrKMlwrx]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z], @UUID[Compendium.renegados-compendium.magias.Item.KwxJuBGw7hB0Tuui]</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Redemption)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "oath-spells",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/sundries/books/book-embossed-jewel-gold-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Ayho4bQxr0oNiZ32",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!CfQtUShkUA0Ol5g9"
+}

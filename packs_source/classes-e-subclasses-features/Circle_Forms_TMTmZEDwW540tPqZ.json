@@ -1,0 +1,60 @@
+{
+  "_id": "TMTmZEDwW540tPqZ",
+  "name": "Circle Forms",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "69",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your Wild Shape to transform into a <a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1,flsttype:beast=1,flstspeed%20type:fly=2~swim=2,flstmiscellaneous:swarm=2\">beast with a challenge rating as high as 1</a> (you ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there).</p><p>Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Circle of the Moon Beast Shapes\"><caption>Circle of the Moon Beast Shapes</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Level</th><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Max. CR</th><th class=\"rd__th ve-col-8 \" data-rd-isroller=\"false\">Limitations</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1,flsttype:beast=1,flstspeed%20type:fly=2~swim=2,flstmiscellaneous:swarm=2\">1</a></td><td class=\"rd__th ve-col-8 \">No flying or swimming speed</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;1,flsttype:beast=1,flstspeed%20type:fly=2,flstmiscellaneous:swarm=2\">1</a></td><td class=\"rd__th ve-col-8 \">No flying speed</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">6th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;2,flsttype:beast=1,flstspeed%20type:fly=2,flstmiscellaneous:swarm=2\">2</a></td><td class=\"rd__th ve-col-8 \">No flying speed</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">8th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;2,flsttype:beast=1,flstmiscellaneous:swarm=2\">2</a></td><td class=\"rd__th ve-col-8 \">—</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;3,flsttype:beast=1,flstmiscellaneous:swarm=2\">3</a></td><td class=\"rd__th ve-col-8 \">—</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">12th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;4,flsttype:beast=1,flstmiscellaneous:swarm=2\">4</a></td><td class=\"rd__th ve-col-8 \">—</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">15th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;5,flsttype:beast=1,flstmiscellaneous:swarm=2\">5</a></td><td class=\"rd__th ve-col-8 \">—</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">18th</td><td class=\"rd__th ve-col-2 ve-text-center \"><a href=\"https://5e.tools/bestiary.html#blankhash,flstchallenge%20rating:min=&amp;0~max=&amp;6,flsttype:beast=1,flstmiscellaneous:swarm=2\">6</a></td><td class=\"rd__th ve-col-8 \">—</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 2 (Moon)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "circle-forms",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/commodities/claws/claw-bear-brown.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "aWPszYbm7uBufrZx",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!TMTmZEDwW540tPqZ"
+}

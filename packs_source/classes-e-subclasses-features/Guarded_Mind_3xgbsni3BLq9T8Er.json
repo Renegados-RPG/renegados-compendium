@@ -1,0 +1,60 @@
+{
+  "_id": "3xgbsni3BLq9T8Er",
+  "name": "Guarded Mind",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "42",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level Psi Warrior feature</i></p><p>The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 10 (Psi Warrior)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "guarded-mind",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "f7Sr2p3TTWx9UkHs",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989863770,
+    "modifiedTime": 1741989863770,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!3xgbsni3BLq9T8Er"
+}

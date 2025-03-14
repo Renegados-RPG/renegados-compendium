@@ -1,0 +1,22 @@
+{
+  "name": "Battle Master",
+  "color": null,
+  "description": "",
+  "flags": {},
+  "sort": 0,
+  "sorting": "a",
+  "folder": "X4XnoWHUq5cwBXwI",
+  "type": "Item",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989863674,
+    "modifiedTime": 1741989863674,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "_id": "XWANshmKfEuzNdCz",
+  "_key": "!folders!XWANshmKfEuzNdCz"
+}

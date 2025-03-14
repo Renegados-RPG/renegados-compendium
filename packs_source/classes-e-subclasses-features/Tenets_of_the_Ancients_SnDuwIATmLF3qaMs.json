@@ -1,0 +1,60 @@
+{
+  "_id": "SnDuwIATmLF3qaMs",
+  "name": "Tenets of the Ancients",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "86",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Kindle the Light\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Kindle the Light.</span></span> Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Shelter the Light\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Shelter the Light.</span></span> Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Preserve Your Own Light\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Preserve Your Own Light.</span></span> Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Be the Light\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Be the Light.</span></span> Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</p></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Ancients)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tenets-of-the-ancients",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "cviZb0Kf5cU9BHWz",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!SnDuwIATmLF3qaMs"
+}

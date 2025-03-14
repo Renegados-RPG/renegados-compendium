@@ -1,0 +1,60 @@
+{
+  "_id": "GrBYAFayg3F6FB4D",
+  "name": "Full of Stars",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "38",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>14th-level Circle of the Stars feature</i></p><p>While in your Starry Form, you become partially incorporeal, giving you resistance to bludgeoning, piercing, and slashing damage.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 14 (Stars)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "full-of-stars",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/light/orbs-smoke-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "G95xMGeL8DgMAp0X",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!GrBYAFayg3F6FB4D"
+}

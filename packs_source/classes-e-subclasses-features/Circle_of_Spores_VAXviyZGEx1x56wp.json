@@ -1,0 +1,189 @@
+{
+  "_id": "VAXviyZGEx1x56wp",
+  "name": "Circle of Spores",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "36",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life.</p><p>These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn't the end of life, but instead a change of state that sees life shift into a new form.</p><p>Druids of this circle have a complex relationship with the undead. Unlike most other druids, they see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.</p><div data-roll-name-ancestor=\"Circle Spells\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p36\">Circle Spells</span></h3> <p>Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the @UUID[Compendium.renegados-compendium.magias.Item.9TFdlhoeXCgLw8fE] cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.</p><p>Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Circle of Spores Spells\"><caption>Circle of Spores Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.oYsct95PfhhE4Caa], @UUID[Compendium.renegados-compendium.magias.Item.khdRofOAAY0hCY3m]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.5VNRmqQiRZghryFb], @UUID[Compendium.renegados-compendium.magias.Item.pKSVW0LQRKIxMIuY]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.UV4GyphtilEUf377], @UUID[Compendium.renegados-compendium.magias.Item.lRscppT0uf47ONzO]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.E3snlGTnLpFpZLU9], @UUID[Compendium.renegados-compendium.magias.Item.g4yfTNdI6th7rTsK]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Halo of Spores\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p36\">Halo of Spores</span></h3> <p>Starting at 2nd level, you are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use your reaction to deal [[/damage 1d4 type=necrotic]] damage to that creature unless it succeeds on a Constitution saving throw against your spell save DC. The necrotic damage increases to [[/damage 1d6]] at 6th level, [[/damage 1d8]] at 10th level, and [[/damage 1d10]] at 14th level.</p></div><div data-roll-name-ancestor=\"Symbiotic Entity\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p36\">Symbiotic Entity</span></h3> <p>At 2nd level, you gain the ability to channel magic into your spores. As an action, you can expend a use of your Wild Shape feature to awaken those spores, rather than transforming into a beast form, and you gain 4 temporary hit points for each level you have in this class. While this feature is active, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.</li><li class=\"rd__li \">Your melee weapon attacks deal an extra [[/damage 1d6 type=necrotic]] damage to any target they hit.</li></ul><p>These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 2 (Spores)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "hhspc0G0ChgKYYuH": {
+        "_id": "hhspc0G0ChgKYYuH",
+        "type": "damage",
+        "name": "Damage: 1d4 Necrotic Damage",
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use",
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["necrotic"],
+              "number": 1,
+              "denomination": 4,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "eoKhfQqKoHZIJW1B": {
+        "_id": "eoKhfQqKoHZIJW1B",
+        "type": "damage",
+        "name": "Damage: 1d6 Necrotic Damage",
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "When a creature you can see moves into a space within 10 feet of you or starts its turn there, you can use",
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["necrotic"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "circle-of-spores",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/mushroom-glow-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "x7kJ3ZFxYMtt6xOO",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!VAXviyZGEx1x56wp"
+}

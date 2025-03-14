@@ -1,0 +1,60 @@
+{
+  "_id": "75p7xVf7PLxLfOPc",
+  "name": "Physician's Touch",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "49",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level Way of Mercy feature</i></p><p>You can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.</p><p>When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: &amp;Reference[condition=blinded], &amp;Reference[condition=deafened], &amp;Reference[condition=paralyzed], &amp;Reference[condition=poisoned], or &amp;Reference[condition=stunned].</p><p>When you use Hand of Harm on a creature, you can subject that creature to the &amp;Reference[condition=poisoned] condition until the end of your next turn.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Monk 6 (Mercy)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "physicians-touch",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/beam-hand-leaves-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "5NWVZWzxBg5cKTkS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!75p7xVf7PLxLfOPc"
+}

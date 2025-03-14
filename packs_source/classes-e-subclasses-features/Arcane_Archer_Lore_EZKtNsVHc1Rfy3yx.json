@@ -1,0 +1,60 @@
+{
+  "_id": "EZKtNsVHc1Rfy3yx",
+  "name": "Arcane Archer Lore",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "28",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the &amp;Reference[skill=Arcana] or the &amp;Reference[skill=Nature] skill, and you choose to learn either the @UUID[Compendium.renegados-compendium.magias.Item.GEorq7yxqGkqL4Nz] or the @UUID[Compendium.renegados-compendium.magias.Item.gXM0JdJyk40MLf7t] cantrip.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 3 (Arcane Archer)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "arcane-archer-lore",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/sundries/books/book-symbol-triangle-silver-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Rc2Sdt37U05Lk44P",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989863770,
+    "modifiedTime": 1741989863770,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!EZKtNsVHc1Rfy3yx"
+}

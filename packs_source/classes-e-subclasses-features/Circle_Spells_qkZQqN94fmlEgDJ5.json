@@ -1,0 +1,60 @@
+{
+  "_id": "qkZQqN94fmlEgDJ5",
+  "name": "Circle Spells",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "39",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>2nd-level Circle of Wildfire feature</i></p><p>You have formed a bond with a wildfire spirit, a primal being of creation and destruction. Your link with this spirit grants you access to some spells when you reach certain levels in this class, as shown on the Circle of Wildfire Spells table.</p><p>Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Circle of Wildfire Spells\"><caption>Circle of Wildfire Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Druid Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Circle Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.WGdHm2U73KdKbVJ2], @UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.g3uf6SyGXp0e3tRB], @UUID[Compendium.renegados-compendium.magias.Item.qhKu9FnrixJ5MfE6]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.RsbFt4DzKfv2NwaM], @UUID[Compendium.renegados-compendium.magias.Item.d1r1XaTWxmNkqP1Q]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">7th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.MXTsNyYdbqNmzjY0], @UUID[Compendium.renegados-compendium.magias.Item.vAdS4HY2pEgSK2Qp]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX], @UUID[Compendium.renegados-compendium.magias.Item.YVhoQSeBV84mkRiP]</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 2 (Wildfire)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "circle-spells",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/nature/mushrooms-fire-glow-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ghbyF4e6LjOprmTR",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!qkZQqN94fmlEgDJ5"
+}

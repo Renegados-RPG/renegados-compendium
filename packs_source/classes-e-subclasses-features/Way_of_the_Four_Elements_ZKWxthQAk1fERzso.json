@@ -1,0 +1,396 @@
+{
+  "_id": "ZKWxthQAk1fERzso",
+  "name": "Way of the Four Elements",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "80",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</p><p>Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.</p><div data-roll-name-ancestor=\"Disciple of the Elements\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p80\">Disciple of the Elements</span></h3> <p>You learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.</p><p>You know the Elemental Attunement discipline and one other elemental discipline of your choice. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.</p><p>Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</p><div data-roll-name-ancestor=\"Casting Elemental Spells\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Casting Elemental Spells.</span></span> Some elemental disciplines allow you to cast spells. See <a href=\"https://5e.tools/book.html#PHB,10\">chapter 10</a> of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.</p><p>Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as @UUID[Compendium.renegados-compendium.magias.Item.WGdHm2U73KdKbVJ2] does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast @UUID[Compendium.renegados-compendium.magias.Item.WGdHm2U73KdKbVJ2], you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).</p><p>The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Spells and Ki Points\"><caption>Spells and Ki Points</caption><thead><tr><th class=\"rd__th ve-col-5 ve-text-center \" data-rd-isroller=\"false\">Monk Levels</th><th class=\"rd__th ve-col-7 ve-text-center \" data-rd-isroller=\"false\">Maximum Ki Points for a Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-5 ve-text-center \">5th-8th</td><td class=\"rd__th ve-col-7 ve-text-center \">3</td></tr><tr><td class=\"rd__th ve-col-5 ve-text-center \">9th-12th</td><td class=\"rd__th ve-col-7 ve-text-center \">4</td></tr><tr><td class=\"rd__th ve-col-5 ve-text-center \">13th-16th</td><td class=\"rd__th ve-col-7 ve-text-center \">5</td></tr><tr><td class=\"rd__th ve-col-5 ve-text-center \">17th-20th</td><td class=\"rd__th ve-col-7 ve-text-center \">6</td></tr></tbody></table></div></div><div data-roll-name-ancestor=\"Elemental Disciplines\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p80\">Elemental Disciplines</span></h3> <p>The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Breath of Winter (17th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Breath of Winter (17th Level Required).</span></span> You can spend 6 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.9eANbJeKnbPCPRHs].</p></div><div data-roll-name-ancestor=\"Clench of the North Wind (6th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Clench of the North Wind (6th Level Required).</span></span> You can spend 3 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd].</p></div><div data-roll-name-ancestor=\"Elemental Attunement\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Elemental Attunement.</span></span> You can use your action to briefly control elemental forces within 30 feet of you, causing one of the following effects of your choice:</p><ul class=\"rd__list\"><li class=\"rd__li \">Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.</li><li class=\"rd__li \">Instantaneously light or snuff out a candle, a torch, or a small campfire.</li><li class=\"rd__li \">Chill or warm up to 1 pound of nonliving material for up to 1 hour.</li><li class=\"rd__li \">Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you designate for 1 minute.</li></ul></div><div data-roll-name-ancestor=\"Eternal Mountain Defense (17th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"7\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Eternal Mountain Defense (17th Level Required).</span></span> You can spend 5 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.5FDreatLWrKMlwrx], targeting yourself.</p></div><div data-roll-name-ancestor=\"Fangs of the Fire Snake\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"8\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Fangs of the Fire Snake.</span></span> When you use the @action[Attack] action on your turn, you can spend 1 ki point to cause tendrils of flame to stretch out from your fists and feet. Your reach with your unarmed strikes increases by 10 feet for that action, as well as the rest of the turn. A hit with such an attack deals fire damage instead of bludgeoning damage, and if you spend 1 ki point when the attack hits, it also deals an extra [[/damage 1d10 type=fire]] damage.</p></div><div data-roll-name-ancestor=\"Fist of Four Thunders\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"9\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Fist of Four Thunders.</span></span> You can spend 2 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.eblKmCn9x7A9n3IM].</p></div><div data-roll-name-ancestor=\"Flames of the Phoenix (11th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"10\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Flames of the Phoenix (11th Level Required).</span></span> You can spend 4 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.uGu9D0QJtYH33DrE].</p></div><div data-roll-name-ancestor=\"Gong of the Summit (6th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"11\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Gong of the Summit (6th Level Required).</span></span> You can spend 3 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.sFwnTTVcEb0dY5By].</p></div><div data-roll-name-ancestor=\"Mist Stance (11th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"12\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Mist Stance (11th Level Required).</span></span> You can spend 4 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.pKSVW0LQRKIxMIuY], targeting yourself.</p></div><div data-roll-name-ancestor=\"Ride the Wind (11th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"13\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Ride the Wind (11th Level Required).</span></span> You can spend 4 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.UCpMgIrTiipKBrwl], targeting yourself.</p></div><div data-roll-name-ancestor=\"River of Hungry Flame (17th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"14\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">River of Hungry Flame (17th Level Required).</span></span> You can spend 5 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.VLVLp92QAZm5LMZF].</p></div><div data-roll-name-ancestor=\"Rush of the Gale Spirits\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"15\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Rush of the Gale Spirits.</span></span> You can spend 2 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.4mwMeYMmmaGE9nqk].</p></div><div data-roll-name-ancestor=\"Shape the Flowing River\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"16\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Shape the Flowing River.</span></span> As an action, you can spend 1 ki point to choose an area of ice or water no larger than 30 feet on a side within 120 feet of you. You can change water to ice within the area and vice versa, and you can reshape ice in the area in any manner you choose. You can raise or lower the ice's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 30-foot square, you can create a pillar up to 15 feet high. raise or lower the square's elevation by up to 15 feet, dig a trench up to 15 feet deep, and so on. You can't shape the ice to trap or injure a creature in the area.</p></div><div data-roll-name-ancestor=\"Sweeping Cinder Strike\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"17\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Sweeping Cinder Strike.</span></span> You can spend 2 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.WGdHm2U73KdKbVJ2].</p></div><div data-roll-name-ancestor=\"Unbroken Air\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"18\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Unbroken Air.</span></span> You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes [[/damage 3d10 type=bludgeoning]] damage, plus an extra [[/damage 1d10 type=bludgeoning]] damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it &amp;Reference[condition=prone]. On a successful save, the creature takes half as much damage, and you don't push it or knock it &amp;Reference[condition=prone].</p></div><div data-roll-name-ancestor=\"Water Whip\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"19\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Water Whip.</span></span> You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes [[/damage 3d10 type=bludgeoning]] damage, plus an extra [[/damage 1d10 type=bludgeoning]] damage for each additional ki point you spend, and you can either knock it &amp;Reference[condition=prone] or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it &amp;Reference[condition=prone].</p></div><div data-roll-name-ancestor=\"Wave of Rolling Earth (17th Level Required)\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"20\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p81\">Wave of Rolling Earth (17th Level Required).</span></span> You can spend 6 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.iLfkkZ2PipZIbR8b].</p></div></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Monk 3 (Four Elements)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "MrlEPglECYSCXkNB": {
+        "_id": "MrlEPglECYSCXkNB",
+        "type": "save",
+        "name": "Save: 3d10 Bludgeoning Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 3,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "dgt7ni83NovnZXw3": {
+        "_id": "dgt7ni83NovnZXw3",
+        "type": "save",
+        "name": "Save: 1d10 Bludgeoning Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "jh1LpcjrzvAMwHPv": {
+        "_id": "jh1LpcjrzvAMwHPv",
+        "type": "save",
+        "name": "Save: 3d10 Bludgeoning Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 3,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "GsOiEypbzey7Bacr": {
+        "_id": "GsOiEypbzey7Bacr",
+        "type": "save",
+        "name": "Save: 1d10 Bludgeoning Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "tFGSLejzP4dI46ji": {
+        "_id": "tFGSLejzP4dI46ji",
+        "type": "save",
+        "name": "Save: 1d10 Fire Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["fire"],
+              "number": 1,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "way-of-the-four-elements",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "iu5tB3IBCwYmvGwP",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!ZKWxthQAk1fERzso"
+}

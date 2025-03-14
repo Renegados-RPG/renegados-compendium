@@ -1,0 +1,60 @@
+{
+  "_id": "llLigubtF8QJEmyn",
+  "name": "Know Your Enemy",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "73",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:</p><ul class=\"rd__list\"><li class=\"rd__li \">Strength score</li><li class=\"rd__li \">Dexterity score</li><li class=\"rd__li \">Constitution score</li><li class=\"rd__li \">Armor Class</li><li class=\"rd__li \">Current hit points</li><li class=\"rd__li \">Total class levels (if any)</li><li class=\"rd__li \">Fighter class levels (if any)</li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 7 (Battle Master)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "know-your-enemy",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/light/explosion-star-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "XWANshmKfEuzNdCz",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989863770,
+    "modifiedTime": 1741989863770,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!llLigubtF8QJEmyn"
+}

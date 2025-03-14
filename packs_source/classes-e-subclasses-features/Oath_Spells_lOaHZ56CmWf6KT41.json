@@ -1,0 +1,60 @@
+{
+  "_id": "lOaHZ56CmWf6KT41",
+  "name": "Oath Spells",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "54",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Oath of the Watchers feature</i></p><p>You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of the Watchers Spells\"><caption>Oath of the Watchers Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.amWol0ldCgubCUP5], @UUID[Compendium.renegados-compendium.magias.Item.7pKlr3nWnAkMV3iF]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.6hIyHaEe6Wb5219F], @UUID[Compendium.renegados-compendium.magias.Item.Gj4KE8XiRjazzBoN]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.8xAcj01FiGQeSqUa], @UUID[Compendium.renegados-compendium.magias.Item.R6jqPQpnqGNgPLta]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.yTU49D6F5TSNbbNQ], @UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z], @UUID[Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq]</td></tr></tbody></table></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Watchers)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "oath-spells",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/symbols/arrowhead-green.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "uPTFL8uOqQTJ200S",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!lOaHZ56CmWf6KT41"
+}

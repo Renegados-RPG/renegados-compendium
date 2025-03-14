@@ -1,0 +1,60 @@
+{
+  "_id": "tdZaZzp93rbnn80Y",
+  "name": "Tenets of Devotion",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "85",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Honesty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Honesty.</span></span> Don't lie or cheat. Let your word be your promise.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Courage\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Courage.</span></span> Never fear to act, though caution is wise.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Compassion\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Compassion.</span></span> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Honor\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Honor.</span></span> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Duty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Duty.</span></span> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Devotion)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tenets-of-devotion",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "DyuHyzKuagFsvmLw",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!tdZaZzp93rbnn80Y"
+}

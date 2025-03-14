@@ -1,0 +1,60 @@
+{
+  "_id": "lfq82kg98aK0cwWD",
+  "name": "Elegant Courtier",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "31",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 7th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma (&amp;Reference[skill=Persuasion]) check, you gain a bonus to the check equal to your Wisdom modifier.</p><p>Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).</p></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 7 (Samurai)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "elegant-courtier",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "aD9v1glnhkUcD7ym",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989863770,
+    "modifiedTime": 1741989863770,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!lfq82kg98aK0cwWD"
+}

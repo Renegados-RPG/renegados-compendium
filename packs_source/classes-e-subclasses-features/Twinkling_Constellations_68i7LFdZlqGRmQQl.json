@@ -1,0 +1,60 @@
+{
+  "_id": "68i7LFdZlqGRmQQl",
+  "name": "Twinkling Constellations",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "38",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level Circle of the Stars feature</i></p><p>The constellations of your Starry Form improve. The [[/damage 1d8]] of the Archer and the Chalice becomes [[/damage 2d8]], and while the Dragon is active, you have a flying speed of 20 feet and can hover.</p><p>Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 10 (Stars)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "twinkling-constellations",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/light/explosion-star-glow-blue-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "G95xMGeL8DgMAp0X",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!68i7LFdZlqGRmQQl"
+}

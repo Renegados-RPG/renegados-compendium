@@ -1,0 +1,119 @@
+{
+  "_id": "QzLy7srGlwEksdqv",
+  "name": "Living Legend",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "53",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>20th-level Oath of Glory feature</i></p><p>You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a bonus action, you gain the following benefits for 1 minute:</p><ul class=\"rd__list\"><li class=\"rd__li \">You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.</li><li class=\"rd__li \">Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.</li><li class=\"rd__li \">If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 20 (Glory)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "zH27Vtx0B1fbrazj": {
+        "_id": "zH27Vtx0B1fbrazj",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "living-legend",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "60xLA0KO7nEJaqpA",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!QzLy7srGlwEksdqv"
+}

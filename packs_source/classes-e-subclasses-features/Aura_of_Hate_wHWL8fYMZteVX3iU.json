@@ -1,0 +1,60 @@
+{
+  "_id": "wHWL8fYMZteVX3iU",
+  "name": "Aura of Hate",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "DMG'14",
+      "page": "97",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin's Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time.</p><p>At 18th level, the range of this aura increases to 30 feet.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 7 (Oathbreaker)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "aura-of-hate",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/skills/melee/strike-flail-spiked-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "oPZTBs74OOEKKvAj",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!wHWL8fYMZteVX3iU"
+}

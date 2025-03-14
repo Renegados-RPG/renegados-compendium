@@ -1,0 +1,60 @@
+{
+  "_id": "ymRIJo7wpDuZs6bY",
+  "name": "Aura of Conquest",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "37",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 7th level, you constantly emanate a menacing aura while you're not &amp;Reference[condition=incapacitated]. The aura extends 10 feet from you in every direction, but not through &amp;Reference[rule=totalcover]{total cover}.</p><p>If a creature is &amp;Reference[condition=frightened] of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.</p><p>At 18th level, the range of this aura increases to 30 feet.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 7 (Conquest)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "aura-of-conquest",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/skills/melee/weapons-crossed-swords-white-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "0aW0ISs0x9reTu0O",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!ymRIJo7wpDuZs6bY"
+}

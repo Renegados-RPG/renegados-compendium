@@ -1,0 +1,60 @@
+{
+  "_id": "L6u9kREKiGI2GWhQ",
+  "name": "Tenets of the Crown",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "132",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Law\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Law.</span></span> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Loyalty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Loyalty.</span></span> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Courage\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Courage.</span></span> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p></div></div><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Responsibility\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Responsibility.</span></span> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p></div></div></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Crown)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tenets-of-the-crown",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "zwoJqxj4hY81ad4i",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!L6u9kREKiGI2GWhQ"
+}

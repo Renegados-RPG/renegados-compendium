@@ -1,0 +1,60 @@
+{
+  "_id": "uYTOcZyQGCJ90ghM",
+  "name": "Unyielding Spirit",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "SCAG",
+      "page": "132",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Starting at 15th level, you have advantage on saving throws to avoid becoming &amp;Reference[condition=paralyzed] or &amp;Reference[condition=stunned].</p></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 15 (Crown)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "unyielding-spirit",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "zwoJqxj4hY81ad4i",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!uYTOcZyQGCJ90ghM"
+}

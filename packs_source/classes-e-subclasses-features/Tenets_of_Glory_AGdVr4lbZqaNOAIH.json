@@ -1,0 +1,60 @@
+{
+  "_id": "AGdVr4lbZqaNOAIH",
+  "name": "Tenets of Glory",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "53",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.</p><div data-roll-name-ancestor=\"Actions over Words\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Actions over Words</span></h3> <p>Strive to be known by glorious deeds, not words.</p></div><div data-roll-name-ancestor=\"Challenges Are but Tests\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Challenges Are but Tests</span></h3> <p>Face hardships with courage, and encourage your allies to face them with you.</p></div><div data-roll-name-ancestor=\"Hone the Body\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Hone the Body</span></h3> <p>Like raw stone, your body must be worked so its potential can be realized.</p></div><div data-roll-name-ancestor=\"Discipline the Soul\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Discipline the Soul</span></h3> <p>You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.</p></div></div>",
+      "chat": ""
+    },
+    "requirements": "Paladin 3 (Glory)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "tenets-of-glory",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "flags": {},
+  "effects": [],
+  "folder": "60xLA0KO7nEJaqpA",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989882221,
+    "modifiedTime": 1741989882221,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!AGdVr4lbZqaNOAIH"
+}

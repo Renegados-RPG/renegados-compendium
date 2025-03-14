@@ -1,0 +1,60 @@
+{
+  "_id": "uXAA6p7PLlB9MX02",
+  "name": "Enhanced Bond",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "39",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level Circle of Wildfire feature</i></p><p>The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a [[/r d8]], and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.</p><p>In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Druid 6 (Wildfire)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "enhanced-bond",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/fire/flame-burning-eye.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ghbyF4e6LjOprmTR",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989852158,
+    "modifiedTime": 1741989852158,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!uXAA6p7PLlB9MX02"
+}

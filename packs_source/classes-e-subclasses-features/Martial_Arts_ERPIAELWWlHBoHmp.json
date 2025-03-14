@@ -1,0 +1,60 @@
+{
+  "_id": "ERPIAELWWlHBoHmp",
+  "name": "Martial Arts",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are @item[shortsword|phb|shortswords] and any <a href=\"https://5e.tools/items.html#blankhash,flstsource:phb=1,flstcategory:basic=1,flsttype:simple%20weapon=1~melee%20weapon=1,flmttype:sand,flstproperty:heavy=2~two-handed=2\">simple melee weapons that don't have the two-handed or heavy property</a>.</p><p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a @item[shield|phb].</p><ul class=\"rd__list\"><li class=\"rd__li \">You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</li><li class=\"rd__li \">You can roll a [[/r d4]] in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</li><li class=\"rd__li \">When you use the @action[Attack] action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the @action[Attack] action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</li></ul><p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).</p></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "76",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Monk 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "martial-arts",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/skills/melee/unarmed-punch-fist.webp",
+  "folder": "5H2b60VLxXXlqxuf",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741989873050,
+    "modifiedTime": 1741989873050,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!ERPIAELWWlHBoHmp"
+}
