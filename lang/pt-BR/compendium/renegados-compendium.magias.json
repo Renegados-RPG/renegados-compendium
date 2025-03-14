@@ -919,7 +919,7 @@
       "description": "<p>Todos os objetos em um cubo de 6 metros [20-foot cube] no alcance da magia se tornam delineados por uma luz azul, verde ou violeta (à sua escolha). Qualquer criatura que esteja na área quando a magia for conjurada também é delineada pela luz, caso falhe em uma salvaguarda de Destreza. Enquanto a magia durar, objetos e criaturas afetadas por ela emitem uma luz tênue, criando meia-luz em um raio de 3 metros [10-foot radius].</p>\n<p>Qualquer jogada de ataque contra uma criatura ou objeto afetado tem vantagem, caso o atacante possa vê-los. Objetos e criaturas afetados não podem se beneficiar por estarem invisíveis.</p>"
     },
     "False Life": {
-      "name": "Vitalidade Vazia",
+      "name": "Vida Falsa",
       "description": "<p>Você instila em si mesmo um arremedo necromântico de vida, ganhando 1d4+4 pontos de vida temporários enquanto a magia durar.</p>\n<p><strong>Em Círculos Superiores.</strong> Ao conjurar esta magia usando um espaço de magia de 2º círculo ou superior, você ganha 5 pontos de vida temporários para cada círculo do espaço acima do 1º.</p>",
       "materials": "a small amount of alcohol or distilled spirits"
     },
