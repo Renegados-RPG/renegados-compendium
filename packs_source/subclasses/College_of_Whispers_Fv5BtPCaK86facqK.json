@@ -1,0 +1,147 @@
+{
+  "_id": "Fv5BtPCaK86facqK",
+  "name": "College of Whispers",
+  "type": "subclass",
+  "system": {
+    "identifier": "college-of-whispers",
+    "classIdentifier": "bard",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.</p><p>Many other bards hate the College of Whispers, viewing it as a parasite that uses a bard's reputation to acquire wealth and power. For this reason, members of this college rarely reveal their true nature. They typically claim to follow some other college, or they keep their actual calling secret in order to infiltrate and exploit royal courts and other settings of power.</p><div data-roll-name-ancestor=\"Psychic Blades\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Psychic Blades</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 16\">p16</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.</p><p>When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">2d6</span> psychic damage to that target. You can do so only once per round on your turn.</p><p>The psychic damage increases when you reach certain levels in this class, increasing to <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">3d6</span> at 5th level, <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">5d6</span> at 10th level, and <span class=\"roller render-roller\" title=\"Click to roll. SHIFT to roll a critical hit, CTRL to half damage (rounding down).\" data-packed-dice=\"{\">8d6</span> at 15th level.</p></div><div data-roll-name-ancestor=\"Words of Terror\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Words of Terror</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 16\">p16</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror.</p><p>If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be <a href=\"https://2014.5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a> of you or another creature of your choice. The target is <a href=\"https://2014.5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a> in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.</p><p>If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"College of Whispers\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p16\">College of Whispers</span></h2><p>Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.</p><p>Many other bards hate the College of Whispers, viewing it as a parasite that uses a bard's reputation to acquire wealth and power. For this reason, members of this college rarely reveal their true nature. They typically claim to follow some other college, or they keep their actual calling secret in order to infiltrate and exploit royal courts and other settings of power.</p><div data-roll-name-ancestor=\"Level 3: Psychic Blades\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p16\">Level 3: Psychic Blades</span></h3><p>When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind.</p><p>When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an extra [[/damage 2d6 type=psychic]] damage to that target. You can do so only once per round on your turn.</p><p>The psychic damage increases when you reach certain levels in this class, increasing to [[/damage 3d6]] at 5th level, [[/damage 5d6]] at 10th level, and [[/damage 8d6]] at 15th level.</p></div><div data-roll-name-ancestor=\"Level 3: Words of Terror\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p16\">Level 3: Words of Terror</span></h3><p>At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror.</p><p>If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be &amp;Reference[condition=frightened] of you or another creature of your choice. The target is &amp;Reference[condition=frightened] in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.</p><p>If the target succeeds on its saving throw, the target has no hint that you tried to frighten it.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Mantle of Whispers\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p16\">Level 6: Mantle of Whispers</span></h3><p>At 6th level, you gain the ability to adopt a humanoid's persona. When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.</p><p>You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.</p><p>While you're in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.</p><p>Another creature can see through this disguise by succeeding on a Wisdom (&amp;Reference[skill=Insight]) check contested by your Charisma (&amp;Reference[skill=Deception]) check. You gain a +5 bonus to your check.</p><p>Once you capture a shadow with this feature, you can't capture another one with it until you finish a short or long rest.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Shadow Lore\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p16\">Level 14: Shadow Lore</span></h3><p>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature's deepest fears.</p><p>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn't share a language with you or if it can't hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</p><p>On a failed saving throw, the target is &amp;Reference[condition=charmed] by you for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.</p><p>The &amp;Reference[condition=charmed] creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</p><p>When the effect ends, the creature has no understanding of why it held you in such fear.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "16",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "psychic-blades",
+          "type": "dice",
+          "scale": {
+            "3": {
+              "number": 2,
+              "faces": 6,
+              "modifiers": []
+            },
+            "5": {
+              "number": 3,
+              "faces": 6,
+              "modifiers": []
+            },
+            "10": {
+              "number": 5,
+              "faces": 6,
+              "modifiers": []
+            },
+            "15": {
+              "number": 8,
+              "faces": 6,
+              "modifiers": []
+            }
+          },
+          "distance": {
+            "units": ""
+          }
+        },
+        "title": "Psychic Blades",
+        "_id": "aPegxDTkeSYn82Bv",
+        "value": {}
+      },
+      {
+        "_id": "68Hvn6p2IpuGVXKT",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QMxBvYFDd7qGx5bu",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ikXv3qgFmHtP95mp",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.7592Txrvd94OUab4",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Features",
+        "hint": ""
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sFPsnW4VcxZKSumM",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "Features",
+        "hint": "",
+        "_id": "hPeO3tVSDKNoA5aM"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.dtOjB87BWnthT1W1",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "Features",
+        "hint": "",
+        "_id": "3rPTkB1u9zzn1oR6"
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/skills/social/diplomacy-writing-letter.webp",
+  "folder": "iOECGhWIsovl5FUk",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741926034979,
+    "modifiedTime": 1741927880149,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!Fv5BtPCaK86facqK"
+}

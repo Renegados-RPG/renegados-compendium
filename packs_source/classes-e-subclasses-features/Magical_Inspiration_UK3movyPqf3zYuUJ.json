@@ -1,5 +1,5 @@
 {
-  "_id": "XHDt0W5HStpZLkGP",
+  "_id": "UK3movyPqf3zYuUJ",
   "name": "Magical Inspiration",
   "type": "feat",
   "system": {
@@ -39,22 +39,22 @@
   },
   "ownership": {
     "default": 0,
-    "QPo7Cd77aeIzDkPq": 3
+    "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/control/control-influence-crown-yellow.webp",
   "flags": {},
   "effects": [],
-  "folder": "bVMOMXg7DdVDPmsj",
+  "folder": "uU9E1kOnadd1jQvu",
   "_stats": {
-    "compendiumSource": "Item.xc0n1M1CZtE8fwhC",
+    "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
-    "createdTime": 1741450213592,
-    "modifiedTime": 1741450213686,
-    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+    "createdTime": 1741926055715,
+    "modifiedTime": 1741926055715,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 100000,
-  "_key": "!items!XHDt0W5HStpZLkGP"
+  "sort": 0,
+  "_key": "!items!UK3movyPqf3zYuUJ"
 }

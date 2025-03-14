@@ -1,0 +1,60 @@
+{
+  "_id": "ml5HH1TTHz96ewIz",
+  "name": "Spellcasting",
+  "type": "feat",
+  "system": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--3\"><p>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See <a href=\"https://2014.5e.tools/book.html#PHB,10\">chapter 10</a> for the general rules of spellcasting and <a href=\"https://2014.5e.tools/book.html#PHB,11\">chapter 11</a> for the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:bard=1\">bard spell list</a>.</p><div data-roll-name-ancestor=\"Cantrips\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Cantrips.</span></span> You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.</p></div><div data-roll-name-ancestor=\"Spell Slots\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Spell Slots.</span></span> The Bard table shows how many spell slots you have to cast your <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:bard=1\">bard spells</a> of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>For example, if you know the 1st-level spell @UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2] and have a 1st-level and a 2nd-level spell slot available, you can cast @UUID[Compendium.renegados-compendium.magias.Item.OPgAHovN4oGjfcy2] using either slot.</p></div><div data-roll-name-ancestor=\"Spells Known of 1st Level and Higher\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Spells Known of 1st Level and Higher.</span></span> You know four 1st-level spells of your choice from the bard spell list.</p><p>You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</p><p>Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.</p></div><div data-roll-name-ancestor=\"Spellcasting Ability\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Spellcasting Ability.</span></span> Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.</p><div class=\"rd__wrp-centered-ability\"><b>Spell save DC</b> = 8 + Charisma modifier + Proficiency Bonus</div><div class=\"rd__wrp-centered-ability\"><b>Spell attack modifier</b> = Charisma modifier + Proficiency Bonus</div></div><div data-roll-name-ancestor=\"Ritual Casting\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Ritual Casting.</span></span> You can cast any bard spell you know as a ritual if that spell has the ritual tag.</p></div><div data-roll-name-ancestor=\"Spellcasting Focus\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Spellcasting Focus.</span></span> You can use a @item[musical instrument|PHB] as a spellcasting focus for your bard spells.</p></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "51",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "uses": {
+      "max": "",
+      "spent": 0,
+      "recovery": []
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Bard 1",
+    "properties": [],
+    "activities": {},
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "identifier": "spellcasting",
+    "advancement": [],
+    "cover": null,
+    "crewed": false
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "effects": [],
+  "flags": {},
+  "img": "icons/magic/symbols/runes-carved-stone-yellow.webp",
+  "folder": "uU9E1kOnadd1jQvu",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741926055715,
+    "modifiedTime": 1741926055715,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!ml5HH1TTHz96ewIz"
+}

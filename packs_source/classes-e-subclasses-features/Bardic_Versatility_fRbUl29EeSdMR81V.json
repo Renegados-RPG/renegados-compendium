@@ -1,5 +1,5 @@
 {
-  "_id": "PLDInhE8FDhKrYc8",
+  "_id": "fRbUl29EeSdMR81V",
   "name": "Bardic Versatility",
   "type": "feat",
   "system": {
@@ -39,22 +39,22 @@
   },
   "ownership": {
     "default": 0,
-    "QPo7Cd77aeIzDkPq": 3
+    "ox2bho65epIfC0E1": 3
   },
   "img": "icons/skills/trades/music-notes-sound-blue.webp",
   "flags": {},
   "effects": [],
-  "folder": "bVMOMXg7DdVDPmsj",
+  "folder": "uU9E1kOnadd1jQvu",
   "_stats": {
-    "compendiumSource": "Item.AS83lIPxAatdve9N",
+    "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
-    "createdTime": 1741450240385,
-    "modifiedTime": 1741450240471,
-    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+    "createdTime": 1741926055715,
+    "modifiedTime": 1741926055715,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
-  "sort": 200000,
-  "_key": "!items!PLDInhE8FDhKrYc8"
+  "sort": 0,
+  "_key": "!items!fRbUl29EeSdMR81V"
 }

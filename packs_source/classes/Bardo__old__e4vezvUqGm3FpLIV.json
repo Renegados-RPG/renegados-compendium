@@ -1,5 +1,5 @@
 {
-  "name": "Bardo",
+  "name": "Bardo (old)",
   "type": "class",
   "img": "icons/tools/instruments/harp-yellow-teal.webp",
   "system": {
@@ -882,8 +882,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741448180389,
-    "modifiedTime": 1741450266810,
-    "lastModifiedBy": "QPo7Cd77aeIzDkPq"
+    "modifiedTime": 1741926228838,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "_id": "e4vezvUqGm3FpLIV",
   "sort": 782,

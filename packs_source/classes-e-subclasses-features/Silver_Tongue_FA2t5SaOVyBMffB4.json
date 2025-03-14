@@ -1,0 +1,60 @@
+{
+  "_id": "FA2t5SaOVyBMffB4",
+  "name": "Silver Tongue",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "29",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level College of Eloquence feature</i></p><p>You are a master at saying the right thing at the right time. When you make a Charisma (&amp;Reference[skill=Persuasion]) or Charisma (&amp;Reference[skill=Deception]) check, you can treat a [[/r d20]] roll of 9 or lower as a 10.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Bard 3 (Eloquence)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "silver-tongue",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "s4wjDYm3Wj4dFELB",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741926055715,
+    "modifiedTime": 1741926055715,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!FA2t5SaOVyBMffB4"
+}

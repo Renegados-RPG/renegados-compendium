@@ -1,0 +1,119 @@
+{
+  "_id": "DLIZphjd1unBkj1a",
+  "name": "Mantle of Majesty",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "14",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you cast @UUID[Compendium.renegados-compendium.magias.Item.059ykAUf9mtHLUqZ], without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your @status[concentration] ends (as if you were @status[concentration||concentrating] on a spell). During this time, you can cast @UUID[Compendium.renegados-compendium.magias.Item.059ykAUf9mtHLUqZ] as a bonus action on each of your turns, without expending a spell slot.</p><p>Any creature &amp;Reference[condition=charmed] by you automatically fails its saving throw against the @UUID[Compendium.renegados-compendium.magias.Item.059ykAUf9mtHLUqZ] you cast with this feature.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Bard 6 (Glamour)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": ["concentration"],
+    "advancement": [],
+    "activities": {
+      "Yyzh0WN5WVZlINpy": {
+        "_id": "Yyzh0WN5WVZlINpy",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "mantle-of-majesty",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "kXeXK8i2Wa1mCREf",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741926055715,
+    "modifiedTime": 1741926055715,
+    "lastModifiedBy": "ox2bho65epIfC0E1"
+  },
+  "sort": 0,
+  "_key": "!items!DLIZphjd1unBkj1a"
+}
