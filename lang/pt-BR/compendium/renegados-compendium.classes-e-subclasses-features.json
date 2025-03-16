@@ -47,9 +47,9 @@
     "Compartilhados": "Compartilhados",
     "Great Old One": "Grande Antigo",
     "Light": "Fino",
-    "Lore": "Lore",
+    "Lore": "História",
     "Barbarian": "Bárbaro",
-    "Swords": "Swords",
+    "Swords": "Espadas",
     "Soulknife": "Soulknife",
     "Divine Soul": "Alma Divina",
     "Twilight": "Crepúsculo",
@@ -80,7 +80,7 @@
     "Storm": "Tempestade",
     "Death": "Morte",
     "Alchemist": "Alquimista",
-    "Creation": "Creation",
+    "Creation": "Criação",
     "Battlerager": "Battlerager",
     "Ancestral Guardian": "Guardião Ancestral",
     "Undying": "Imortal",
@@ -93,9 +93,9 @@
     "Fiend": "Fiend",
     "Shadow": "Sombra",
     "Arcana": "Arcano",
-    "Eloquence": "Eloquence",
+    "Eloquence": "Eloquência",
     "Trickery": "Frickery",
-    "Whispers": "Whispers",
+    "Whispers": "Sussurros",
     "Arcane Trickster": "Arcane Trickster",
     "Beast": "Fera",
     "Cleric": "Clérigo",
@@ -125,8 +125,8 @@
       "description": "<div data-roll-name-ancestor=\"Acolyte of Nature\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p61\">Acolyte of Nature</span></h3><p>No 1º nível, você aprende um truque de druida de sua escolha. Este truque não conta contra o número de truques de clérigo que você conhece. Você também ganha proficiência em uma das seguintes habilidades de sua escolha: <span class=\"reference-link\"><a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.xb3MCjUvopOU4viE\" data-id=\"xb3MCjUvopOU4viE\" data-type=\"JournalEntryPage\" data-pack=\"dnd5e.rules\" data-tooltip=\"Rule Page\">Dominação de Animais</a></span>, <span class=\"reference-link\"><a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.ueMx3uF2PQlcye31\" data-id=\"ueMx3uF2PQlcye31\" data-type=\"JournalEntryPage\" data-pack=\"dnd5e.rules\" data-tooltip=\"Rule Page\">Natureza</a></span>, ou <span class=\"reference-link\"><a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.t3EzDU5b9BVAIEVi\" data-id=\"t3EzDU5b9BVAIEVi\" data-type=\"JournalEntryPage\" data-pack=\"dnd5e.rules\" data-tooltip=\"Rule Page\">Sobrevivência</a></span>.</p></div>"
     },
     "Additional Magical Secrets": {
-      "name": "Additional Magical Secrets",
-      "description": "<div class=\"rd__b  rd__b--3\"><p>At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.</p></div>"
+      "name": "Segredos Mágicos Adicionais",
+      "description": "<div class=\"rd__b  rd__b--3\"><p>No 6º nível, você aprende duas magias de sua escolha de qualquer classe. Uma magia que você escolher deve ser de um nível que você pode conjurar, como mostrado na tabela Bard, ou um cantrip. As magias escolhidas contam como magias de bardo para você, mas não contam contra o número de magias de bardo que você conhece.</p></div>"
     },
     "Agonizing Blast": {
       "name": "Explosão Agonizante",
@@ -138,7 +138,7 @@
       }
     },
     "Alchemical Savant": {
-      "name": "Alchemical Savant",
+      "name": "Sábio Alquímico",
       "description": "<div class=\"rd__b  rd__b--1\"><p>No 5º nível, você desenvolve um comando magistral de produtos químicos mágicos, aumentando a cura e o dano que você cria através deles. Sempre que você conjura uma magia usando seu @item[suprimentos do alquimista|PHB] como foco de conjuração, você ganha um bônus para uma rolagem da magia. Essa rolagem deve restaurar pontos de vida ou ser uma rolagem de dano que cause dano ácido, de fogo, necrótico ou venenoso, e o bônus é igual ao seu modificador de Inteligência (mínimo de +1).</p></div>"
     },
     "Alter Memories": {
@@ -154,12 +154,12 @@
       "description": "<div class=\"rd__b  rd__b--1\"><p>A partir do 1º nível, você aprende o truque @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2], que conta como um truque de feiticeiro para você. Você também tem vantagem em testes de salvaguarda contra qualquer doença.</p><p>Além disso, os mortos-vivos têm dificuldade em causar danos a você. Se um morto-vivo o alvejar diretamente com um ataque ou uma magia nociva, essa criatura deve fazer um teste de salvaguarda de Sabedoria contra sua CD de salvaguarda de magia (um morto-vivo não precisa fazer a salvaguarda quando o inclui em um efeito de área, como a explosão de @UUID[Compendium.renegados-compendium.magias.Item.uGu9D0QJtYH33DrE]). Em uma falha na salvaguarda, a criatura deve escolher um novo alvo ou deixar de alvejar alguém em seu lugar, potencialmente desperdiçando o ataque ou a magia. Em uma salvaguarda bem-sucedida, a criatura é imune a esse efeito por 24 horas. Um morto-vivo também é imune a esse efeito por 24 horas se você o alvejar com um ataque ou uma magia nociva.</p></div>"
     },
     "Ancestral Protectors": {
-      "name": "Ancestral Protectors",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.</p></div>"
+      "name": "Protetores Ancestrais",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Começando quando você escolhe esse caminho no 3º nível, guerreiros espectrais aparecem quando você entra em fúria. Enquanto você está em fúria, a primeira criatura que você atingir com um ataque no seu turno se torna o alvo dos guerreiros, o que dificulta seus ataques. Até o início do seu próximo turno, esse alvo tem desvantagem em qualquer jogada de ataque que não seja contra você, e quando o alvo atinge uma criatura diferente de você com um ataque, essa criatura tem resistência ao dano causado pelo ataque. O efeito no alvo termina mais cedo se sua fúria terminar.</p></div>"
     },
     "Animating Performance": {
-      "name": "Animating Performance",
-      "description": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level College of Creation feature</i></p><p>As an action, you can animate one Large or smaller nonmagical item within 30 feet of you that isn't being worn or carried. The animate item uses the @creature[Dancing Item|TCE] stat block, which uses your proficiency bonus (PB). The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.</p><p>In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the @action[Dodge] action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are &amp;Reference[condition=incapacitated], the item can take any action of its choice, not just @action[Dodge].</p><p>When you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.</p><p>Once you animate an item with this feature, you can't do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a @creature[dancing item|TCE] from this feature, the first one immediately becomes inanimate.</p></div>"
+      "name": "Desempenho Animante",
+      "description": "<div class=\"rd__b  rd__b--1\"><p><i>Característica de 6º nível do Colégio da Criação</i></p><p>Como uma ação, você pode animar um item não mágico Grande ou menor a até 9 metros de você que não esteja sendo usado ou carregado. O item animado usa o bloco de estatísticas @creature[Dancing Item|TCE], que usa seu bônus de proficiência (BP). O item é amigável a você e seus companheiros e obedece seus comandos. Ele vive por 1 hora, até ser reduzido a 0 pontos de vida, ou até você morrer.</p><p>Em combate, o item compartilha sua contagem de iniciativa, mas ele faz seu turno imediatamente após o seu. Ele pode se mover e usar sua reação por conta própria, mas a única ação que ele faz em seu turno é a ação @action[Dodge], a menos que você faça uma ação bônus em seu turno para comandá-lo a fazer outra ação. Essa ação pode ser uma em seu bloco de estatísticas ou alguma outra ação. Se você estiver &amp;Reference[condition=incapacitated], o item pode realizar qualquer ação de sua escolha, não apenas @action[Dodge].</p><p>Quando você usa sua habilidade Inspiração Bárdica, você pode comandar o item como parte da mesma ação bônus que você usa para Inspiração Bárdica.</p><p>Depois de animar um item com essa habilidade, você não pode fazer isso novamente até terminar um descanso longo, a menos que você gaste um espaço de magia de 3º nível ou superior para usar essa habilidade novamente. Você pode ter apenas um item animado por essa habilidade por vez; se você usar essa ação e já tiver um @creature[dancing item|TCE] dessa habilidade, o primeiro imediatamente se torna inanimado.</p></div>"
     },
     "Arcana Domain": {
       "name": "Domínio Arcana",
@@ -246,10 +246,10 @@
     },
     "Arquearia": {
       "name": "Arquearia",
-      "description": "<p>Você ganha um bônus de +2 nas jogadas de ataque feitas com armas de combate à distância.</p>",
+      "description": "<p>Você ganha um bônus de +2 nas jogadas de ataque feitas com armas de combate à distância.</p>",
       "effects": {
         "Fighting Style: Archery": {
-          "name": "Fighting Style: Archery"
+          "name": "Estilo de Luta: Arquearia"
         }
       }
     },
@@ -297,7 +297,7 @@
     },
     "Ataque Extra": {
       "name": "Ataque Extra",
-      "description": "<p>Você pode atacar duas vezes, em vez de uma, sempre que realizar a ação Atacar em seu turno.</p>"
+      "description": "<p>Você pode atacar duas vezes, em vez de uma, sempre que realizar a ação Atacar em seu turno.</p>"
     },
     "Avatar of Battle": {
       "name": "Avatar da Batalha",
@@ -312,24 +312,24 @@
       "description": "<div class=\"rd__b  rd__b--1\"><p><i>Característica de Ordem de Escribas de 2º nível</i></p><p>Usando tintas especialmente preparadas e antigas invocações transmitidas por sua ordem de magos, você despertou uma consciência arcana em seu grimório.</p><p>Enquanto você estiver segurando o livro, ele lhe concede os seguintes benefícios:</p><ul class=\"rd__list\"><li class=\"rd__li \">Você pode usar o livro como foco de conjurar magias para suas magias de mago.</li><li class=\"rd__li \">Quando você conjurar uma magia de mago com um espaço de magia, você pode substituir temporariamente seu tipo de dano por um tipo que aparece em outra magia em seu grimório, o que altera magicamente a fórmula da magia apenas para essa conjuração. A última magia deve ser do mesmo nível do espaço de magia que você gasta.</li><li class=\"rd__li \">Quando você conjurar uma magia de mago como um ritual, você pode usar o tempo normal de conjuração da magia, em vez de adicionar 10 minutos a ele. Depois que você usar esse benefício, você não poderá fazê-lo novamente até terminar um descanso longo.</li></ul><p>Se necessário, você pode substituir o livro ao longo de um descanso curto usando sua Pena de Mago para escrever sinais arcanos em um livro em branco ou um grimório mágico ao qual você está sintonizado. No final do descanso, a consciência do seu grimório é convocada para o novo livro, que a consciência transforma em seu grimório, juntamente com todas as suas magias. Se o livro anterior ainda existisse em algum lugar, todas as magias desapareceriam de suas páginas.</p></div>"
     },
     "Bard College": {
-      "name": "Bard College",
-      "description": "<div class=\"rd__b  rd__b--3\"><p>At 3rd level, you delve into the advanced techniques of a bard college of your choice from the list of available colleges. Your choice grants you features at 3rd level and again at 6th and 14th level.</p></div>"
+      "name": "Colégio de Bardo",
+      "description": "<div class=\"rd__b  rd__b--3\"><p>No 3º nível, você se aprofunda nas técnicas avançadas de um colégio de bardo de sua escolha na lista de colégios disponíveis. Sua escolha lhe concede recursos no 3º nível e novamente no 6º e 14º níveis.</p></div>"
     },
     "Bardic Inspiration": {
-      "name": "Bardic Inspiration",
-      "description": "<div class=\"rd__b  rd__b--3\"><p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a [[/r d6]].</p><p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the [[/r d20]] before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a [[/r d8]] at 5th level, a [[/r d10]] at 10th level, and a [[/r d12]] at 15th level.</p></div>"
+      "name": "Inspiração Bárdica",
+      "description": "<div class=\"rd__b  rd__b--3\"><p>Você pode inspirar outros por meio de palavras ou música comoventes. Para fazer isso, você usa uma ação bônus no seu turno para escolher uma criatura diferente de você a até 18 metros de você que possa ouvi-lo. Essa criatura ganha um dado de Inspiração Bárdica, um [[/r d6]].</p><p>Uma vez dentro dos próximos 10 minutos, a criatura pode rolar o dado e adicionar o número rolado a um teste de habilidade, jogada de ataque ou teste de resistência que fizer. A criatura pode esperar até depois de rolar o [[/r d20]] antes de decidir usar o dado de Inspiração Bárdica, mas deve decidir antes que o Mestre diga se o teste foi bem-sucedido ou falhou. Uma vez que o dado de Inspiração Bárdica é rolado, ele é perdido. Uma criatura pode ter apenas um dado de Inspiração Bárdica por vez.</p><p>Você pode usar esta característica um número de vezes igual ao seu modificador de Carisma (no mínimo uma vez). Você recupera quaisquer usos gastos quando termina um descanso longo.</p><p>Seu dado de Inspiração Bárdica muda quando você alcança certos níveis nesta classe. O dado se torna um [[/r d8]] no 5º nível, um [[/r d10]] no 10º nível e um [[/r d12]] no 15º nível.</p></div>"
     },
     "Bardic Versatility": {
-      "name": "Bardic Versatility",
-      "description": "<div class=\"rd__b  rd__b--1\"><p><i>4th-level bard @variantrule[optional class features|tce|optional feature]</i></p><p>Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:</p><ul class=\"rd__list\"><li class=\"rd__li \">Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.</li><li class=\"rd__li \">Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:bard=1\">bard spell list</a>.</li></ul></div>"
+      "name": "Versatilidade Bárdica",
+      "description": "<div class=\"rd__b  rd__b--1\"><p><i>Bardo de 4º nível @variantrule[optional class features|tce|optional feature]</i></p><p>Sempre que você atingir um nível nesta classe que conceda a característica Melhoria no Valor de Habilidade, você pode fazer uma das seguintes ações, representando uma mudança de foco conforme você usa suas habilidades e magia:</p><ul class=\"rd__list\"><li class=\"rd__li \">Substitua uma das habilidades que você escolheu para a característica Perícia por uma de suas outras proficiências de habilidade que não esteja se beneficiando da Perícia.</li><li class=\"rd__li \">Substitua um truque que você aprendeu com a característica Conjuração desta classe por outro truque da <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:bard=1\">lista de magias de bardo</a>.</li></ul></div>"
     },
     "Bastion of Law": {
       "name": "Bastião da Lei",
       "description": "<div class=\"rd__b  rd__b--1\"><p><i>Característica Alma Mecânica de 6º nível</i></p><p>Você pode acessar a grande equação da existência para imbuir uma criatura com um escudo cintilante de ordem. Como uma ação, você pode gastar 1 a 5 pontos de magia para criar uma guarda mágica ao seu redor ou ao redor de outra criatura que você possa ver a 30 pés de distância de você. A guarda dura até que você termine um descanso longo ou até que você use essa característica novamente.</p><p>A guarda é representada por um número de [[/r d8]]s igual ao número de pontos de magia gastos para criá-la. Quando a criatura protegida recebe dano, ela pode gastar um número desses dados, rolá-los e reduzir o dano recebido pelo total rolado nesses dados.</p></div>"
     },
     "Battle Magic": {
-      "name": "Battle Magic",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.</p></div>"
+      "name": "Magia de Batalha",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>No 14º nível, você domina a arte de entrelaçar conjuração e uso de armas em um único ato harmonioso. Quando você usa sua ação para conjurar uma magia de bardo, você pode fazer um ataque de arma como uma ação bônus.</p></div>"
     },
     "Battle Ready": {
       "name": "Pronto para a Batalha",
@@ -340,24 +340,24 @@
       "description": "<div class=\"rd__b  rd__b--1\"><p>Exércitos precisam de proteção, e alguém tem que colocar as coisas de volta no lugar se as defesas falharem. Uma combinação de protetor e médico, um Ferreiro de Batalha é um especialista em defender outros e reparar tanto materiais quanto pessoal. Para ajudar em seu trabalho, os Ferreiros de Batalha geralmente são acompanhados por um defensor de aço, um companheiro protetor de sua própria criação. Muitos soldados contam histórias de quase morrer antes de serem salvos por um Ferreiro de Batalha e um defensor de aço.</p><p>Os Ferreiros de Batalha desempenharam um papel fundamental no trabalho da Casa Cannith em construções de batalha e nos warforged originais, e após a Última Guerra, esses artífices lideraram os esforços para ajudar aqueles que foram feridos nas batalhas horríveis da guerra.</p><div data-roll-name-ancestor=\"Tool Proficiency\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p18\">Proficiência em Ferramentas</span></h3><p>Quando você adota essa especialização no 3º nível, você ganha proficiência com @item[ferramentas de ferreiro|PHB]. Se você já tem essa proficiência, você ganha proficiência com outro tipo de @item[ferramentas de artesão|PHB] de sua escolha.</p></div><div data-roll-name-ancestor=\"Battle Smith Spells\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p18\">Magias de Ferreiro de Batalha</span></h3><p>A partir do 3º nível, você sempre tem certas magias preparadas depois de atingir níveis específicos nesta classe, como mostrado na tabela Magias de Ferreiro de Batalha. Essas magias contam como magias de artífice para você, mas não contam para o número de magias de artífice que você prepara.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Battle Smith Spells\"><caption>Magias de Ferreiro de Batalha</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Nível de Artífice</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Magia</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3º</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.wEHJRD0sxYCGy1u0], @UUID[Compendium.renegados-compendium.magias.Item.LUKeOMicRzFXa2wr]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5º</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.smfBUUsdw1WmpOw8], @UUID[Compendium.renegados-compendium.magias.Item.OfJB1m9x0RAfZKNV]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9º</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.HL4epVq5HbK5jVH6], @UUID[Compendium.renegados-compendium.magias.Item.2siTt8rXQDURuTFy]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13º</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.yTU49D6F5TSNbbNQ], @UUID[Compendium.renegados-compendium.magias.Item.vAdS4HY2pEgSK2Qp]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17º</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.PsnmmHgGL78rcqpL], @UUID[Compendium.renegados-compendium.magias.Item.YVhoQSeBV84mkRiP]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Steel Defender\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"></h3></div></div>"
     },
     "Battlerager Armor": {
-      "name": "Battlerager Armor",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>When you choose this path at 3rd level, you gain the ability to use @item[spiked armor|scag] as a weapon.</p><p>While you are wearing @item[spiked armor|scag] and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal [[/damage 1d4 type=piercing]] damage. You use your Strength modifier for the attack and damage rolls.</p><p>Additionally, when you use the @action[Attack] action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.</p></div>"
+      "name": "Armadura do Batalhador",
+      "description": "<div class=\"rd__b rd__b--1\"><p>Quando você escolhe esse caminho no 3º nível, você ganha a habilidade de usar @item[spiked armor|scag] como uma arma.</p><p>Enquanto você estiver usando @item[spiked armor|scag] e estiver em fúria, você pode usar uma ação bônus para fazer um ataque corpo a corpo com seus espinhos de armadura em um alvo a até 1,5 m de você. Se o ataque acertar, os espinhos causam [[/damage 1d4 type=piercing]] de dano. Você usa seu modificador de Força para as jogadas de ataque e dano.</p><p>Além disso, quando você usa a ação @action[Attack] para agarrar uma criatura, o alvo sofre 3 de dano perfurante se seu teste de agarrar for bem-sucedido.</p></div>"
     },
     "Battlerager Charge": {
       "name": "Carga de Battlerager",
       "description": "<div class=\"rd__b  rd__b--1\"><p>A partir do 10º nível, você pode realizar a ação @action[Dash] como uma ação bônus enquanto estiver em fúria.</p></div>"
     },
     "Bear": {
-      "name": "Bear",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects.</p></div>"
+      "name": "Urso",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Você ganha a força de um urso. Sua capacidade de carga (incluindo carga máxima e elevação máxima) é dobrada, e você tem vantagem em testes de Força feitos para empurrar, puxar, levantar ou quebrar objetos.</p></div>"
     },
     "Q8ijr4OOmaoTDj0W": {
-      "name": "Bear",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be &amp;Reference[condition=frightened].</p></div>"
+      "name": "Urso",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Enquanto você estiver em fúria, qualquer criatura a até 1,5 m de você que seja hostil a você tem desvantagem em jogadas de ataque contra alvos que não sejam você ou outro personagem com esta característica. Um inimigo é imune a este efeito se não puder ver ou ouvir você ou se não puder ser &amp;Reference[condition=frightened].</p></div>"
     },
     "Tyc5aLoAF7E4s7Ui": {
-      "name": "Bear",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.</p></div>"
+      "name": "Urso",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Enquanto estiver em fúria, você tem resistência a todos os danos, exceto danos psíquicos. O espírito do urso o torna forte o suficiente para suportar qualquer punição.</p></div>"
     },
     "Beast Speech": {
       "name": "Discurso Besta",
@@ -398,8 +398,8 @@
       "description": "<div><div>\n\t\t\t\t\t\t<p>Pré-requisito: 7º nível</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Você pode conjurar @UUID[Compendium.renegados-compendium.magias.Item.lzRsEE9PbJNKZnRA] uma vez usando um espaço de magia de bruxo. Você não pode fazer isso novamente até terminar um descanso longo.</p></div>\n\t\t\t\t\t</div></div>"
     },
     "Blade Flourish": {
-      "name": "Blade Flourish",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>At 3rd level, you learn to perform impressive displays of martial prowess and speed.</p><p>Whenever you take the @action[Attack] action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Defensive Flourish\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p15\">Defensive Flourish</span></h3> <p>You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.</p></div><div data-roll-name-ancestor=\"Mobile Flourish\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p15\">Mobile Flourish</span></h3> <p>You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.</p></div><div data-roll-name-ancestor=\"Slashing Flourish\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p15\">Slashing Flourish</span></h3> <p>You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.</p></div></div></div>"
+      "name": "Floreio de Lâmina",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>No 3º nível, você aprende a executar demonstrações impressionantes de destreza marcial e velocidade.</p><p>Sempre que você realiza a ação @action[Attack] no seu turno, sua velocidade de caminhada aumenta em 3 metros até o final do turno, e se um ataque de arma que você fizer como parte desta ação atingir uma criatura, você pode usar uma das seguintes opções de Floreio de Lâmina de sua escolha. Você pode usar apenas uma opção de Floreio de Lâmina por turno.</p><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Defensive Flourish\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p15\">Floreio Defensivo</span></h3> <p>Você pode gastar um uso de sua Bardic Inspiration para fazer com que a arma cause dano extra ao alvo que você atingiu. O dano é igual ao número que você rola no dado Bardic Inspiration. Você também adiciona o número rolado à sua CA até o início do seu próximo turno..</p></div><div data-roll-name-ancestor=\"Mobile Flourish\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p15\">Floreio Ágil</span></h3> <p>Você pode gastar um uso de sua Inspiração Bárdica para fazer com que a arma cause dano extra ao alvo que você atingiu. O dano é igual ao número que você rola no dado de Inspiração Bárdica. Você também pode empurrar o alvo até 1,5m de distância de você, mais um número de pés igual ao número que você rola naquele dado. Você pode então usar imediatamente sua reação para se mover até sua velocidade de caminhada para um espaço desocupado a 5 pés do alvo.</p></div><div data-roll-name-ancestor=\"Slashing Flourish\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p15\">Floreio Cortante</span></h3> <p>Você pode gastar um uso de sua Inspiração Bárdica para fazer com que a arma cause dano extra ao alvo que você atingir e a qualquer outra criatura de sua escolha que você possa ver a até 1,5 m de você. O dano é igual ao número que você rolar no dado de Inspiração Bárdica.</p></div></div></div>"
     },
     "Bladesinger Styles (Bird)": {
       "name": "Bladesinger Styles (Bird)",
@@ -455,8 +455,8 @@
       "description": "<div class=\"rd__b  rd__b--1\"><p><i>Clérigo de 8º nível @variantrule[características de classe opcionais|tce|característica opcional], que substitui a característica Conjuração de magia potente</i></p><p>Você é abençoado com poder divino em batalha. Quando uma criatura sofre dano de um de seus truques ou ataques de arma, você também pode causar [[/damage 1d8 type=radiant]] de dano àquela criatura. Depois de causar esse dano, você não pode usar essa característica novamente até o início do seu próximo turno.</p></div>"
     },
     "Blessed Warrior": {
-      "name": "Blessed Warrior",
-      "description": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn two cantrips of your choice from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:cleric=1\">cleric spell list</a>. They count as paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the cleric spell list.</p></div>\n\t\t\t\t\t</div></div>"
+      "name": "Guerreiro Abençoado",
+      "description": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Você aprende dois truques de sua escolha da <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:cleric=1\">lista de magias de clérigo</a>. Elas contam como magias de paladino para você, e Carisma é sua habilidade de conjuração para elas. Sempre que você ganha um nível nesta classe, você pode substituir um desses truques por outro truque da lista de magias de clérigo.</p></div>\n\t\t\t\t\t</div></div>"
     },
     "Blessing of the Forge": {
       "name": "Bênção da Forja",
@@ -467,11 +467,11 @@
       "description": "<div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Blessing of the Trickster\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p62\">Blessing of the Trickster</span></h3><p>Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity (&amp;Reference[skill=Stealth]) checks. This blessing lasts for 1 hour or until you use this feature again.</p></div></div>"
     },
     "Blind Fighting": {
-      "name": "Blind Fighting",
-      "description": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You have &amp;Reference[rule=blindsight] with a range of 10 feet. Within that range, you can effectively see anything that isn't behind &amp;Reference[rule=totalcover]{total cover}, even if you're &amp;Reference[condition=blinded] or in darkness. Moreover, you can see an &amp;Reference[condition=invisible] creature within that range, unless the creature successfully hides from you.</p></div>\n\t\t\t\t\t</div></div>",
+      "name": "Combate Cego",
+      "description": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Você tem &amp;Reference[rule=blindsight] com um alcance de 3 metros. Dentro desse alcance, você pode efetivamente ver qualquer coisa que não esteja atrás de &amp;Reference[rule=totalcover]{total cover}, mesmo se você estiver &amp;Reference[condition=blinded] ou na escuridão. Além disso, você pode ver uma &amp;Reference[condition=invisible] criatura dentro desse alcance, a menos que a criatura se esconda de você com sucesso.</p></div>\n\t\t\t\t\t</div></div>",
       "effects": {
         "Blind Fighting": {
-          "name": "Blind Fighting"
+          "name": "Combate Cego"
         }
       }
     },
@@ -493,18 +493,18 @@
     },
     "Bonus Proficiencies": {
       "name": "Proficiências de Bônus",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the @item[scimitar|phb].</p><p>If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.</p></div>"
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Quando você se junta ao Colégio das Espadas no 3º nível, você ganha proficiência com armadura média e o @item[scimitar|phb].</p><p>Se você é proficiente com uma arma corpo a corpo simples ou marcial, você pode usá-la como foco de conjuração para suas magias de bardo.</p></div>"
     },
     "IavogNl7oWdOKeS5": {
-      "name": "Bonus Proficiencies",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>When you choose this archetype at 3rd level, you gain proficiency with the @item[disguise kit|phb] and the @item[poisoner's kit|phb].</p></div>"
+      "name": "Proficiências Adicionais",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Quando você escolhe este arquétipo no 3º nível, você ganha proficiência com o @item[disguise kit|phb] e o @item[poisoner's kit|phb].</p></div>"
     },
     "QeFCjwAGlkhqCjl7": {
-      "name": "Bonus Proficiencies",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.</p></div>"
+      "name": "Proficiências Adicionais",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Quando você se junta ao Colégio do Valor no 3º nível, você ganha proficiência com armaduras médias, escudos e armas marciais.</p></div>"
     },
     "euVEKzknQlrIsf1q": {
-      "name": "Bonus Proficiencies",
+      "name": "Proficiências Adicionais",
       "description": "<div class=\"rd__b  rd__b--3\"><p>When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.</p></div>"
     },
     "Book of Ancient Secrets": {
@@ -836,7 +836,7 @@
       "description": "<p>Enquanto estiver usando armadura, você ganha um bônus de +1 na CA.</p>",
       "effects": {
         "Fighting Style: Defense": {
-          "name": "Fighting Style: Defense"
+          "name": "Estilo de Luta: Defesa"
         }
       }
     },
@@ -845,28 +845,28 @@
       "description": "<div class=\"rd__b  rd__b--1\"><p>At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take force damage equal to half your wizard level.</p></div>"
     },
     "Deft Explorer": {
-      "name": "Deft Explorer",
-      "description": "<div class=\"rd__b  rd__b--1\"><p><i>1st-level ranger @variantrule[optional class features|tce|optional feature], which replaces the Natural Explorer feature</i></p><p>You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.</p><div data-roll-name-ancestor=\"Canny\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Canny</span></h3> <p>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.</p><p>You can also speak, read, and write two additional languages of your choice.</p></div></div>"
+      "name": "Explorador Hábil",
+      "description": "<div class=\"rd__b  rd__b--1\"><p><i>Patrulheiro de 1º nível @variantrule[optional class features|tce|optional feature], que substitui a característica Explorador Natural</i></p><p>Você é um explorador e sobrevivente insuperável, tanto na natureza selvagem quanto ao lidar com outros em suas viagens. Você ganha o benefício Astuto abaixo, e ganha um benefício adicional abaixo quando alcança o 6º nível e o 10º nível nesta classe.</p><div data-roll-name-ancestor=\"Canny\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Astuto</span></h3> <p>Escolha uma de suas proficiências de perícia. Seu bônus de proficiência é dobrado para qualquer teste de habilidade que você fizer que use a perícia escolhida.</p><p>Você também pode falar, ler e escrever dois idiomas adicionais de sua escolha.</p></div></div>"
     },
     "Defy Death": {
       "name": "Desafie a Morte",
       "description": "<div class=\"rd__b  rd__b--1\"><p>Começando no 6º nível, você pode se dar vitalidade quando você burla a morte ou quando você ajuda outra pessoa a burlá-la. Você pode recuperar pontos de vida iguais a [[/r 1d8]] + seu modificador de Constituição (mínimo de 1 ponto de vida) quando você tem sucesso em um teste de salvaguarda da morte ou quando você estabiliza uma criatura com @UUID[Compendium.renegados-compendium.magias.Item.3li0IRTgnmCQexK2].</p><p>Depois de usar essa característica, você não pode usá-la novamente até terminar um descanso longo.</p></div>"
     },
     "Desert (Raging Storm)": {
-      "name": "Desert (Raging Storm)",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your barbarian level.</p></div>"
+      "name": "Deserto (Tempestade Furiosa)",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Imediatamente após uma criatura em sua aura atingir você com um ataque, você pode usar sua reação para forçar essa criatura a fazer um teste de salvaguarda de Destreza. Em um teste falho, a criatura recebe dano de fogo igual à metade do seu nível de bárbaro.</p></div>"
     },
     "Desert (Storm Aura)": {
-      "name": "Desert (Storm Aura)",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>When this effect is activated, all other creatures in your aura take 2 fire damage each. The damage increases when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level.</p></div>"
+      "name": "Deserto (Aura de Tempestade)",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Quando este efeito é ativado, todas as outras criaturas em sua aura recebem 2 de dano de fogo cada. O dano aumenta quando você alcança certos níveis nesta classe, aumentando para 3 no 5º nível, 4 no 10º nível, 5 no 15º nível e 6 no 20º nível.</p></div>"
     },
     "Desert (Storm Soul)": {
-      "name": "Desert (Storm Soul)",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>You gain resistance to fire damage, and you don't suffer the effects of extreme heat, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.</p></div>"
+      "name": "Deserto (Alma da Tempestade)",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Você ganha resistência a dano de fogo e não sofre os efeitos do calor extremo, como descrito no Livro do Mestre. Além disso, como uma ação, você pode tocar um objeto inflamável que não esteja sendo usado ou carregado por ninguém e incendiá-lo.</p></div>"
     },
     "Destroy Undead": {
-      "name": "Destroy Undead",
-      "description": "<p>Starting at 5th level, when an undead fails its saving throw against your @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.5A5j1GSjBfYzni7U]{Turn Undead} feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the table below.</p><table border=\"1\"><tbody><tr><td><p><strong>Cleric Level</strong></p></td><td><p><strong>Destroys Undead of CR...</strong></p></td></tr><tr><td><p>5th</p></td><td><p>1/2 or lower</p></td></tr><tr><td><p>8th</p></td><td><p>1 or lower</p></td></tr><tr><td><p>11th</p></td><td><p>2 or lower</p></td></tr><tr><td><p>14th</p></td><td><p>3 or lower</p></td></tr><tr><td><p>17th</p></td><td><p>4 or lower</p></td></tr></tbody></table>"
+      "name": "Destruir Mortos Vivos",
+      "description": "<p>A partir do 5º nível, quando um morto-vivo falha em seu teste de resistência contra sua habilidade @UUID[Compendium.renegados-compendium.classes-e-subclasses-features.Item.5A5j1GSjBfYzni7U]{Turn Undead}, a criatura é destruída instantaneamente se seu nível de desafio estiver em ou abaixo de um certo limite, como mostrado na tabela abaixo.</p><table border=\"1\"><tbody><tr><td><p><strong>Nível de Clérigo</strong></p></td><td><p><strong>Destrói mortos-vivos de CD...</strong></p></td></tr><tr><td><p>5ª</p></td><td><p>1/2 ou menor</p></td></tr><tr><td><p>8º</p></td><td><p>1 ou menor</p></td></tr><tr><td><p>11º</p></td><td><p>2 ou menor</p></td></tr><tr><td><p>14º</p></td><td><p>3 ou menor</p></td></tr><tr><td><p>17º</p></td><td><p>4 ou menor</p></td></tr></tbody></table>"
     },
     "Devil's Sight": {
       "name": "Mira Diabo",
@@ -885,38 +885,38 @@
       "description": "<div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Disciple of Life\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p60\">Discípulo da Vida</span></h3><p>Também começando no primeiro nível, seus feitiços de cura são mais eficazes. Sempre que você usar um feitiço de primeiro nível ou superior para restaurar pontos de acerto para uma criatura, a criatura recupera pontos de vida adicionais iguais a 2 + nível do feitiço.</p></div></div>"
     },
     "Distant Spell": {
-      "name": "Distant Spell",
-      "description": "<p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.</p><p>When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet.</p>"
+      "name": "Magia Distante",
+      "description": "<p> Quando você conjura uma magia que tem um alcance de 1,5 metros ou mais, você pode gastar 1 ponto de feitiçaria para dobrar o alcance da magia.</p><p> Quando você conjura uma magia que tem um alcance de toque, você pode gastar 1 ponto de feitiçaria para fazer o alcance da magia 9 metros.</p>"
     },
     "Divination Savant": {
       "name": "Sábio da Divinação",
       "description": "<div class=\"rd__b  rd__b--1\"><p>Começando quando você escolhe essa escola no 2º nível, o ouro e o tempo que você precisa gastar para copiar uma magia da escola de adivinhação em seu grimório é reduzido à metade.</p></div>"
     },
     "Divine Domain": {
-      "name": "Divine Domain",
-      "description": "<div class=\"rd__b  rd__b--3\"><p>Choose one domain related to your deity from the list of available domains. Each domain is detailed in their own feature, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.</p><div data-roll-name-ancestor=\"Domain Spells\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Domain Spells.</span></span> Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</p><p>If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.</p></div></div>"
+      "name": "Domínio Divino",
+      "description": "<div class=\"rd__b  rd__b--3\"><p>Escolha um domínio relacionado à sua divindade na lista de domínios disponíveis. Cada domínio é detalhado em sua própria característica, e cada um fornece exemplos de deuses associados a ele. Sua escolha lhe concede magias de domínio e outras características quando você a escolhe no 1º nível. Ela também lhe concede maneiras adicionais de usar Canalizar Divindade quando você ganha essa característica no 2º nível, e benefícios adicionais nos 6º, 8º e 17º níveis.</p><div data-roll-name-ancestor=\"Domain Spells\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Magias de Domínio.</span></span> Cada domínio tem uma lista de magias — suas magias de domínio — que você ganha nos níveis de clérigo indicados na descrição do domínio. Depois de ganhar uma magia de domínio, você sempre a tem preparada, e ela não conta no número de magias que você pode preparar a cada dia.</p><p>Se você tem uma magia de domínio que não aparece na lista de magias de clérigo, a magia ainda é uma magia de clérigo para você.</p></div></div>"
     },
     "Divine Fury": {
-      "name": "Divine Fury",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to [[/damage 1d6]] + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature.</p></div>",
+      "name": "Fúria Divina",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Começando quando você escolhe esse caminho no 3º nível, você pode canalizar fúria divina em seus ataques de arma. Enquanto você está em fúria, a primeira criatura que você atingir em cada um dos seus turnos com um ataque de arma sofre dano extra igual a [[/damage 1d6]] + metade do seu nível de bárbaro. O dano extra é necrótico ou radiante; você escolhe o tipo de dano quando ganha essa característica.</p></div>",
       "activities": {
         "utility": {
-          "condition": "While you're raging, the first creature you hit on each of your turns with a weapon attack"
+          "condition": "Enquanto você estiver em fúria, a primeira criatura que você atingir em cada um dos seus turnos com um ataque de arma"
         }
       }
     },
     "Divine Intervention": {
-      "name": "Divine Intervention",
-      "description": "<div class=\"rd__b  rd__b--3\"><p>Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.</p><p>Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.</p><p>At 20th level, your call for intervention succeeds automatically, no roll required.</p></div>",
+      "name": "Intervenção Divina",
+      "description": "<div class=\"rd__b  rd__b--3\"><p>Começando no 10º nível, você pode invocar sua divindade para intervir em seu favor quando sua necessidade for grande.</p><p>Implorar a ajuda de sua divindade requer que você use sua ação. Descreva a assistência que você busca e role dados percentuais. Se você rolar um número igual ou menor que seu nível de clérigo, sua divindade intervém. O Mestre escolhe a natureza da intervenção; o efeito de qualquer magia de clérigo ou magia de domínio de clérigo seria apropriado. Se sua divindade intervir, você não pode usar esse recurso novamente por 7 dias. Caso contrário, você pode usá-lo novamente após terminar um descanso longo.</p><p>No 20º nível, seu chamado para intervenção é bem-sucedido automaticamente, sem necessidade de rolagem.</p></div>",
       "activities": {
         "utility": {
-          "condition": "Your need must be great..."
+          "condition": "Sua necessidade deve ser grande..."
         }
       }
     },
     "Divine Intervention Improvement": {
-      "name": "Divine Intervention Improvement",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>At 20th level, your call for intervention succeeds automatically, no roll required.</p></div>"
+      "name": "Melhoria de Intervenção Divina",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>No 20º nível, seu chamado para intervenção é bem-sucedido automaticamente, sem necessidade de rolagem.</p></div>"
     },
     "Divine Magic": {
       "name": "Magia Divina",
@@ -997,15 +997,15 @@
       "description": "<div><div>\n\t\t\t\t\t\t<p>Pré-requisito: 7º nível</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Você pode conjurar @UUID[Compendium.renegados-compendium.magias.Item.lRscppT0uf47ONzO] uma vez usando um espaço de magia de bruxo. Você não pode fazer isso novamente até terminar um descanso longo.</p></div>\n\t\t\t\t\t</div></div>"
     },
     "Druidic Warrior": {
-      "name": "Druidic Warrior",
-      "description": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You learn two cantrips of your choice from the <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:druid=1\">druid spell list</a>. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.</p></div>\n\t\t\t\t\t</div></div>"
+      "name": "Guerreiro Druídico",
+      "description": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Você aprende dois truques de sua escolha da <a href=\"https://2014.5e.tools/spells.html#blankhash,flstlevel:0=1,flstclass:druid=1\">lista de magias de druida</a>. Elas contam como magias de ranger para você, e Sabedoria é sua habilidade de conjuração para elas. Sempre que você ganha um nível nesta classe, você pode substituir um desses truques por outro truque da lista de magias de druida.</p></div>\n\t\t\t\t\t</div></div>"
     },
     "Duelo": {
       "name": "Duelo",
-      "description": "<p>Quando você empunha uma arma corpo a corpo em uma mão e nenhuma outra arma, você ganha +2 de bônus aos dados de dano com aquela arma.</p>",
+      "description": "<p>Quando você empunha uma arma corpo a corpo em uma mão e nenhuma outra arma, você ganha +2 de bônus aos dados de dano com aquela arma.</p>",
       "effects": {
         "Fighting Style: Dueling": {
-          "name": "Fighting Style: Dueling"
+          "name": "Estilo de Luta: Duelo"
         }
       }
     },
@@ -1018,16 +1018,16 @@
       "description": "<div class=\"rd__b  rd__b--1\"><p>Começando no décimo quarto nível, qualquer criatura que você invocar ou criar com um feitiço de conjuração tem 30 pontos de acerto temporário.</p></div>"
     },
     "Eagle": {
-      "name": "Eagle",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</p></div>"
+      "name": "Águia",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Enquanto estiver em fúria, você tem uma velocidade de voo igual à sua velocidade de caminhada atual. Esse benefício funciona apenas em rajadas curtas; você cai se terminar seu turno no ar e nada mais estiver segurando você no ar.</p></div>"
     },
     "SfQyBcs5Y36oWXiB": {
-      "name": "Eagle",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (&amp;Reference[skill=Perception]) checks.</p></div>"
+      "name": "Águia",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Você ganha a visão de uma águia. Você pode ver até 1 milha de distância sem dificuldade, capaz de discernir até mesmo detalhes finos como se estivesse olhando para algo a não mais de 30 metros de distância de você. Além disso, a luz fraca não impõe desvantagem em seus testes de Sabedoria (&amp;Reference[skill=Perception]).</p></div>"
     },
     "uLLYlZALBnvp9Pc3": {
-      "name": "Eagle",
-      "description": "<div class=\"rd__b  rd__b--1\"><p>While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the @action[Dash] action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.</p></div>"
+      "name": "Águia",
+      "description": "<div class=\"rd__b  rd__b--1\"><p>Enquanto você estiver em fúria e não estiver usando armadura pesada, outras criaturas terão desvantagem em jogadas de ataque de oportunidade contra você, e você pode usar a ação @action[Dash] como uma ação bônus no seu turno. O espírito da águia faz de você um predador que pode atravessar a briga com facilidade.</p></div>"
     },
     "Ear for Deceit": {
       "name": "Orelha por Enganação",
@@ -1035,7 +1035,7 @@
     },
     "Eldritch Cannon": {
       "name": "Canhão Místico",
-      "description": "<h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p17\">Eldritch Cannon</span></h3><p>At 3rd level, you learn how to create a magical cannon. Using <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"items.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"woodcarver's%20tools_phb\" data-plut-hover-tag=\"item\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"item[woodcarver's tools|PHB]\">woodcarver's tools</a> or <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"items.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"smith's%20tools_phb\" data-plut-hover-tag=\"item\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"item[smith's tools|PHB]\">smith's tools</a>, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.</p><p>Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.</p><p>The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"spells.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"mending_phb\" data-plut-hover-tag=\"spell\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"true\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"spell[mending]\">mending</a> spell is cast on it, it regains <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor data-formula=\"2d6\" data-tooltip=\"2d6\">2d6</a> hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.</p><p>When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.</p><table class=\"w-100 rd__table stripe-odd-table\" data-roll-name-ancestor=\"Eldritch Cannons\"><caption>Eldritch Cannons</caption><thead><tr><th class=\"rd__th ve-col-2\" data-rd-isroller=\"false\">Cannon</th><th class=\"rd__th ve-col-10\" data-rd-isroller=\"false\">Activation</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2\"><a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"objects.html\" data-plut-hover-source=\"TCE\" data-plut-hover-hash=\"eldritch%20cannon%2c%20flamethrower_tce\" data-plut-hover-tag=\"object\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Actor\" data-plut-rich-link-original-text=\"object[Eldritch Cannon, Flamethrower|TCE|Flamethrower]\">Flamethrower</a></td><td class=\"rd__th ve-col-10\"><p>The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking</p><p><span class=\"roll-link\"><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"fire\" data-roll-type=\"damage\">2d8</a></span><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"fire\" data-roll-type=\"damage\"> fire</a> damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.</p></td></tr><tr><td class=\"rd__th ve-col-2\"><p><a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"objects.html\" data-plut-hover-source=\"TCE\" data-plut-hover-hash=\"eldritch%20cannon%2c%20force%20ballista_tce\" data-plut-hover-tag=\"object\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Actor\" data-plut-rich-link-original-text=\"object[Eldritch Cannon, Force Ballista|TCE|Force Ballista]\">Force Ballista</a></p></td><td class=\"rd__th ve-col-10\"><p>Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes</p><p><span class=\"roll-link\"><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"force\" data-roll-type=\"damage\">2d8</a></span><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"force\" data-roll-type=\"damage\"> force</a> damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.</p></td></tr><tr><td class=\"rd__th ve-col-2\"><p><a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"objects.html\" data-plut-hover-source=\"TCE\" data-plut-hover-hash=\"eldritch%20cannon%2c%20protector_tce\" data-plut-hover-tag=\"object\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Actor\" data-plut-rich-link-original-text=\"object[Eldritch Cannon, Protector|TCE|Protector]\">Protector</a></p></td><td class=\"rd__th ve-col-10\"><p>The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to</p><p><span class=\"roll-link\"><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"1d8\" data-roll-type=\"damage\">1d8</a></span> + your Intelligence modifier (minimum of +1).</p></td></tr></tbody></table>"
+      "description": "<h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p17\">Canhão Místico</span></h3><p>No 3º nível, você aprende a criar um canhão mágico. Usando <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"items.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"woodcarver's%20tools_phb\" data-plut-hover-tag=\"item\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"item[woodcarver's tools|PHB]\">ferramentas de entalhador</a> ou <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"items.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"smith's%20tools_phb\" data-plut-hover-tag=\"item\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"item[smith's tools|PHB]\">ferramentas de ferreiro</a>, você pode realizar uma ação para criar magicamente um canhão eldritch Pequeno ou Minúsculo em um espaço desocupado em uma superfície horizontal a até 1,5 m de você. Um canhão eldritch Pequeno ocupa seu espaço, e um Minúsculo pode ser segurado em uma mão.</p><p>Depois de criar um canhão, você não pode fazê-lo novamente até terminar um descanso longo ou até gastar um espaço de magia de 1º nível ou superior. Você pode ter apenas um canhão por vez e não pode criar um enquanto seu canhão estiver presente.</p><p>O canhão é um objeto mágico. Independentemente do tamanho, o canhão tem uma CA de 18 e um número de pontos de vida igual a cinco vezes seu nível de artífice. Ele é imune a dano de veneno e dano psíquico, e a todas as condições. Se for forçado a fazer um teste de habilidade ou um teste de resistência, trate todos os seus valores de habilidade como 10 (+0). Se a magia <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"spells.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"mending_phb\" data-plut-hover-tag=\"spell\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"true\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"spell[mending]\">consertar</a> for lançada sobre ele, ele recupera <a class=\"inline-roll roll\" data-mode=\"roll\" data-flavor data-formula=\"2d6\" data-tooltip=\"2d6\">2d6</a> pontos de vida. Ele desaparece se for reduzido a 0 pontos de vida ou após 1 hora. Você pode descartá-lo logo como uma ação.</p><p>Quando você cria o canhão, você determina sua aparência e se ele tem pernas. Você também decide qual tipo ele é, escolhendo entre as opções na tabela Canhões Eldritch. Em cada um dos seus turnos, você pode realizar uma ação bônus para fazer com que o canhão seja ativado se você estiver a 18 metros dele. Como parte da mesma ação bônus, você pode direcionar o canhão para andar ou subir até 4,5 metros para um espaço desocupado, desde que ele tenha pernas.</p><table class=\"w-100 rd__table stripe-odd-table\" data-roll-name-ancestor=\"Eldritch Cannons\"><caption>Canhões Místicos</caption><thead><tr><th class=\"rd__th ve-col-2\" data-rd-isroller=\"false\">Canhão</th><th class=\"rd__th ve-col-10\" data-rd-isroller=\"false\">Ativação</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2\"><a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"objects.html\" data-plut-hover-source=\"TCE\" data-plut-hover-hash=\"eldritch%20cannon%2c%20flamethrower_tce\" data-plut-hover-tag=\"object\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Actor\" data-plut-rich-link-original-text=\"object[Eldritch Cannon, Flamethrower|TCE|Flamethrower]\">Lança-chamas</a></td><td class=\"rd__th ve-col-10\"><p>O canhão exala fogo em um cone adjacente de 4,5 metros que você designar. Cada criatura naquela área deve fazer um teste de resistência de Destreza contra sua CD de salvaguarda à magia, sofrendo</p><p><span class=\"roll-link\"><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"fire\" data-roll-type=\"damage\">2d8</a></span><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"fire\" data-roll-type=\"damage\"> fogo</a> de dano em uma salvaguarda falha ou metade do dano em uma salvaguarda bem-sucedida. O fogo incendeia quaisquer objetos inflamáveis ​​na área que não estejam sendo vestidos ou carregados.</p></td></tr><tr><td class=\"rd__th ve-col-2\"><p><a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"objects.html\" data-plut-hover-source=\"TCE\" data-plut-hover-hash=\"eldritch%20cannon%2c%20force%20ballista_tce\" data-plut-hover-tag=\"object\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Actor\" data-plut-rich-link-original-text=\"object[Eldritch Cannon, Force Ballista|TCE|Force Ballista]\">Balista de Força</a></p></td><td class=\"rd__th ve-col-10\"><p>Faça um ataque mágico à distância, originado do canhão, em uma criatura ou objeto a até 36 metros dele. Em um acerto, o alvo recebe</p><p><span class=\"roll-link\"><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"force\" data-roll-type=\"damage\">2d8</a></span><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"2d8\" data-damage-types=\"force\" data-roll-type=\"damage\"> força</a> de dano e, se o alvo for uma criatura, ele é empurrado até 1,5m de distância do canhão.</p></td></tr><tr><td class=\"rd__th ve-col-2\"><p><a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"objects.html\" data-plut-hover-source=\"TCE\" data-plut-hover-hash=\"eldritch%20cannon%2c%20protector_tce\" data-plut-hover-tag=\"object\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Actor\" data-plut-rich-link-original-text=\"object[Eldritch Cannon, Protector|TCE|Protector]\">Protetor</a></p></td><td class=\"rd__th ve-col-10\"><p>O canhão emite uma explosão de energia positiva que concede a si mesmo e a cada criatura de sua escolha a até 3 metros dele um número de pontos de vida temporários igual a</p><p><span class=\"roll-link\"><a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"1d8\" data-roll-type=\"damage\">1d8</a></span> + seu modificador de Inteligência (mínimo de +1).</p></td></tr></tbody></table>"
     },
     "Eldritch Invocations": {
       "name": "Invocações de Eldritch",
