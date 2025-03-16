@@ -1615,7 +1615,7 @@
     },
     "Hempen Rope (50 ft.)": {
       "name": "Corda de cânhamo (25m)",
-      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força ND 17.</p>",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força CD 17.</p>",
       "activities": {
         "Burst": {
           "name": "Romper"
@@ -3414,7 +3414,7 @@
     },
     "Silk Rope (50 ft.)": {
       "name": "Corda de Seda (15 m)",
-      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força ND 17.</p>",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força CD 17.</p>",
       "activities": {
         "Burst": {
           "name": "Romper"
