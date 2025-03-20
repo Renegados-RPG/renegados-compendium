@@ -1,0 +1,16 @@
+{
+  "label": "Macros",
+  "mapping": {},
+  "folders": {},
+  "entries": {
+    "Enlarge/Reduce": {
+      "name": "Aumentar/Reduzir"
+    },
+    "Exportar Fichas": {
+      "name": "Exportar Fichas"
+    },
+    "Luz": {
+      "name": "Luz"
+    }
+  }
+}
