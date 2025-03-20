@@ -12,7 +12,7 @@
       "revision": 1
     },
     "description": {
-      "value": "<div class=\"rd__b  rd__b--1\"><p>At 3rd level, you gain proficiency with one type of <a href=\"https://5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a> of your choice.</p></div>",
+      "value": "<div class=\"rd__b  rd__b--1\"><p>At 3rd level, you gain proficiency with one type of <a href=\"https://2014.5e.tools/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a> of your choice.</p></div>",
       "chat": ""
     },
     "requirements": "Fighter 3 (Battle Master)",

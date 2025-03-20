@@ -1,0 +1,27 @@
+{
+  "name": "Luz",
+  "type": "script",
+  "_id": "fqFRpLZxod2jMIPR",
+  "author": "ZOCqPrVPy6aj78uU",
+  "img": "icons/sundries/lights/lantern-iron-lit-yellow.webp",
+  "scope": "global",
+  "command": "if (!token) return void ui.notifications.error(\"Selecione um Token\");\nlet dialogEditor = new Dialog({\n  title: `Luz Token`,\n  buttons: {\n    none: {\n      label: `Nenhum`,\n      callback: () => {\n        token.document.update({light:{ dim: 0, bright: 0, color: \"00000\", alpha: 1, animation:{ type: \"none\"}}});\n        dialogEditor.render(true);\n      }\n    },\n    torch: {\n      label: `Tocha`,\n      callback: () => {\n        token.document.update({light:{ dim: 12, bright : 6, color : \"#ff830f\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 5, intensity: 5}}});\n        dialogEditor.render(true);\n      }\n   },\n    lightcantrip: {\n      label: `Truque Luz`,\n      callback: () => {\n        token.document.update({light:{ dim: 12, bright : 6, color : \"#fffab8\", alpha: 0.5, angle: 360, animation:{ type: \"torch\", speed: 2, intensity: 1}}});\n        dialogEditor.render(true);\n      }\n    },    \n    close: {\n      icon: \"<i class='fas fa-tick'></i>\",\n      label: `Sair`\n    },\n  },\n  default: \"close\",\n  close: () => {}\n});\ndialogEditor.render(true)",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742422843438,
+    "modifiedTime": 1742422867950,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_key": "!macros!fqFRpLZxod2jMIPR"
+}

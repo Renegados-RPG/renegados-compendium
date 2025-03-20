@@ -43,7 +43,57 @@
   },
   "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
   "flags": {},
-  "effects": [],
+  "effects": [
+    {
+      "name": "Aura of the Sentinel",
+      "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.SevJPxna54WYH4yG",
+      "_id": "g4Zust4BzSESyuVw",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.init.bonus",
+          "mode": 2,
+          "value": "@prof",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742013732345,
+        "modifiedTime": 1742013750676,
+        "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+      },
+      "_key": "!items.effects!SevJPxna54WYH4yG.g4Zust4BzSESyuVw"
+    }
+  ],
   "folder": "uPTFL8uOqQTJ200S",
   "_stats": {
     "compendiumSource": null,

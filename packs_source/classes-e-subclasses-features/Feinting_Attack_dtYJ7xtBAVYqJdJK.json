@@ -1,0 +1,114 @@
+{
+  "_id": "dtYJ7xtBAVYqJdJK",
+  "name": "Feinting Attack",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "74",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack's damage roll.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "maneuver"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "6eovM1zJ3l6CnmLz": {
+        "_id": "6eovM1zJ3l6CnmLz",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "1.5",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "feinting-attack",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "QZIqHFfwpidL6elb",
+  "_stats": {
+    "compendiumSource": "Item.2OXQgGzw3ElsMwt9",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742078469569,
+    "modifiedTime": 1742078625242,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 312500,
+  "_key": "!items!dtYJ7xtBAVYqJdJK"
+}

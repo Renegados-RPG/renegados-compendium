@@ -49,7 +49,7 @@
         {
           "key": "system.attributes.movement.walk",
           "mode": 2,
-          "value": "+ 10",
+          "value": "+ 3",
           "priority": 7
         }
       ],
@@ -68,6 +68,11 @@
       "flags": {
         "plutonium": {
           "dedupeId": "fast-movement"
+        },
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
         }
       },
       "img": "icons/skills/movement/feet-winged-boots-brown.webp",
@@ -82,10 +87,10 @@
         "duplicateSource": null,
         "coreVersion": "12.331",
         "systemId": "dnd5e",
-        "systemVersion": "4.3.5",
+        "systemVersion": "4.3.6",
         "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "modifiedTime": 1742014232260,
+        "lastModifiedBy": "ZOCqPrVPy6aj78uU"
       },
       "_key": "!items.effects!zZbtOZKHceANVvZP.7RvmhoZjWNj2jVx2"
     }

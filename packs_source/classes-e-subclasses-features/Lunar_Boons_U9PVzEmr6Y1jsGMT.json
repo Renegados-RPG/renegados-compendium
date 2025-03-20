@@ -1,0 +1,65 @@
+{
+  "name": "Lunar Boons",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "DSotDQ",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-Level Lunar Sorcery Feature</i></p><p>The current phase of your Lunar Embodiment can affect your Metamagic feature. Each Lunar Embodiment phase is associated with certain schools of magic, as shown here:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Full Moon\"><span class=\"bold rd__list-item-name\">Full Moon.</span> <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:sorcerer=1,flstschool:a=1~d=1\">Abjuration and divination spells</a></p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"New Moon\"><span class=\"bold rd__list-item-name\">New Moon.</span> <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:sorcerer=1,flstschool:e=1~n=1\">Enchantment and necromancy spells</a></p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Crescent Moon\"><span class=\"bold rd__list-item-name\">Crescent Moon.</span> <a href=\"https://2014.5e.tools/spells.html#blankhash,flstclass:sorcerer=1,flstschool:i=1~t=1\">Illusion and transmutation spells</a></p></li></ul><p>Whenever you use Metamagic on a spell of a school of magic associated with your current Lunar Embodiment phase, you can reduce the sorcery points spent by 1 (minimum 0). You can reduce the sorcery points spent for your Metamagic a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 6 (Lunar)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "lunar-boons",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/light/projectile-stars-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Ml6rP7nVuLc0RSJS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742246227387,
+    "modifiedTime": 1742246541148,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_id": "U9PVzEmr6Y1jsGMT",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "_key": "!items!U9PVzEmr6Y1jsGMT"
+}

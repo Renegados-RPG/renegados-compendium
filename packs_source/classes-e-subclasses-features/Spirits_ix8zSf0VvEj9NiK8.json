@@ -1,0 +1,22 @@
+{
+  "name": "Spirits",
+  "sorting": "a",
+  "folder": "74VoUTJsTVlvp6LU",
+  "type": "Item",
+  "_id": "ix8zSf0VvEj9NiK8",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!ix8zSf0VvEj9NiK8"
+}

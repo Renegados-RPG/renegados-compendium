@@ -1,0 +1,60 @@
+{
+  "_id": "xy9yB5tlj6hO0baA",
+  "name": "Bonus Proficiencies",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "33",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you choose this tradition at 3rd level, you gain proficiency in the &amp;Reference[skill=Performance] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with @item[brewer's supplies|phb] if you don't already have it.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Monk 3 (Drunken Master)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "bonus-proficiencies",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "KhteaoOz5YdR29wy",
+  "_stats": {
+    "compendiumSource": "Item.Q1av1EyPdYnHXsqt",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742166486094,
+    "modifiedTime": 1742166486308,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 500000,
+  "_key": "!items!xy9yB5tlj6hO0baA"
+}

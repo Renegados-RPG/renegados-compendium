@@ -28,13 +28,15 @@
     "properties": [],
     "advancement": [],
     "activities": {
-      "1LZrG3jvcz2OGg5m": {
-        "_id": "1LZrG3jvcz2OGg5m",
-        "type": "utility",
+      "jvL72WTnyqys7iVJ": {
+        "type": "damage",
+        "_id": "jvL72WTnyqys7iVJ",
+        "sort": 0,
         "activation": {
           "type": "",
           "value": null,
-          "override": false
+          "override": false,
+          "condition": ""
         },
         "consumption": {
           "scaling": {
@@ -43,12 +45,13 @@
           "spellSlot": true,
           "targets": [
             {
-              "value": "1",
-              "scaling": {}
+              "type": "activityUses"
             }
           ]
         },
-        "description": {},
+        "description": {
+          "chatFlavor": ""
+        },
         "duration": {
           "units": "inst",
           "concentration": false,
@@ -56,28 +59,48 @@
         },
         "effects": [],
         "range": {
-          "override": false
+          "override": false,
+          "units": "self",
+          "special": ""
         },
         "target": {
           "template": {
             "contiguous": false,
-            "units": "m"
+            "units": "m",
+            "type": ""
           },
           "affects": {
-            "choice": false
+            "choice": false,
+            "type": ""
           },
           "override": false,
           "prompt": true
         },
         "uses": {
           "spent": 0,
-          "recovery": []
+          "recovery": [],
+          "max": ""
         },
-        "roll": {
-          "prompt": false,
-          "visible": false
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "custom": {
+                "enabled": true,
+                "formula": "@scale.psi-warrior.psionic-energy-dice + @abilities.int.mod"
+              },
+              "number": null,
+              "denomination": 0,
+              "bonus": "",
+              "types": ["force"]
+            }
+          ]
         },
-        "sort": 0
+        "name": "",
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "psionic-strike",
@@ -94,7 +117,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "f7Sr2p3TTWx9UkHs",
   "_stats": {
@@ -102,10 +132,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989863770,
-    "modifiedTime": 1741989863770,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742081443403,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!qiHz1eYvY4qis0mH"

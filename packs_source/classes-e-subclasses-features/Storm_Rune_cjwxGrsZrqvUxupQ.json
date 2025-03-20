@@ -1,0 +1,115 @@
+{
+  "_id": "cjwxGrsZrqvUxupQ",
+  "name": "Storm Rune",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "45",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: 7th level</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have advantage on Intelligence (&amp;Reference[skill=Arcana]) checks, and you can't be @status[surprised] as long as you aren't &amp;Reference[condition=incapacitated].</p><p>In addition, you can invoke the rune as a bonus action to enter a prophetic state for 1 minute or until you're &amp;Reference[condition=incapacitated]. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have advantage or disadvantage. Once you invoke this rune, you can't do so again until you finish a short or long rest.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "prerequisites": {
+      "level": 7,
+      "repeatable": false
+    },
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "rune"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "sort": 0,
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "storm-rune",
+    "cover": null,
+    "crewed": false,
+    "enchant": {
+      "max": "",
+      "period": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/symbols/ring-circle-smoke-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "JYerMtezUNseYzMB",
+  "_stats": {
+    "compendiumSource": "Item.9IUyrD2IsUktqXaP",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742082596135,
+    "modifiedTime": 1742082737449,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 350000,
+  "_key": "!items!cjwxGrsZrqvUxupQ"
+}

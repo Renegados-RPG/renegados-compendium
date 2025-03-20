@@ -158,11 +158,11 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741926034979,
-    "modifiedTime": 1741927237424,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742247797692,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
-  "sort": 0,
+  "sort": 100000,
   "_key": "!items!OYUT0qIxAVZgA6b2"
 }

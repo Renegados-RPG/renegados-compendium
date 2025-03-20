@@ -6,7 +6,7 @@
     "identifier": "psi-warrior",
     "classIdentifier": "fighter",
     "description": {
-      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.</p><p>As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.</p><div data-roll-name-ancestor=\"Psionic Power\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Psionic Power</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Tasha’s Cauldron of Everything\">TCE</span> <span title=\"Page 42\">p42</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p><i>3rd-level Psi Warrior feature</i></p><p>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a <span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;d6&quot;,&quot;displayText&quot;:&quot;d6&quot;}\">d6</span>. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.</p><p>Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.</p><p>When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;d8&quot;,&quot;displayText&quot;:&quot;d8&quot;}\">d8</span>), 11th level (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;d10&quot;,&quot;displayText&quot;:&quot;d10&quot;}\">d10</span>), and 17th level (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{&quot;type&quot;:&quot;dice&quot;,&quot;rollable&quot;:true,&quot;toRoll&quot;:&quot;d12&quot;,&quot;displayText&quot;:&quot;d12&quot;}\">d12</span>).</p><p>The powers below use your Psionic Energy dice.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Protective Field.\"><span class=\"bold rd__list-item-name\">Protective Field.</span> When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Psionic Strike.\"><span class=\"bold rd__list-item-name\">Psionic Strike.</span> You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telekinetic Movement.\"><span class=\"bold rd__list-item-name\">Telekinetic Movement.</span> You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</p></li></ul></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Psi Warrior\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Psi Warrior</span></h2> <p>Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.</p><p>As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.</p><div data-roll-name-ancestor=\"Level 3: Psionic Power\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 3: Psionic Power</span></h3> <p><i>3rd-level Psi Warrior feature</i></p><p>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a [[/r d6]]. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.</p><p>Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.</p><p>When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level ([[/r d8]]), 11th level ([[/r d10]]), and 17th level ([[/r d12]]).</p><p>The powers below use your Psionic Energy dice.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Protective Field.\"><span class=\"bold rd__list-item-name\">Protective Field.</span> When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Psionic Strike.\"><span class=\"bold rd__list-item-name\">Psionic Strike.</span> You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telekinetic Movement.\"><span class=\"bold rd__list-item-name\">Telekinetic Movement.</span> You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Telekinetic Adept\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 7: Telekinetic Adept</span></h3> <p><i>7th-level Psi Warrior feature</i></p><p>You have mastered new ways to use your telekinetic abilities, detailed below.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Psi-Powered Leap.\"><span class=\"bold rd__list-item-name\">Psi-Powered Leap.</span> As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telekinetic Thrust.\"><span class=\"bold rd__list-item-name\">Telekinetic Thrust.</span> When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target &amp;Reference[condition=prone] or move it up to 10 feet in any direction horizontally.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Guarded Mind\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 10: Guarded Mind</span></h3> <p><i>10th-level Psi Warrior feature</i></p><p>The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Bulwark of Force\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 15: Bulwark of Force</span></h3> <p><i>15th-level Psi Warrior feature</i></p><p>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by &amp;Reference[rule=halfcover]{half cover} for 1 minute or until you're &amp;Reference[condition=incapacitated].</p><p>Once you take this bonus action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 18: Telekinetic Master\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 18: Telekinetic Master</span></h3> <p><i>18th-level Psi Warrior feature</i></p><p>Your ability to move creatures and objects with your mind is matched by few. You can cast the @UUID[Compendium.renegados-compendium.magias.Item.DE7UCPkClv5VC1Za] spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.</p><p>Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.</p></div></div></div></div>",
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.</p><p>As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.</p><div data-roll-name-ancestor=\"Psionic Power\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Psionic Power</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Tasha’s Cauldron of Everything\">TCE</span> <span title=\"Page 42\">p42</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p><em>3rd-level Psi Warrior feature</em></p><p>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a <span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d6</span>. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.</p><p>Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.</p><p>When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d8</span>), 11th level (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d10</span>), and 17th level (<span class=\"roller render-roller\" title=\"Click to roll. SHIFT/CTRL to roll twice.\" data-packed-dice=\"{\">d12</span>).</p><p>The powers below use your Psionic Energy dice.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Protective Field.\"><span class=\"bold rd__list-item-name\">Protective Field.</span> When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Psionic Strike.\"><span class=\"bold rd__list-item-name\">Psionic Strike.</span> You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telekinetic Movement.\"><span class=\"bold rd__list-item-name\">Telekinetic Movement.</span> You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</p></li></ul></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Psi Warrior\" data-source=\"TCE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Psi Warrior</span></h2><p>Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.</p><p>As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.</p><div data-roll-name-ancestor=\"Level 3: Psionic Power\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 3: Psionic Power</span></h3><p><em>3rd-level Psi Warrior feature</em></p><p>You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a [[/r d6]]. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.</p><p>Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.</p><p>When you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level ([[/r d8]]), 11th level ([[/r d10]]), and 17th level ([[/r d12]]).</p><p>The powers below use your Psionic Energy dice.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Protective Field.\"><span class=\"bold rd__list-item-name\">Protective Field.</span> When you or another creature you can see within 30 feet of you takes damage, you can use your reaction to expend one Psionic Energy die, roll the die, and reduce the damage taken by the number rolled plus your Intelligence modifier (minimum reduction of 1), as you create a momentary shield of telekinetic force.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Psionic Strike.\"><span class=\"bold rd__list-item-name\">Psionic Strike.</span> You can propel your weapons with psionic force. Once on each of your turns, immediately after you hit a target within 30 feet of you with an attack and deal damage to it with a weapon, you can expend one Psionic Energy die, rolling it and dealing force damage to the target equal to the number rolled plus your Intelligence modifier.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telekinetic Movement.\"><span class=\"bold rd__list-item-name\">Telekinetic Movement.</span> You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Telekinetic Adept\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 7: Telekinetic Adept</span></h3><p><em>7th-level Psi Warrior feature</em></p><p>You have mastered new ways to use your telekinetic abilities, detailed below.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Psi-Powered Leap.\"><span class=\"bold rd__list-item-name\">Psi-Powered Leap.</span> As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Telekinetic Thrust.\"><span class=\"bold rd__list-item-name\">Telekinetic Thrust.</span> When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Intelligence modifier. If the save fails, you can knock the target &amp;Reference[condition=prone] or move it up to 10 feet in any direction horizontally.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Guarded Mind\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 10: Guarded Mind</span></h3><p><em>10th-level Psi Warrior feature</em></p><p>The psionic energy flowing through you has bolstered your mind. You have resistance to psychic damage. Moreover, if you start your turn &amp;Reference[condition=charmed] or &amp;Reference[condition=frightened], you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Bulwark of Force\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 15: Bulwark of Force</span></h3><p><em>15th-level Psi Warrior feature</em></p><p>You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by &amp;Reference[rule=halfcover]{half cover} for 1 minute or until you're &amp;Reference[condition=incapacitated].</p><p>Once you take this bonus action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 18: Telekinetic Master\" data-source=\"TCE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Tasha’s Cauldron of Everything, p42\">Level 18: Telekinetic Master</span></h3><p><em>18th-level Psi Warrior feature</em></p><p>Your ability to move creatures and objects with your mind is matched by few. You can cast the @UUID[Compendium.renegados-compendium.magias.Item.DE7UCPkClv5VC1Za] spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.</p><p>Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.</p></div></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -19,9 +19,159 @@
     },
     "spellcasting": {
       "progression": "none",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
     },
-    "advancement": []
+    "advancement": [
+      {
+        "_id": "FC27Dd78PL0kuABz",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.aGMAdZ9CqptKIwLF",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Y3o1Ijup6mZvQGfy",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.qiHz1eYvY4qis0mH",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8BV0QK95e9obXMqD",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "bhK6VnMkO8lAJ4gb",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "dice",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "3": {
+              "number": 1,
+              "faces": 6,
+              "modifiers": []
+            },
+            "5": {
+              "number": 1,
+              "faces": 8,
+              "modifiers": []
+            },
+            "11": {
+              "number": 1,
+              "faces": 10,
+              "modifiers": []
+            },
+            "17": {
+              "number": 1,
+              "faces": 12,
+              "modifiers": []
+            }
+          }
+        },
+        "value": {},
+        "title": "Psionic Energy dice",
+        "hint": ""
+      },
+      {
+        "_id": "kYlybGCtXMfOjRB0",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.lfJw8BChVLueS0oh",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.tbnNZPWXS1rzhwtM",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.1Yvw8ICRsZxdmo98",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "1BdnL8laUOPr8JdT",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.3xgbsni3BLq9T8Er",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "sk7EMhGeRPDgrSpd",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CWGXqugUiG4OdDGW",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "HG4AdkURWWqxOulf",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Iost0wUu7sGzayAK",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 18,
+        "title": "",
+        "hint": ""
+      }
+    ]
   },
   "ownership": {
     "default": 0,
@@ -29,7 +179,7 @@
   },
   "flags": {},
   "effects": [],
-  "img": "https://raw.githubusercontent.com/5etools-mirror-2/5etools-img/main/classes/TCE/Psi%20Warrior%20Fighter.webp",
+  "img": "icons/skills/melee/strike-dagger-arcane-pink.webp",
   "folder": "OGgBlvA2Spiky3uK",
   "_stats": {
     "compendiumSource": null,
@@ -38,7 +188,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989726908,
-    "modifiedTime": 1741989726908,
+    "modifiedTime": 1742466656689,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

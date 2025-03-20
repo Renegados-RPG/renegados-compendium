@@ -6,7 +6,7 @@
     "identifier": "oath-of-devotion",
     "classIdentifier": "paladin",
     "description": {
-      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><div data-roll-name-ancestor=\"Tenets of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Tenets of Devotion</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 85\">p85</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honesty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Honesty.</span></span> Don't lie or cheat. Let your word be your promise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Courage\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Courage.</span></span> Never fear to act, though caution is wise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Compassion\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Compassion.</span></span> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honor\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Honor.</span></span> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Duty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Duty.</span></span> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p></div></div></div><div data-roll-name-ancestor=\"Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"> <span class=\"entry-title-inner\">Oath Spells</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 85\">p85</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Devotion Spells\"><caption>Oath of Devotion Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#protection%20from%20evil%20and%20good_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"protection%20from%20evil%20and%20good_phb\" data-vet-is-allow-redirect=\"true\">protection from evil and good</a>, <a href=\"https://5e.tools/spells.html#sanctuary_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"sanctuary_phb\" data-vet-is-allow-redirect=\"true\">sanctuary</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#lesser%20restoration_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"lesser%20restoration_phb\" data-vet-is-allow-redirect=\"true\">lesser restoration</a>, <a href=\"https://5e.tools/spells.html#zone%20of%20truth_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"zone%20of%20truth_phb\" data-vet-is-allow-redirect=\"true\">zone of truth</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#beacon%20of%20hope_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"beacon%20of%20hope_phb\" data-vet-is-allow-redirect=\"true\">beacon of hope</a>, <a href=\"https://5e.tools/spells.html#dispel%20magic_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dispel%20magic_phb\" data-vet-is-allow-redirect=\"true\">dispel magic</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#freedom%20of%20movement_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"freedom%20of%20movement_phb\" data-vet-is-allow-redirect=\"true\">freedom of movement</a>, <a href=\"https://5e.tools/spells.html#guardian%20of%20faith_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"guardian%20of%20faith_phb\" data-vet-is-allow-redirect=\"true\">guardian of faith</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#commune_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"commune_phb\" data-vet-is-allow-redirect=\"true\">commune</a>, <a href=\"https://5e.tools/spells.html#flame%20strike_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"flame%20strike_phb\" data-vet-is-allow-redirect=\"true\">flame strike</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"> <span class=\"entry-title-inner\">Channel Divinity</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 85\">p85</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Sacred Weapon\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"9\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Sacred Weapon.</span></span> As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall <a href=\"https://5e.tools/conditionsdiseases.html#unconscious_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"unconscious_phb\" data-vet-is-allow-redirect=\"true\">unconscious</a>, this effect ends.</p></div><div data-roll-name-ancestor=\"Turn the Unholy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"10\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Turn the Unholy.</span></span> As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the <a href=\"https://5e.tools/actions.html#dash_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"dash_phb\" data-vet-is-allow-redirect=\"true\">Dash</a> action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the <a href=\"https://5e.tools/actions.html#dodge_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"dodge_phb\" data-vet-is-allow-redirect=\"true\">Dodge</a> action.</p></div></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Oath of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"11\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Oath of Devotion</span></h2> <p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><div data-roll-name-ancestor=\"Level 3: Tenets of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 3: Tenets of Devotion</span></h3> <p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honesty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"13\"> <span class=\"entry-title-inner\">Honesty.</span></span> Don't lie or cheat. Let your word be your promise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Courage\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"14\"> <span class=\"entry-title-inner\">Courage.</span></span> Never fear to act, though caution is wise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Compassion\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"15\"> <span class=\"entry-title-inner\">Compassion.</span></span> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honor\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"16\"> <span class=\"entry-title-inner\">Honor.</span></span> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Duty\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"17\"> <span class=\"entry-title-inner\">Duty.</span></span> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p></div></div></div><div data-roll-name-ancestor=\"Level 3: Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"18\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 3: Oath Spells</span></h3> <p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Devotion Spells\"><caption>Oath of Devotion Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe], @UUID[Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.bc0gULngyESb3CEo], @UUID[Compendium.renegados-compendium.magias.Item.JzPRSOWP4QCgwcSg]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.UVOpZjRDUBCZSWWr], @UUID[Compendium.renegados-compendium.magias.Item.ZZeFyNktRmVEqrar]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy], @UUID[Compendium.renegados-compendium.magias.Item.kLtXK4xav3C20iHc]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.em2lgcx5wQyfiHIM], @UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"19\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 3: Channel Divinity</span></h3> <p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Sacred Weapon\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"20\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Sacred Weapon.</span></span> As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall &amp;Reference[condition=unconscious], this effect ends.</p></div><div data-roll-name-ancestor=\"Turn the Unholy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"21\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Turn the Unholy.</span></span> As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the @action[Dash] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the @action[Dodge] action.</p></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Aura of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"22\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 7: Aura of Devotion</span></h3> <p>Starting at 7th level, you and friendly creatures within 10 feet of you can't be &amp;Reference[condition=charmed] while you are conscious.</p><p>At 18th level, the range of this aura increases to 30 feet.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Purity of Spirit\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"23\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 15: Purity of Spirit</span></h3> <p>Beginning at 15th level, you are always under the effects of a @UUID[Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe] spell.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 20: Holy Nimbus\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"24\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 20: Holy Nimbus</span></h3> <p>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</p><p>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</p><p>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div></div></div>",
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><div data-roll-name-ancestor=\"Tenets of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Tenets of Devotion</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 85\">p85</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honesty\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Honesty.</span> Don't lie or cheat. Let your word be your promise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Courage\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Courage.</span> Never fear to act, though caution is wise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Compassion\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Compassion.</span> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honor\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Honor.</span> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Duty\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Duty.</span> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p></div></div></div><div data-roll-name-ancestor=\"Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner\">Oath Spells</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 85\">p85</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Devotion Spells\"><caption>Oath of Devotion Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#protection%20from%20evil%20and%20good_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"protection%20from%20evil%20and%20good_phb\" data-vet-is-allow-redirect=\"true\">protection from evil and good</a>, <a href=\"https://2014.5e.tools/spells.html#sanctuary_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"sanctuary_phb\" data-vet-is-allow-redirect=\"true\">sanctuary</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#lesser%20restoration_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"lesser%20restoration_phb\" data-vet-is-allow-redirect=\"true\">lesser restoration</a>, <a href=\"https://2014.5e.tools/spells.html#zone%20of%20truth_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"zone%20of%20truth_phb\" data-vet-is-allow-redirect=\"true\">zone of truth</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#beacon%20of%20hope_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"beacon%20of%20hope_phb\" data-vet-is-allow-redirect=\"true\">beacon of hope</a>, <a href=\"https://2014.5e.tools/spells.html#dispel%20magic_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dispel%20magic_phb\" data-vet-is-allow-redirect=\"true\">dispel magic</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#freedom%20of%20movement_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"freedom%20of%20movement_phb\" data-vet-is-allow-redirect=\"true\">freedom of movement</a>, <a href=\"https://2014.5e.tools/spells.html#guardian%20of%20faith_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"guardian%20of%20faith_phb\" data-vet-is-allow-redirect=\"true\">guardian of faith</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#commune_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"commune_phb\" data-vet-is-allow-redirect=\"true\">commune</a>, <a href=\"https://2014.5e.tools/spells.html#flame%20strike_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"flame%20strike_phb\" data-vet-is-allow-redirect=\"true\">flame strike</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner\">Channel Divinity</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 85\">p85</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Sacred Weapon\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Sacred Weapon.</span> As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall <a href=\"https://2014.5e.tools/conditionsdiseases.html#unconscious_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"unconscious_phb\" data-vet-is-allow-redirect=\"true\">unconscious</a>, this effect ends.</p></div><div data-roll-name-ancestor=\"Turn the Unholy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Turn the Unholy.</span> As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the <a href=\"https://2014.5e.tools/actions.html#dash_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"dash_phb\" data-vet-is-allow-redirect=\"true\">Dash</a> action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the <a href=\"https://2014.5e.tools/actions.html#dodge_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"dodge_phb\" data-vet-is-allow-redirect=\"true\">Dodge</a> action.</p></div></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Oath of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"11\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Oath of Devotion</span></h2><p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><div data-roll-name-ancestor=\"Level 3: Tenets of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"12\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 3: Tenets of Devotion</span></h3><p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honesty\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Honesty.</span> Don't lie or cheat. Let your word be your promise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Courage\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Courage.</span> Never fear to act, though caution is wise.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Compassion\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Compassion.</span> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Honor\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Honor.</span> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Duty\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Duty.</span> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p></div></div></div><div data-roll-name-ancestor=\"Level 3: Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"18\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 3: Oath Spells</span></h3><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Devotion Spells\"><caption>Oath of Devotion Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe], @UUID[Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.bc0gULngyESb3CEo], @UUID[Compendium.renegados-compendium.magias.Item.JzPRSOWP4QCgwcSg]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.UVOpZjRDUBCZSWWr], @UUID[Compendium.renegados-compendium.magias.Item.ZZeFyNktRmVEqrar]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy], @UUID[Compendium.renegados-compendium.magias.Item.kLtXK4xav3C20iHc]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.em2lgcx5wQyfiHIM], @UUID[Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"19\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 3: Channel Divinity</span></h3><p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Sacred Weapon\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Sacred Weapon.</span> As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall &amp;Reference[condition=unconscious], this effect ends.</p></div><div data-roll-name-ancestor=\"Turn the Unholy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Turn the Unholy.</span> As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the @action[Dash] action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the @action[Dodge] action.</p></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Aura of Devotion\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"22\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 7: Aura of Devotion</span></h3><p>Starting at 7th level, you and friendly creatures within 10 feet of you can't be &amp;Reference[condition=charmed] while you are conscious.</p><p>At 18th level, the range of this aura increases to 30 feet.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Purity of Spirit\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"23\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 15: Purity of Spirit</span></h3><p>Beginning at 15th level, you are always under the effects of a @UUID[Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe] spell.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 20: Holy Nimbus\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"24\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p85\">Level 20: Holy Nimbus</span></h3><p>At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</p><p>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</p><p>In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -19,9 +19,277 @@
     },
     "spellcasting": {
       "progression": "none",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
     },
-    "advancement": []
+    "advancement": [
+      {
+        "_id": "kdDFJQ72P6bGqEaz",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ydscLHai3ir0pzMv"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.tdZaZzp93rbnn80Y"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "dNpLmCy5VrYet8gd",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Mpg889DyJBhialz6"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.loGUyAY73fEhq5VS"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Channel Divinity",
+        "hint": ""
+      },
+      {
+        "_id": "iC5pY654uxF6jbeX",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.r7DQ2l7WqJXeUZNe"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "tBMwL7gDqc5OWjKm",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.bc0gULngyESb3CEo"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.JzPRSOWP4QCgwcSg"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "wjeHA1Y1eSgP8u1K",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.UVOpZjRDUBCZSWWr"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.ZZeFyNktRmVEqrar"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 9,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "24eUuZk2JdKleiOi",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.W0X5caxhlf6ZM0Iy"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.kLtXK4xav3C20iHc"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 13,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "IW6yN6lw73XwBR0N",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.em2lgcx5wQyfiHIM"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.ay4TQeVdVjlww4pX"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 17,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "pI3btfhculEIo6oa",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.OT0LH8Q74cFfl1xw",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "vBLS3Epv6kP5rFKC",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["ci:charmed"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 7,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "0WLjN7HsGE6JnSLI",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8vgukPpAaZ0Vcm6s",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "P4EokP8wzHYdAQfy",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.BnrLr5m4u7gtOZ4B",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 20,
+        "title": "",
+        "hint": ""
+      }
+    ]
   },
   "ownership": {
     "default": 0,
@@ -36,10 +304,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989741353,
-    "modifiedTime": 1741989741353,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742011923854,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!iXKXbzUz7h5SZJPj"

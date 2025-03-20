@@ -1,0 +1,60 @@
+{
+  "_id": "2h9F6aiKrfSXzfvu",
+  "name": "Sweeping Cinder Strike",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can spend 2 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.WGdHm2U73KdKbVJ2].</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "sweeping-cinder-strike",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.7OldHk82N08bcmY6",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167113879,
+    "modifiedTime": 1742167536649,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 267188,
+  "_key": "!items!2h9F6aiKrfSXzfvu"
+}

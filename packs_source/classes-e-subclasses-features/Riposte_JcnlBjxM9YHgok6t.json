@@ -1,0 +1,124 @@
+{
+  "_id": "JcnlBjxM9YHgok6t",
+  "name": "Riposte",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "74",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "maneuver"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "rd8tLQzxlm1Cj4wl": {
+        "_id": "rd8tLQzxlm1Cj4wl",
+        "type": "attack",
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "condition": "When a creature misses you with a melee attack, you can use",
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "attack": {
+          "critical": {
+            "threshold": null
+          },
+          "flat": false,
+          "type": {
+            "value": "melee",
+            "classification": "weapon"
+          }
+        },
+        "damage": {
+          "critical": {},
+          "includeBase": true,
+          "parts": []
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "riposte",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/skills/melee/hand-grip-sword-red.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "QZIqHFfwpidL6elb",
+  "_stats": {
+    "compendiumSource": "Item.Xwfa6gtYZ0gLvcVN",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742078491705,
+    "modifiedTime": 1742078862705,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 250782,
+  "_key": "!items!JcnlBjxM9YHgok6t"
+}

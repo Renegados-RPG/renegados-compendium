@@ -1,0 +1,107 @@
+{
+  "_id": "eT6qa2PN9A1xChsk",
+  "name": "War Magic",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "74",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 7 (Eldritch Knight)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "mS6tEim8WaIBAOrQ": {
+        "_id": "mS6tEim8WaIBAOrQ",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "war-magic",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/skills/melee/maneuver-greatsword-yellow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "1gexd3vbDkP1JxK7",
+  "_stats": {
+    "compendiumSource": "Item.PG7Yk9UGFvYolJ6s",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742080160634,
+    "modifiedTime": 1742080160768,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 500000,
+  "_key": "!items!eT6qa2PN9A1xChsk"
+}

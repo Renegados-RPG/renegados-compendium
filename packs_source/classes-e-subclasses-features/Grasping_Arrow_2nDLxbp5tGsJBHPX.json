@@ -1,0 +1,197 @@
+{
+  "_id": "2nDLxbp5tGsJBHPX",
+  "name": "Grasping Arrow",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "29",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>When this arrow strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around the target. The creature hit by the arrow takes an extra [[/damage 2d6 type=poison]] damage, its speed is reduced by 10 feet, and it takes [[/damage 2d6 type=slashing]] damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful Strength (&amp;Reference[skill=Athletics]) check against your Arcane Shot save DC. Otherwise, the brambles last for 1 minute or until you use this option again.</p><p>The poison damage and slashing damage both increase to [[/damage 4d6]] when you reach 18th level in this class.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "arcaneShot"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "LPZUfGl4J415XrqY": {
+        "_id": "LPZUfGl4J415XrqY",
+        "type": "damage",
+        "name": "Damage: 2d6 Poison Damage",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["poison"],
+              "number": 2,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "jBut6AcLARW5FEVd": {
+        "_id": "jBut6AcLARW5FEVd",
+        "type": "damage",
+        "name": "Damage: 2d6 Slashing Damage",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["slashing"],
+              "number": 2,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "grasping-arrow",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/weapons/ammunition/arrow-broadhead-bent-teal.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "n4hlcm1uqwTLFXSn",
+  "_stats": {
+    "compendiumSource": "Item.MXzwdHI5rdxt9i3y",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742070771679,
+    "modifiedTime": 1742070994579,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 350000,
+  "_key": "!items!2nDLxbp5tGsJBHPX"
+}

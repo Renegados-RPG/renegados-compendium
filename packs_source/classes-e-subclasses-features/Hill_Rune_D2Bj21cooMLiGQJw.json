@@ -1,0 +1,175 @@
+{
+  "_id": "D2Bj21cooMLiGQJw",
+  "name": "Hill Rune",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "45",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: 7th level</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being &amp;Reference[condition=poisoned], and you have resistance against poison damage.</p><p>In addition, you can invoke the rune as a bonus action, gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a short or long rest.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "prerequisites": {
+      "level": 7,
+      "repeatable": false
+    },
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "rune"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "sort": 0,
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "hill-rune",
+    "cover": null,
+    "crewed": false,
+    "enchant": {
+      "max": "",
+      "period": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/symbols/arrowhead-green.webp",
+  "flags": {},
+  "effects": [
+    {
+      "_id": "lcXktWgF1oiiRbwe",
+      "name": "Resilience",
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "piercing",
+          "priority": 7
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "bludeoning",
+          "priority": 7
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "slashing",
+          "priority": 7
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": 60,
+        "rounds": 1,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "resilience"
+        }
+      },
+      "img": "icons/magic/symbols/arrowhead-green.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!D2Bj21cooMLiGQJw.lcXktWgF1oiiRbwe"
+    }
+  ],
+  "folder": "JYerMtezUNseYzMB",
+  "_stats": {
+    "compendiumSource": "Item.ZzsVgKSMfmjg7l65",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742082592752,
+    "modifiedTime": 1742082722360,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 250000,
+  "_key": "!items!D2Bj21cooMLiGQJw"
+}

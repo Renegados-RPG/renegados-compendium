@@ -94,7 +94,7 @@
     "default": 0,
     "ox2bho65epIfC0E1": 3
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
   "flags": {},
   "effects": [],
   "folder": "cviZb0Kf5cU9BHWz",
@@ -105,8 +105,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989882221,
-    "modifiedTime": 1741989882221,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742012299976,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!SwcLxelVSqF2HKQG"

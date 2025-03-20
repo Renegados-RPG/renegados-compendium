@@ -94,7 +94,7 @@
     "default": 0,
     "ox2bho65epIfC0E1": 3
   },
-  "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
+  "img": "icons/environment/settlement/watchtower-cliff.webp",
   "flags": {},
   "effects": [],
   "folder": "uPTFL8uOqQTJ200S",
@@ -105,8 +105,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989882221,
-    "modifiedTime": 1741989882221,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742013484911,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!LpBp8p9m1GP43eIQ"

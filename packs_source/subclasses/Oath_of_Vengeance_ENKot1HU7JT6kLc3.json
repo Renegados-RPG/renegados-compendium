@@ -6,7 +6,7 @@
     "identifier": "oath-of-vengeance",
     "classIdentifier": "paladin",
     "description": {
-      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><div data-roll-name-ancestor=\"Tenets of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Tenets of Vengeance</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 87\">p87</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Fight the Greater Evil\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Fight the Greater Evil.</span></span> Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"No Mercy for the Wicked\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">No Mercy for the Wicked.</span></span> Ordinary foes might win my mercy, but my sworn enemies do not.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"By Any Means Necessary\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">By Any Means Necessary.</span></span> My qualms can't get in the way of exterminating my foes.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Restitution\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Restitution.</span></span> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p></div></div></div><div data-roll-name-ancestor=\"Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Oath Spells</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 87\">p87</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Vengeance Spells\"><caption>Oath of Vengeance Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#bane_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"bane_phb\" data-vet-is-allow-redirect=\"true\">bane</a>, <a href=\"https://5e.tools/spells.html#hunter's%20mark_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hunter's%20mark_phb\" data-vet-is-allow-redirect=\"true\">hunter's mark</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#hold%20person_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hold%20person_phb\" data-vet-is-allow-redirect=\"true\">hold person</a>, <a href=\"https://5e.tools/spells.html#misty%20step_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"misty%20step_phb\" data-vet-is-allow-redirect=\"true\">misty step</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#haste_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"haste_phb\" data-vet-is-allow-redirect=\"true\">haste</a>, <a href=\"https://5e.tools/spells.html#protection%20from%20energy_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"protection%20from%20energy_phb\" data-vet-is-allow-redirect=\"true\">protection from energy</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#banishment_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"banishment_phb\" data-vet-is-allow-redirect=\"true\">banishment</a>, <a href=\"https://5e.tools/spells.html#dimension%20door_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dimension%20door_phb\" data-vet-is-allow-redirect=\"true\">dimension door</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://5e.tools/spells.html#hold%20monster_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hold%20monster_phb\" data-vet-is-allow-redirect=\"true\">hold monster</a>, <a href=\"https://5e.tools/spells.html#scrying_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"scrying_phb\" data-vet-is-allow-redirect=\"true\">scrying</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"> <span class=\"entry-title-inner\">Channel Divinity</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 87\">p87</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Abjure Enemy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"8\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Abjure Enemy.</span></span> As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being <a href=\"https://5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a>. Fiends and undead have disadvantage on this saving throw.</p><p>On a failed save, the creature is <a href=\"https://5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a> for 1 minute or until it takes any damage. While <a href=\"https://5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a>, the creature's speed is 0, and it can't benefit from any bonus to its speed.</p><p>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</p></div><div data-roll-name-ancestor=\"Vow of Enmity\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"9\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Vow of Enmity.</span></span> As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls <a href=\"https://5e.tools/conditionsdiseases.html#unconscious_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"unconscious_phb\" data-vet-is-allow-redirect=\"true\">unconscious</a>.</p></div></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Oath of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"10\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Oath of Vengeance</span></h2> <p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><div data-roll-name-ancestor=\"Level 3: Tenets of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 3: Tenets of Vengeance</span></h3> <p>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Fight the Greater Evil\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"12\"> <span class=\"entry-title-inner\">Fight the Greater Evil.</span></span> Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"No Mercy for the Wicked\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"13\"> <span class=\"entry-title-inner\">No Mercy for the Wicked.</span></span> Ordinary foes might win my mercy, but my sworn enemies do not.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"By Any Means Necessary\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"14\"> <span class=\"entry-title-inner\">By Any Means Necessary.</span></span> My qualms can't get in the way of exterminating my foes.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Restitution\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"15\"> <span class=\"entry-title-inner\">Restitution.</span></span> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p></div></div></div><div data-roll-name-ancestor=\"Level 3: Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"16\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 3: Oath Spells</span></h3> <p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Vengeance Spells\"><caption>Oath of Vengeance Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DInqnI65JCzaQ7f9], @UUID[Compendium.renegados-compendium.magias.Item.LrqmooL2pt0HMpQd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd], @UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn], @UUID[Compendium.renegados-compendium.magias.Item.O2FxK65NyegvlMZb]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3], @UUID[Compendium.renegados-compendium.magias.Item.btmrSUMciOO3pMGj]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z], @UUID[Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"17\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 3: Channel Divinity</span></h3> <p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Abjure Enemy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"18\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Abjure Enemy.</span></span> As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being &amp;Reference[condition=frightened]. Fiends and undead have disadvantage on this saving throw.</p><p>On a failed save, the creature is &amp;Reference[condition=frightened] for 1 minute or until it takes any damage. While &amp;Reference[condition=frightened], the creature's speed is 0, and it can't benefit from any bonus to its speed.</p><p>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</p></div><div data-roll-name-ancestor=\"Vow of Enmity\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"19\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Vow of Enmity.</span></span> As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls &amp;Reference[condition=unconscious].</p></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Relentless Avenger\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"20\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 7: Relentless Avenger</span></h3> <p>By 7th level, your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Soul of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"21\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 15: Soul of Vengeance</span></h3> <p>Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 20: Avenging Angel\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"22\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 20: Avenging Angel</span></h3> <p>At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Wings sprout from your back and grant you a flying speed of 60 feet.</li><li class=\"rd__li \">You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become &amp;Reference[condition=frightened] of you for 1 minute or until it takes any damage. @action[Attack] rolls against the &amp;Reference[condition=frightened] creature have advantage.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div></div></div>",
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><div data-roll-name-ancestor=\"Tenets of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Tenets of Vengeance</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 87\">p87</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Fight the Greater Evil\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Fight the Greater Evil.</span> Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"No Mercy for the Wicked\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">No Mercy for the Wicked.</span> Ordinary foes might win my mercy, but my sworn enemies do not.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"By Any Means Necessary\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">By Any Means Necessary.</span> My qualms can't get in the way of exterminating my foes.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Restitution\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Restitution.</span> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p></div></div></div><div data-roll-name-ancestor=\"Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner\">Oath Spells</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 87\">p87</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Vengeance Spells\"><caption>Oath of Vengeance Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#bane_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"bane_phb\" data-vet-is-allow-redirect=\"true\">bane</a>, <a href=\"https://2014.5e.tools/spells.html#hunter's%20mark_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hunter's%20mark_phb\" data-vet-is-allow-redirect=\"true\">hunter's mark</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#hold%20person_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hold%20person_phb\" data-vet-is-allow-redirect=\"true\">hold person</a>, <a href=\"https://2014.5e.tools/spells.html#misty%20step_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"misty%20step_phb\" data-vet-is-allow-redirect=\"true\">misty step</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#haste_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"haste_phb\" data-vet-is-allow-redirect=\"true\">haste</a>, <a href=\"https://2014.5e.tools/spells.html#protection%20from%20energy_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"protection%20from%20energy_phb\" data-vet-is-allow-redirect=\"true\">protection from energy</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#banishment_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"banishment_phb\" data-vet-is-allow-redirect=\"true\">banishment</a>, <a href=\"https://2014.5e.tools/spells.html#dimension%20door_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"dimension%20door_phb\" data-vet-is-allow-redirect=\"true\">dimension door</a></td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \"><a href=\"https://2014.5e.tools/spells.html#hold%20monster_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"hold%20monster_phb\" data-vet-is-allow-redirect=\"true\">hold monster</a>, <a href=\"https://2014.5e.tools/spells.html#scrying_phb\" data-vet-page=\"spells.html\" data-vet-source=\"PHB\" data-vet-hash=\"scrying_phb\" data-vet-is-allow-redirect=\"true\">scrying</a></td></tr></tbody></table></div><div data-roll-name-ancestor=\"Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner\">Channel Divinity</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 87\">p87</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Abjure Enemy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Abjure Enemy.</span> As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being <a href=\"https://2014.5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a>. Fiends and undead have disadvantage on this saving throw.</p><p>On a failed save, the creature is <a href=\"https://2014.5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a> for 1 minute or until it takes any damage. While <a href=\"https://2014.5e.tools/conditionsdiseases.html#frightened_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"frightened_phb\" data-vet-is-allow-redirect=\"true\">frightened</a>, the creature's speed is 0, and it can't benefit from any bonus to its speed.</p><p>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</p></div><div data-roll-name-ancestor=\"Vow of Enmity\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Vow of Enmity.</span> As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls <a href=\"https://2014.5e.tools/conditionsdiseases.html#unconscious_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"unconscious_phb\" data-vet-is-allow-redirect=\"true\">unconscious</a>.</p></div></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Oath of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Oath of Vengeance</span></h2><p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><div data-roll-name-ancestor=\"Level 3: Tenets of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"11\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 3: Tenets of Vengeance</span></h3><p>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Fight the Greater Evil\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Fight the Greater Evil.</span> Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"No Mercy for the Wicked\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">No Mercy for the Wicked.</span> Ordinary foes might win my mercy, but my sworn enemies do not.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"By Any Means Necessary\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">By Any Means Necessary.</span> My qualms can't get in the way of exterminating my foes.</p></div></div><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Restitution\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Restitution.</span> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p></div></div></div><div data-roll-name-ancestor=\"Level 3: Oath Spells\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"16\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 3: Oath Spells</span></h3><p>You gain oath spells at the paladin levels listed.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Oath of Vengeance Spells\"><caption>Oath of Vengeance Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Paladin Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DInqnI65JCzaQ7f9], @UUID[Compendium.renegados-compendium.magias.Item.LrqmooL2pt0HMpQd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd], @UUID[Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">9th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn], @UUID[Compendium.renegados-compendium.magias.Item.O2FxK65NyegvlMZb]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">13th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3], @UUID[Compendium.renegados-compendium.magias.Item.btmrSUMciOO3pMGj]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">17th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z], @UUID[Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 3: Channel Divinity\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"17\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 3: Channel Divinity</span></h3><p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p><div data-roll-name-ancestor=\"Abjure Enemy\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Abjure Enemy.</span> As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being &amp;Reference[condition=frightened]. Fiends and undead have disadvantage on this saving throw.</p><p>On a failed save, the creature is &amp;Reference[condition=frightened] for 1 minute or until it takes any damage. While &amp;Reference[condition=frightened], the creature's speed is 0, and it can't benefit from any bonus to its speed.</p><p>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</p></div><div data-roll-name-ancestor=\"Vow of Enmity\" data-source=\"PHB\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Vow of Enmity.</span> As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls &amp;Reference[condition=unconscious].</p></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 7: Relentless Avenger\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"20\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 7: Relentless Avenger</span></h3><p>By 7th level, your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 15: Soul of Vengeance\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"21\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 15: Soul of Vengeance</span></h3><p>Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 20: Avenging Angel\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"22\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p87\">Level 20: Avenging Angel</span></h3><p>At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Wings sprout from your back and grant you a flying speed of 60 feet.</li><li class=\"rd__li \">You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become &amp;Reference[condition=frightened] of you for 1 minute or until it takes any damage. @action[Attack] rolls against the &amp;Reference[condition=frightened] creature have advantage.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p></div></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -19,9 +19,261 @@
     },
     "spellcasting": {
       "progression": "none",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
     },
-    "advancement": []
+    "advancement": [
+      {
+        "_id": "iDcZ3iGK2bZok9tc",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.GaFu2hxzTpKjj6ZM"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.ho4A49URRx3amdnv"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "sdRn83CGgsm3Pfcx",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.whhTSsJbdYsqHz8w",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.EbeeyzfGWem6chIQ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Channel Divinity",
+        "hint": ""
+      },
+      {
+        "_id": "EPIAC0kqU2WWtl96",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.DInqnI65JCzaQ7f9"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.LrqmooL2pt0HMpQd"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 3,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "ir6AOZNzgHqNRjyu",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.m3oWMUnb7jEishQ5"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 5,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "lKX1uiY1F1eurAn8",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.ewY7CmkIX9DvVInn"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.O2FxK65NyegvlMZb"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 9,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "wBlC0qS9MGBakXcC",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.kZ3MfXTENEemM6h3"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.btmrSUMciOO3pMGj"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 13,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "McqrCYcWDjGdhvM6",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z"
+            },
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.magias.Item.OecyeJZgjK2ji9pq"
+            }
+          ],
+          "optional": false,
+          "spell": {
+            "ability": ["cha"],
+            "preparation": "always",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": true
+            }
+          }
+        },
+        "value": {},
+        "level": 17,
+        "title": "Oath Spells",
+        "hint": ""
+      },
+      {
+        "_id": "leOnhRD8UUO3dREU",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xQGtK8NJVOUbAVKt",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "zT6VXKhPigaefx80",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "optional": false,
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.oTjcMYYmkUporC8m"
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 15,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "Vi0ETMifr7yaEm0W",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.QxbZ7ZsOFEIv4OYS",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 20,
+        "title": "",
+        "hint": ""
+      }
+    ]
   },
   "ownership": {
     "default": 0,
@@ -38,7 +290,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989741353,
-    "modifiedTime": 1741989741353,
+    "modifiedTime": 1742466705477,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

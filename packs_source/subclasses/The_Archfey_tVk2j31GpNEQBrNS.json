@@ -112,12 +112,12 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741317898549,
-    "modifiedTime": 1741318096619,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742014592933,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
-  "sort": 0,
+  "sort": 100000,
   "ownership": {
     "default": 0,
     "ox2bho65epIfC0E1": 3

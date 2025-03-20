@@ -1,0 +1,60 @@
+{
+  "_id": "Ra4oquS1uhp40CPA",
+  "name": "Rush of the Gale Spirits",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can spend 2 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.4mwMeYMmmaGE9nqk].</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "rush-of-the-gale-spirits",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/air/fog-gas-smoke-swirling-gray.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.wo1Z4xppkVoblr0l",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167111230,
+    "modifiedTime": 1742167486481,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 263282,
+  "_key": "!items!Ra4oquS1uhp40CPA"
+}

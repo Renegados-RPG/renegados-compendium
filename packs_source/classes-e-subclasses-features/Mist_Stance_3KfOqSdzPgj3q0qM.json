@@ -1,0 +1,60 @@
+{
+  "_id": "3KfOqSdzPgj3q0qM",
+  "name": "Mist Stance",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: 11th level</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can spend 4 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.pKSVW0LQRKIxMIuY], targeting yourself.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "prerequisites": {
+      "level": 11,
+      "repeatable": false
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "mist-stance",
+    "cover": null,
+    "crewed": false,
+    "enchant": {}
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/nature/plant-undersea-orb-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.Bs6F4UUVHUD6j6Lp",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167106802,
+    "modifiedTime": 1742167425400,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 268750,
+  "_key": "!items!3KfOqSdzPgj3q0qM"
+}

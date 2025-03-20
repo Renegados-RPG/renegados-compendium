@@ -6,7 +6,7 @@
     "identifier": "way-of-the-open-hand",
     "classIdentifier": "monk",
     "description": {
-      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</p><div data-roll-name-ancestor=\"Open Hand Technique\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Open Hand Technique</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 79\">p79</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</p><ul class=\"rd__list\"><li class=\"rd__li \">It must succeed on a Dexterity saving throw or be knocked <a href=\"https://5e.tools/conditionsdiseases.html#prone_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"prone_phb\" data-vet-is-allow-redirect=\"true\">prone</a>.</li><li class=\"rd__li \">It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li><li class=\"rd__li \">It can't take reactions until the end of your next turn.</li></ul></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Way of the Open Hand\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Way of the Open Hand</span></h2> <p>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</p><div data-roll-name-ancestor=\"Level 3: Open Hand Technique\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 3: Open Hand Technique</span></h3> <p>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</p><ul class=\"rd__list\"><li class=\"rd__li \">It must succeed on a Dexterity saving throw or be knocked &amp;Reference[condition=prone].</li><li class=\"rd__li \">It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li><li class=\"rd__li \">It can't take reactions until the end of your next turn.</li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Wholeness of Body\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 6: Wholeness of Body</span></h3> <p>You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Tranquility\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 11: Tranquility</span></h3> <p>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a @UUID[Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0] spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Quivering Palm\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 17: Quivering Palm</span></h3> <p>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes [[/damage 10d10 type=necrotic]] damage.</p><p>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</p></div></div></div></div>",
+      "value": "<div class=\"mb-2 ve-flex-col\"><p>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</p><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Open Hand Technique\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Open Hand Technique</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Player’s Handbook (2014)\">PHB'14</span> <span title=\"Page 79\">p79</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</p><ul class=\"rd__list\"><li class=\"rd__li \">It must succeed on a Dexterity saving throw or be knocked <a href=\"https://2014.5e.tools/conditionsdiseases.html#prone_phb\" data-vet-page=\"conditionsdiseases.html\" data-vet-source=\"PHB\" data-vet-hash=\"prone_phb\" data-vet-is-allow-redirect=\"true\">prone</a>.</li><li class=\"rd__li \">It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li><li class=\"rd__li \">It can't take reactions until the end of your next turn.</li></ul></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Way of the Open Hand\" data-source=\"PHB\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"2\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Way of the Open Hand</span></h2><p>Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</p><div data-roll-name-ancestor=\"Level 3: Open Hand Technique\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 3: Open Hand Technique</span></h3><p>You can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target.</p><ul class=\"rd__list\"><li class=\"rd__li \">It must succeed on a Dexterity saving throw or be knocked &amp;Reference[condition=prone].</li><li class=\"rd__li \">It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li><li class=\"rd__li \">It can't take reactions until the end of your next turn.</li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Wholeness of Body\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 6: Wholeness of Body</span></h3><p>You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Tranquility\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 11: Tranquility</span></h3><p>Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a @UUID[Compendium.renegados-compendium.magias.Item.bIHFW93QNbRhAbz0] spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Quivering Palm\" data-source=\"PHB\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Player’s Handbook (2014), p79\">Level 17: Quivering Palm</span></h3><p>You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes [[/damage 10d10 type=necrotic]] damage.</p><p>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</p></div></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -19,9 +19,85 @@
     },
     "spellcasting": {
       "progression": "none",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
     },
-    "advancement": []
+    "advancement": [
+      {
+        "_id": "rC4GeRdHb5CeIzKV",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sb8CzQccmzf8m680",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "rOArtpcrZepDbNG8",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Fxxi6nBw6JcmOhWu",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "LbvKcOZqChGctzLJ",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.sODddR1QOXWX7pl7",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "DeSApZuxYhydtlaE",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.694oOiWiN50Cr0tp",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "",
+        "hint": ""
+      }
+    ]
   },
   "ownership": {
     "default": 0,
@@ -38,7 +114,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989734287,
-    "modifiedTime": 1741989734287,
+    "modifiedTime": 1742466570558,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

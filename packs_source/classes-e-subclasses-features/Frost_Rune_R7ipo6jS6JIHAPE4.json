@@ -1,0 +1,181 @@
+{
+  "_id": "R7ipo6jS6JIHAPE4",
+  "name": "Frost Rune",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "45",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>This rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom (&amp;Reference[skill=AnimalHandling]{Animal Handling}) checks and Charisma (&amp;Reference[skill=Intimidation]) checks.</p><p>In addition, you can invoke the rune as a bonus action to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution. Once you invoke this rune, you can't do so again until you finish a short or long rest.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "sr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "rune"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": null,
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "target": {
+          "prompt": true,
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "sort": 0,
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "frost-rune",
+    "cover": null,
+    "crewed": false,
+    "enchant": {
+      "max": "",
+      "period": ""
+    },
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/symbols/chevron-elipse-circle-blue.webp",
+  "flags": {},
+  "effects": [
+    {
+      "_id": "wXtemZFK2xMPVHae",
+      "name": "Sturdy",
+      "changes": [
+        {
+          "key": "system.abilities.con.bonuses.save",
+          "mode": 2,
+          "value": "+2",
+          "priority": 7
+        },
+        {
+          "key": "system.abilities.con.bonuses.check",
+          "mode": 2,
+          "value": "+2",
+          "priority": 7
+        },
+        {
+          "key": "system.abilities.str.bonuses.save",
+          "mode": 2,
+          "value": "+2",
+          "priority": 7
+        },
+        {
+          "key": "system.abilities.str.bonuses.check",
+          "mode": 2,
+          "value": "+2",
+          "priority": 7
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": 600,
+        "rounds": 1,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": null,
+      "transfer": true,
+      "flags": {
+        "plutonium": {
+          "dedupeId": "sturdy"
+        }
+      },
+      "img": "icons/magic/symbols/chevron-elipse-circle-blue.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!R7ipo6jS6JIHAPE4.wXtemZFK2xMPVHae"
+    }
+  ],
+  "folder": "JYerMtezUNseYzMB",
+  "_stats": {
+    "compendiumSource": "Item.7r1GIZc5yd0KpaT3",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742082590996,
+    "modifiedTime": 1742082714249,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 300000,
+  "_key": "!items!R7ipo6jS6JIHAPE4"
+}

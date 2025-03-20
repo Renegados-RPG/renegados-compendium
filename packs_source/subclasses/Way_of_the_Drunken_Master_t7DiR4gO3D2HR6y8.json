@@ -6,7 +6,7 @@
     "identifier": "way-of-the-drunken-master",
     "classIdentifier": "monk",
     "description": {
-      "value": "<div class=\"mb-2 ve-flex-col\"><p><i class=\"ve-muted\">Note: importing a class as an item is provided for display purposes only. If you wish to import a class to a character sheet, please use the importer on the sheet instead.</i></p><div class=\"rd__b  rd__b--1\"><p>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.</p><p>A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.</p><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Bonus Proficiencies</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 33\">p33</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>When you choose this tradition at 3rd level, you gain proficiency in the <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"performance_phb\" data-vet-is-faux-page=\"true\" data-vet-is-allow-redirect=\"true\">Performance</span> skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with <a href=\"https://5e.tools/items.html#brewer's%20supplies_phb\" data-vet-page=\"items.html\" data-vet-source=\"phb\" data-vet-hash=\"brewer's%20supplies_phb\">brewer's supplies</a> if you don't already have it.</p></div><div data-roll-name-ancestor=\"Drunken Technique\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Drunken Technique</span><span class=\"ve-flex-vh-center\"> <span class=\"rd__title-link \"><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 33\">p33</span></span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></span></h3> <p>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the <a href=\"https://5e.tools/actions.html#disengage_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"disengage_phb\" data-vet-is-allow-redirect=\"true\">Disengage</a> action, and your walking speed increases by 10 feet until the end of the current turn.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Way of the Drunken Master\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Way of the Drunken Master</span></h2> <p>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.</p><p>A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.</p><div data-roll-name-ancestor=\"Level 3: Bonus Proficiencies\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 3: Bonus Proficiencies</span></h3> <p>When you choose this tradition at 3rd level, you gain proficiency in the &amp;Reference[skill=Performance] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with @item[brewer's supplies|phb] if you don't already have it.</p></div><div data-roll-name-ancestor=\"Level 3: Drunken Technique\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 3: Drunken Technique</span></h3> <p>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the @action[Disengage] action, and your walking speed increases by 10 feet until the end of the current turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Tipsy Sway\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 6: Tipsy Sway</span></h3> <p>Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Leap to Your Feet\" data-source=\"XGE\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"7\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p34\">Leap to Your Feet.</span></span> When you're &amp;Reference[condition=prone], you can stand up by spending 5 feet of movement, rather than half your speed.</p></div><div data-roll-name-ancestor=\"Redirect Attack\" data-source=\"XGE\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"8\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p34\">Redirect Attack.</span></span> When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Drunkard's Luck\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 11: Drunkard's Luck</span></h3> <p>Starting at 11th level, you always seem to get a lucky bounce at the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Intoxicated Frenzy\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"> <span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 17: Intoxicated Frenzy</span></h3> <p>At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn.</p></div></div></div></div>",
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.</p><p>A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.</p><div data-roll-name-ancestor=\"Bonus Proficiencies\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner\">Bonus Proficiencies</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 33\">p33</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>When you choose this tradition at 3rd level, you gain proficiency in the <span class=\"help help--hover\" data-vet-page=\"skill\" data-vet-source=\"PHB\" data-vet-hash=\"performance_phb\" data-vet-is-faux-page=\"true\" data-vet-is-allow-redirect=\"true\">Performance</span> skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with <a href=\"https://2014.5e.tools/items.html#brewer's%20supplies_phb\" data-vet-page=\"items.html\" data-vet-source=\"phb\" data-vet-hash=\"brewer's%20supplies_phb\">brewer's supplies</a> if you don't already have it.</p></div><div data-roll-name-ancestor=\"Drunken Technique\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"><span class=\"entry-title-inner\">Drunken Technique</span><span class=\"ve-flex-vh-center\"> </span><span class=\"help-subtle\" title=\"Xanathar’s Guide to Everything\">XGE</span> <span title=\"Page 33\">p33</span><span class=\"rd__h-toggle ml-2 clickable no-select no-print lst-is-exporting-image__hidden\" data-rd-h-toggle-button=\"true\" title=\"Toggle Visibility (CTRL to Toggle All)\">[–]</span></h3><p>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the <a href=\"https://2014.5e.tools/actions.html#disengage_phb\" data-vet-page=\"actions.html\" data-vet-source=\"PHB\" data-vet-hash=\"disengage_phb\" data-vet-is-allow-redirect=\"true\">Disengage</a> action, and your walking speed increases by 10 feet until the end of the current turn.</p></div></div><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Way of the Drunken Master\" data-source=\"XGE\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Way of the Drunken Master</span></h2><p>The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.</p><p>A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.</p><div data-roll-name-ancestor=\"Level 3: Bonus Proficiencies\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 3: Bonus Proficiencies</span></h3><p>When you choose this tradition at 3rd level, you gain proficiency in the &amp;Reference[skill=Performance] skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with @item[brewer's supplies|phb] if you don't already have it.</p></div><div data-roll-name-ancestor=\"Level 3: Drunken Technique\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 3: Drunken Technique</span></h3><p>At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the @action[Disengage] action, and your walking speed increases by 10 feet until the end of the current turn.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Tipsy Sway\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 6: Tipsy Sway</span></h3><p>Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.</p><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Leap to Your Feet\" data-source=\"XGE\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p34\">Leap to Your Feet.</span> When you're &amp;Reference[condition=prone], you can stand up by spending 5 feet of movement, rather than half your speed.</p></div><div data-roll-name-ancestor=\"Redirect Attack\" data-source=\"XGE\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p34\">Redirect Attack.</span> When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.</p></div></div></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 11: Drunkard's Luck\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"9\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 11: Drunkard's Luck</span></h3><p>Starting at 11th level, you always seem to get a lucky bounce at the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 17: Intoxicated Frenzy\" data-source=\"XGE\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"10\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Xanathar’s Guide to Everything, p33\">Level 17: Intoxicated Frenzy</span></h3><p>At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn.</p></div></div></div></div>",
       "chat": ""
     },
     "source": {
@@ -19,9 +19,121 @@
     },
     "spellcasting": {
       "progression": "none",
-      "preparation": {}
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
     },
-    "advancement": []
+    "advancement": [
+      {
+        "_id": "43eaQfR81PsPr1tl",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.xy9yB5tlj6hO0baA",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.L3IZF2fpcWIDtSco",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "a8ka2zWAa63Ce43F",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["skills:prf"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "XoGRWIqvDK9MhfdG",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["tool:art:brewer"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "dFPifsBe0EeU58MS",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.EKyHWdhJ6x9OJ6xm",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "TOJW8acPn9HW7xHt",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.I9XJ9xYnd27trQgZ",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "tiF4ytsjU0oI6PSN",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CvVjmJ2mfrot0e0I",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 17,
+        "title": "",
+        "hint": ""
+      }
+    ]
   },
   "ownership": {
     "default": 0,
@@ -29,7 +141,7 @@
   },
   "flags": {},
   "effects": [],
-  "img": "icons/magic/control/energy-stream-link-white.webp",
+  "img": "icons/magic/control/debuff-energy-snare-blue.webp",
   "folder": "1lDM1VOIZzkR22B5",
   "_stats": {
     "compendiumSource": null,
@@ -38,7 +150,7 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989734287,
-    "modifiedTime": 1741989734287,
+    "modifiedTime": 1742466569269,
     "lastModifiedBy": "ox2bho65epIfC0E1"
   },
   "sort": 0,

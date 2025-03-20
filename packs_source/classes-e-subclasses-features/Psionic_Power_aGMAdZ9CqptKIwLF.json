@@ -17,10 +17,10 @@
     },
     "requirements": "Fighter 3 (Psi Warrior)",
     "uses": {
-      "max": "1",
+      "max": "2 * @prof",
       "recovery": [
         {
-          "period": "sr",
+          "period": "lr",
           "type": "recoverAll"
         }
       ],
@@ -39,7 +39,8 @@
         "activation": {
           "type": "bonus",
           "value": 1,
-          "override": false
+          "override": false,
+          "condition": ""
         },
         "consumption": {
           "scaling": {
@@ -48,14 +49,15 @@
           "spellSlot": true,
           "targets": [
             {
-              "target": "",
-              "value": "1",
               "type": "itemUses",
-              "scaling": {}
+              "value": "-1",
+              "target": ""
             }
           ]
         },
-        "description": {},
+        "description": {
+          "chatFlavor": ""
+        },
         "duration": {
           "units": "inst",
           "concentration": false,
@@ -63,28 +65,102 @@
         },
         "effects": [],
         "range": {
-          "override": false
+          "override": false,
+          "units": "self",
+          "special": ""
         },
         "target": {
           "template": {
             "contiguous": false,
-            "units": "m"
+            "units": "m",
+            "type": ""
           },
           "affects": {
-            "choice": false
+            "choice": false,
+            "type": ""
           },
           "override": false,
           "prompt": true
         },
         "uses": {
           "spent": 0,
-          "recovery": []
+          "recovery": [],
+          "max": "1"
         },
         "roll": {
           "prompt": false,
-          "visible": false
+          "visible": false,
+          "name": "",
+          "formula": ""
         },
-        "sort": 0
+        "sort": 0,
+        "name": "Recuperar 1 uso",
+        "img": "",
+        "appliedEffects": []
+      },
+      "dWZV48Y76Ckc5wvW": {
+        "type": "utility",
+        "_id": "dWZV48Y76Ckc5wvW",
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1"
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": "@scale.psi-warrior.psionic-energy-dice"
+        },
+        "name": "",
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "psionic-power",
@@ -101,7 +177,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/perception/orb-eye-scrying.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "f7Sr2p3TTWx9UkHs",
   "_stats": {
@@ -109,10 +192,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989863770,
-    "modifiedTime": 1741989863770,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742081294704,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!aGMAdZ9CqptKIwLF"

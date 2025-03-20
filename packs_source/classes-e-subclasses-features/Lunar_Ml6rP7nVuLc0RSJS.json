@@ -1,0 +1,22 @@
+{
+  "name": "Lunar",
+  "sorting": "a",
+  "folder": "1sBsd6xbHuyG1k8J",
+  "type": "Item",
+  "_id": "Ml6rP7nVuLc0RSJS",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!Ml6rP7nVuLc0RSJS"
+}

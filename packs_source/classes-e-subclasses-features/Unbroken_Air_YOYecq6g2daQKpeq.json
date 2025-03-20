@@ -1,0 +1,195 @@
+{
+  "_id": "YOYecq6g2daQKpeq",
+  "name": "Unbroken Air",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can create a blast of compressed air that strikes like a mighty fist. As an action, you can spend 2 ki points and choose a creature within 30 feet of you. That creature must make a Strength saving throw. On a failed save, the creature takes [[/damage 3d10 type=bludgeoning]] damage, plus an extra [[/damage 1d10 type=bludgeoning]] damage for each additional ki point you spend, and you can push the creature up to 20 feet away from you and knock it &amp;Reference[condition=prone]. On a successful save, the creature takes half as much damage, and you don't push it or knock it &amp;Reference[condition=prone].</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "mhNJEdWNsFQ9aoXF": {
+        "_id": "mhNJEdWNsFQ9aoXF",
+        "type": "save",
+        "name": "Save: 3d10 Bludgeoning Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 3,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "hEj2MpgMj0yN8Dja": {
+        "_id": "hEj2MpgMj0yN8Dja",
+        "type": "save",
+        "name": "Save: 1d10 Bludgeoning Damage",
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["str"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "half",
+          "parts": [
+            {
+              "types": ["bludgeoning"],
+              "number": 1,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "unbroken-air",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.4bebxipKZyLA0MzK",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167115296,
+    "modifiedTime": 1742167555103,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 293750,
+  "_key": "!items!YOYecq6g2daQKpeq"
+}

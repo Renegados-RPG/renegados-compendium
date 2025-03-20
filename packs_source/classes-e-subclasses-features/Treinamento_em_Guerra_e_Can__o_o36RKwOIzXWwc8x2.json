@@ -1,0 +1,60 @@
+{
+  "_id": "o36RKwOIzXWwc8x2",
+  "name": "Treinamento em Guerra e Canção",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "76",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p>When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.</p><p>You also gain proficiency in the &amp;Reference[skill=Performance] skill if you don't already have it.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Wizard 2 (Bladesinging)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "training-in-war-and-song-bladesinging",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/skills/melee/weapons-crossed-swords-white-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Eb3B3ydPej0qqeuI",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.5",
+    "createdTime": 1741372468067,
+    "modifiedTime": 1742422449983,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "ox2bho65epIfC0E1": 3
+  },
+  "_key": "!items!o36RKwOIzXWwc8x2"
+}

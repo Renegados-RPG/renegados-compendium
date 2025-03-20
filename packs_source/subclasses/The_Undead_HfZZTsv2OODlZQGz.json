@@ -1,0 +1,136 @@
+{
+  "_id": "HfZZTsv2OODlZQGz",
+  "name": "The Undead",
+  "type": "subclass",
+  "system": {
+    "identifier": "the-undead",
+    "classIdentifier": "warlock",
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"The Undead\" data-source=\"VRGR\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Van Richten’s Guide to Ravenloft, p30\">The Undead</span></h2><p>You've made a pact with a deathless being, a creature that defies the cycle and life and death, forsaking its mortal shell so it might eternally pursue its unfathomable ambitions. For such beings, time and morality are fleeting things, the concerns of those for whom grains of sand still rush through life's hourglass. Having once been mortal themselves, these ancient undead know firsthand the paths of ambition and the routes past the doors of death. They eagerly share this profane knowledge, along with other secrets, with those who work their will among the living.</p><p>Beings of this type include the demilich Acererak, the vampire tyrant Kas the Bloody-Handed, the githyanki lich-queen Vlaakith, the dracolich Dragotha, the undead pharaoh Ankhtepot, and the elusive Darklord, Azalin Rex.</p><div data-roll-name-ancestor=\"Expanded Spell List\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner\">Expanded Spell List</span></h3><p><em>1st-level Undead feature</em></p><p>The Undead lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Undead Expanded Spells\"><caption>Undead Expanded Spells</caption><thead><tr><th class=\"rd__th ve-col-2 ve-text-center \" data-rd-isroller=\"false\">Spell Level</th><th class=\"rd__th ve-col-10 \" data-rd-isroller=\"false\">Spells</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-2 ve-text-center \">1st</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.DInqnI65JCzaQ7f9], @UUID[Compendium.renegados-compendium.magias.Item.OoyAwPmZZayeaLRR]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">2nd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.oYsct95PfhhE4Caa], @UUID[Compendium.renegados-compendium.magias.Item.UgCVyp9tdt67xmfk]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">3rd</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.enBk6fPFEFHtwxcf], @UUID[Compendium.renegados-compendium.magias.Item.4uLaPub94ZIW2NRd]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">4th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.52bBpxkRUEWctfzt], @UUID[Compendium.renegados-compendium.magias.Item.svGTJy8DFvcGeVuM]</td></tr><tr><td class=\"rd__th ve-col-2 ve-text-center \">5th</td><td class=\"rd__th ve-col-10 \">@UUID[Compendium.renegados-compendium.magias.Item.zwC8facBpZbEC2cz], @UUID[Compendium.renegados-compendium.magias.Item.E3snlGTnLpFpZLU9]</td></tr></tbody></table></div><div data-roll-name-ancestor=\"Level 1: Form of Dread\" data-source=\"VRGR\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Van Richten’s Guide to Ravenloft, p30\">Level 1: Form of Dread</span></h3><p><em>1st-level Undead feature</em></p><p>You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain temporary hit points equal to [[/r 1d10]] + your warlock level.</li><li class=\"rd__li \">Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is &amp;Reference[condition=frightened] of you until the end of your next turn.</li><li class=\"rd__li \">You are immune to the &amp;Reference[condition=frightened] condition.</li></ul><p>You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>The appearance of your Form of Dread reflects some aspect of your patron. For example, your form could be a shroud of shadows forming the crown and robes of your lich patron, or your body might glow with glyphs from ancient funerary rites and be surrounded by desert winds, suggesting your mummy patron.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Grave Touched\" data-source=\"VRGR\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Van Richten’s Guide to Ravenloft, p30\">Level 6: Grave Touched</span></h3><p><em>6th-level Undead feature</em></p><p>Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.</p><p>In addition, once during each of your turns, when you hit a creature with an attack roll and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Necrotic Husk\" data-source=\"VRGR\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Van Richten’s Guide to Ravenloft, p30\">Level 10: Necrotic Husk</span></h3><p><em>10th-level Undead feature</em></p><p>Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.</p><p>In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to [[/damage 2d10]] + your warlock level. You then gain 1 level of &amp;Reference[condition=exhaustion]. Once you use this reaction, you can't do so again until you finish [[/r 1d4]] long rests.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Spirit Projection\" data-source=\"VRGR\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Van Richten’s Guide to Ravenloft, p30\">Level 14: Spirit Projection</span></h3><p><em>14th-level Undead feature</em></p><p>Your spirit can become untethered from your physical form. As an action, you can project your spirit from your body. The body you leave behind is &amp;Reference[condition=unconscious] and in a state of suspended animation.</p><p>Your spirit resembles your mortal form in almost every way, replicating your game statistics but not your possessions. Any damage or other effects that apply to your spirit or physical body affects the other. Your spirit can remain outside your body for up to 1 hour or until your @status[concentration] is broken (as if @status[concentration||concentrating] on a spell). When your projection ends, your spirit returns to your body or your body magically teleports to your spirit's space (your choice).</p><p>While projecting your spirit, you gain the following benefits:</p><ul class=\"rd__list\"><li class=\"rd__li \">Your spirit and body gain resistance to bludgeoning, piercing, and slashing damage.</li><li class=\"rd__li \">When you cast a spell of the conjuration or necromancy school, the spell doesn't require verbal or somatic components or material components that lack a gold cost.</li><li class=\"rd__li \">You have a flying speed equal to your walking speed and can hover. You can move through creatures and objects as if they were &amp;Reference[rule=difficultterrain]{difficult terrain}, but you take [[/damage 1d10 type=force]] damage if you end your turn inside a creature or an object.</li><li class=\"rd__li \">While you are using your Form of Dread, once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.</li></ul><p>Once you use this feature, you can't do so again until you finish a long rest.</p></div></div></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "30",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": ""
+    },
+    "advancement": [
+      {
+        "_id": "GUvLNwn4U9SGf8AY",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.CB9HbZvgxbIEAnlq",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1
+      },
+      {
+        "_id": "oqlvfB3xuxTy6CBl",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.8GBcv0okpsFGzGHc",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "kBoYYCd2Iz2EkCZH",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.uh7lGihqiPZfRO2T",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "Ze7z8Rv7AIwCThc9",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [],
+          "grants": ["dr:necrotic"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 10,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "GyBkFLZD7DyF3et1",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.Licc1kTE9UvvxhJL",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "",
+        "hint": ""
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "flags": {},
+  "effects": [],
+  "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
+  "folder": "WDf8ZSifIslQaVyU",
+  "_stats": {
+    "compendiumSource": "Item.ITZJYCwC42YBmqjM",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1741997689122,
+    "modifiedTime": 1741997689227,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 400000,
+  "_key": "!items!HfZZTsv2OODlZQGz"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "8GBcv0okpsFGzGHc",
+  "name": "Grave Touched",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "30",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>6th-level Undead feature</i></p><p>Your patron's powers have a profound effect on your body and magic. You don't need to eat, drink, or breathe.</p><p>In addition, once during each of your turns, when you hit a creature with an attack roll and roll damage against the creature, you can replace the damage type with necrotic damage. While you are using your Form of Dread, you can roll one additional damage die when determining the necrotic damage the target takes.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 6 (Undead)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "grave-touched",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/unholy/silhouette-robe-evil-glow.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ybUAkRVxAGMIuK8n",
+  "_stats": {
+    "compendiumSource": "Item.IfV3h9beH2NlefZR",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1741997224680,
+    "modifiedTime": 1741997224832,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 200000,
+  "_key": "!items!8GBcv0okpsFGzGHc"
+}

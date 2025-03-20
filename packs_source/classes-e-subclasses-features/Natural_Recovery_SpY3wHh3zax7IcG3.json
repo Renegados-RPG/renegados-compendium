@@ -123,7 +123,7 @@
   },
   "effects": [],
   "flags": {},
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/environment/wilderness/tree-spruce.webp",
   "folder": "ke0gTfP7Maxmevqs",
   "_stats": {
     "compendiumSource": null,
@@ -132,8 +132,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989852158,
-    "modifiedTime": 1741989852158,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1741999895166,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!SpY3wHh3zax7IcG3"

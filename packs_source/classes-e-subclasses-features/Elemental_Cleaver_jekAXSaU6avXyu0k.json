@@ -1,0 +1,140 @@
+{
+  "name": "Elemental Cleaver",
+  "type": "feat",
+  "_id": "jekAXSaU6avXyu0k",
+  "img": "icons/skills/melee/blade-tip-orange.webp",
+  "system": {
+    "activities": {
+      "LtDLJzaWDwD2HbTi": {
+        "_id": "LtDLJzaWDwD2HbTi",
+        "type": "damage",
+        "name": "",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "critical": {
+            "allow": false
+          },
+          "parts": [
+            {
+              "types": ["acid", "cold", "fire", "thunder", "lightning"],
+              "number": 1,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "uses": {
+      "spent": 0,
+      "recovery": [],
+      "max": ""
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>Característica do Caminho do Gigante de 6º Nível</i></p><p>Seu vínculo com o poder elemental dos gigantes aumenta, e você aprende a infundir armas com energia primordial.</p><p>Quando você entra em sua fúria, você pode escolher uma arma que está empunhando e infundi-la com um dos seguintes tipos de dano: ácido, frio, fogo, trovão ou raio. Enquanto você empunha a arma infundida durante sua fúria, o tipo de dano da arma muda para o tipo escolhido, ela causa [[/damage 1d6]] de dano extra do tipo escolhido quando acerta, e ela ganha a propriedade lançada, com alcance normal de 20 pés e alcance longo de 60 pés. Se você lançar a arma, ela reaparece em sua mão no instante em que acerta ou erra o alvo. Os benefícios da arma infundida são suprimidos enquanto uma criatura diferente de você a empunha.</p><p>Enquanto estiver em fúria e empunhando a arma infundida, você pode usar uma ação bônus para mudar o tipo de dano atual da arma infundida para outro dentre as opções de tipo de dano acima.</p></div>",
+      "chat": ""
+    },
+    "identifier": "elemental-cleaver",
+    "source": {
+      "revision": 1,
+      "rules": "2014",
+      "page": "11",
+      "license": ""
+    },
+    "advancement": [],
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    },
+    "properties": [],
+    "requirements": "Barbarian 6 (Giant)",
+    "type": {
+      "value": "class",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": "3P8fMNyMl9JfvO1V",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Elemental Cleaver"
+    },
+    "exportSource": {
+      "world": "fichas-renegados",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "4.3.5"
+    },
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.FsnUY5Yvsjarhfh4",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742168495279,
+    "modifiedTime": 1742168507699,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_key": "!items!jekAXSaU6avXyu0k"
+}

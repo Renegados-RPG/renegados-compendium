@@ -1,0 +1,133 @@
+{
+  "_id": "qGHhP8658jJlJckJ",
+  "name": "Banishing Arrow",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "29",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. The creature hit by the arrow must also succeed on a Charisma saving throw or be banished. While banished in this way, the target's speed is 0, and it is &amp;Reference[condition=incapacitated]. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.</p><p>After you reach 18th level in this class, a target also takes [[/damage 2d6 type=force]] damage when the arrow hits it.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "arcaneShot"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "d8iGfn7MSxUbJsRJ": {
+        "_id": "d8iGfn7MSxUbJsRJ",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["cha"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["force"],
+              "number": 2,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "banishing-arrow",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/weapons/ammunition/arrow-broadhead-glowing-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "n4hlcm1uqwTLFXSn",
+  "_stats": {
+    "compendiumSource": "Item.2eh1xQ3P63bEXVv7",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742070763446,
+    "modifiedTime": 1742070826040,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 100000,
+  "_key": "!items!qGHhP8658jJlJckJ"
+}

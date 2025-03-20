@@ -1,0 +1,197 @@
+{
+  "name": "Path of the Giant",
+  "type": "subclass",
+  "_id": "bEbTj6inPu2jTtBf",
+  "img": "icons/creatures/magical/construct-iron-stomping-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--0\"><div data-roll-name-ancestor=\"Path of the Giant\" data-source=\"BGG\" class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"3\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p11\">Path of the Giant</span></h2><p>Barbarians who walk the Path of the Giant draw strength from the same primal forces as giants. As they rage, these barbarians surge with elemental power and grow in size, taking on forms that evoke the glory of giants. Some barbarians look like oversized versions of themselves, perhaps with a hint of elemental energy flaring in their eyes and around their weapons. Others transform more dramatically, taking on the appearance of an actual giant or a form similar to an Elemental, wreathed in fire, frost, or lightning.</p><div data-roll-name-ancestor=\"Level 3: Giant Power\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"4\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p11\">Level 3: Giant Power</span></h3><p><em>3rd-Level Path of the Giant Feature</em></p><p>When you choose this path, you learn to speak, read, and write Giant or one other language of your choice if you already know Giant. Additionally, you learn a cantrip of your choice: either @UUID[Compendium.renegados-compendium.magias.Item.gXM0JdJyk40MLf7t] or @UUID[Compendium.renegados-compendium.magias.Item.dCVxh5iGFt5STqlC]. Wisdom is your spellcasting ability for this spell.</p></div><div data-roll-name-ancestor=\"Level 3: Giant's Havoc\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"5\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p11\">Level 3: Giant's Havoc</span></h3><p><em>3rd-Level Path of the Giant Feature</em></p><p>Your rages pull strength from the primal might of giants, transforming you into a hulking force of destruction. While raging, you gain the following benefits:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Crushing Throw\"><span class=\"bold rd__list-item-name\">Crushing Throw.</span> When you make a successful ranged attack with a thrown weapon using Strength, you can add your Rage Damage bonus to the attack's damage roll.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Giant Stature\"><span class=\"bold rd__list-item-name\">Giant Stature.</span> Your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change.</p></li></ul></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 6: Elemental Cleaver\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"6\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p11\">Level 6: Elemental Cleaver</span></h3><p><em>6th-Level Path of the Giant Feature</em></p><p>Your bond with the elemental might of giants grows, and you learn to infuse weapons with primordial energy.</p><p>When you enter your rage, you can choose one weapon that you are holding and infuse it with one of the following damage types: acid, cold, fire, thunder, or lightning. While you wield the infused weapon during your rage, the weapon's damage type changes to the chosen type, it deals an extra [[/damage 1d6]] damage of the chosen type when it hits, and it gains the thrown property, with a normal range of 20 feet and a long range of 60 feet. If you throw the weapon, it reappears in your hand the instant after it hits or misses a target. The infused weapon's benefits are suppressed while a creature other than you wields it.</p><p>While raging and holding the infused weapon, you can use a bonus action to change the infused weapon's current damage type to another one from the damage type options above.</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 10: Mighty Impel\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"7\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p12\">Level 10: Mighty Impel</span></h3><p><em>10th-Level Path of the Giant Feature</em></p><p>Your connection to giant strength allows you to hurl both allies and enemies on the battlefield. As a bonus action while raging, you can choose one Medium or smaller creature within your reach and move it to an unoccupied space you can see within 30 feet of yourself. An unwilling creature must succeed on a Strength saving throw (DC equals 8 + your proficiency bonus + your Strength modifier) to avoid the effect.</p><p>If, at the end of this movement, the thrown creature isn't on a surface or liquid that can support it, the creature falls, taking damage as normal and landing &amp;Reference[condition=prone].</p></div></div><div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Level 14: Demiurgic Colossus\" data-source=\"BGG\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"8\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Bigby Presents: Glory of the Giants, p12\">Level 14: Demiurgic Colossus</span></h3><p><em>14th-Level Path of the Giant Feature</em></p><p>The primordial power of your rage intensifies. When you rage, your reach increases by 10 feet, your size can increase to Large or Huge (your choice), and you can use your Mighty Impel to move creatures that are Large or smaller.</p><p>In addition, the extra damage dealt by your Elemental Cleaver feature increases to [[/r 2d6]].</p></div></div></div></div>",
+      "chat": ""
+    },
+    "identifier": "path-of-the-giant",
+    "source": {
+      "revision": 1,
+      "rules": "2014",
+      "page": "11",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "_id": "QgvN3NFpQAo0B12Q",
+        "type": "Trait",
+        "configuration": {
+          "allowReplacements": false,
+          "choices": [
+            {
+              "count": 1,
+              "pool": ["languages:standard:*", "languages:exotic:*"]
+            }
+          ],
+          "grants": ["languages:standard:giant"],
+          "mode": "default"
+        },
+        "value": {
+          "chosen": []
+        },
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "5qZC9siQ0bSHQAXi",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": false,
+          "choices": {
+            "3": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.dCVxh5iGFt5STqlC"
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.magias.Item.gXM0JdJyk40MLf7t"
+            }
+          ],
+          "spell": {
+            "ability": ["wis"],
+            "preparation": "atwill",
+            "uses": {
+              "max": "",
+              "per": "",
+              "requireSlot": false
+            }
+          },
+          "type": "spell",
+          "restriction": {
+            "level": "0"
+          }
+        },
+        "value": {
+          "added": {},
+          "replaced": {}
+        },
+        "title": "Giant Power Cantrip",
+        "hint": ""
+      },
+      {
+        "_id": "maoT08NfJ1bus2vW",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.hfWvjE4zPgjM1Gz9",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.z9eRS1bDIQqlhiaY",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "jmGn0T0ntmQALjdm",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.jekAXSaU6avXyu0k",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 6,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "PdFLXQf1YslrK2kl",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.2bFDFyeMPZhEr9ZH",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 10,
+        "title": "",
+        "hint": ""
+      },
+      {
+        "_id": "bGRmXZyqDat7fspZ",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.J3yYmlOAkn1z3rLH",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 14,
+        "title": "",
+        "hint": ""
+      }
+    ],
+    "classIdentifier": "barbarian",
+    "spellcasting": {
+      "progression": "none",
+      "preparation": {
+        "formula": ""
+      },
+      "ability": "wis"
+    }
+  },
+  "effects": [],
+  "folder": "9DnVWaj6aDlw8wK3",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "flags": {
+    "babele": {
+      "translated": true,
+      "hasTranslation": false,
+      "originalName": "Path of the Giant"
+    },
+    "exportSource": {
+      "world": "fichas-renegados",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "4.3.5"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.VKzq43iQH5yQHFwp",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742168437499,
+    "modifiedTime": 1742169548372,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_key": "!items!bEbTj6inPu2jTtBf"
+}

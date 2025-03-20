@@ -20,7 +20,7 @@
       "max": "@classes.druid.levels",
       "recovery": [
         {
-          "period": "charges",
+          "period": "lr",
           "type": "recoverAll"
         }
       ],
@@ -105,10 +105,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989852158,
-    "modifiedTime": 1741989852158,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1741998580402,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!KGfVTkdHLqFQFwO9"

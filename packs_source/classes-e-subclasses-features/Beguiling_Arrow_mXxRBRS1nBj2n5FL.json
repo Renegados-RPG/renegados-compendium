@@ -1,0 +1,133 @@
+{
+  "_id": "mXxRBRS1nBj2n5FL",
+  "name": "Beguiling Arrow",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "XGE",
+      "page": "29",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>Your enchantment magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra [[/damage 2d6 type=psychic]] damage, and choose one of your allies within 30 feet of the target. The target must succeed on a Wisdom saving throw, or it is &amp;Reference[condition=charmed] by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the &amp;Reference[condition=charmed] target, deals damage to it, or forces it to make a saving throw.</p><p>The psychic damage increases to [[/damage 4d6]] when you reach 18th level in this class.</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "arcaneShot"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "UNNPcyZEd6AfopnI": {
+        "_id": "UNNPcyZEd6AfopnI",
+        "type": "save",
+        "name": "",
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "value": "1",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["wis"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["psychic"],
+              "number": 2,
+              "denomination": 6,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "beguiling-arrow",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/weapons/ammunition/arrows-fletching.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "n4hlcm1uqwTLFXSn",
+  "_stats": {
+    "compendiumSource": "Item.TR6mhlNtzqVhYAAz",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742070765381,
+    "modifiedTime": 1742070914307,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 200000,
+  "_key": "!items!mXxRBRS1nBj2n5FL"
+}

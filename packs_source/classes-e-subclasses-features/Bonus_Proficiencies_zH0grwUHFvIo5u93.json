@@ -1,0 +1,60 @@
+{
+  "_id": "zH0grwUHFvIo5u93",
+  "name": "Bonus Proficiencies",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "TCoE",
+      "page": "44",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>3rd-level Rune Knight feature</i></p><p>You gain proficiency with @item[smith's tools|PHB], and you learn to speak, read, and write @language[Giant].</p></div>",
+      "chat": ""
+    },
+    "requirements": "Fighter 3 (Rune Knight)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "bonus-proficiencies",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "SBoB7TTtiwTqAr8e",
+  "_stats": {
+    "compendiumSource": "Item.tMjdzPFOKrmWBPRa",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742082340513,
+    "modifiedTime": 1742082340712,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 600000,
+  "_key": "!items!zH0grwUHFvIo5u93"
+}

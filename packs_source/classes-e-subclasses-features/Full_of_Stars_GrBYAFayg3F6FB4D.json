@@ -27,7 +27,58 @@
     },
     "properties": [],
     "advancement": [],
-    "activities": {},
+    "activities": {
+      "jL9xXP92IYU9IoDE": {
+        "type": "utility",
+        "_id": "jL9xXP92IYU9IoDE",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [
+          {
+            "_id": "XpC8KshCC7c7Bcwe"
+          }
+        ],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
     "identifier": "full-of-stars",
     "cover": null,
     "crewed": false,
@@ -42,18 +93,87 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/light/orbs-smoke-pink.webp",
-  "flags": {},
-  "effects": [],
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
+  "effects": [
+    {
+      "name": "Full of Stars",
+      "img": "icons/magic/light/orbs-smoke-pink.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.GrBYAFayg3F6FB4D",
+      "transfer": false,
+      "_id": "XpC8KshCC7c7Bcwe",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "slashing",
+          "priority": null
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "bludgeoning",
+          "priority": null
+        },
+        {
+          "key": "system.traits.dr.value",
+          "mode": 2,
+          "value": "piercing",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1741999662234,
+        "modifiedTime": 1741999695404,
+        "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+      },
+      "_key": "!items.effects!GrBYAFayg3F6FB4D.XpC8KshCC7c7Bcwe"
+    }
+  ],
   "folder": "G95xMGeL8DgMAp0X",
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989852158,
-    "modifiedTime": 1741989852158,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1741999662308,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!GrBYAFayg3F6FB4D"

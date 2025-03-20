@@ -80,6 +80,72 @@
           "prompt": false,
           "visible": false
         }
+      },
+      "SSTjssgox3W0fvvA": {
+        "type": "heal",
+        "name": "Urso",
+        "_id": "SSTjssgox3W0fvvA",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "healing": {
+          "number": null,
+          "denomination": "",
+          "types": ["temphp"],
+          "custom": {
+            "enabled": true,
+            "formula": "5 + @classes.druid.level"
+          },
+          "scaling": {
+            "number": 1
+          },
+          "bonus": ""
+        },
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "spirit-totem",
@@ -96,7 +162,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/commodities/treasure/trinket-totem-bone-green.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "LtadliRhCGEkxdR7",
   "_stats": {
@@ -104,10 +177,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989852158,
-    "modifiedTime": 1741989852158,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742000503606,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!qYNmz1RcR3PObgoA"

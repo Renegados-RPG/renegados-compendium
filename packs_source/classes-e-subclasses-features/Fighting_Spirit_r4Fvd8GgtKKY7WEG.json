@@ -33,13 +33,15 @@
     "properties": [],
     "advancement": [],
     "activities": {
-      "IJESHkNU8nxh2SIL": {
-        "_id": "IJESHkNU8nxh2SIL",
-        "type": "utility",
+      "6sHjTyuhfXw1ITIv": {
+        "type": "heal",
+        "_id": "6sHjTyuhfXw1ITIv",
+        "sort": 0,
         "activation": {
           "type": "bonus",
-          "value": 1,
-          "override": false
+          "value": null,
+          "override": false,
+          "condition": ""
         },
         "consumption": {
           "scaling": {
@@ -48,14 +50,15 @@
           "spellSlot": true,
           "targets": [
             {
-              "target": "",
-              "value": "1",
               "type": "itemUses",
-              "scaling": {}
+              "value": "1",
+              "target": ""
             }
           ]
         },
-        "description": {},
+        "description": {
+          "chatFlavor": ""
+        },
         "duration": {
           "units": "inst",
           "concentration": false,
@@ -63,28 +66,44 @@
         },
         "effects": [],
         "range": {
-          "override": false
+          "override": false,
+          "units": "self",
+          "special": ""
         },
         "target": {
           "template": {
             "contiguous": false,
-            "units": "m"
+            "units": "m",
+            "type": ""
           },
           "affects": {
-            "choice": false
+            "choice": false,
+            "type": ""
           },
           "override": false,
           "prompt": true
         },
         "uses": {
           "spent": 0,
-          "recovery": []
+          "recovery": [],
+          "max": ""
         },
-        "roll": {
-          "prompt": false,
-          "visible": false
+        "healing": {
+          "number": null,
+          "denomination": "",
+          "types": ["temphp"],
+          "custom": {
+            "enabled": true,
+            "formula": "@scale.samurai.temporary-hit-points"
+          },
+          "scaling": {
+            "number": 1
+          },
+          "bonus": ""
         },
-        "sort": 0
+        "name": "Usar",
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "fighting-spirit",
@@ -101,7 +120,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/weapons/swords/sword-katana.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "aD9v1glnhkUcD7ym",
   "_stats": {
@@ -109,10 +135,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989863770,
-    "modifiedTime": 1741989863770,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742081786691,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!r4Fvd8GgtKKY7WEG"

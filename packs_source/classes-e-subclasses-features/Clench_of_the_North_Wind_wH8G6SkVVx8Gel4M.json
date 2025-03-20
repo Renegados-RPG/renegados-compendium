@@ -1,0 +1,60 @@
+{
+  "_id": "wH8G6SkVVx8Gel4M",
+  "name": "Clench of the North Wind",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: 6th level</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can spend 3 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.XcrEHiBrF54Bcnjd].</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "prerequisites": {
+      "level": 6,
+      "repeatable": false
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "clench-of-the-north-wind",
+    "cover": null,
+    "crewed": false,
+    "enchant": {}
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/control/control-influence-puppet.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.3CxBCPovl36WBs4m",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167087612,
+    "modifiedTime": 1742167280618,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 200000,
+  "_key": "!items!wH8G6SkVVx8Gel4M"
+}

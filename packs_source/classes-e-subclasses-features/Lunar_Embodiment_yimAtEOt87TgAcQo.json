@@ -1,0 +1,65 @@
+{
+  "name": "Lunar Embodiment",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "DSotDQ",
+      "page": "34",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><div data-roll-name-ancestor=\"Lunar Embodiment\" data-source=\"DSotDQ\" class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"1\"><span class=\"entry-title-inner help-subtle\" title=\"Source: Dragonlance: Shadow of the Dragon Queen, p34\">Lunar Embodiment</span></h3><p><em>1st-Level Lunar Sorcery Feature</em></p><p>You learn additional spells when you reach certain levels in this class, as shown on the Lunar Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.</p><table class=\"w-100 rd__table  stripe-odd-table\" data-roll-name-ancestor=\"Lunar Spells\"><caption>Lunar Spells</caption><thead><tr><th class=\"rd__th ve-col-1-1 ve-text-center \" data-rd-isroller=\"false\">Sorcerer Level</th><th class=\"rd__th ve-col-3-3 \" data-rd-isroller=\"false\">Full Moon Spell</th><th class=\"rd__th ve-col-3-3 \" data-rd-isroller=\"false\">New Moon Spell</th><th class=\"rd__th ve-col-3-3 \" data-rd-isroller=\"false\">Crescent Moon Spell</th></tr></thead><tbody><tr><td class=\"rd__th ve-col-1-1 ve-text-center \">1st</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.LUKeOMicRzFXa2wr]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.eJIkhe9bBljMz1eC]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.FmZcfh4h2V1VX6QL]</td></tr><tr><td class=\"rd__th ve-col-1-1 ve-text-center \">3rd</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.bc0gULngyESb3CEo]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.oYsct95PfhhE4Caa]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.FMEA7lATmognWFYI]</td></tr><tr><td class=\"rd__th ve-col-1-1 ve-text-center \">5th</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.ZZeFyNktRmVEqrar]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.d4DYNAzTAWizVKAd]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.enBk6fPFEFHtwxcf]</td></tr><tr><td class=\"rd__th ve-col-1-1 ve-text-center \">7th</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.52bBpxkRUEWctfzt]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.lRscppT0uf47ONzO]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.heqrgzC7CzZdx6mL]</td></tr><tr><td class=\"rd__th ve-col-1-1 ve-text-center \">9th</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.Pa4GBQjToSD2yIYe]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.sDZF4mIrSDtikM4Z]</td><td class=\"rd__th ve-col-3-3 \">@UUID[Compendium.renegados-compendium.magias.Item.ejB2hb9rVR9hryLZ]</td></tr></tbody></table><p>Whenever you finish a long rest, you can choose what lunar phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon. While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.</p><h3 class=\"rd__h rd__h--2\" data-title-index=\"2\"></h3></div></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 1 (Lunar)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "lunar-sorcery",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/nature/moon-crescent.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Ml6rP7nVuLc0RSJS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742246227387,
+    "modifiedTime": 1742246389877,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_id": "yimAtEOt87TgAcQo",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "_key": "!items!yimAtEOt87TgAcQo"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Lunar Empowerment",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "DSotDQ",
+      "page": "35",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>14th-Level Lunar Sorcery Feature</i></p><p>The power of a lunar phase saturates your being. While you are in a Lunar Embodiment phase, you also gain the following benefit associated with that phase:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Full Moon\"><span class=\"bold rd__list-item-name\">Full Moon.</span> You can use a bonus action to shed bright light in a 10-foot radius and dim light for an additional 10 feet or to douse the light. In addition, you and creatures of your choice have advantage on Intelligence (&amp;Reference[skill=Investigation]) and Wisdom (&amp;Reference[skill=Perception]) checks while within the bright light you shed.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"New Moon\"><span class=\"bold rd__list-item-name\">New Moon.</span> You have advantage on Dexterity (&amp;Reference[skill=Stealth]) checks. In addition, while you are entirely in darkness, attack rolls have disadvantage against you.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Crescent Moon\"><span class=\"bold rd__list-item-name\">Crescent Moon.</span> You have resistance to necrotic and radiant damage.</p></li></ul></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 14 (Lunar)",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "rrFp7UmfcqPluigk": {
+        "_id": "rrFp7UmfcqPluigk",
+        "type": "utility",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "lunar-empowerment",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/light/beam-rays-blue.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Ml6rP7nVuLc0RSJS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742246227387,
+    "modifiedTime": 1742246605815,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_id": "SbnG2SODGmr2mi4a",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "_key": "!items!SbnG2SODGmr2mi4a"
+}

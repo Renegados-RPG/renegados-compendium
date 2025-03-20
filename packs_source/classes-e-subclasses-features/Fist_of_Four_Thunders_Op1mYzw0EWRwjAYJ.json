@@ -1,0 +1,60 @@
+{
+  "_id": "Op1mYzw0EWRwjAYJ",
+  "name": "Fist of Four Thunders",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can spend 2 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.eblKmCn9x7A9n3IM].</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "fist-of-four-thunders",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/lightning/barrier-shield-crackling-orb-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.3ahqHBZvWWPtZO1Q",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167097519,
+    "modifiedTime": 1742167350761,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 275000,
+  "_key": "!items!Op1mYzw0EWRwjAYJ"
+}

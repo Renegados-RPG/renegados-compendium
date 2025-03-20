@@ -1,0 +1,207 @@
+{
+  "name": "Lunar Phenomenon",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "DSotDQ",
+      "page": "35",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>18th-Level Lunar Sorcery feature</i></p><p>As a bonus action, you can tap into a special power of your current Lunar Embodiment phase. Alternatively, as part of the bonus action you take to change your lunar phase using the Waxing and Waning feature, you can immediately use the power of the lunar phase you are entering:</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Full Moon\"><span class=\"bold rd__list-item-name\">Full Moon.</span> You radiate moonlight for a moment. Each creature of your choice within 30 feet of you must succeed on a Constitution saving throw against your spell save DC or be &amp;Reference[condition=blinded] until the end of its next turn. In addition, one creature of your choice in that area regains [[/r 3d8]] hit points.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"New Moon\"><span class=\"bold rd__list-item-name\">New Moon.</span> You momentarily emanate gloom. Each creature of your choice within 30 feet of you must succeed on a Dexterity saving throw against your spell save DC or take [[/damage 3d10 type=necrotic]] damage and have its speed reduced to 0 until the end of its next turn. In addition, you become &amp;Reference[condition=invisible] until the end of your next turn, or until immediately after you make an attack roll or cast a spell.</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\" data-roll-name-ancestor=\"Crescent Moon\"><span class=\"bold rd__list-item-name\">Crescent Moon.</span> You can magically teleport to an unoccupied space you can see within 60 feet of yourself. You can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice that you can see within 5 feet of your destination space. In addition, you and that creature gain resistance to all damage until the start of your next turn.</p></li></ul><p>Once you use one of these bonus action benefits, you can't use that benefit again until you finish a long rest, unless you spend 5 sorcery points to use it again.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Sorcerer 18 (Lunar)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "qAR1sbjYzo5DYWuH": {
+        "_id": "qAR1sbjYzo5DYWuH",
+        "type": "save",
+        "name": "Save: 3d10 Necrotic Damage",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "18",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["con"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": [
+            {
+              "types": ["necrotic"],
+              "number": 3,
+              "denomination": 10,
+              "bonus": "",
+              "scaling": {
+                "mode": "",
+                "number": 1
+              },
+              "custom": {
+                "enabled": false
+              }
+            }
+          ]
+        },
+        "sort": 0
+      },
+      "Xa5e35D86ZjFVELP": {
+        "_id": "Xa5e35D86ZjFVELP",
+        "type": "heal",
+        "name": "Heal",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "value": "18",
+          "units": "ft",
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "number": 3,
+          "denomination": 8,
+          "bonus": "",
+          "scaling": {
+            "mode": "",
+            "number": 1
+          },
+          "custom": {
+            "enabled": false
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "lunar-phenomenon",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "img": "icons/magic/symbols/star-rising-purple.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "Ml6rP7nVuLc0RSJS",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742246227387,
+    "modifiedTime": 1742246667056,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "_id": "oaNOF9TeVcB4ttI7",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "_key": "!items!oaNOF9TeVcB4ttI7"
+}

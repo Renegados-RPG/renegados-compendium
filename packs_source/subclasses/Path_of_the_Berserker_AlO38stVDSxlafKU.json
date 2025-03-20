@@ -116,11 +116,11 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741844931708,
-    "modifiedTime": 1741847494686,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742169538383,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
-  "sort": 0,
+  "sort": 100000,
   "_key": "!items!AlO38stVDSxlafKU"
 }

@@ -44,12 +44,14 @@
           "spellSlot": true,
           "targets": [
             {
-              "value": "1",
-              "scaling": {}
+              "type": "activityUses",
+              "value": "1"
             }
           ]
         },
-        "description": {},
+        "description": {
+          "chatFlavor": ""
+        },
         "duration": {
           "units": "inst",
           "concentration": false,
@@ -57,28 +59,38 @@
         },
         "effects": [],
         "range": {
-          "override": false
+          "override": false,
+          "units": "self",
+          "special": ""
         },
         "target": {
           "template": {
             "contiguous": false,
-            "units": "m"
+            "units": "m",
+            "type": ""
           },
           "affects": {
-            "choice": false
+            "choice": false,
+            "type": ""
           },
           "override": false,
           "prompt": true
         },
         "uses": {
           "spent": 0,
-          "recovery": []
+          "recovery": [],
+          "max": ""
         },
         "roll": {
           "prompt": false,
-          "visible": false
+          "visible": false,
+          "name": "",
+          "formula": "@scale.psi-warrior.psionic-energy-dice + @abilities.int.mod"
         },
-        "sort": 0
+        "sort": 0,
+        "name": "",
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "protective-field",
@@ -95,7 +107,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/defensive/barrier-shield-dome-blue-purple.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "f7Sr2p3TTWx9UkHs",
   "_stats": {
@@ -103,10 +122,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989863770,
-    "modifiedTime": 1741989863770,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742081353026,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!Y3o1Ijup6mZvQGfy"

@@ -113,7 +113,7 @@
   },
   "effects": [],
   "flags": {},
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/magic/nature/dreamcatcher-green.webp",
   "folder": "ke0gTfP7Maxmevqs",
   "_stats": {
     "compendiumSource": null,
@@ -122,8 +122,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989852158,
-    "modifiedTime": 1741989852158,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742000111103,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!3vQnEcBAW7WuKEOR"

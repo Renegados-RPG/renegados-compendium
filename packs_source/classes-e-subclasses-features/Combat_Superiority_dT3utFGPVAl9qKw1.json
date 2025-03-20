@@ -23,7 +23,8 @@
           "type": "recoverAll"
         }
       ],
-      "spent": 0
+      "spent": 0,
+      "max": "@scale.battle-master.combat-superiority"
     },
     "type": {
       "value": "class",
@@ -90,6 +91,70 @@
           "parts": []
         },
         "sort": 0
+      },
+      "of7PUANpVlMSQyiZ": {
+        "type": "utility",
+        "_id": "of7PUANpVlMSQyiZ",
+        "sort": 0,
+        "activation": {
+          "type": "",
+          "value": null,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "type": "itemUses",
+              "value": "1"
+            }
+          ]
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false,
+          "units": "self",
+          "special": ""
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m",
+            "type": ""
+          },
+          "affects": {
+            "choice": false,
+            "type": ""
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false,
+          "name": "",
+          "formula": "@scale.battle-master.superiority-dice"
+        },
+        "name": "",
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "combat-superiority",
@@ -106,7 +171,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "XWANshmKfEuzNdCz",
   "_stats": {
@@ -114,10 +186,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989863770,
-    "modifiedTime": 1741989863770,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742079329706,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!dT3utFGPVAl9qKw1"

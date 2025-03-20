@@ -1,0 +1,115 @@
+{
+  "_id": "uh7lGihqiPZfRO2T",
+  "name": "Necrotic Husk",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "30",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>10th-level Undead feature</i></p><p>Your connection to undeath and necrotic energy now saturates your body. You have resistance to necrotic damage. If you are transformed using your Form of Dread, you instead become immune to necrotic damage.</p><p>In addition, when you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and cause your body to erupt with deathly energy. Each creature of your choice that is within 30 feet of you takes necrotic damage equal to [[/damage 2d10]] + your warlock level. You then gain 1 level of &amp;Reference[condition=exhaustion]. Once you use this reaction, you can't do so again until you finish [[/r 1d4]] long rests.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 10 (Undead)",
+    "uses": {
+      "max": "1",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "formula",
+          "formula": "1d4"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "dnd5eactivity000": {
+        "type": "utility",
+        "target": {
+          "template": {
+            "size": "30",
+            "units": "ft",
+            "type": "radius",
+            "contiguous": false
+          },
+          "prompt": true,
+          "affects": {
+            "choice": false
+          },
+          "override": false
+        },
+        "_id": "dnd5eactivity000",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": null,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": []
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "roll": {
+          "prompt": false,
+          "visible": false
+        }
+      }
+    },
+    "identifier": "necrotic-husk",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/unholy/hand-fire-skeleton-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ybUAkRVxAGMIuK8n",
+  "_stats": {
+    "compendiumSource": "Item.FOkClniWRrwUaEzZ",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1741997277038,
+    "modifiedTime": 1741997520899,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 150000,
+  "_key": "!items!uh7lGihqiPZfRO2T"
+}

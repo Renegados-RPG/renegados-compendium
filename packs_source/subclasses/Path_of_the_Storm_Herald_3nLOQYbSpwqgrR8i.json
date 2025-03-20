@@ -241,11 +241,11 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741844931708,
-    "modifiedTime": 1741847035793,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742169550201,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
-  "sort": 0,
+  "sort": 600000,
   "_key": "!items!3nLOQYbSpwqgrR8i"
 }

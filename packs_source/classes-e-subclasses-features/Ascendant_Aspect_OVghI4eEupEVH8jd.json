@@ -109,7 +109,7 @@
     "default": 0,
     "ox2bho65epIfC0E1": 3
   },
-  "img": "systems/dnd5e/icons/svg/items/feature.svg",
+  "img": "icons/creatures/reptiles/dragon-winged-blue.webp",
   "flags": {},
   "effects": [],
   "folder": "iHBsPzGkxlVhcciV",
@@ -120,8 +120,8 @@
     "systemId": "dnd5e",
     "systemVersion": "4.3.5",
     "createdTime": 1741989873050,
-    "modifiedTime": 1741989873050,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742166336864,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!OVghI4eEupEVH8jd"

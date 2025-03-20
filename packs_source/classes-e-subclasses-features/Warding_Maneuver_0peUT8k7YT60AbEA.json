@@ -17,7 +17,7 @@
     },
     "requirements": "Fighter 7 (Cavalier)",
     "uses": {
-      "max": "1",
+      "max": "@abilities.con.mod",
       "recovery": [
         {
           "period": "lr",
@@ -49,14 +49,15 @@
           "spellSlot": true,
           "targets": [
             {
-              "target": "",
-              "value": "1",
               "type": "itemUses",
-              "scaling": {}
+              "value": "1",
+              "target": ""
             }
           ]
         },
-        "description": {},
+        "description": {
+          "chatFlavor": ""
+        },
         "duration": {
           "units": "inst",
           "concentration": false,
@@ -64,28 +65,38 @@
         },
         "effects": [],
         "range": {
-          "override": false
+          "override": false,
+          "units": "self",
+          "special": ""
         },
         "target": {
           "template": {
             "contiguous": false,
-            "units": "m"
+            "units": "m",
+            "type": ""
           },
           "affects": {
-            "choice": false
+            "choice": false,
+            "type": ""
           },
           "override": false,
           "prompt": true
         },
         "uses": {
           "spent": 0,
-          "recovery": []
+          "recovery": [],
+          "max": ""
         },
         "roll": {
           "prompt": false,
-          "visible": false
+          "visible": false,
+          "name": "",
+          "formula": "1d8"
         },
-        "sort": 0
+        "sort": 0,
+        "name": "",
+        "img": "",
+        "appliedEffects": []
       }
     },
     "identifier": "warding-maneuver",
@@ -102,7 +113,14 @@
     "ox2bho65epIfC0E1": 3
   },
   "img": "icons/magic/defensive/shield-barrier-glowing-blue.webp",
-  "flags": {},
+  "flags": {
+    "dnd5e": {
+      "riders": {
+        "activity": [],
+        "effect": []
+      }
+    }
+  },
   "effects": [],
   "folder": "nlZFhVcRgQxJz7xr",
   "_stats": {
@@ -110,10 +128,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "dnd5e",
-    "systemVersion": "4.3.5",
+    "systemVersion": "4.3.6",
     "createdTime": 1741989863770,
-    "modifiedTime": 1741989863770,
-    "lastModifiedBy": "ox2bho65epIfC0E1"
+    "modifiedTime": 1742079662333,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
   },
   "sort": 0,
   "_key": "!items!0peUT8k7YT60AbEA"

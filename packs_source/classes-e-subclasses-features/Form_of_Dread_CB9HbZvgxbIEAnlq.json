@@ -1,0 +1,188 @@
+{
+  "_id": "CB9HbZvgxbIEAnlq",
+  "name": "Form of Dread",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "VRGR",
+      "page": "30",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\"><p><i>1st-level Undead feature</i></p><p>You manifest an aspect of your patron's dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:</p><ul class=\"rd__list\"><li class=\"rd__li \">You gain temporary hit points equal to [[/r 1d10]] + your warlock level.</li><li class=\"rd__li \">Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is &amp;Reference[condition=frightened] of you until the end of your next turn.</li><li class=\"rd__li \">You are immune to the &amp;Reference[condition=frightened] condition.</li></ul><p>You can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><p>The appearance of your Form of Dread reflects some aspect of your patron. For example, your form could be a shroud of shadows forming the crown and robes of your lich patron, or your body might glow with glyphs from ancient funerary rites and be surrounded by desert winds, suggesting your mummy patron.</p></div>",
+      "chat": ""
+    },
+    "requirements": "Warlock 1 (Undead)",
+    "uses": {
+      "max": "@prof",
+      "recovery": [
+        {
+          "period": "lr",
+          "type": "recoverAll"
+        }
+      ],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {
+      "Xahklf8Qycc9Uowa": {
+        "_id": "Xahklf8Qycc9Uowa",
+        "type": "save",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "save": {
+          "ability": ["wis"],
+          "dc": {
+            "calculation": "spellcasting"
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        },
+        "sort": 0
+      },
+      "sauSgTrbumItIDqr": {
+        "_id": "sauSgTrbumItIDqr",
+        "type": "heal",
+        "name": "",
+        "activation": {
+          "type": "bonus",
+          "value": 1,
+          "override": false
+        },
+        "consumption": {
+          "scaling": {
+            "allowed": false
+          },
+          "spellSlot": true,
+          "targets": [
+            {
+              "target": "",
+              "value": "1",
+              "type": "itemUses",
+              "scaling": {}
+            }
+          ]
+        },
+        "description": {},
+        "duration": {
+          "units": "inst",
+          "concentration": false,
+          "override": false
+        },
+        "effects": [],
+        "range": {
+          "override": false
+        },
+        "target": {
+          "template": {
+            "contiguous": false,
+            "units": "m"
+          },
+          "affects": {
+            "choice": false
+          },
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "recovery": []
+        },
+        "healing": {
+          "types": ["healing"],
+          "number": 1,
+          "denomination": 10,
+          "bonus": "",
+          "scaling": {
+            "mode": "",
+            "number": 1
+          },
+          "custom": {
+            "enabled": false
+          }
+        },
+        "sort": 0
+      }
+    },
+    "identifier": "form-of-dread",
+    "cover": null,
+    "crewed": false,
+    "enchant": {},
+    "prerequisites": {
+      "level": null,
+      "repeatable": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/unholy/hand-light-pink.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "ybUAkRVxAGMIuK8n",
+  "_stats": {
+    "compendiumSource": "Item.mzb7iDSZ2IKoQzxG",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1741997168260,
+    "modifiedTime": 1741997168450,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 100000,
+  "_key": "!items!CB9HbZvgxbIEAnlq"
+}

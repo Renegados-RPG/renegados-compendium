@@ -43,7 +43,57 @@
   },
   "img": "icons/magic/movement/chevrons-down-yellow.webp",
   "flags": {},
-  "effects": [],
+  "effects": [
+    {
+      "name": "Aura of Alacrity",
+      "img": "icons/magic/movement/chevrons-down-yellow.webp",
+      "origin": "Compendium.renegados-compendium.classes-e-subclasses-features.Item.B3ZowtAChrD35uzx",
+      "_id": "OYgmcsq8NFTReYEV",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.movement.walk",
+          "mode": 2,
+          "value": "3",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "statuses": []
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742011398867,
+        "modifiedTime": 1742011422885,
+        "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+      },
+      "_key": "!items.effects!B3ZowtAChrD35uzx.OYgmcsq8NFTReYEV"
+    }
+  ],
   "folder": "60xLA0KO7nEJaqpA",
   "_stats": {
     "compendiumSource": null,

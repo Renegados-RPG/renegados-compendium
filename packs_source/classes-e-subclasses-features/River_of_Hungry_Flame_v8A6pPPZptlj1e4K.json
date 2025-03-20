@@ -1,0 +1,60 @@
+{
+  "_id": "v8A6pPPZptlj1e4K",
+  "name": "River of Hungry Flame",
+  "type": "feat",
+  "system": {
+    "source": {
+      "custom": "",
+      "book": "PHB'14",
+      "page": "81",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "description": {
+      "value": "<div><div>\n\t\t\t\t\t\t<p>Prerequisite: 17th level</p>\n\t\t\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You can spend 5 ki points to cast @UUID[Compendium.renegados-compendium.magias.Item.VLVLp92QAZm5LMZF].</p></div>\n\t\t\t\t\t</div></div>",
+      "chat": ""
+    },
+    "requirements": "",
+    "prerequisites": {
+      "level": 17,
+      "repeatable": false
+    },
+    "uses": {
+      "max": "",
+      "recovery": [],
+      "spent": 0
+    },
+    "type": {
+      "value": "class",
+      "subtype": "elementalDiscipline"
+    },
+    "properties": [],
+    "advancement": [],
+    "activities": {},
+    "identifier": "river-of-hungry-flame",
+    "cover": null,
+    "crewed": false,
+    "enchant": {}
+  },
+  "ownership": {
+    "default": 0,
+    "ZOCqPrVPy6aj78uU": 3
+  },
+  "img": "icons/magic/fire/blast-jet-stream-embers-orange.webp",
+  "flags": {},
+  "effects": [],
+  "folder": "O4rzDcmWtvaVMBBP",
+  "_stats": {
+    "compendiumSource": "Item.ieATEXjGjptw3gci",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.3.6",
+    "createdTime": 1742167109606,
+    "modifiedTime": 1742167470358,
+    "lastModifiedBy": "ZOCqPrVPy6aj78uU"
+  },
+  "sort": 264063,
+  "_key": "!items!v8A6pPPZptlj1e4K"
+}
