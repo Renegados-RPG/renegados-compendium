@@ -253,11 +253,11 @@
       "description": "<p>Um pequeno sino para você bater.</p>"
     },
     "Belt of Cloud Giant Strength": {
-      "name": "Cinturão da Força de Gigante das Nuvens",
+      "name": "Cinturão da Força do Gigante das Nuvens",
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 27. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Cloud Giant Strength": {
-          "name": "Cinturão da Força de Gigante das Nuvens"
+          "name": "Cinturão da Força do Gigante das Nuvens"
         }
       }
     },
@@ -270,30 +270,30 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 25. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Fire Giant Strength": {
-          "name": "Cinturão da Força de Gigante do Fogo"
+          "name": "Cinturão da Força do Gigante do Fogo"
         }
       }
     },
     "Belt of Frost Giant Strength": {
-      "name": "Cinturão da Força de Gigante do Gelo",
+      "name": "Cinturão da Força do Gigante do Gelo",
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 23. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>\n<p>O cinturão de força de gigante da pedra e o cinturão de força de gigante do gelo diferem em aparência, mas têm o mesmo efeito.</p>",
       "effects": {
         "Belt of Frost Giant Strength": {
-          "name": "Cinturão da Força de Gigante do Gelo"
+          "name": "Cinturão da Força do Gigante do Gelo"
         }
       }
     },
     "Belt of Hill Giant Strength": {
-      "name": "Cinturão da Força de Gigante da Colina",
+      "name": "Cinturão da Força do Gigante da Colina",
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 21. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Hill Giant Strength": {
-          "name": "Cinturão da Força de Gigante da Colina"
+          "name": "Cinturão da Força do Gigante da Colina"
         }
       }
     },
     "Belt of Stone Giant Strength": {
-      "name": "Cinturão da Força de Gigante da Pedra",
+      "name": "Cinturão da Força do Gigante da Pedra",
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 23. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>\n<p>O cinturão de força de gigante da pedra e o cinturão de força de gigante do gelo diferem em aparência, mas têm o mesmo efeito.</p>"
     },
     "Belt of Storm Giant Strength": {
@@ -301,7 +301,7 @@
       "description": "<p><em>Item Maravilhoso (requer sintonização)</em></p>\n<p>Enquanto estiver usando esse cinturão, seu valor de Força se altera para 29. O cinturão não tem efeito em você se sua Força for igual ou maior do que o valor conferido pelo item.</p>",
       "effects": {
         "Belt of Storm Giant Strength": {
-          "name": "Cinturão da Força de Gigante da Tempestade"
+          "name": "Cinturão da Força do Gigante da Tempestade"
         }
       }
     },
@@ -1615,7 +1615,7 @@
     },
     "Hempen Rope (50 ft.)": {
       "name": "Corda de cânhamo (25m)",
-      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força ND 17.</p>",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força CD 17.</p>",
       "activities": {
         "Burst": {
           "name": "Romper"
@@ -3414,7 +3414,7 @@
     },
     "Silk Rope (50 ft.)": {
       "name": "Corda de Seda (15 m)",
-      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força ND 17.</p>",
+      "description": "<p>Corda, feita de cânhamo ou seda, tem 2 pontos de vida e pode ser arrebentada com um teste de Força CD 17.</p>",
       "activities": {
         "Burst": {
           "name": "Romper"
