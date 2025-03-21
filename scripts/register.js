@@ -92,6 +92,8 @@ function setEncumbranceData() {
   game.settings.set("dnd5e", "metricLengthUnits", convert);
   game.settings.set("dnd5e", "metricVolumeUnits", convert);
   game.settings.set("dnd5e", "rulesVersion", "legacy");
+  game.settings.set("core", "chatBubblesPan", false);
+  game.settings.set("core", "leftClickRelease", true);
   if (game.user.role === 4) {
     game.settings.set("dnd5e", "packSourceConfiguration", {
       "dnd5e.classfeatures": false,
